@@ -1,0 +1,31 @@
+* *Tasks*
+** Talk for Gelnda about ORA number
+	[[message://%3cdcb270ea86c642469c283d779debfce0@RUPW-EXCHMAIL02.rush.edu%3E][ORA Number Requirement for IACUC]]
+*** Jeffo Oswald told me this was only for new applications
+* *Ticklers*
+** Diabetes grant?
+
+[[message://%3cf6ca5f0c50fb4b34b1de0f7d82738a80@RUDW-EXCHMAIL01.rush.edu%3E][Diabetes grant?]]
+* *Meetings*
+** FW: Foreign Influence Training ; Location: Cohn Auditorium <2019-06-25 Tue 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   47D9BF1B-858E-4189-8CF9-096807183490
+:ID:       839F757B-37F4-41F2-BBD7-08D42403E2D8
+:END:
+:LOGBOOK:
+- Note taken on [2019-06-25 Tue 16:59] \\
+  What I took away from this was that if you deal with anyone outside of the US, you have to declare it as a potential conflict of interest to Rush.  It may not ultimately be determined to be one.  In fact, probably not.  But they want it all reported and they will make the decision. 
+  
+  As usual, physiology had a vocal presence at the meeting.  Eduardo didn't like it and, of course, Tom DeCoursey really didn't like it.  Deri and Joesfina were there.
+  
+  Adam Wilson sat next to me.  Chris Ferrigno was there.  Ed Barker was there.
+:END:
+* Get back to Jane on this problem with the AHA grant
+** message://%3CBN6PR03MB2964F1F816424D274A1E94F183530@BN6PR03MB2964.namprd03.prod.outlook.com%3E
+* DONE [[message://%3cMWHPR08MB2816578CCB999376C804B9A2A1FD0@MWHPR08MB2816.namprd08.prod.outlook.com%3E][Get back to Laila on this]]
+* DONE [#A] [[message://%3c1523397692566.13441@rush.edu%3E][Add James Kelley]]
+* DONE [#B] [[message://%3cCY4PR08MB246960A0CF88E1C802D3B603A1F50@CY4PR08MB2469.namprd08.prod.outlook.com%3E][Talk to Glenda about this grant budget]]
+   [2018-10-24 Wed]
+* [[message://%3cMWHPR08MB2479DD2966441F4B6BB83443A1F30@MWHPR08MB2479.namprd08.prod.outlook.com%3E][Forward grant amendment to James Kelley when you get it]]
+    [2018-10-30 Tue]
+* [[message://%3cf7e8476fde884a1382b03e35606166e1@RUDW-EXCHMAIL01.rush.edu%3E][Funding Opportunity Database - Pivot]]

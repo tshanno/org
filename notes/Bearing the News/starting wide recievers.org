@@ -1,0 +1,23 @@
+#+BEGIN_LaTeX latex
+  \textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-rookies-wide-receivers-brad-biggs-20180509-story.html}{answers your questions}:
+
+  \begin{quote}
+    ``Who do you project to be the Bears’ starting three receivers Week 1 vs. Green Bay? Personally, I see \textbf{Allen Robinson} and \textbf{Kevin White} starting on the outside, \textbf{Anthony Miller} in the slot and a
+  separate package designed for \textbf{Taylor Gabriel}. — @jjlaplanteeee
+
+  ``Provided he is healthy, and there is no reason to believe he will not be, Robinson will be starting. After that, the Bears have a whole lot of time to sort through their options at the position. Gabriel’s four-year
+  contract is for \$26 million with \$14 million guaranteed, and to me that means a greater role than being a gadget player or having a separate package. To me, that kind of money means he has a big role in the
+  scheme. I think Gabriel will be able to play the slot and inside and Miller will have a chance to work into the mix as well. Let’s see how things come together over the summer.''
+
+  \end{quote}
+
+  First I agree with Biggs about Gabriel.  There's too much money involved here.  He's going to be the slot receiver entering training camp.
+
+  Second I note that Biggs tactfully didn't address the assertion that White will start.  We'd all like to see this happen.  He's big and he's ideally suited to a role on the outside opposite Robinson.  But my advice is to not hold your breath.
+
+  The reports indicating that White is working hard in the offseason are encouraging but the truth is that White didn't look good in training camp last year even before he was injured.  The Bears aren't counting on him for anything at this point.
+
+  Lastly, the fan has a point about Miller starting in the slot.  Miller isn't very big at 5'11'' and I'm not a huge fan small receivers on the outside.  I like what the Packers did in the offseason, drafting a group of trees to set up mismatches against smaller cornerbacks, a lot better.
+
+  Having said that, \textbf{Antonio Brown} is 5'10''. So it isn't like Miller can't start and do a good job on the outside or like he can't be schemed to play to his strengths to excel.  It will be interesting to see how he does.
+#+END_LaTeX

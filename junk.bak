@@ -1,0 +1,568 @@
+
+* 2019
+** 2019-04 April
+*** 2019-04-04 Thursday
+**** [[~/Library/Mobile Documents/com~apple~Preview/Documents/launikonis18_jgp_150-95–110.pdf][launikonis18_jgp_150-95–110.pdf]]
+Entered on [2019-04-04 Thu 10:46]
+***** Abstract:  The complex membrane structure of the tubular system (t-system) in skeletal muscle fibers is open to the extra- cellular environment, which prevents measurements of H+ movement across its interface with the cytoplasm by conventional methods. Consequently, little is known about the t-system’s role in the regulation of cytoplasmic pH, which is different from extracellular pH. Here we describe a novel approach to measure H+-flux measure- ments across the t-system of fast-twitch fibers under different conditions. The approach involves loading the t-system of intact rat fast-twitch fibers with a strong pH buffer (20 mM HEPES) and pH-sensitive fluorescent probe (10 mM HPTS) before the t-system is sealed off. The pH changes in the t-system are then tracked by confocal microscopy after rapid changes in cytoplasmic ionic conditions. T-system sealing is achieved by removing the sarcolemma by microdissection (mechanical skinning), which causes the tubules to pinch off and seal tight. After this procedure, the t-system repolarizes to physiological levels and can be electrically stimulated when placed in K+-based solutions of cytosolic-like ionic composition. Using this approach, we show that the t-system of fast- twitch skeletal fibers displays amiloride-sensitive Na+/H+ exchange (NHE), which decreases markedly at alkaline cytosolic pH and has properties similar to that in mammalian cardiac myocytes. We observed mean values for NHE density and proton permeability coefficient of 339 pmol/m2 of t-system membrane and 158 μm/s, respec- tively. We conclude that the cytosolic pH in intact resting muscle can be quantitatively explained with respect to extracellular pH by assuming that these values apply to the t-system membrane and the sarcolemma.
+***** References to look up:
+****** Aronson, P.S. 1985. Kinetic properties of the plasma membrane
+Na+-H+ exchanger. Annu. Rev. Physiol. 47:545–560. https://doi
+.org/10.1146/annurev.ph.47.030185.002553 - proposed a modifier site which would reduce activty of Na/H at higher cytosolic pH.
+****** Carter, N.W., F.C. Rector Jr., D.S. Campion, and D.W. Seldin. 1967.
+Measurement of intracellular pH of skeletal muscle with pH- sensitive glass microelectrodes. J. Clin. Invest. 46:920–933. https ://doi.org/10.1172/JCI105598 - accidentally inhibited the Na/H with castor oil and found that the protons were distributed according to their chemical equilibrium - indicates other mechansms are probably secondary to the Na/H in setting the cytosolic pH value.
+****** Cha, C.Y., C. Oka, Y.E. Earm, S. Wakabayashi, and A. Noma. 2009. A model of Na+/H+ exchanger and its central role in regulation of pH and Na+ in cardiac myocytes. Biophys. J. 97:2674–2683. https ://doi.org/10.1016/j.bpj.2009.08.053
+******* "The eight-state ping-pong-type NHE model devel- oped by Cha et al. (2009) to fit a variety of NHE ex- perimental data in cardiac myocytes also fitted the predicted pH-dependence of the NHE-system activity in skeletal muscle remarkably well (Fig. 9 C)."
+******* the proton dissociation constant on the modifier component for skeletal muscle was, however, only half that used for cardiac myocytes (14.8 vs. 30.3 nM). The NHE model of Cha et al. (2009) was adopted for the quantitative description of NHE activity under different cytosolic and luminal t-system conditions with respect to [Na+] and pH. A nominal factor f was introduced to adjust the exchanger’s turnover rate at different tem- peratures and different levels of phosphorylation.
+****** it is known that hormones can alter the phos- phorylation state, which in turn modulates the transport activity of the NHE1 exchangers (Putney et al., 2002), and that NHE1 exchangers can be translocated to the plasma membrane (Lawrence et al., 2010)."
+******* Putney, L.K., S.P. Denker, and D.L. Barber. 2002. The changing face of the Na+/H+ exchanger, NHE1: Structure, regulation, and cellular actions. Annu. Rev. Pharmacol. Toxicol. 42:527–552. https ://doi.org/10.1146/annurev.pharmtox.42.092001.143801
+******* Lawrence, S.P., G.D. Holman, and F. Koumanov. 2010. Translocation of the Na+/H+ exchanger 1 (NHE1) in cardiomyocyte responses to insulin and energy-status signalling. Biochem. J. 432:515–523. https://doi.org/10.1042/BJ20100717
+****** "The mean predicted NHE rate of proton removal across the t-system membrane of rat fibers at pHcyto 6.8 and 37°C (Eq. 12) is 161 nmol/m2/s. Assuming that this rate applies to the whole rat fiber surface (1,300 cm2/g; Clausen and Hansen, 1974), this translates to
+∼1.26 mmol protons/kg/min. Because the proton ef- flux in muscle during exercise in rats in vivo is ∼6 times greater (7.6 mmol/min/kg; Kemp et al., 1992), it would be interesting to find out in future studies whether the t-system NHE transport activity is up-regulated by ex- ercise by altering the phosphorylation state of the ex- changer (Putney et al., 2002) and/or by translocation of new exchanger molecules (Lawrence et al., 2010) to the t-system membrane." - Kemp, G.J., C.H. Thompson, and G.K. Radda. 1992. Proton efflux from rat skeletal muscle in vivo: Changes in hypertension. Clin. Sci. 82:489–491. https://doi.org/10.1042/cs0820489 [[http://www.clinsci.org/content/82/5/489.full-text.pdf][Proton efflux from rat skeletal muscle in vivo: changes in hypertension | Clinical Science]]
+**** [[~/Library/Mobile Documents/com~apple~Preview/Documents/allen04_Clinical_and_Experimental_Pharmacology_and_Physiology_31-485–493.pdf][allen04_Clinical_and_Experimental_Pharmacology_and_Physiology_31-485–493.pdf]]
+Entered on [2019-04-04 Thu 13:47]
+  
+  [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/allen04_Clinical_and_Experimental_Pharmacology_and_Physiology_31-485%E2%80%93493.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/allen04_Clinical_and_Experimental_Pharmacology_and_Physiology_31-485–493.pdf]]
+***** "Since the pioneering research of AV Hill, the accumulation of intracellular lactic acid has been a dominant theory of muscle fatigue."  Hill AV, Kupalov P. Anaerobic and aerobic activity in isolated muscle. Proc. R. Soc. Lond. Series B 1929; 105: 313–22.
+***** "Lactic acid accumulates in many intense fatiguing regi- mens and can lead to an intracellular acidosis of approximately 0.5 pH units. There are two major lines of evidence that have been used to link this decline of intracellular pH to the contractile dysfunction in fatigue. First, studies on human muscle fatigue of rapid onset have often shown a good temporal correlation between the decline of intracellular muscle pH and the reduction of force or power production. Second, studies on skinned skeletal muscle fibres have shown that acidification reduces the isometric force by a direct effect on the isolated myofibrillar proteins."  Fabiato A, Fabiato F. Effects of pH on the myofilaments and the sarcoplasmic reticulum of skinned cells from cardiac and skeletal muscles. J. Physiol. 1978; 276: 233–55.
+***** "We therefore measured the intracellular pH in our mouse single fibre model of fatigue and found, to our initial surprise, that there was only a small acidosis of approximately 0.06 pH units (Fig. 1a). Later, we showed in the same preparation that if the duty cycle (the fraction of time the fibre is stimulated at 100 Hz) was increased, the muscles fatigued more rapidly and the acidosis was greater.5 We also found that blocking the lactate transporter with cinnamate substantially increased the magnitude of the resulting acidosis.6"
+****** Chin ER, Allen DG. The contribution of pH-dependent mechanisms to fatigue at different intensities in mammalian single muscle fibres. J. Physiol. 1998; 512: 831–40.
+****** Westerblad H, Allen DG. Changes of intracellular pH due to repetitive stimulation of single fibres from mouse skeletal muscle. J. Physiol. 1992; 449: 49–71.
+*** 2019-04-05 Friday
+
+
+*** 2019-04-09 Tuesday
+**** Pre-clerkship meeting
+***** Complex cases review 
+****** There was a recommendation in student comments that all students take the exam at the same time.  Fear of cheating was mentioned.
+****** Students didn't like the online leader session.
+****** There may have been a problem with EBM.  Students felt that some of the material was taught in Hem/Onc not Complex cases.
+***** Heme/Onc didn't get done.
+
+Entered on [2019-04-09 Tue 11:58]
+  
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/CCE.org::**Meetings*][*Meetings*]]
+*** 2019-04-16 Tuesday
+**** Lots of video making
+:PROPERTIES:
+:SYNCID:   F77FC921-B97D-4CE5-A294-8134DA8F58EC
+:END:
+***** Re-recorded part 2 of osteoporosis physiology review and uploaded to youtube
+***** Cut the first slide (office hours, etc... had changed) from osteoporosis part 1 and uploaded to youtube.
+***** Cut the first slide from muscular dystrophy part 1 and re-uploaded
+***** Cut the first slide from myasthenia gravis part 1 and re-uploaded
+***** Uploaded all corrected PowerPoints and video links to Entrada.  Muscular dystrophys stuff is scheduled for release Thursday after the session.  All else immediately released.
+***** Also added the second part of the R1 Introduction to the Respiratory System, exported from iMovie, and uploaded to youtube.  this is a new, longer video with an "Intermission" slide half way through rather than two seperate videos.
+Entered on [2019-04-16 Tue 11:40]
+  
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/notes/video%20links%20for%20curriculum.org::*Muscular%20Dystrophy%20Physiology%20Review%20Part%201%202019-04-16:%20https://youtu.be/u-KdQDe1ZMc%20(12:38)][Muscular Dystrophy Physiology Review Part 1 2019-04-16: https://youtu.be/u-KdQDe1ZMc (12:38)]]
+
+*** 2019-04-21 Sunday
+**** Easter Sunday:
+:PROPERTIES:
+:SYNCID:   EABDD297-0FB6-4062-9170-1DCE43CBE456
+:END:
+Entered on [2019-04-21 Sun 09:01]
+***** Go to a different mass next year unless they have changed the times.  See if you can find something earlier.  People were standing at 7:30 and I had to par at the high school.    See if you can find an earlier mass somewhere.
+***** Mom cancelled the Easter egg hunt.  Greg and his family weren't going to make it until late and they decided it wasn't worth it.
+***** Melissa announced that she was pregnant last night.  We don't know if they're getting married.  She didn't look like she was feeling well.  Hopefully all is OK.  
+
+She had already told me and Mom and Dad.  Obviously the immediate family knew.  Even given that, I didn't think there was a great deal of surprise and I wondered how many other people knew.
+
+**** DONE Dave Hyde at the Sun-Sentinel [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-grier-20190420-story.html][comments on something that I think has had us all a bit puzzled]].
+
+:PROPERTIES:
+:SYNCID:   52F6A72D-4E9C-46A1-B5F0-D3E31E5D14A4
+:END:
+
+"By far, the most common question about the Dolphins after the rhetorical tank-of-no-tank (seriously?) is this: Why was Chris Grier promoted to king-of-his-world powers when his drafts seem mediocre the past three years?"
+
+I think the answer that you;ll get from most fans is that its because Mike Tannenbaum was defacto general manager and Adam Gase had too much influence over personnel.  And they'd have a point.  But only to an extent.
+
+I have little trouble that Tannenbaum and Gase had strong opinions about who the first and second round picks should be.  But after that, more and more it becomes scouts work.  And that's Chris Grier's domain.
+
+So how has Grier done with those crucial mid- and late-round picks?  Hard to say.  He's only presided over 3 drafts but let's take a look.
+
+2016:
+3rd round:  Kenyan Drake
+3rd round:  Leonte Carroo
+6th round:  Jakeem Grant
+6th round:  Jordan Lucas
+7th round:  Brandon Doughty
+7th round:  Thomas Duarte
+
+This was, indeed, not great.  Drake has been a solid contributor but they needed him to develop into the main running back.  He had the opportunity last year but it seemed that no one associated with the team was beating the drum to put him in that position, reportedly due to some maturity issues.  Carroo has been waived after what was a less than productive career but Grant was a hit.  I think a good draft would have had at least a solid contributor in at least one of those last three names.
+
+2017:
+3rd round:  Cordrea Tankersly
+5th round:  Isaac Asiata
+5th round:  David Godchaux
+6th round:  Vincent Taylor
+7th round:  Isaiah Ford
+
+Really hard to tell only two years out from this draft.  Tankersly has been a disappointment when called upon to play.  I'd call both Godchaux and Taylor hits as they would both be solid members of the rotation on the defensive line this year without the scheme change.  It wouldn't have been a good defensive line but they're still both starters.  
+
+A lot will depend on how Asiata turns out.  At the moment, he hasn't impressed anyone in limited exposure but he'll likely get his chance to compete to start this year.  
+
+2018:
+3rd round:  Jerome Baker
+4th round:  Durham Smythe
+6th round:  Kalen Ballage
+6th round:  Cornell Armstrong
+7th round:  Quentin Poling
+7th round:  Jason Sanders
+
+Again, its still early but already pretty good.  Baker and Sanders are already solid hits and Ballage shows some signs of developing into one. It's discouraging how little the others have contributed but I think its hard to ask for more than three good hits out of six in these rounds.
+
+My conclusion is that Hyde's characterization of Grier isn't unfair.  But I also think the fans have a point.  
+
+To have really called those picks excellent, I would have liked to have seen just one more good hit in each of those years above.  But its fair to say that if you give Grier a free hand on those early round picks, his record in the later round should give fans some signs of hope.
+
+Entered on [2019-04-21 Sun 09:45]
+
+*** DONE Josh Rosen trade.
+:PROPERTIES:
+:SYNCID:   91AA3656-7794-47E0-868A-732005D4A246
+:END:
+
+#+BEGIN_EXPORT latex
+Omar Kelly at the Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-chris-grier-20190426-story.html}{criticizes the Dolphins trade for new Dolphins quarterback Josh Rosen}:
+
+\begin{quote}
+  ``[T]he Cardinals fleeced the Dolphins for a quarterback nobody else in the NFL seemingly wanted.''
+
+  ``Despite having no other bidders for Rosen’s services, the Dolphins not only sent Arizona a second-round pick for the UCLA product. They also sweetened the deal by trading away a 2020 fifth-round pick.''
+\end{quote}
+
+That's not the whole story by a long shot.  Any fair evaluation of this trade has to include the previous exchange where the Dolphins traded back from the 48th overall pick in the second round to the 62nd.  Here's how the trade breaks down assuming, as is the common wisdom, that future picks are worth a pick in the current year minus 1 round:
+
+\begin{tabular}{lllll}
+  \hline
+  Trade &Dolphins give &2019 equivalent &Dolphins get &2019 equivalent\\\hline
+  Dolphins trade back with Saints from 48 overall to 62 overall &second rounder & &second rounder &\\
+        &fourth rounder &&second rounder (2020) &third rounder\\
+  &&sixth rounder &\\
+  Dolphins trade 62 overall to Cardinals for Josh Rosen &second rounder & &Josh Rosen &\\
+        &fifth rounder (2020) &sixth rounder &&\\\hline
+\end{tabular}
+  Add all of that up and here's what that means.  After all is said and sifted, the Dolphins got a top ten pick from 2018 and a potential starter for trading back to the third round and giving a fourth round pick.  Can anyone honestly tell me that if the Dolphins had made that trade while sitting at 48 overall that they shouldn't have taken it?
+
+Ladies and gentlemen, that is a deal.  The Dolphins not only didn't get fleeced, they took the Cardinals to the cleaners.
+
+  The Dolphins did the right thing here.  They waited the Cardinals out and bargained hard and got their guy.  And they did it in such a way that if Rosen doesn't work out, they can let him go and figure that they didn't lose that much.  So those who want a quarterback in 2020 aren't out anything by this deal.
+
+  The only real question is whether one year will be enough to properly evaluate Rosen.  It certainly will take longer than that to fully develop him.  But it says here that if the Dolphins know what they're doing, they'll at least have a good idea of what they have by the time the 2020 draft rolls around.
+
+  And from what I can tell so far, they do know what they're doing.
+
+#+END_EXPORT
+Entered on [2019-04-27 Sat 15:09]
+
+*** 2019-04-22 Monday
+**** Marc Sessler at NFL.com [[http://www.nfl.com/news/story/0ap3000001027184/article/nfl-draft-ranking-every-quarterback-class-of-this-millennium?campaign=Twitter_atn][ranks the quarterback draft classes of the millennium]].  The 2017 class came in at number 7 and, as all three quarterbacks have become Pro Bowlers with in just two years, it arguably should have been higher.  
+:PROPERTIES:
+:SYNCID:   70723037-73F6-4E7B-A84B-D8FF01A72CC0
+:END:
+
+Why is that significant to Dolphins fans?  Because that class [[https://www.bleachernation.com/bears/2019/01/28/pro-bowl-qbs-trubisky-mahomes-and-watson-love-proving-the-experts-wrong/][was denigrated]] at least as much as the 2019 class is currently being criticized.  It caused both DeShaun Watson and reigning MVP Patrick Mahommes to fall into a range where teams that know what they're doing could trade up and get them while teams that don't know what they're doing took a pass.
+
+It just goes to show how little the prevailing media opinion should influence fans' attitudes toward the draft.  If you are praying that the Dolphins don't take a quarterback because "all of the potential first rounders would have ranked behind all of last year's first rounders", you should remember: it's all been said before.
+
+Entered on [2019-04-22 Mon 08:41]
+
+*** 2019-04-23 Tuesday
+**** Alistair Fleming (M2) died yesterday.  No indication about cause of death.  M2s are not on campus as they are taking time for Step 1.  Too bad.  I remember him as being a nice guy.
+Entered on [2019-04-23 Tue 09:29]
+
+*** 2019-04-24 Wednesday
+**** CCE I&I Planning Meetings (Bob, Tom & Aimee); Location: Large conference room <2019-04-24 Wed 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   8BCD37E6-A296-4BB2-A30B-6DBC1D79A6C7
+:END:
+
+***** [[https://airtable.com/shrxAMPkttn4uhYYF/tblPzjhutoiabRWhP?blocks=hide][I&I agenda in Airtable]]
+***** Mark's proposal
+****** DONE FU Princess on the status of Mark's proposal.
+:PROPERTIES:
+:SYNCID:   F26DA484-1B73-43E1-A697-A49291A1C3E3
+:END:
+***** Elections
+***** Group course review process
+***** Course reviews for three courses
+****** 563 F2F
+****** 568 Hem Onc
+****** 569 Consolidated cases
+***** SPE - electronic
+***** Core Grading Policy
+***** Core course reviews
+****** Pediatrics
+****** OB/Gyny
+***** Course evaluation survey monkey
+****** DONE [#A] Add this to WG as well.
+***** Should we have a second May meeting?
+****** Second CCE I&I meeting 12-1 on May 29. <2019-05-29 Wed>
+***** FU:  Aimee will be out of town for I&I and Beth won't be there.  Aimee will find someone from Core to sub in.
+SCHEDULED: <2019-05-17 Fri>
+
+*** 2019-04-26 Friday
+**** * NFL Round 1 Wrapup: QBs Kyler Murray, Daniel Jones go in top-10
+:PROPERTIES:
+:SYNCID:   E5C9A22F-D193-476A-8CF0-45F44BB82D54
+:END:
+
+#+BEGIN_EXPORT latex
+Scott Bordow at the Arizona Republic \href{https://theathletic.com/945667/2019/04/25/2019-nfl-draft-live-tracker-dane-brugler/}}reviews the pick of quarterback Kyler Murray} for The Athletic:
+
+\begin{quote}
+  Cardinals general manager Steve Keim said he didn’t want to take Kyler Murray after trading up to get Josh Rosen in the first round last year but he was won over by Murray’s talent. This is a gamble for Arizona. Few teams had Murray as the No. 1 player in the draft and it’s fair to wonder if the Cardinals would even have considered Murray if they hired anyone other than Kliff Kingsbury as coach. This will either work out spectacularly for Arizona or cost Keim and Kingsbury their jobs some day.
+\end{quote}
+
+My guess is that Bordow is right.  The Cardinals don't take Murray if anyone other than Kingsbury is the head coach.  The reason is simple.  Murray fits what the Cardinals want to do out of the box whereas any other coach outside of Seattle would have had to change thier entire offense to make Murray work.  Murray's size makes him less than suitable for an offense that relies on sitting in the pocket and finding the open reciever.
+
+I tried to figure out wher the next likely landing place for Murray was if he got by the Cardinals.  My guess is that it would have been a long way down the list.  Murray not only landed in the perfect spot to take advantage of his talents.  He may have landed in the only spot.
+#+END_EXPORT
+
+Entered on [2019-04-26 Fri 12:46]
+
+
+*** 2019-04-27 Saturday
+**** Prep for the draft
+SCHEDULED: <2020-04-15 Wed>
+Wish I had prepared a list of team needs before this draft.  It would have made anticipating picks more fun on Slack.  Do this next year.
+**** DONE Josh Rosen trade.
+:PROPERTIES:
+:SYNCID:   91AA3656-7794-47E0-868A-732005D4A246
+:END:
+
+#+BEGIN_EXPORT latex
+Omar Kelly at the Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-chris-grier-20190426-story.html}{criticizes the Dolphins trade for new Dolphins quarterback Josh Rosen}:
+
+\begin{quote}
+  ``[T]he Cardinals fleeced the Dolphins for a quarterback nobody else in the NFL seemingly wanted.''
+
+  ``Despite having no other bidders for Rosen’s services, the Dolphins not only sent Arizona a second-round pick for the UCLA product. They also sweetened the deal by trading away a 2020 fifth-round pick.''
+\end{quote}
+
+That's not the whole story by a long shot.  Any fair evaluation of this trade has to include the previous exchange where the Dolphins traded back from the 48th overall pick in the second round to the 62nd.  Here's how the trade breaks down assuming, as is the common wisdom, that future picks are worth a pick in the current year minus 1 round:
+
+\begin{tabular}{lllll}
+  \hline
+  Trade &Dolphins give &2019 equivalent &Dolphins get &2019 equivalent\\\hline
+  Dolphins trade back with Saints from 48 overall to 62 overall &second rounder & &second rounder &\\
+        &fourth rounder &&second rounder (2020) &third rounder\\
+  &&sixth rounder &\\
+  Dolphins trade 62 overall to Cardinals for Josh Rosen &second rounder & &Josh Rosen &\\
+        &fifth rounder (2020) &sixth rounder &&\\\hline
+\end{tabular}
+  Add all of that up and here's what that means.  After all is said and sifted, the Dolphins got a top ten pick from 2018 and a potential starter for trading back to the third round and giving a fourth round pick.  Can anyone honestly tell me that if the Dolphins had made that trade while sitting at 48 overall that they shouldn't have taken it?
+
+Ladies and gentlemen, that is a deal.  The Dolphins not only didn't get fleeced, they took the Cardinals to the cleaners.
+
+  The Dolphins did the right thing here.  They waited the Cardinals out and bargained hard and got their guy.  And they did it in such a way that if Rosen doesn't work out, they can let him go and figure that they didn't lose that much.  So those who want a quarterback in 2020 aren't out anything by this deal.
+
+  The only real question is whether one year will be enough to properly evaluate Rosen.  It certainly will take longer than that to fully develop him.  But it says here that if the Dolphins know what they're doing, they'll at least have a good idea of what they have by the time the 2020 draft rolls around.
+
+  And from what I can tell so far, they do know what they're doing.
+
+#+END_EXPORT
+Entered on [2019-04-27 Sat 15:09]
+
+
+
+*** 2019-04-28 Sunday
+**** DONE David Montgomery must block.
+:PROPERTIES:
+:SYNCID:   5DF0D24D-01C8-4671-A158-3041B101D9C0
+:END:
+
+#+BEGIN_EXPORT latex
+The writers are the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-cb-chicago-bears-nfl-draft-picks-2019-story.html}{describe the new Bears runningback \textbf{David Montgomery}'s positive traits}:
+
+\begin{quote}
+  ``Montgomery is a well-rounded back who will contribute immediately and might even start the season opener.''
+  
+``Where to begin? On the field, Montgomery has great instincts, vision, balance and lateral agility. He’s a human pinball. He led the nation in forced missed tackles in each of the last two seasons, according to \textit{Pro Football Focus}.''  
+\end{quote}
+
+One thing you never hear about in these descriptions is the back's ability to block.  That's because they are rarely asked to do it in college.  But that will be the most important factor which determines whether MOntgomery will start right out of the gate.
+
+No one is going to put any runningback out there if they think he's going to get the quarterback killed.
+#+END_EXPORT
+Entered on [2019-04-28 Sun 04:39]
+*** 2019-04-29 Monday
+**** DONE [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-nfl-draft-winners-losers-espn-20190429-story.html][NFL draft winners and losers: Bears kickers, bachelorettes, Josh Rosen, ESPN, Mel Kiper Jr., Colts trolling Titans fans and more]]
+   :PROPERTIES:
+   :SYNCID:   55728FFC-EB77-4DC2-93C2-B599840C07F6
+   :END:
+
+#+BEGIN_EXPORT latex
+Phil Rosenthal and Tim Bannon at the Chicago Tribune \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-nfl-draft-winners-losers-espn-20190429-story.html}{cover the draft's winners and losers and don't while not being stupid about it}.  Dolphins fans will want to skip to the last few.
+
+In the mean time I'd like to add my own winner:  \href{https://en.wikipedia.org/wiki/Joel_Klatt}{Joe Klatt} at the NFL Network.  Klatt usually covers college football for FOX but he came on and did a great job during Day 2 of the draft breaking down the picks.  I spent most of Day 3 wishing he was still there unstead of \href{https://en.wikipedia.org/wiki/Peter_Schrager}{Peter Schrager}, who seemed to be there more for the entertainemnt value.
+
+#+END_EXPORT
+
+Entered on [2019-04-29 Mon 06:36]
+
+**** DONE [[https://chicago.suntimes.com/sports/mark-potash-analyzing-the-bears-2019-draft-class/][Mark Potash: Analyzing the Bears’ 2019 draft class | Chicago Sun-Times]]
+:PROPERTIES:
+:SYNCID:   4442EB6E-FF0C-437D-98E0-AD0D89927158
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Mark Potash} at the \textbf{Chicago Sun-Times}  \href{https://chicago.suntimes.com/sports/mark-potash-analyzing-the-bears-2019-draft-class/}{reviews the Bears 2019 NFL draft}:
+
+\begin{quote}
+In his fifth draft, general manager \textbf{Ryan Pace}:
+
+Didn’t change. He was aggressive as usual, but this time he’s playing from strength instead of weakness — fortifying a playoff team instead of building from the ground up. Even if you consider \textbf{Khalil Mack} and \textbf{Anthony Miller} part of this draft, Pace can’t afford to strike out after that, yet he took some chances on players with big upsides. It’s risky. But with this roster, Pace isn’t playing with scared money.
+\end{quote}
+
+As I do annually, I did a mock draft with reps from the other NFL teams for a \href{https://t.co/VWwtXBGEga}{podcast}.  I was on last, as the Bears didn't have a pick until the third round.  I thought it was ironic that I was on with the Saints rep who, as usual, didn't have a pick in the first round either.
+
+When Ryan Pace came from New Orleans one of the firs things I noticed was that the Saints were always extremely aggressive with the resources that they had available.  Pace has definitely been applying whatever he learned there.
+
+Like most Saints fans, I think we're going to have to get used to being chronically short on draft picks and cap space.  If it means being a consistent contender, I think I can live with it.
+
+Entered on [2019-04-29 Mon 06:57]
+
+#+END_EXPORT
+
+**** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-undrafted-rookies-20190427-story.html][These undrafted NFL players could make Miami Dolphins' roster - Sun Sentinel]]
+   :PROPERTIES:
+   :SYNCID:   0C064168-922C-436D-BAB5-2AE11A7D44DE
+   :END:
+
+#+BEGIN_EXPORT latex
+Safid Deen at the Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-undrafted-rookies-20190427-story.html}{lists the known undrafted free agent signings} for the Dolphins.
+
+I'm not going to go down this list and pretend I know anything about these guys becasue for the most part I don't.  But I will tell you that whne they hit the field this summer, you might want to pay attention.
+
+The Dolphins have a lot of roster openings and a lot of holes to fill.  Some of them are gong to be filled by these signings.  
+
+And I'll add this: if you want to evaluate Chris Grier as a GM, paying attention to how many of these undrafted free agents develop is one good way to do it.  Good teams with good front offices and coaching staffs usually find a way to develop a few of these kinds of players into good, solid starters.  And these guys are going to have more than the usual opportunity to show what they can do.
+
+#+END_EXPORT
+*** 2019-04-30 Tuesday
+**** DONE [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-draft-observations-david-montgomery-20190429-story.html][5 observations about the Bears' draft, including David Montgomery's impact on Tarik Cohen, Riley Ridley's fit and the expanded kicker competition - Chicago Tribune]]
+:PROPERTIES:
+:SYNCID:   CB53EFA6-52CD-460B-9918-6F2BA85A21F7
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Rich Campbell} at the \textit{Chicago Tribune} quotes Bears head coach \textbf{Matt Nagy} as \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-draft-observations-david-montgomery-20190429-story.html}{he talks up newly drafted running back \textbf{David Montgomery}:
+
+\begin{quote}
+  ``'Every running back has his own strength as far as what route he can run,' Nagy said Saturday, 'whether … he’s a bigger target or he’s super fast. Some running backs you can put them (as a wide receiver with an empty backfield) and they are better on shallow crosses or better with read routes, and it’s not a vertical route or a post route where they beat you with speed. They just have a good knack at that.
+
+``'It’s not always in an empty set. You (deploy) a guy out of the backfield, now (there are) mismatches, right? Is he against a safety or is it a linebacker? Are they playing base defense versus a guy we think we can get an advantage in the pass game? Great. Are they going to play nickel or dime and dare us to run the ball? Well, when you have guys that can play all three downs, it’s nice for the play-caller, and it’s nice for the offense.'''
+\end{quote}
+
+It's all great in theory.  But there's a legitimate question as to what kind of mismatch Montgomery will actually be out of the back field.  With a lack of straight line speed, one could argue that, even lined up in a base defense, linebackers might have little trouble keeping up with Montgomery or, for that matter, \textbf{Mike Davis}, the presumed RB2.
+
+Certainly defensive backs will have little trouble keeping up should defenses feel that they can get away with playing nickel against the run (as they frequently do nowadays).  In that respect, the lack of a blocking tight end who can also go out for the occasional pass route could also burn the Bears badly if \textbf{Adam Shaheen} doesn't develop this off season.  Campbell comments further on teh situation:
+
+\begin{quote}
+  ``[B]ecause they didn’t draft a tight end, let’s recognize the urgency for Shaheen to play up to his draft pedigree.
+
+``Remember, Pace drafted him 45th overall in 2017. That’s a huge investment, especially in a Division II player. For as much credit as the Bears deserve for developing their two fourth-rounders in that draft — \textbf{Eddie Jackson} and [\textbf{Tarik}] \textbf{Cohen} — Shaheen has lagged. He always was going to require seasoning for his blocking technique and route running, and missing 10 games last season was unfortunate. Now he’s a noteworthy wild card in the offense’s outlook this season.
+\end{quote}
+
+Arguably Shaheen's play will be at least as big of a factor determining whether defenses feel forced to play in one formation or another depending upon his ability to both block and run pass routes.  Right now I would say he's not a factor in that decision at all.
+
+In any case, unless Montgomery's shiftiness and ability to break tackles actually results in big plays despite his lack of speed, the Bears could be looking at a situation where they have a couple of work horse backs who can get them yardage on the ground but where their only true mismatch out of the back field will once again be Cohen.
+#+END_EXPORT
+
+Entered on [2019-04-30 Tue 04:40]
+**** DONE [[https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html][Hyde10: Arizona's mess, Rosen's big weekend — 10 final thoughts on NFL draft - Sun Sentinel]]
+:PROPERTIES:
+:SYNCID:   AD8B7D3B-7C9B-4AF8-B383-619EF1566097
+:END:
+#+BEGIN_EXPORT latex
+Dave Hyde at the Sun-Sentinel \href{https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html}{gives some final thoughts on the Dolphins draft}:
+
+\begin{quote}
+  "The Dolphins trade for Josh Rosen was helped out by the awful management in Arizona. If Cardinals GM Steve Keim knew he was trading Rosen, why wait until after picking Kyler Murray? Every team was down the road to their top picks at that point. If he started trade talk a month before the draft, then perhaps the New York Giants, Washington Redskins, Dolphins and others would be involved. I was told before the draft San Diego and New England were interested, too. Instead, the Giants had decided on Daniel Jones at No. 6, Washington hoped they’d get Dwayne Haskins at No. 15 and any trade market for a top pick dried up. The Dolphins effectively got Rosen at a cheap price and for Arizona’s selections of Massachusetts receiver Andy Isabella (62nd pick) and Alabama safety Deionte Thompson underlines what a good deal this is for the Dolphins."
+\end{quote}
+
+This occurred to me as well.  
+
+The best explanation I could come up with was that the Cardinals were worried that is they tipped their hand on Murray before the draft, they might miss out on a "Godfather offer" for the first overall pick that they might have considered.  It was, for instance, rumored that Oakland liked Murray a lot.  Had they offered say, three first round picks to move up into the first position, I assume the Cardinals would have had to consider it.
+
+There is also the possibility that the Cardinals were in secret negotiations already with Murray's agent.  Once you commit to Murray, it gives them significant leverage.  I like this explanation less in the age of the rookie salary cap.
+
+In any case, Hyde as a point.  At bare minimum if you don't trade Murray before the draft, you trade him as soon as possible after you make the pick before other teams know if they are going to have the opportunity to get their guy.  As it turned out, the top end of the quarterback market was softer than expected with first round talent Drew Lock falling into the second round.  That meant everybody was happy with where they ended up and the Cardinals were stuck negotiating with the Dolphins.
+
+#+END_EXPORT
+
+
+
+Entered on [2019-04-30 Tue 05:29]
+**** DONE [[https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html][Hyde10: Arizona's mess, Rosen's big weekend — 10 final thoughts on NFL draft - Sun Sentinel]]
+:PROPERTIES:
+:SYNCID:   1A451DF3-B49C-4163-BD10-1B4AACEFFE46
+:END:
+
+#+BEGIN_EXPORT latex
+Hyde \href{https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html}{also noted how well the Do;phins are apparently set up for the 202 NFL draft}:
+
+\begin{quote}
+The Dolphins pumped a lot of resources into the 2020 draft this offseason and now have 12 draft picks.
+
+1 — 1st round
+
+2 — 2nd round (theirs and New Orleans)
+
+2 — 3rd round (theirs and Ja’Wuan James compensatory pick)
+
+2 — 4th round (theirs and Tennessee’s from Ryan Tannehill trade)
+
+2 — 5th round (theirs and Cam Wake compensatory pick)
+
+2 — 6th round (theirs and Robert Quinn trade)
+
+2 — 7th round (Kansas City from Jordan Lucas trade)
+\end{quote}
+
+I noted the optimism with which Hyde anticipated getting the compensatory picks for James and Wake.  In particular, I'm not convinced that losing James is going to bring a third round compensatory pick but let's assume that he will.
+
+The list highlights one of the changes I think we can anticipate in the new NFL labor contract as the old deal expires in 2 years.
+
+The compensatory pick system was set up to help ameliorate the damage done when a player leaves via free agency.  they weren't meant to completely compensate for the loss, only to make it less disastrous for a team when they lose a particularly valuable asset.  But the system has developed far beyond that now.
+
+The compensatory picks that teams get for getting a free agent go are so valuable that teams are often motivated to game the system by purposely letting the player go and taking the pick instead.  Consider the case of James.  Does anyone think there's any chance that James would have brought a third round pick in a trade before he became a free agent?  Wold anyone have given a fifth round pick for a 37 year old Cam Wake?
+
+The pick system is currently being used for a purpose that it was not intended for -i.e. actually rewarding a team for not signing a player in free agency.  That's something the NFLPA cannot let stand and, given the justice of their case, I have to believe that the league won't fight too hard against changing the system.
+#+END_EXPORT
+Entered on [2019-04-30 Tue 05:41]
+**** DONE [[https://profootballtalk.nbcsports.com/2019/04/28/jim-irsay-wants-the-draft-in-indianapolis/][Jim Irsay wants the draft in Indianapolis – ProFootballTalk]]  
+:PROPERTIES:
+:SYNCID:   E08BC9A4-1962-4FEC-92E8-049A9653F5DE
+:END:
+
+#+BEGIN_EXPORT latex
+Colts owner Jim Irsay \href{https://profootballtalk.nbcsports.com/2019/04/28/jim-irsay-wants-the-draft-in-indianapolis/}{says he wants the draft in Indianapolis}.
+
+Indianapolis would be a good spot except for one thing. It’s far enough north to make weather a problem. 
+
+When Radio City Music Hall left the draft four years ago, Chicago lobbied hard to be the new permanent home. But anyone who looked out the window at the heavy snow coming down in Saturday, the last day of the draft, had to agree that the the NFL made the right decision when they started rotating cities instead. 
+
+Indianapolis isn't that far south of Chicago.
+
+#+END_EXPORT
+
+Entered on [2019-04-30 Tue 08:48]
+******** 2019-05 May
+********* 2019-05-01 Wednesday
+********** DONE [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-david-montgomery-position-coach-20190430-story.html][Get to know Bears draft pick David Montgomery: A Q&A with Iowa State running backs coach Nate Scheelhaase - Chicago Tribune]]
+   :PROPERTIES:
+   :SYNCID:   55CEE8BF-72B5-4AAF-979E-CC55478E42B8
+   :END:
+
+#+BEGIN_EXPORT latex
+\textbf{Rich Campbell} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-david-montgomery-position-coach-20190430-story.html}{interviews Iowa State coach \textbf{Nate Scheelhaase}} on the characteristics of new Bears running back \textbf{David Montgomery}:
+
+\begin{quote}
+``He’s a really good inside-zone runner. He has a good feel, especially in the shotgun, of just how the zone moves and how things feel, which is probably why Coach [\textbf{Matt}] \textbf{Nagy} and Coach [\textbf{Mark}] \textbf{Helfrich} and those guys were really interested.
+
+``It was funny. There were a lot of teams interested in David, but the teams that seemed to be the most interested all came from that same tree. It was the Chiefs, Bears, Eagles, the Colts. Those coaches that came from that same tree, they have a bunch of gun runs that they run really well.''
+\end{quote}
+
+It's worth noting that the Bears were likely trading up to get ahead of the Bills, who were evidently looking for a running back and selected Florida Atlantic's \textbf{Devin Singletary} with the pick after Chicago's.  So there was likely something of a consensus amongst a lot of teams that he was the next best running back on the board.  Certainly the Bears suspected that the Bills would have taken him.
+
+This article is worth reading.  There was a lot of good information beyond the usual hype.
+#+END_EXPORT
+
+
+Entered on [2019-05-01 Wed 10:12]
+********** ** TODO [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-kicker-search-ryan-pace-matt-nagy-20190430-story.html][Bears' unorthodox kicker competition begins Friday with an emphasis on pressure: 'It’s as simple as that. Either you make it or you don’t.' - Chicago Tribune]]
+   :PROPERTIES:
+   :SYNCID:   5A452404-4A40-482C-BEBE-92C5CB32B1E5
+   :END:
+
+#+BEGIN_EXPORT latex
+If I read \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-david-montgomery-position-coach-20190430-story.html}{one more article about kickers} I'm going to be sick.  Man...🙄
+#+END_EXPORT
+
+Entered on [2019-05-01 Wed 10:14]
+********** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/xs-and-omar/116466423-132.html][X's and Omar: What are reasonable expectations for 2019 Dolphins season? - Sun Sentinel]]
+#+BEGIN_EXPORT latex
+Omar Kelly and Dave Hyde \href{https://www.sun-sentinel.com/sports/miami-dolphins/xs-and-omar/116466423-132.html}{discuss what they would need to see this year to be convinced that Josh Rosen is the quarterback of the future (at the 5:00 mark)}.
+
+Kelly's initial answer was ``7 wins''.  :eye roll:  Hyde's more reasonable response was ``You'll know it when you see it''.
+
+A couple things here:
+
+\begin{enumerate}
+\item In fairness, Kelly immediately started to back off his ridiculous response.  Seven wins on a team with more holes than answers is absurd.  But it does show you what his attitude towards this situation is.  Despite \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-kelly-column-20190430-story.html}{claiming otherwise}, he's determined not to like the Rosen experiment.
+
+  I'm not saying that I mind that.  Like every reporter, no matter who he is, Kelly is welcome to his opinion.  No reporters, no matter how hard they try, can completely suppress those opinions when they write their articles.  And Kelly isn't just acting as a beat reporter.  He's also a columnist where he is actually paid to express that opinion (whether beat reporters should also be allowed to be columnists is a topic for another day).
+
+  Nevertheless, this is something that needs to be born in mind when you read his articles.  They're going to be biased and an informed reader is going to have to compensate mentally for that.
+  
+\item Neither of these guys is right.  The truth is, with the Dolphins roster constructed the way it is, no one on the outside is really going to know whether Rosen is the answer.  It's not going to be a good year.  Peyton Manning won 1 game his rookie season.  I think we can all agree he wasn't a bad quarterback.
+
+  What people not directly associated with the team are going to have to do is have faith that the coaches know what they're dong and that they'll be able to properly evaluate Rosen from the inside.  They're the ones in the locker room.  They're watching the film.  They'll know how Rosen responds to coaching.  They'll know his strengths and weaknesses to some extent independent of the talent around him.
+
+  We'll be convinced that Rosen is the answer when we find out whether the Dolphins take a quarterback high in the 2020 draft.  Until then, keeping an open mind is really all you can do.
+\end{enumerate}
+#+END_EXPORT
+
+Entered on [2019-05-01 Wed 10:14]
+*** 2019-05-02 Thursday
+**** DONE [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-stephen-denmark-david-montgomery-biggs-20190501-story.html][Bears Q&A: What are the chances Ha Ha Clinton-Dix stays after this year? Which WRs won't make the 53-man roster? Does Robbie Gould have leverage to get traded? - Chicago Tribune]]
+
+#+BEGIN_EXPORT latex
+Biggs \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-stephen-denmark-david-montgomery-biggs-20190501-story.html}{continues with his answers}:
+
+\begin{quote}
+  ``The Bears are planning to sign 19 undrafted free agents. As you and others have documented, this has become an important part of the draft process as teams scramble and bid against one another to sign highly regarded prospects who slipped through the cracks. The draft was cut down to seven rounds in 1994. Do you think the NFL would consider adding more rounds given the importance of these undrafted players? — Tom S., Chicago
+
+``No. Adding an eighth round would only force teams to have to pay players more. Good teams do well with undrafted free agents (UDFAs) and bad teams struggle to find players who can stick. Plus, isn’t the final day of the draft long enough?''
+\end{quote}
+
+Yes, if you are a reporter.  Maybe not if you are a general manager.
+
+I actually didn't think this was a bad question (no surprise given that it was mine).  Wisconsin guard Beau Benzschawel \href{https://twitter.com/RapSheet/status/1122584978724982784}{had offers from 20 teams} before signing with the Lions.  It's very evident that teams are leaving good players on the board at the end of seven rounds.
+#+END_EXPORT
+
+Entered on [2019-05-02 Thu 09:56]
+*** 2019-05-02 Thursday
+**** DONE [[https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-stephen-denmark-david-montgomery-biggs-20190501-story.html][Bears Q&A: What are the chances Ha Ha Clinton-Dix stays after this year? Which WRs won't make the 53-man roster? Does Robbie Gould have leverage to get traded? - Chicago Tribune]]
+:PROPERTIES:
+:SYNCID:   80989139-0C51-45DE-8953-F446B7A0FE9A
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-stephen-denmark-david-montgomery-biggs-20190501-story.html}{answers your questions}:
+
+\begin{quote}
+  ``Does \textbf{Adam Shaheen} have a future with the Bears? Plagued by injuries first two seasons, I’m wondering if they’ll go in different direction, especially with capable free agents like the guy from Utah State. — @chuckietwoglove
+
+``I can tell you that when \textbf{Matt Nagy} was asked about Shaheen at the NFL owners meeting, he was very positive. There is no question durability has been an issue with Shaheen, and if he can stay on the field, the Bears believe he can really help the offense. Let’s tap the brakes on the idea he will be replaced from the get-go by \textbf{Dax Raymond}, the undrafted rookie from Utah State. The Bears like Raymond and believe he has a chance to stick, otherwise they would not have guaranteed him $45,000 ($15,000 signing bonus with \$30,000 base-salary guarantee). But 32 teams passed on Raymond in the draft. The Bears still have an investment of a draft pick, money and maybe most importantly time in Shaheen. They’re not cutting the cord on him now.''
+\end{quote}
+
+One of the bigger surprises of the Bears draft has to be that they didn't draft a tight end from what looked like a deep class in the middle rounds.  The Bears have evidently decided to roll with Shaheen.  Raymond will evidently compete to back him up with an unsigned free agent.
+
+Despite Nagy's comments, that second, inline tight end position has to be an area of mild concern.  Setting aside the fact that he can't stay healthy, Shaheen hasn't shown anything but potential, yet.
+#+END_EXPORT
+
+Entered on [2019-05-02 Thu 09:54]
+*** 2019-05-02 Thursday
+**** CCE I&I Planning; Large Conference Room <2019-05-02 Thu 10:30-11:30>
+:PROPERTIES:
+:SYNCID:   C13BB482-7562-461E-BCFB-6E121C17CEA9
+:END:
+
+***** Agendas [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/CCE.org::*CCE%20I&I%20Planning%20Meetings%20(Bob,%20Tom%20&%20Aimee);%20Location:%20Large%20conference%20room%20<2019-04-24%20Wed%2014:30-15:00>][CCE I&I Planning Meetings (Bob, Tom & Aimee); Location: Large conference room <2019-04-24 Wed 14:30-15:00>]]
+***** Idea for Automating the Group Review.
+***** Show you what we have for the Workload Audit to see if it is what you were looking for or if it needs to be in another format.
+***** Transitioning new Chair - what you would like to have prepared or complete? to name few.
+***** Talk to Beth about being CCE Chair
+SCHEDULED: <2019-05-20 Mon>
+***** Workload audit - can we do this at the same time as the first CD review?  Hell, is there a first CD review?
+**** Course Director's Meeting; Large Conference Room <2019-05-02 Thu 12:00-13:00>
+***** Write up procedure for CDs to go thorugh Workload data.
+***** Entrada: Suggest that button be added to add another document
+***** Entrada: Suggest that discusson board be added by default
+***** Entrada:  Bug where you can't post more than one link at a time

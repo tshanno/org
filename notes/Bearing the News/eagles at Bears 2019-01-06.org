@@ -1,0 +1,50 @@
+#+BEGIN_EXPORT latex
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item Looked to me like the Eagles thought they might be able to spread the Bears out and run up the middle.  It didn't work.
+\item What did work was the mid range passing game.  The Eagles burned the Bears passing over the middle and up the seam.
+\item On a related note, Zach Ertz might be the best tight end the Bears played all year.  It showed as he caused some trouble and had a good game.
+\item Alshon Jeffery had a good game as well.  He seemed like he wanted to show the Chicago crowd something.
+\item I thought the Eagles did a pretty good job of protecting Nick Foles all things considered.  As promised, Foles generally got the ball out early.
+\item When he didn't get the ball out early and when he threw deep he ran into the occasional problem.  Two interceptions in the first half kept the Bears in the game.
+\item Khalil Mack looked a step slow all night.  Either he wasn't feeling well or he didn't show up.  This reminded me of the Dolphins game.
+\item As expected, the Bears generally did a decent job against the run in this game.
+\item Some poor tackling in the fourth quarter reaered its ugly head and hurt the Bears as the game wound down.  Some of those guys might have been getting tired.
+\end{enumerate}
+\subsection*{Offense}
+
+\begin{enumerate}
+\item The Bears started with a few good runs but the Eagles defensive line toughened up and it was rough going from there on out.  Seemed like the Bears were trying a lot of trap blocks to take advantage of the Eagles aggressive, penetrating defensive line.
+\item It was a lot of dink and dunk out there for the Bears.  I understand the need to protect the ball when you have a good defense but I wonder if they are going too far.  I'm not sure you are going to beat really good teams without an aggressive offense very often.  And the Eagles are a good team.
+\item Still wondering why the Bears insist on playing Taquan Mizzell.
+\item What is the deal with Michael Bennett's shoulder pads?  They look like they should be on a 9 year old.
+\item Supposedly the Eagles defensive backs were all hurt and the position was a weakness.  They sure looked good to me.
+\item On a related note, nice adjustment by the Bears by picking on Avonte Maddox in the second half with some double moves and some other trickery.  He was very successful in the first half by being mighty aggressive.  The Bears turned it against him.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Al Michaels and Cris Collinsworth did a nice job as usual of pointing out the major points during the game.  Always enjoy listening to those guys.  Collinsworth is a reasonably good teacher and I always feel like I learn something.
+\item  Well, Cody Parkey finally killed them.
+  \begin{minipage}{1.0\linewidth}
+  Pat O'Donnell had a nice punt out of bounds that trapped the Eagles on the one yard line in the first quarter.  I've often wondered why more punters don't use the old ``coffin corner'' kick.
+\end{minipage}
+
+  \begin{minipage}{1.0\linewidth}
+Having said that, a short kick with 5 minutes left in the game set the Eagles up with a short field.  The Bears are going to have to take a close look at punter in the offseason.
+\end{minipage}
+
+
+\item Drop weren't a major issue in the game.
+\item Weird play at the end of the first half when Anthony Miller caught a pass and fumbled.  The play was initially ruled and incomplete pass and no one recovered the ball after the whistle.  Everyone expected the bears to get the ball at the point of the fumble.  Instead they got a loss of down and the ball was moved back to the initial line of scrimmage.  Here is \href{https://twitter.com/NFLOfficiating/status/1082059639326420992}{the explanation}.
+  \begin{minipage}{1.0\linewidth}
+    The referees let a lot of contact go in the defensive backfield this game.  There could have been a lot more calls on both sides than there were.  I guess that's playoff football.  We haven't seen it around here in so long we wouldn't recognize it.
+  \end{minipage}
+
+\item Turnovers kept the Bears in this game in the first half with two interceptions, one by Roquan Smith and one by Adrian Amos.  The Bears weren't burned by turnovers but they played so conservative on offense through three quarters protecting the ball that you wonder if they came out ahead.
+\item Its the NFL.  Nobody died.
+\end{enumerate}
+#+END_EXPORT

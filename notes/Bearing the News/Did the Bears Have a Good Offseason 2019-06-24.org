@@ -1,0 +1,34 @@
+* Did the Bears Actually HAve a Good Offseason?
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-bears-mailbag-20190619-7kyopefsojepppw7azmenbys5i-story.html}{answers your questions}:
+
+\begin{quote}
+Can you give me your perspective of why the national opinion and/or media seem to have a negative view of the Bears? I’m watching clips of \textbf{Damien Woody} and \textbf{John Fox} saying the Bears had the worst offseason. I feel clips like this are the norm, but maybe I’m wrong? Very frustrating. — @schnurlacher1
+
+Former Bears coach John Fox cited the Bears as having the worst offseason of any NFL team during a Monday appearance on ESPN. But he did so after Damien Woody first listed the Bears. Woody cited the loss of defensive coordinator Vic Fangio as a reason for selecting the Bears, which led to considerable turnover in the defensive coaching staff. Fox referenced the unresolved kicker situation, which has more than a few Bears fans nervous. What Fox didn’t mention is that the team terminated the contract of all-time leading scorer Robbie Gould while he was the coach, a move Fox likely could have prevented. Keep a couple of things in mind. For starters, sometimes TV and radio personalities are going to throw out opinions to generate discussion. Second, the Bears were pretty bad for a long stretch, so it’s going to take sustained success for them to generate respect. I wouldn’t get too bothered about Fox or Woody choosing the Bears for having the worst offseason. The Bears didn’t have first- or second-round draft picks. But I think you can fairly say they still had a good offseason and I think they made about the best move possible after Fangio’s exit.
+\end{quote}
+
+I have a number of points to make about this question and the answer:
+
+\begin{enumerate}
+\item I really haven't found the national media to be all that biased in their assessment of the Bears.  Opinions vary and many are properly skeptical of a last-to-first place Bears team that most thought would come in last in the NFC North last year.
+
+  A lot of things went right for the Bears last year and the ball fell their way an awful lot.  The Bears were uncommonly healthy being second in the NFL last year in games lost due to injury.  They also played a last place schedule.  The odds are good that the team will face considerably more adversity this year and this and how they respond will tell everyone everywhere what they are made of and whether they are truly worthy of respect.
+
+  
+\item I've made it a habit to virtually ignore the national media when it comes to opinions of the Bears.  Most of the local reporters seem to be very enthusiastic and they are much more plugged in to the team that national media members who are trying to track all 32 teams at once.
+
+  Not that the local reporters are always right.  They're close to the players and the team and many are unabashed fans.  There's a lot of bias there.  But they are more informed.
+
+\item Not all of the national media are down on the Bears and you do occasionally hear some glowing opinions of what they are doing.  Rodney Harrison is one of the most critical NFL analysts there is but I listened to him give what was for him a glowing assessment of the Bears as a team and of quarterback \textbf{Mitch Trubisky} in particular two weekends ago on \textit{NBC Sports Radio}.
+
+  Fans have a habit of remembering the bad things and forgetting the good things.  The national media aren't biased.
+
+\item Regarding the specific comments of Damien Woody and John Fox, I agree with them the Bears didn't have a good offseason.  They didn't have a first or second round pick and they are up against the cap.  It awfully hard to improve your team in what most analysts would consider to be a substantial way under those conditions.
+
+General manager \textbf{Ryan Pace} came from the Saints and they are constantly in this same situation.  He’s definitely brought the philosophy that they have there to Chicago.  
+
+I don’t fear it as much now as I did when they hired him because either he or the people who work for him or both seem to have an eye for talent.  For instance, from what I’ve seen when they have traded away picks the last couple years its been a good investment.  I think just we’re going to have to get used to it.
+\end{enumerate}
+#+END_EXPORT

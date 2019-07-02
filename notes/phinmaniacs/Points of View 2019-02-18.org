@@ -1,0 +1,213 @@
+#+BEGIN_EXPORT latex
+\subsection{Dolphins}
+
+\begin{itemize}
+\item We start with Dave Hyde at the Sun-Sentinel, \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-offseason-20190209-story.html}{who gives us ``10 simple steps to improve the Dolphins''}.  I agreed with most of these.  But I do want to address a few of them.
+
+  \begin{quote}
+    ``2. Strategically trade Xavien Howard if you’re not drafting a quarterback this spring. Howard is the best player on Team Teardown. He’d be the most expensive, too, at north of \$15 million a year with a needed, new deal. At 25, he is in his prime. Of the eight Pro Bowl cornerbacks this year, one was 29. Do the timeline math, add in football risk and moving him is the best option. But don’t just trade Howard for a first-round pick (if Amari Cooper is worth one in midseason, Howard is worth more). Trade him to a team that could be bad in 2019 and give you a top-half draft pick in 2020. Washington (big dream: packaged with Tannehill)? Tampa Bay? The New York Giants? Double-down on being assured of a quarterback in the 2020 draft (trading up with this pick, if necessary) or of another good, young player.''
+  \end{quote}
+
+  First, Howard is, indeed, your best young player.  Which in my opinion means he's exactly the kind of player you keep in this rebuild.  He'll still be in his prime when the Dolphins are good again and once you get done replacing veteran talent, cap space won't be a huge issue.  Yes, he'll cost money.  But you are going to have to spend money and these are the kinds of players you want to invest it in.
+
+  I will add one caviat to the above.  If the deal involves accumulating picks because you have targeted a quarterback you like, either in 2019 or 2020, then I would support the trade.  You do what you have to do to make that happen.
+
+  The other comment I'll add is that I don't think Howard brings more than a first round pick.  In fact, he might not even bring that.  Dont' get me wrong, he's a good young player on the rise.  But he didn't really completely blossom until this season and I dont think he's in the Dion Sanders class yet.
+
+  \begin{quote}
+    ``8. Don’t sign anyone just to change “culture.” The coach sets the culture. Yes, some good veterans will help. But this is Brian Flores’ job by the standards he sets and decisions he makes. The Gase era went sideways when he began looking for other people to set his culture for him. If you can’t do that, you’re not a head coach.''    
+  \end{quote}
+
+  
+  This I agree with but only to a point.  You can't just bring in ``good guys''.  But I don't think you want to make the job of your first time head coach tougher by bringing in headaches that, for instance, refuse to enter a game against the Jets.  I'm looking at you, Reshad Jones.
+
+  Adam Gase had some players to deal with that reuired delicate handling.  I'm not saying he shouldn't have handled it better but it made his job more difficult than it had to be.
+
+    I'd rather say, ``sign solid pros''.  They don't have to be angels and they don't have to be ideal.  But they should be able to set and example and show young players how to win through a couple years where there might not be a lot of winning to be had.
+
+    \begin{quote}
+      ``9. Don’t sign anyone in the first week of free agency. Or over 29 years old to be more than a one-year stop-gap.''
+    \end{quote}
+
+    There are going to be a lot of holes to fill on this team and I think you want to acquire good young players anyway you can, including free agency.  But you do have to be caeful who you target.  As I said above, no headaches.  I think instead of setting the limit at 29 years old, I'd say 27 unless he's a one-year stop gap.
+
+    The ideal candidate would be a rising young player coming off of his first contract who has not yet reached his peak.  You may have to over pay a little.  That's the nature of free agency.  But if you do it right, he won't be over paid for long as he reaches his potential over the length of the contract.
+
+    \item Hyde also \href{https://www.sun-sentinel.com/sports/dave-hyde-blog/fl-sp-hyde5-jimmy-johnson-dolphins-20190214-story.html}{interviewed Jimmy Johnson} to get his thoughts on what the Dolphins should do to make their rebuild successful.  He enumerates Johnson's points and then comments on them.
+
+
+\begin{quote}
+``5. 'Only pay great players big money,' [Johnson] said.
+
+``Look at what’s got the Dolphins into salary-cap hell. In 2019, they’re scheduled to pay average and/or old or injured players contracts no one wants to pay: Quarterback Ryan Tannehill (\$18.2M), Reshad Jones (\$13M) Robert Quinn \$11.8M), Andre Branch (\$6.9M) and Kiko Alonso (\$6.5M), Josh Sitton (\$5M) …
+
+''The bottom-line is evaluating talent properly. Jimmy had a talent for that. It’s what the Dolphins need moving ahead if they’re ever to get out of the wilderness.''
+
+\end{quote}
+
+This is, I think, where Adam Gase came up short.  It's a bit speculative but my guess is that all of those contracts are ones that Gase wanted.
+
+Gase worked under the false assumption that this would make those players grateful and play harder.  Show them you love them and they'll love you back.  Unfortunately it generally didn't work that way.  Just two years later Gase found himself criticizing the team for not working hard enough. Jones even flat out quit on him for one game during the 2018 season.
+
+This balance between paying players to keep them happy and witholding money to keep them hungry for more is a very delicate one and I dont' think there are easy answers.  But generally speaking my guess is that Johnson has it right.  Pay your great players who make plays big money.  RSign the rest to team-friendly deals or eplace them.  Don't get too caught up in your personal feelings over the matter.
+
+\item Bucky Brooks at NFL.com \href{http://www.nfl.com/news/story/0ap3000001018077/article/cardinals-should-deal-josh-rosen-pick-kyler-murray-in-nfl-draft}{thinks the Arizona Cardinals should trade away Josh Rosen and pick Kyler Murray in the draft}:
+
+
+\begin{quote}
+"'Josh (Rosen) is our guy.' -- Kliff Kingsbury, Feb. 12
+
+``The Cardinals' new head coach has told the football world that Rosen is the team's QB1 for the future, but it is hard to ignore the dot connecting that could put Oklahoma standout Kyler Murray in the desert on draft night. In fact, I believe the opportunity to put Murray in a system designed to elevate playmakers should prompt the Cardinals to trade away the franchise quarterback they selected 10th overall last spring."
+
+"'Kyler, I mean, he's a freak, man,' Kingsbury said in October, per KLBK-TV's Eric Kelly. '... Kyler is a freak. I've followed him since he was a sophomore in high school. Just think the world of him and what he can do on a football field. I've never seen one better in high school and he's starting to show it now at the college level. I don't have enough good things to say about him. He's phenomenal.
+
+``'... I would take him with the first pick of the draft if I could.'
+
+``As it turns out, Kingsbury will have the chance to do exactly that, as Arizona holds the No. 1 overall pick.''
+
+``'Our feelings toward Josh haven't waned or changed,' Kingsbury said. 'I get that we have the first pick and there are going to be a million scenarios, and over the next three months they are going to come up. But Josh is our guy.'"
+
+``Hmmm. I would love to believe the Cardinals' coach, but Murray's skills are a perfect match for the team's new system.''
+
+\end{quote}
+
+A couple things here:
+
+\begin{enumerate}
+
+  \item In my opinion, you absolutely don't take Murray with the first overall pick.
+
+  Yes, I know that Kingsbury effused that he would take Murray with that pick as the Texas Tech coach.  But it was easy to say that then and, as Brooks points out later in the article, people can't always be taken literally when commenting on such things as an opposing college coach.  They are expected to exaggerate.
+
+  More to the point, where you take a player in the draft has little to do with where \textit{you} think he should go and it has everything to do with where \textit{other teams} will take him.  Murray is almost certainly less than 5'10'' and has yet to show that he can throw from the pocket.  He's a risk that you don't take with a top five pick.  if you want him, you find a way to trade down and then take him.
+
+
+  \item Its possible that Kingsbury is smart enough to understand what he's got in Rosen.
+
+  People like to think that getting a franchise quarterback is just a matter of choosing the right guy.  In my opinion, they couldn't be more wrong.  It about developing the right guy.  That means good coaching at the very minimum.
+
+  Rosen had a miserable year but he was on a miserable team with a defensive head coach who had no clue how to develop him.  Whether Kingsbury has a clue remains to be seen.  It seems evident to me that as the need for quarterbacks has become more acute, the NFL has gotten better at developing them with some very good young quarterbacks like Patrick Mahomes, Jared Goff, Mitch Trubisky, and Deshaun Watson coming to the fore in recent years.  But either way Arizona is still going to be a bad team and probably a bad situation.
+
+  Rosen is a classic NFL quarterback.  He's got the size and physical ability.  He's accurate and by all accounts he's smart.  He simply hasn't had a chance to show what he's capable of.  If he is traded, here's hoping its to a team that can fully develop him and utilize his talents to give him the best chance to succeed.
+\end{enumerate}
+
+Rosen doesn't fit what \href{https://www.phinmaniacs.com/news/dolphins-have-the-right-man-in-grier-and-other-points-of-view}{I figure is general manager Chirs Grier's physical profile for an NFL quarterback}.  But it says here he'd look pretty good in a Dolphin uniform and wouldn't be a big risk for a midround pick.
+
+\item Having said that, I was intrigued by \href{https://sports.nbcsports.com/2019/02/17/peter-king-on-kyler-murrays-potential-nfl-impact/}{these comments} regarding Murray that came via Peter King at profootballtalk.com:
+
+  \begin{quote}
+    “'What percentage of the time,' I asked Oklahoma coach and Murray mentor Lincoln Riley the other day, 'would you guess Kyler threw from the pocket this year?'
+
+``Riley thought for a few seconds.
+
+“'Eighty-five percent?' Riley said. 'Ninety, maybe.'
+
+``Think of how amazing that is — a short quarterback who runs like a greyhound, and Riley called a similar percentage of designed passes from the pocket as many NFL teams with classic dropback passers would. Think of how the game has changed from a decade ago, when a fleet and smallish quarterback would basically be an option quarterback playing the game on the edges. Not Riley. Not with Murray. His runs? Mostly designed runs to takes advantage of a player with Vick-type tools.''
+  \end{quote}
+
+  A lot of those throws were quick hitters and running an NFL offense where you frequently have to stand tall while the pocket collapses around you is quite a bit of a different story.
+
+  Having said that, it's clear that Murray is a different kettle of fish when compared, for instance, to Johnny Manziel.  Manziel not only didn't show that he could throw from the pocket in college, it was proven conclusively that he couldn't as the teams that beat Texas A\&M his last year with the team were the ones that kept him there.
+
+  Murray could prove to be one of those rare athletes like Russell Wilson who can overcome his lack of size to succeed in the NFL.  Murray is shorter than Wilson and has more of an uphill battle.  But you can see why a team might pick him in the top ten.  Indeed, \href{http://www.nfl.com/news/story/0ap3000001018077/article/cardinals-should-deal-josh-rosen-pick-kyler-murray-in-nfl-draft}{Brooks  has Murray as his \#6 overall prospect} which, for a quarterback, means top 5 pick. 
+
+   Murray has been connected to the Dolphins in several mock drafts and where he is selected is going to be one of the more interesting draft stories in years.  I'm looking forward to seeing him at the combine.
+
+\item Antonio Brown \href{https://www.chicagotribune.com/sports/football/ct-spt-steelers-antonio-brown-trade-request-20190212-story.html}{has reportedly asked for a trade}.
+
+  Personally if I'm a football fan I don’t want this guy anywhere near my team and as our own Steven Paulsen points out, \href{https://www.phinmaniacs.com/news/antonio-brown-is-not-a-good-fit-for-the-miami-dolphins}{he's not a good fit for the Dolphins}.
+
+  Frankly, I don’t understand Brown.  He’s got a lucrative contract and this doesn’t appear to be about money.  When he’s asked to explain his problem \href{https://profootballtalk.nbcsports.com/2019/02/16/antonio-brown-explains-his-disconnect-with-ben-roethlisberger/}{he’s all over the place}.  Take this response when he was asked to explain his strained relationship with Ben Roethlisberger:
+
+  \begin{quote}
+    “No conflict just a matter of respect!.  Mutual respect! He has a owner mentality like he can call out anybody including coaches. Players know but they can’t say anything about it otherwise they meal ticket gone. It’s a dirty game within a game.”
+  \end{quote}
+
+  The best I can tell he just doesn’t like criticism and doesn’t like having to work as part of a team.  \href{http://bearingthenews.com/blog/2014/08/06/martellus-bennett-alone/}{He reminds me a little bit of former Chicago Bear Martellus Bennett}.
+
+Wide receivers in general tend to be head cases, I think.  But Brown seems to take it to a whole new level.
+
+\end{itemize}
+
+\subsection{Elsewhere}
+
+\begin{itemize}
+
+  \item Bob Costas is making it known that he's being blackballed by the NFL.  Via Cindy Boren at the Washington Post \href{https://www.chicagotribune.com/sports/football/ct-spt-bob-costas-super-bowl-nbc-20190211-story.html#nt=oft03a-2gp3}{answers your questions}:
+
+
+\begin{quote}
+"A year after Bob Costas was conspicuous by his absence from NBC's broadcast of Super Bowl LII, the longtime face of the network's sports telecasts explained that he was told "you've crossed the line" with commentary about the NFL.
+
+"I remember being told that now I can no longer host the Super Bowl," Costas, who parted amicably with the network after 40 years, told ESPN's "Outside the Lines." "I think the words were, 'You've crossed the line' and my thought was, `What line have I crossed?'''
+
+``It's a line that isn't clearly defined, but the NFL is a ratings behemoth and likes to refer to networks as 'broadcast partners. Over the last few years, Costas had moved from being the genial host of the network's biggest sports event to someone who offered brief snippets of commentary and he quickly was subjected to an unaccustomed barrage of criticism for speaking up about long-term cognitive issues that can develop after playing football, gun control, the national anthem controversy and the Redskins' name. He had referred to football as 'unacceptably brutal' and a sport that 'destroys people's brains,' likening it to 'Russian roulette.' The reality, he said in a 2017 Shirley Povich Symposium at the University of Maryland, 'is that this sport destroys people's brains.'''
+\end{quote}
+
+Boren's expansion in the last paragraph pretty much says it all in this situation.  The line that Costas frequently crosses is, indeed, a fine one.  It seperates ``critic'' from ``self-rightgeous''.  It's a line that we all sometimes cross, I think, but Costas has turned it into a habit.
+
+Costas defines himself as a jounralist, which is fine.  The problem is that he does it by treating sports like world peace depends upon defending its dignity.  It leads to inflamatory language such as that above addressing the NFL's concussion problem.  It's this tendency that turns off not just the NFL but those of us who are just watching for a little entertainment, not what amounts to something akin to a political tirade.
+
+My guess is that we have seen the last of Costas on any major network for any sport, not just the NFL.
+
+\item I found \href{https://www.chicagotribune.com/sports/football/ct-spt-kareem-hunt-second-chance-nfl-sally-jenkins-20190212-story.html}{this column} by Sally Jenkins at the Washington Post both advocating for a second chance for Kareem Hunt and criticizing the NFL for giving him one wildly inconsistent.
+
+  I won't give this too much time except to say that this was a poorly thought out piece that looked like it was supposed to be about Hunt but which Jenkins couldn't resist using to take a shot a the NFL no matter how it conflicted with her point.
+
+  For the record, I think Hunt is an animal who doesn't ``deserve'' a second chance at anything not guaranteed him under the law.
+
+\item So the Browns \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-browns-sign-kareem-hunt-20190211-story.html}{have signed Hunt}.  Not a great situation if you are a fan of the team.
+
+
+\begin{quote}
+``[Browns general manager John] Dorsey released a 245-word statement as part of the Browns’ announcement of the signing. He acknowledged the complexity of questions about signing Hunt but cited his relationship with Hunt in explaining the decision that 'he deserves a second chance.'
+
+``Said Dorsey: 'There were two important factors: One is that Kareem took full responsibility for his egregious actions and showed true remorse, and secondly, just as importantly, he is undergoing and is committed to necessary professional treatment and a plan that has been clearly laid out.'''
+\end{quote}
+
+Hmmmm...  he took full responsiblity, eh?  Like when he lied to the Chiefs about the incident and only came clean after video of the incident came out and he knew the jig was up?
+
+Hunt strikes me as being similar to many athletes in situations like this such as Ray McDonald, who was briefly a Chicago Bear before once again finding himself in trouble for allegedly attacking a woman.  He's a con man who has grown up as an athlete who people believed because they wanted to beleive him.
+
+Hunt is a talented running back.  People who want talented running backs on their team are apt to believe that he ``took full responsibility for his actions'' even though the evidence clearly shows that was not the case until he could no longer deny his guilt.
+
+Let's tell this like it is.    This wasn't a Ray Rice situation where an instant of anger led to a fist being thrown faster than the brain could catch up. The video showed Hunt as an out of control animal who attacked this woman like a mad dog for almost two minutes.
+
+Professional help or not, Hunt is a ticking time bomb who is just waiting to explode again.
+
+Knowing this, signing players like this puts fans in a terrible position.  You want to root for your team.  But how do you do it knowing that they signed such a player?  To this day, I can't watch Steelers quarterback Ben Roethlisberger without visions of a college girl being raped in the back room of a bar in Georgia.  Having to watch players like this prevents fans from fully enjoying what should be an entertaining experience.
+
+So, as if there weren't enough reason already, thank heavens you aren't a Browns fan. The Dolphins and their fans are better off without Hunt and his ilk.
+  
+
+  \item Brooks also quotes offensive coordinator Greg Roman on some \href{http://www.nfl.com/news/story/0ap3000001018077/article/cardinals-should-deal-josh-rosen-pick-kyler-murray-in-nfl-draft}{some of the things that Baltimore has to do} to get the most out of quarterback Lamar Jackson now that they have traded Joe Flacco to the Broncos and made him the unambiguous starter.
+
+  \begin{quote}
+    "'We've got to develop a strong passing attack,' Roman said. 'Lamar's got to develop and everybody around him has got to get better in that area. Obviously, there will be more emphasis on that.'"
+
+    "'Everybody wants you to have to fight left-handed.  The best thing we can do is be able to fight with both hands. We want to be able to run it and pass it. There will definitely be more of a balance there. That's how you win -- that's what makes it sustainable.'"
+  \end{quote}
+
+  Jackson is problematic because he lacks arm strength and he's not always very accurate, particularly outside the numbers.  Though he had some good throws over the middle in the intermediate range in 2018, his weaknesses showed and will likely continue to be a problem as the Ravens work to build a power running game to counter the game plan with 7 defensive backs that the Chargers used to beat them in their AFC Wild Card game.
+
+  Teams will undoubtedly do what they can to take the middle of the field away from Jackson and, as Brooks points out, a strong running team needs to be able to complete deep throws when they do pass the ball to get chunks of yardage.  Whether Jackson has the arm to take advantage of a good play action passing game will be an open question until he proves he can do it.
+
+
+\item Mike Florio at profootballtalk.com takes a \href{https://profootballtalk.nbcsports.com/2019/02/17/team-by-team-look-at-potential-2019-tag-candidates/}{team-by-team look at potential 2019 tag candidates}:
+
+  \begin{quote}
+    ``Eagles: The team reportedly is considering the use of the franchise tag on Nick Foles, with an eye toward trading him. Although this approach would violate the CBA, Foles seems to be OK with it — possibly because his agents already know that he wouldn’t get on the open market a long-term contract worth more per year than the franchise tag will pay.''
+  \end{quote}
+
+  I would agree with this.  My gut tells me that the payday for Nick Foles might not be what many people believe it will be.
+
+  For one thing, you need at least two teams to drive the price up for Foles.  Right now, the only team that currently makes sense for him is Jacksonville.
+
+  But the major reason has to do with Foles' performance, itself.  He struggled for years with the Rams, admittedly under a defensive coach with a stagnant offense.  But Foles wasn't good in those years and really hasn't been good anywhere but Philadelphia.  The fear is that you end up signing a Case Keenum, who had one good year with the Minnesota Vikings in 2017, cashed in big with the Denver Broncos in the offseason, then reverted back to under-perform in 2018.
+
+  Admittedly, Foles has come up big at the tail end of not one, but two seasons in a row now.  But its what he did at the beginning of the 2018 season when subbing in for Carson Wentz that would worry me if I were considering him as a signing.  Foles wasn't impressive.  In particular, his 50.7 passer rating against the Falcons in the first game of the year sticks in my mind and makes me wonder if his days as a sub-par quarterback will always be limited to those with the Rams.
+
+  Admittedly it was only two games.  But I would hesitate to commit too much to Foles right now.
+
+\end{itemize}
+#+END_EXPORT

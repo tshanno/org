@@ -1,0 +1,50 @@
+#+BEGIN_EXPORT latex
+
+\subsection{Defense}
+\begin{enumerate}
+\item The Bears came out in the 3-4 against 3 wide.  They were obviously thinking to stop the run first.  The Jets ran into the teeth of it obviously thinking that they could run anyway.  You figured play action passing would be a big part of the game plan later on.
+\item Sam Darnold wasn't particularly accurate early on.  Still, he was unflappable and he looks like he belongs out there.  Good size.  Good arm.  Decent release.  I like him.
+\item Akiem Hicks appeared to be pretty up for this game.  He looked like he was doing a lot of jawing.  I'd like to think that the absence of Khalil Mack made him want to pick up the slack even more.
+\item The Bears did a good job of dominating the line of scrimmage in the first half.  They held the Jets to less than 3 yards per carry.
+\item They did a good job in the defensive backfield as well against a Jets receiving core that was hurting.
+\item The Bears blitzed way more than usual this game in an effort to get more pressure without Mack and to confuse Darnold.  I'd say it was effective.
+\end{enumerate}
+
+\subsection{Offense}
+\begin{enumerate}
+\item The Bears came out trying to break some tendencies.  They ran Tairk Cohen up the middle rather than to the edges and they rolled Mitch Trubisky out to the left rather than to the right.  Trubisky had a good run on an option play where he kept the ball.  They obviously wanted the Jets guessing.
+\item The Bears stuck with the short passing game, obviously worried about countering the Jets tendency to blitz.
+\item The screen pass that went 70 yards for a touchdown in the first quarter was probably designed to do that as well.   It caught the Jets bringing the house.  Nice block by Taylor Gabriel on that play.
+\item Nice job at the line of scrimmage by the Bears offensive line.  For the most part the Bears did what they wanted up front.  James Daniels did fine at left guard.
+\item As I implied above, I was impressed by the things that the Bears did counter the Jets blitz.  Nagy showed a nack for knowing when Jets head coach Todd Bowles was going to dial one up and what they did really helped keep Trubisky comfortable against just the kind of defense that has caused him the most trouble over the course of the year.
+\item It's not a revelation for anyone now but Trubisky is struggling badly with his accuracy.  So many open men missed... [head shake] Very frustrating.
+\item I've noticed a hesitation on the part of the Bears ball carriers to cut back inside.  There are often reasonably big gaps there but they seemingly refuse to take advantage.  Jordan Howard's vision has not been as evident this year.
+\item I thought Trey Burton was strangely absent given the game plan.  The Bears may have concluded that, too, because it seemed like they started to look in his direction more late in the third quarter and into the fourth.  They tried a couple shuffle passes that didn't go anywhere.
+\item Really hope Kyle Long is OK.  It ws kind of funny that about 6 guys were needed to give him a hand up.
+\item Was glad to see Trubisky finally connect with Anthony Miller for a touchdown.  Miller seems to be a particularly common victim of Trubisky's wild throws.
+\end{enumerate}
+
+\subsection{Miscellaneous}
+
+\begin{enumerate}
+\item Jim Nance, Tony Romo and Tracy Wolfson were your announcers.  Romo is among the best there is right now.  Frankly, if he had a fault it was that he was too complimentary of the Bears.  I wouldn't be too surprised if they turned out to be the team he was talking about by the end of the year.  But they aren't there, yet.
+\item Special Teams
+  \begin{enumerate}
+  \item Cody Parkey isn't making anyone forget Robbie Gould as he
+    missed a 40 yard field goal after a good opening drive by the
+    Bears offense.  
+  \item Parkey didn't look comfortable hitting the ball all game.  Every extra point felt like an adventure.
+\end{enumerate}
+\item drops
+\item Penalties
+  \begin{enumerate}
+  \item The Jets had a lot of pre-snap penalties throughout this game that made their work quite a bit harder.  That sort of lack of discipline, particularly the false starts against a defense that didn't have Khalil Mack, doesn't speak well for anyone.
+  \item Kyle Long had a particularly stupid unnecessary roughness penalty that brought back a long completion for a first down.
+  \item The Bears had the Jets off the field on a 3rd and 13 and Eddie Jackson leveled a helpless receiver in the 4th quarter.  The lead was only 14 points and they needed to get the ball back in the offense's hands.  The Jets turned it into a touchdown.  It was inexcusable.
+  \end{enumerate}
+\item turnovers
+\item Loved the shot of Anthony ``Spice'' Adams on the side line dancing away during the game.
+\item You knew the Bears were in trouble when they dominated the Jets in every category in the first half including both rushing (59-33 yards) and passing (115-54 yards) but were only up 7-3.  They dominated a team at the line of scrimmage that wasn't playing well and had 5 penalties for 30 yards) but couldn't take advantage.  It was a recipe for disaster for a team that has so often given up leads in the second half.  Against a better team it might have hurt them.
+\item The Bears really seemed to want this game.  They needed to get what playoff hopes they have alive against a team that they knew was beatable at home.  Anthony Miller on offense and Akiem Hicks on defense seemed particularly vocal.  They played a pretty good game all around outside of some of the usual poor throws from Trubisky.  They need to string a few together like this.
+\end{enumerate}
+#+END_EXPORT

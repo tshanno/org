@@ -1,0 +1,40 @@
+
+* Citrix Upgrade 
+message://%3C885050591b034a7aa69ab5e9384e968f@RUDW-EXCHMAIL02.rush.edu%3E
+
+image002.jpg
+ 
+To:        All Rush University Medical Center and Rush Oak Park Hospital Employees
+ 
+From:   Information Services
+ 
+Re:        Citrix Upgrade
+ 
+Date:    Oct. 25, 2017
+ 
+On Saturday, Nov. 4, Information Services will implement an upgrade to our Citrix environment – the software system that is used to facilitate access to business critical applications such as EPIC and Link.
+ 
+The upgrade will include the following key changes:
+ 
+·         A new URL – myapps.rush.edu – will be used to provide access to the new Citrix environment and will replace the following six currently available URLs.
+–        myrushpc.rush.edu                –    rushapps.apps.rush.edu
+–        myrushapps.rush.edu           –    mdoffice.nru.rush.edu
+–        rushmed.apps.rush.edu       –    secure.rush.edu
+ 
+·         Users will notice a new log on screen when they connect to the new Citrix environment through myapps.rush.edu.
+ 
+image004.jpg
+New Log On Screen
+ 
+·         The new Citrix environment will have a “Favorites” tab for quick and easy access to frequently used apps. 
+·         The new Citrix environment will have a “My PC” option that will connect users to their virtual desktop (VDI).
+ 
+image006.jpg
+Favorites Tab
+
+Additional information regarding the Citrix upgrade will be provided in the upcoming weeks.
+ 
+If you have any questions, email the Help Desk at help@rush.edu  and include the words Citrix Upgrade in the subject line. 
+ 
+ 
+ Thank you for your support.

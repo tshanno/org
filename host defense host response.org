@@ -1,0 +1,69 @@
+* *Tasks*
+** DONE [#A] Due:  HDHR Topic Response - Physiology June 25
+* *Ticklers*
+* *Meetings*
+* *Notes*
+
+* Flu Chapter 2 <2017-10-23 Mon 08:00-12:00> :Flu:Host_Defense_Host_Response:
+* DONE Email out old exam quesitons to the class 
+  - Note taken on [2017-10-25 Wed 04:28] \\
+    message://%3C1508883856457.72757@rush.edu%3E
+
+* DONE Send out old exam quesions	     :flu:host_defense_host_response:
+  - Note taken on [2017-10-25 Wed 06:11] \\
+    /Users/tshanno/iCloud Drive (Archive)/Word/Shannon-Epithelial-Transport-2016-08-02.docx
+
+* Add old exam questions to membrane transport and fluids and electrolytes <2018-06-01 Fri> :course_notes_volumes:flu:host_defense_host_response:
+  - Note taken on [2017-10-25 Wed 06:14] \\
+    /Users/tshanno/iCloud Drive (Archive)/Word/Shannon-Epithelial-Transport-2016-08-02.docx
+
+* DONE Send old questions to Maureen.	     :Host_Defense_Host_Response:flu:
+[2017-10-26 Thu 09:48]
+
+* DONE talk to maureen abt movibg comp ws  away from cbcls
+* DONE Talk to Bob about cmputer WS <2018-08-30>
+* DONE Flu Chapter 2 <2017-10-23 Mon 13:00-17:00> :Flu:Host_Defense_Host_Response:
+** Change the 10% of her body weight in water to clarify.  Students kept interpreting this as 10% of her body water.
+   :PROPERTIES:
+   :[TICKLER]: [<2018-07-24 Fri>]
+   :END:      
+   [2017-10-23 Mon 15:04]
+
+** Clarify that isotonic is a label on the bag (i.e. isotonic relative to normal not the dehydrated state)
+   :PROPERTIES:
+   :[TICKLER]: [<2018-07-24 Fri>]
+   :END:
+[2017-10-23 Mon 15:05]
+
+** Change Jenna to Kamara in question 2.  This got moved from E. coli (Jenna Wilson) but I didn't change the name in the question.
+   :PROPERTIES:
+   :[TICKLER]: [<2018-06-01 Tues>]
+   :END:      
+[2017-10-23 Mon 15:20]
+
+
+** Change the case.  It says that there's jugular distension.  You shouldn't see that in a dehydration case.<2018-06-01 Fri>
+
+
+* DONE Check out the osmosis and cell volume programs.  Are they still there?
+  [2018-09-06 Thu]
+* [[message://%3C07437D87-9F63-441C-ACD3-57DD80CE5DAD@rush.edu%3E][FU on osmolarity and cell volume]] <2018-09-17 Mon>
+  [2018-09-11 Tue]
+* DONE [#A] [[message://%3clb6_bpTNWSB4kXr-mVF2BA.0@notifications.google.com%3E][Look at Kamara Thompson]]
+  [2018-09-27 Thu]
+* DONE [#A] Assessment items for Maureen - 9406 done.
+  [2018-10-01 Mon]
+* DONE [#A] Assessment items for Maureen - 9406 done.
+  [2018-10-01 Mon]
+* DONE [#A] [[message://%3c6e00c02776eb4ff89c94e66d42f5649b@RUPW-EXCHMAIL01.rush.edu%3E][Two formative items for Maureen.  Check off her box when you are done.]]
+  [2018-10-03 Wed]
+* DONE [[message://%3c437EB716-D5AF-4235-9407-921F878A8ED5@rush.edu%3E][Post an announement about renal video in HDHR]]
+  [2018-10-03 Wed]
+* DONE 2 questions for HDHR formative
+  [2018-10-04 Thu]
+* DONE [#A] Transport question in HDHR didn't have the table.  Post correction.
+  [2018-10-05 Fri]
+* DONE [[message://%3c3046C743-4DF9-4E73-AF56-D4AD023F49E3@rush.edu%3E][HDHR Item 296]]
+  [2018-10-17 Wed]
+* DONE [#A] [[message://%3c038FF693-8D93-4A09-BC55-CF6F0E8203C3@rush.edu%3E][Make a slide for #113 for the HDHR exam Review]] <2018-10-23 Tue>
+   [2018-10-20 Sat]

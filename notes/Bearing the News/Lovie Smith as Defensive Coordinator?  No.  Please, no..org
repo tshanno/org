@@ -1,0 +1,18 @@
+* Lovie Smith as Defensive Coordinator?  No.  Please, no.
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-matt-nagy-20181121-story.html}{answers your questions}:
+
+
+\begin{quote}
+"Any chance \textbf{Lovie Smith} is fired? If he is, and \textbf{Vic Fangio} leaves for a head coach job, is it at all conceivable for Lovie to return to the Bears and coach the defense? — Gregory M., South Side
+
+``I’m not qualified to speculate on Smith’s job status at Illinois after a stunning 63-0 loss to Iowa, which tied the largest defeat in team history. I wrote this week that Fangio should be a candidate for head-coaching positions if the defense plays well in the final stretch of the season. But if Fangio were to leave, I think you can rule out Smith as a potential replacement. Both men have been very successful running defenses in the NFL, but their systems are quite different. If the Bears were to have to replace Fangio, I imagine they would seek someone who runs at least a similar scheme to what the team has been using. That would not lead them to Smith."
+\end{quote}
+
+Lovie Smith is almost certainly done as a defensive coordinator in the NFL.
+
+If this season has shown us anything, its that predictable defenses, especially, predictable zone defenses, don't do well in the NFL nowadays.  The Bears own destruction of the Tampa Bay Buccaneers earlier this year should be ample evidence of that.
+
+Even Smith started to realize this during his time with the Bears.  After the Patriots destroyed the Bears 39-7 in 2010, the Bears started to vary things a bit more with more disguises to the defense in 2011.  It was never enough, though, and I'd say the game has largely passed Smith by.
+
+#+END_EXPORT

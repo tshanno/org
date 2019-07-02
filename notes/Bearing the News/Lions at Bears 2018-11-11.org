@@ -1,0 +1,73 @@
+#+BEGIN_EXPORT latex
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item It wasn't hard to figure what the Bears were going to try to do here.  They kept only 4 wide receivers on the game day roster with both Kevin White and Jevon Wimms inactive.  They kept fullback Michael Burton active against the Lions 30th ranked run defense.  Before the game even started everyone knew this was going to be a slugfest at the line of scrimmage with the Bears trying their best to simply run the Lions over.  It was fair to wonder what effect the loss of Kyle Long would have in the execution of that plan.
+  \begin{minipage}{1.0\linewidth}
+As it turns out, the Bears went to the air a lot this game so the choices they made for the game day roster may have back fired on them. The Bears ran 23 times for 64 yards.
+\end{minipage}
+
+\item One thing all of the Bears recent opponents have in common - they're ready for the wide receiver screen.  The Lions swarmed to the ball when the Bears showed this look.
+\item The Bears did a good job of varying the tempo as they went no huddle in their first drive.
+\item You have to like the Bears use of their running backs.  With Jordan Howard being the pounder and Tarik Cohen being more elusive, the defense gets a lot of different looks and stays just a little off balance.
+\item Bears speed at wide receiver really showed up this game.  With the Lions playing a lot of man coverage, Allen Robinson and Taylor Gabriel were both getting behind coverage.  Gabriel could have easily scored a touchdown midway through the first quarter when he got behind Quadre Diggs, who never turned his head and looked like he interfered with Gabriel in the end zone.  Two plays later Robinson got behind DeShawn Shead, who turned is head too late and never had a chance as Robinson adjusted to Mitch Trubisky's throw.
+\item Wow.  Just a mass of confusion in the Detroit back field on the Anthony Miller touchdown in the second quarter.  Nobody near him on the coverage.  Lions DBs shown arguing earlier in the game.  This doesn't look like a well coached defensive team, especially given that they have a defensive head coach.
+\end{enumerate}
+\subsection*{Defense}
+
+  \begin{enumerate}
+  \item The Lions came out in an empty set and went to the quick slant.  You knew the quick passing game was going to be a big part of the game plan after they gave up 10 sacks to the Vikings last week.
+  \item Karryon Johnson is pretty quick and seems to have pretty good vision.  You can see why he's been such a success.
+  \item The Bears were effective early some some well timed blitzes.  One sack came from Bryce Callahan and one from Roquon Smith on the first drive.  The one from Smith knocked the Lions back to the very edge of field goal range at the 37 yard line.  The Lions punted.
+  \item I used to like LeGarrette Blount but, man, he looks slow.
+  \item There were long stretches of this game where the Bears struggled to get pressure on Matthew Stafford.  They had some success with the blitz, as I said above.  But they really had trouble when rushing four.
+  \item Kenny Galloday was all over this game.  he made a play whenever the Lions needed one and was a huge part of the Lions staying in it far longer than they should have been able to.
+
+  \end{enumerate}
+
+  \subsection*{Miscellaneous}
+
+  \begin{enumerate}
+  \item Chris Myers, Daryl Johnston and Laura Okmin were your announcers.  AS I said last week, I think this is a good announcing team but its hard to get around the fact that Johnston really doesn't seem to like the Bears that much.  Trubisky made what looked to me like a nice back shoulder throw to Allen Robinson for a touchdown in the first quarter, something he's been working on, and Johnston seemed to imply that he thought it was just a bad throw and a good catch by Robinson (it was a good catch).
+    \begin{minipage}{1.0\linewidth}
+      This sort of thing really doesn't bother me much, though.  I think Johnston is pretty observant and I think fans are sometimes more sensitive than they should be to critical comments.  Johnston was certainly complementary enough at other times during the broadcast.
+    \end{minipage}
+  \item  Special Teams
+    \begin{enumerate}
+      
+    \item The Lions fired their special teams coordinator last week with head coach Matt Patricia taking over the coaching of that group.  It was hard to anticipate before the game what effect, if any, that would have on the Lions performance. 
+    \item Cody Parkey hit the right upright on an extra point in the first quarter.  You could hear a lot of angry shouts at Soldier Field in response.  Parkey clanked another one off of the left upright in the second quarter.  And he hit the upright twice more in the third quarter on 41 and 34 yard attempts.  As much as I disliked former Bears kicker Robby Gould, I dislike seeing easy points taken off the board more.
+    \item Meanwhile Matt Prater continues to be one of the most solid kickers in the NFL as he hit a season long 52 yarder in the third quarter.
+    \item The Lions had a lot of success kicking to Taquan Mizzell just short of the goal line.  The Bears got some pretty bad field position short of the 20 yard line out of it.  Mizzell looks like an experiment at kick returner that might now be working out.  
+    \item Anthony Miller stupidly batted an onside kick that he could have easily simply recovered out of bounds.  It gave the Lions another shot at the kick, which they took advantage of and recovered.  It resulted in another Lions touchdown.  
+    \item Bears special teams generally did not look good this game.  Its really the only area of the team that doesn't look well coached.
+  \end{enumerate}
+
+  \item Anthony Miller had a bad drop in the third quarter that would have given the Bears what looked at the time like a badly needed first down.  With Cody Parkey blowing kick after kick, the Bears weren't scoring and they needed to keep possession to give the Bears defense a little more rest.
+  \item Penalties.
+
+    \begin{enumerate}
+    \item Nice job drawing the Lions into a neutral zone infraction by Mitch Trubisky with the hard count in the first quarter.  It gave the Bears a first down.
+    \item Really awful penalty on A'Shawn Robinson as he shoved Trubisky out of bound.  Trubisky was about as far out of bounds as I've ever seen anyone be on a penalty like that.  It gave the Bears first and goal from the 6 yard line.  A pass interference in the end zone made that first and goal from the 1 yard line.  That was followed by an illegal formation penalty on the Bears pushing them back to the 6 yard line.  Trubisky eventually scored on a run but it was preceded by a comedy of errors.
+    \item Kyle Fuller had a damaging pass interference in the end zone near the end of the second quarter.  The Lions scored a touchdown.
+    \item In addition to his penalty for batting the ball on the onside kick (which resulted in a Lions touchdown), Miller also had a stupid unsportsman like conduct penalty after a nice catch for a first down.  It stopped the clock as the Bears were trying to let it wind down with 3:30 left.
+    \item Overall the Bears committed 6 penalties for 46 yards Vs. the Lions 6 penalties for 41 yards.  Both teams would have probably liked to have seen less.
+    \end{enumerate}
+
+  \item Turnovers
+    \begin{enumerate}
+    \item Bryce Callahan had a really good interception in the second quarter that set the Bears up on the Lions 18 yard line.
+    \item I understand Matt Nagy wanting to wait to see if they can get a good replay before throwing the challenge flag on what was a Lions fumble in the second quarter.  But you have to throw that flag before the Lions snap that ball.
+      \begin{minipage}{1.0\linewidth}
+Lots of indecision on Nagy's part when it comes to making head coaching decisions from the sideline.   This was a prime example.
+\end{minipage}
+\item Johnson had a very damaging fumble in the third quarter as the momentum was shifting in the third quarter after yet another Parkey miss.  It set the Bears up at the Lions 21 yard line.  Of course, it led to another Parkey miss.  [head shake]
+\item Prince Amukamara had an interception in the fourth quarter near the bear goal line that on the surface looked like a good play.  But as it was fourth down and 15 from the Bears 40 yard line, you'd think he would have had the presence of mind to bat the ball down.  The Bears ended up punting form about the one foot line.
+\item Overall turnovers were a huge part of this game as the Lions had 3, one fumble and two interceptions, to the Bears 0.
+    \end{enumerate}
+
+  \item This was one that the Bears almost couldn't lose if they are going to compete within the division for a playoff spot.  Things get tougher from here but so far so good.
+
+  \end{enumerate}
+#+END_EXPORT

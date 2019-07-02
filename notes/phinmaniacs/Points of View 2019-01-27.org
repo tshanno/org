@@ -1,0 +1,114 @@
+#+BEGIN_EXPORT latex
+\begin{itemize}
+\item We start with our own Carlos Camacho, who is \href{https://www.phinmaniacs.com/news/xavien-howard-dolphins-cornerstone-or-simple-trade-bait}{pondering whether cornerback Xavien Howard should be traded in the offseason}:
+  \begin{quote}
+    ``The Dolphins do not have tons of talent that would start on other contending teams besides Howard, [Laremy] Tunsil, [Rshaad] Jones and [Minka] Fitzpatrick. Would giving away homegrown and young talent hitting his prime be wise on a roster that lacks star power be wise? I mean, it would create a huge hole that Miami would have to fill with an unknown (in addition to the other holes the team has at corner and other positions). I'm not 100\% convinced that this route is wise.''
+  \end{quote}
+
+  Nor am I.
+
+  A few things to point out here:
+  
+  \begin{enumerate}
+  \item Pro Bowl cornerbacks don't grow on trees.  By trading Howard, you are getting draft picks but you are creating a hole that needs to be filled.  Unless you have a plan to replace him, this sounds like it could be an even exchange at best.
+  \item We all agree that the Dolphins are in a rebuild. It would be different if Howard were approaching 30 years old.  But at the age of 26, you would hope that Howard would not only still be around when the team managed to rise again but that he would be nearing the peak of his career.  These are not the kinds of guys you trade.  They're the kinds you build around.
+  \item I hear rumblings about concerns over Howard's injury history.  I really don't think its that extraordinary.  It's the NFL.  Players get hurt.  The good ones play through it and play well.  This is generally what Howard has done.
+  \end{enumerate}
+
+  There are two caveats to all of this.
+  \begin{enumerate}
+  \item First, I don't care who you are or what corner you have been
+    hiding in, by now you should know that the NFL is all about the
+    quarterback.  If you see one you like, particularly in the draft,
+    no price is too high to get him.  If Howard is a part of that deal
+    in some way, so be it (see below).  
+  \item Second, the advantage to signing your own is that you know them better than anyone.  That means you know not only who you want to keep but who you don't want to keep.  There is nothing public that indicates that unusually distracting or disruptive.  But the Dolphins certainly would know what sort of player Howard is off the field and whether they want to keep him around. 
+  \end{enumerate}
+
+  That aside, I can't imagine that the Dolphins do anything other than extend Howard, probably in the offseason, and make him a part of their future.
+
+\item Ryan Wilson at CBS sports thought quarterback Drew Lock \href{https://www.cbssports.com/nfl/draft/news/2019-senior-bowl-only-one-of-drew-lock-daniel-jones-looks-like-first-rounder-isabella-mclaurin-shine-in-win/}{showed well} at the Senior Bowl in Mobile Alabama on Saturday.
+  \begin{quote}
+    ``And while [Daniel] Jones gets the MVP hardware, those watching know that Lock was the real star. He started the game and was composed from the first snap when he rolled right only to find Montez Sweat in his face, made an arm-angle adjustment to find McLaurin for a 12-yard gain. First down. Two plays later Lock pump-faked the defense out of position and came back to NC State's Jakobi Meyers across the middle, but Meyers couldn't hang on.
+    
+    ``A series later and facing fourth-and-4, Lock rolled right and found Isabella for an eight-yard gain. It was poised, effortless -- and something an NFL quarterback is expected to do. But it was the pass on second-and-10 from the South's 26 that we'll remember most.
+
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/OhioState?src=hash&amp;ref_src=twsrc%5Etfw">#OhioState</a> receiver Terry McLaurin drops this pass in the end zone. Drew Lock placed it in the right area for him, McLaurin can&#39;t miss out on opportunities to make these type of plays. <a href="https://twitter.com/hashtag/SeniorBowl?src=hash&amp;ref_src=twsrc%5Etfw">#SeniorBowl</a> <a href="https://t.co/aeqze3DmdZ">pic.twitter.com/aeqze3DmdZ</a></p>&mdash; Black and Gold Nation (@B_GNation1) <a href="https://twitter.com/B_GNation1/status/1089267188190638085?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+    ``Yes, that's an incompletion but Lock put it the only place he could and McLaurin couldn't come up with it. That's the throw scouts will be talking about.''
+  \end{quote}
+
+  So let me say up front that I’m a proud University of Missouri alumnus.
+  
+  Having said that, I love what I’ve been seeing from Drew Lock.  He did, indeed, look good in the Senior Bowl.  Missouri switched to a pro style offense this year and by the end of the year Lock looked pretty good in it to my eye.
+  
+  I didn't feel the same way about \textbf{Blaine Gabbert} or \textbf{Chase Daniel} when they came out.  Both are from Missouri.  So I think this is different.
+
+  If he falls to Miami, there could be better times ahead.  Of course, that's unlikely to happen.  Quarterbacks like Lock tend to fly up the board late in the process, not fall back.
+
+  Of course, they could get creative and go up and get him. There’s every indication \href{https://www.phinmaniacs.com/news/offseason-changes-for-the-miami-dolphins-start-at-the-top}{those are the kinds of aggressive moves owner Stephen Ross wants to see}.
+
+  Many will say that the Dolphins should sit and let the draft come to them.  Generally speaking, I'm in favor of this.  But not when it comes to quarterbacks.  A few things to consider.
+
+  \begin{enumerate}
+  \item Lock improved enormously this year and, as I said above, did it in a pro style offense.  That gives him a huge head start that many of the other quarterbacks in this draft won't have.  It also gives you a good indication that he can make the transition because you've seen him do it.
+  \item  I understand the desire to wait.  But that is almost certainly what got Mike Tannenbaum fired.  They liked Josh Allen last year and didn't move to get him.  They didn't move at all.
+
+    \begin{minipage}{1.0\linewidth}
+    If general manager Chris Grier likes Lock and they don't try to get him, particularly if he turns out to be good, Ross won't waste any time begging his executive team to be more creative again.  He'll rip it apart.  And justifiably so.
+  \end{minipage}
+\item There's a lot of talk about the Dolphins not having the ammunition to move up.  I say ``hogwash''.  Two first around picks will get you well on your way to the top 5.  You'd have to add a little more but a 2019 and 2020 first rounder will get you a good part of the way there.  And I'll say it again.  If you like the guy - a big if - there is no price too high to pay for a franchise QB.
+
+  \begin{minipage}{1.0\linewidth}
+    I understand the desire to keep the picks.  But this team wasn't 2-14 last year.  It was 7-9.  It isn't like they're necessarily looking at a 3 year rebuild.  You can do it fast nowadays with a lot less talent than the Dolphins have.
+  \end{minipage}
+
+  \begin{minipage}{1.0\linewidth}
+    But you can't win without a QB.  Not consistently.  And you have to do what you have to and get it done.
+  \end{minipage}
+  \end{enumerate}
+
+\item Speaking of quarterbacks, who is going to develop one in Miami is a significant issue as well.  You can find a quarterback with all of the talent in the world but if you don't have the right environment to allow him to grow, nothing will come of it.  Indeed, I would say in the modern NFL that just developing the players at the position is as much as 75\% of the battle.
+  \begin{minipage}{1.0\linewidth}
+    It appears the Dolphins choice to do this is assistant head coach Jim Caldwell.  Caldwell is, indeed, a quarterback-centric coach.  But his history with young quarterbacks is a bit spotty.
+  \end{minipage}
+  \begin{enumerate}
+  \item In 2002, Caldwell inherited Peyton Manning with the
+    Indianapolis Colts.  He apparently impressed there as he became
+    Tony Dungy's heir apparent.  But Manning had already developed.
+    In 2011, the first year the Colts didn't have Manning since 1998,
+    the position was mediocre at best as the Colts started the likes
+    of Kerry Collins and Curtis Painter.  Caldwell was fired.
+
+    
+  \item Caldwell became the quarterbacks coach for the Baltimore Ravens in 2012.  The Ravens won the Super Bowl but it was with an already established Joe Flacco, who had entered the league 4 years earlier.  Baltimore missed the playoffs in 2013, again with Flacco under center.
+
+    
+  \item Caldwell then became the head coach of the Detroit Lions in 2014.  Matthew Stafford had been there quarterback after being drafted in 2009.  Another established veteran, Stafford spent the next 4 years taking one step forward followed by one step back.  Whether he is better significantly today as a result of Caldwell's coaching than he was in 2014, when he went to the Pro Bowl, is debatable.
+  \end{enumerate}
+
+  Caldwell does have some college coaching experience as well and that can't be completely discounted.  But overall the picture is one of a coach who has spent the vast majority of his time coaching experienced veterans, one who sometimes got a lot out of them as they won Super Bowls and went to Pro Bowls, but who also sometimes didn't.  Whether he can develop a young quarterback is still a complete unknown 18 years into his professional coaching career.
+
+  This is going to be an interesting situation to keep an eye on, especially if the Dolphins draft a quarterback.
+
+\item In contrast to what I've said above, our own Ian Berger \href{https://www.phinmaniacs.com/news/forget-finding-a-quarterback-the-miami-dolphins-need-to-find-an-offensive-line}{thinks the Dolphins should concentrate on the offensive line} before looking for a quarterback.
+
+  \begin{quote}
+    ``The biggest hype in this NFL offseason so far for the Miami Dolphins is what will the team be doing with the quarterback position. Will it be another “show me” year for Ryan Tannehill, a one or two season rental in Nick Foles, or will it be any one of the many young quarterbacks available in the upcoming NFL draft? Well, without an offensive line to protect whoever the Dolphins signal caller will be, you can almost guarantee another failing quarterback season without the necessary protection.''
+  \end{quote}
+
+  Fair enough.  But an organization that knows what its doing can find offensive linemen and they can do it outside the first round.  Well, except for left tackle, a position that the Dolphins already have filled.
+
+  I'm not saying don't build the offensive line.  But I've got a better suggestion if you are going another direction in the first round.  How about defensive line?  Specifically defensive tackle?
+
+  Why?
+
+  \begin{enumerate}
+  \item The Dolphins are miserable at the position and it has arguably been the biggest reason for their downfall defensively.  Many point the finger at linebacker but the truth is that the Dolphins linebackers are fine.  They aren't particularly physical but they have speed and that's what modern NFL teams have been building around.  They do that by getting defensive tackles that can keep blockers off of those linebackers and allow them to roam.  The Dolphins efforts to do that in 2018 totally failed.
+  \item Defensive line is the strength of the 2019 draft.  Seven of the top 8 draft prospects \href{http://www.nfl.com/news/story/0ap3000001012558/article/daniel-jeremiahs-top-50-prospects-for-2019-nfl-draft-10}{from NFL.com's Daniel Jeremiah} are edge rushers or defensive linemen.  Sports Illustrated has 16 defensive linemen going in \href{https://www.si.com/nfl/2018/12/19/nfl-mock-draft-2019-justin-herbert-nick-bosa-dwayne-haskins-daniel-jones}{the first round of their most recent mock draft}.
+  \end{enumerate}
+
+  Its a perfect year to fill what is arguably Miami's greatest need.
+\end{itemize}
+#+END_EXPORT

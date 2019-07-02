@@ -1,0 +1,15 @@
+#+BEGIN_EXPORT latex
+\textbf{Dan Wiederer} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-hail-mary-tyreek-hill-kevin-white-20181022-story.html}{on the Bears injury situation}:
+
+\begin{quote}
+  ``[Bears head coach \textbf{Matt}] \textbf{Nagy} continued to characterize outside linebacker \textbf{Khalil Mack} and receiver \textbf{Allen Robinson} as “day-to-day” with their injuries. Mack has played through a right ankle issue the last two games and has been hindered. Robinson couldn’t finish Sunday’s loss due to a groin injury.''
+
+  ``With Mack, in particular, Nagy was asked how the Bears will decide whether the outside linebacker should continue to play through his injury or sit out to aid his recovery.
+  
+``'It’s not easy,' Nagy said. 'That’s where the trust level from both ends has to be there. The player has to understand where we’re coming from as a team as to (asking) where you’re at percentage-wise. We all now that he’s not 100 percent, but where are you at? That’s where we trust him, he trusts us and then we go ahead with the action plan.'''
+\end{quote}
+
+Nagy has to take charge of this situation.  Mack it's easy to see that can't play.  He has nothing like the power that he showed early in the season and, at times, seemed to actually back up off of blocks against the Patriots.
+
+Mack almost certainly doesn't want to come off the field.  But right now, with \textbf{Leonard Floyd} struggling, they need to get someone else like \textbf{Kylie Fitts} or \textbf{Isaiah Irving} onto the field.
+#+END_EXPORT

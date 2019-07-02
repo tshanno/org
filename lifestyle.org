@@ -1,0 +1,15 @@
+* *Notes*
+** How is the date of Easter Determined?
+
+Easter always occurs on the first Sunday after the paschal full Moon, according to The Old Farmer's Almanac. What is the paschal full Moon? It is the first full Moon that occurs after the vernal equinox, which signifies the beginning of spring in the Northern hemisphere. 
+Now, this is where things get a little bit tricky. The church has decided to always-and forever-recognize the spring equinox on March 21. Technically speaking, however, the equinox could actually fall on March 20-like it does this year. But if you're acknowledging the equinox on March 21 like the church, the first full moon after that date isn't until April 19. The following Sunday-April 21-is Easter this year. 
+
+Here's How the Date of Easter Sunday Is Determined Each Year - Country Living
+
+https://apple.news/AUYtb7WkFSw2PClLsoRgYKQ
+* *Ticklers*
+** ASH WEDESDAY FAST <2019-03-06 Wed>
+** GOOD FRIDAY FAST <2019-04-19>
+** FRIDAY FAST 
+<%%(and (diary-cyclic 7 03 08 2019)(diary-block 03 07 2019 04 21 2019))>
+* *Tasks*

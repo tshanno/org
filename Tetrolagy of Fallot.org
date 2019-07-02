@@ -1,0 +1,148 @@
+* *Tasks*
+** ON RADAR I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+:PROPERTIES:
+:SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
+:ID:       A09D609C-B572-4784-A6BC-B8F55511530D
+:END:
+* *Ticklers*
+** We need to make sure that we get our story striaght for TGA next year.
+SCHEDULED: <2019-10-01 Tue>
+* *Meetings*
+* *Sesson Notes*
+* *Notes*
+* DONE Review video
+* DONE Add Pathology Mastery to guide :tetralogy_of_fallot:vital_fluids_and_gases:
+  :PROPERTIES:
+  :SYNCID:       90AB79B1-876C-45A9-A228-0D16D743916C
+  :ID:       25ACD2E6-E039-4609-B765-B0048A800EE9
+  :END:      
+* DONE Add Joanna's stuff to ExamSoft :tetralogy_of_fallot:vital_fluids_and_gases:
+  :PROPERTIES:
+  :ID:       CF91B260-6FF9-4FA6-82BA-8F9025A78326
+  :END:
+* DONE Add mastery quesitons to examsoft :tetralogy_of_fallot:vital_fluids_and_gases:
+  :PROPERTIES:
+  :ID:       AE66F2E6-D8FE-4DFB-B9CF-E337319F6710
+  :END::tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Add Pathology RA to guide :tetralogy_of_fallot:vital_fluids_and_gases:
+  :PROPERTIES:
+  :ID:       6DD28197-A575-49A4-8730-9228CA273BDC
+  :END::tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Add Pathophys materials	 :tetralogy_of_fallot:vital_fluids_and_gases:
+  :PROPERTIES:
+  :ID:   F8B18562-C33E-495E-A19F-FB6C7B9362F9
+  :END:
+
+* DONE FU: Bill about Student Dummy Account :myocardial_infarction:tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Put Mastery and RA quesitons into ExamSoft
+
+* DONE Let Angela know that the faculty guide is final and ask her to review it.
+
+* DONE Add pathophysiology objectives :tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Setup Dropbox with Anne 	 :tetralogy_of_fallot:vital_fluids_and_gases:
+  - Note taken on [2017-10-24 Tue 09:27] \\
+    message://%3C503889D8-1EA5-4E87-B034-16B8320CD63C@rush.edu%3E
+[2017-10-23 Mon 18:36]
+
+* DONE Send Gary your edits for the Embryology materials
+
+* DONE Make the video for the Tetralogy of Fallot faculty guide :tetralogy_of_fallot:vital_fluids_and_gases:
+
+* Check ToF CS progress		 :tetralogy_of_fallot:vital_fluids_and_gases:
+  - Note taken on [2017-10-26 Thu 06:46] \\
+    Talked to Rahul.  Hopefully he can help.
+* DONE FU: Mark Pool 		 :tetralogy_of_fallot:vital_fluids_and_gases:
+* Redo introduction to the case video
+[2017-10-28 Sat 05:46]
+Cancelled.
+* DONE Make various corrections marked on paper from Tuesday :tetralogy_of_fallot:vital_fluids_and_gases:
+* Review content for VGF with Lisa <2017-10-30 Mon 9:00> :tetralogy_of_fallot:vital_fluids_and_gases:
+** Course notes guide
+** Getting folders for the rest of the cases
+** Scheduled: Oct 30, 2017 at 9:00 AM to 10:00 AM, Location: OMSP 524
+* DONE CS Student Self-study	 :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE Post CBCL faculty guide	 :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE CBCL student guide	 :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE CBCL Student Self-Study	 :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE CS faculty guide		 :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE CS student guide          :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C6872039068884a42bcc3c182a76baec0@RUPW-EXCHMAIL01.rush.edu%3E
+* DONE Nina's objectives to Lina
+** message://%3Ca48a82b66c72407d813edbbe0793c633@RUDW-EXCHMAIL02.rush.edu%3E
+* DONE Times for disciplines to Lisa :tetralogy_of_fallot:vital_fluids_and_gases:
+** message://%3C4af85ec12b144196b9be9f3d62337d63@RUPW-EXCHMAIL02.rush.edu%3E
+
+* DONE Video Introduction to the Self-Study
+** You are responsible for ALL of the material in this guide for the CBCL on 11/9
+** Anatomy labs
+** Anatomy is stright forward
+** Physiology
+*** complicated, 
+**** usually taught in parts which is not ideal
+**** otehr advanced disciplines
+*** long - sorry.  Used to be five lectures.  You don't need to know everything.
+*** smaller epub file
+** Embryology
+*** videos
+*** answer the questions - these are different fro the mastery quesitons
+** Pathophys
+*** read the material, then watch the video
+*** don't forget the supplementary material at the end.
+** Pathology
+*** video with optional slides
+** Anatomy
+* DONE Ask Lisa ot fix links in self-study :tetralogy_of_fallot:vital_fluids_and_gases:
+[2017-11-01 Wed 06:31]
+
+* Link to anatomy into CS self-study :vital_fluids_and_gases:clinical_skills:
+** https://docs.google.com/document/d/1SXeWRAHNMf6eZ2Q6hkGx31QnmDx8d2pFx1WngtAhpXk/edit?ts=59f90a6d
+* DONE Insert mastery questions into CS self-study :tetralogy_of_fallot:vital_fluids_and_gases:clinical_skills:
+** message://%3Cpj9JJrDq6eFtZ1TXcoGUFQ@notifications.google.com%3E
+* DONE Import mastery CS quesitons into ExamSoft :tetralogy_of_fallot:vital_fluids_and_gases:clinical_skills:
+
+* DONE Uploda slides for Leader and embed into CS self-study document :tetralogy_of_fallot:vital_fluids_and_gases:clinical_skills:
+** message://%3C9b62738a6ce9490e8fe17e17ce54f1a2@RUDW-EXCHMAIL02.rush.edu%3E
+* DONE Lisa remove Objectives and Diciplines :clinical_skills:tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Questions and Answers :clinical_skills:tetralogy_of_fallot:vital_fluids_and_gases:
+* DONE Talk to Rahul about emailing the clinicain educators about the schedule
+
+* DONE Post Jim's video
+- Note taken on [2017-11-09 Thu 16:13] \\
+  https://youtu.be/pCfNUuAOX0I
+* DONE Get last years embryology stuff to the students. message://%3CA72EC7FB-09A3-4CE8-A9DB-9C94CA8EF347@rush.edu%3E
+
+* Clinician educator feedback from session [2017-11-13 Mon] :tetralogy_of_fallot:vital_fluids_and_gases:
+
+** Embed Heart-pedia
+
+** Explain tet spells in the guide
+* DONE [#A] [[message://%3c1539371049550.14491@rush.edu%3E][Put Scott's quesitons in the spreadsheet]]
+  [2018-10-13 Sat]
+* DONE [#A] Team Buidiubng to ToF
+  [2018-10-13 Sat]
+
+* DONE [#A] ToF session quiz <2018-10-18>
+  [2018-10-16 Tue]
+* DONE [#A] [[https://docs.google.com/spreadsheets/d/1ToCP826HikWL6JP0ohsuAbnEuL5qzRnVLZ-ujQNwdjo/edit#gid=406438897][Review Eli Whitnet quesitons]]
+  [2018-10-18 Thu]
+* DONE [#A] [[message://%3cED1E0CC4-2A6F-4639-85EC-D4A7C919F80B@rush.edu%3E][Fix the answers at the end of CV3]]
+   [2018-10-23 Tue]
+* [[message://%3cc666fc4420dc4aab9e5f143eb72c52e1@RUPW-EXCHMAIL02.rush.edu%3E][Small correction to the ToF case]] <2019-09-25 Wed>
+   [2018-10-25 Thu]
+* DONE [#A] Ask Mark about group that didn't get to debrief their quiz <2018-10-29 Mon>
+   [2018-10-25 Thu]
+* ON RADAR Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
+:PROPERTIES:
+:SYNCID:   2C95E147-6409-44E6-86BE-092D5B787180
+:ID:       061AD4AD-571D-44B2-918F-BF4EC0DEE547
+:END:
+* ON RADAR Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
+:PROPERTIES:
+:SYNCID:   A8AA234F-ED44-4CCD-96E1-3423ED9CA816
+:ID:       8BC80E5E-C4AD-46DD-904E-9D622F9FCCD5
+:END:

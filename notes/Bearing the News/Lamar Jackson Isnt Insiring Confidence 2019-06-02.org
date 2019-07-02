@@ -1,0 +1,17 @@
+#+BEGIN_EXPORT latex
+John Breech at cbssports.com \href{https://www.cbssports.com/nfl/news/lamar-jackson-had-no-idea-the-ravens-were-installing-a-new-offense-this-offseason/}{reports on Lamar Jackson's struggles with learning the Ravens offense}:
+
+\begin{quote}
+  ``With the Ravens hiring a new offensive coordinator this year, it probably shouldn't have come as a surprise to anyone in Baltimore that the team would be installing a new offense this offseason, but apparently, no one told Lamar Jackson.
+  
+``When Jackson showed up for the team's first round of offseason training activities (OTAs) last week, the Ravens quarterback literally had no idea that he was going to be spending his week implementing a new offense. 
+
+``'Coming in, I didn't know we would have a totally different offense,' Jackson admitted, via the Ravens' official website. 'When I got here, coach was like, 'Yea, we have a totally new system. You're going to have go through this and that.' It's been getting to me a little bit.'''
+\end{quote}
+
+I'm completely torn on this article.  I don't know what is worse, having a quarterback who didn't move to find out if the offense would be different or having a coordinator who didn't tell him.
+
+One thing is for sure.  Communication was definitely lacking.  I can't believe that the team didn't have the new offensive coordinator talking to the player to at least that extent.  And I can't believe that the player wasn't demanding to talk to the offensive coordinator to make sure they were on the same page and that he would be prepared for workouts.
+
+Baltimore has a well-deserved reputation for being a well-run organization.  But it looks like multiple people dropped the ball here.  Its not that they can't recover from a slow start in May.  But that fact that it happened at all isn't a great sign of things to come.
+#+END_EXPORT

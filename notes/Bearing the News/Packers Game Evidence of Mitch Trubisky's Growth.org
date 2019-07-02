@@ -1,0 +1,18 @@
+* Packers Game Evidence of Mitch Trubisky's Growth
+#+BEGIN_EXPORT latex
+\textbf{Rich Campbell} at the \textit{Chicago Tribune} comments upon \textbf{Mitch Trubisky}'s performance in their 24-17 win over the Packers at Soldier Field:
+
+\begin{quote}
+  ``No one should be surprised that Trubisky completed 20 of 28 passes in putting a division championship on his growing résumé. Or that he followed last Sunday’s career-worst rating of 33.3 with a 120.4 rating against the Packers. Or that he protected the ball and let the defense smother quarterback Aaron Rodgers all game.''
+
+  ``'I felt like (my game) was solid,' he said. 'We were consistent enough on offense. We wanted to stay out of third downs because we know they’re really good at third downs. And just score when we needed to in big opportunities.'''
+\end{quote}
+
+Trubisky wasn't asked to pass deep much but his short passes were generally on point and he wasn't sending the intermediate passes into orbit as has been his want at various times over the course of the season.  His good comfort level was very evident as the game progressed.
+
+Packer's defensive coordinator \textbf{Mike Pettine} had a slightly less aggressive game plan for the Bears than the last time the two teams played, a 24-23 loss for the Bears.  The first game, he brought pressure from all angles and did everything he could to confuse Trubisky and it generally worked.  This game he chose to mimic the plan that the Rams executed the week before, keeping a light box against the run and challenging Trubisky to throw with 5 men in coverage.  He did so partly because what the Rams did worked but also undoubtedly partly because he saw that the same thing might not work against a more experienced Trubisky.  In any case, Trubisky handled it well and when Pettine did call for a blitz, he countered with some nice throws, getting the ball out quickly.
+
+Anyone who watched both of these Packers games should be able to recognize Trubisky's growth.  Its been very gradual, game-by-game but the improvement should now be evident.
+
+Trubisky is pretty close to an average NFL quarterback right now.  I don't know where he is going to plateau off but it hasn't happened yet.  Its now evident that his emergence isn't going to happen in leaps and bounds.   But he's continuing to very gradually get better.  Its to be interesting to track it over the course of the rest of this season and next season.
+#+END_EXPORT

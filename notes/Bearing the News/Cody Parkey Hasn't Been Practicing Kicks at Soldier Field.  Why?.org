@@ -1,0 +1,26 @@
+* Cody Parkey Hasn't Been Practicing Kicks at Soldier Field.  Why?
+#+BEGIN_EXPORT latex
+\textbf{Colleen Kane} at the \textit{Chicago Tribune} reports \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-cody-parkey-four-uprights-20181111-story.html}{on Bears head coach \textbf{Matt Nagy}'s reaction} to kicker \textbf{Cody Parkey} missing two field goals and two extra points during \href{http://bearingthenews.com/blog/2018/11/11/quick-game-comments-lions-bears-111118/}{the Bears win over the Lions yesterday}:
+
+\begin{quote}
+``Nagy understood the fans’ disgruntlement but said after the game there’s 'zero chance' the Bears will try out new kickers this week. He insisted Parkey has his trust.
+
+``'It doesn't affect me going forward, but it affected me today,' Nagy said. 'And he knew that. In my head, there's a balance of showing trust to him by putting him back out there, but then there's also a level of understanding what’s best for the team. Sometimes you just have those days.
+
+``'So my trust is not shot at all with him. I know everybody else is going to feel that way, and I get it and that’s OK. But … he’s going to hit some big kicks for us just like he did last week.'''
+\end{quote}
+
+Special teams was miserable yesterday and there were a couple of poor kickoff returns.  But this adventure in kicking was by far the worst problem and it could cost the Bears in close games if it doesn't get solved.
+
+As Bears fans know, this isn't the first time this season Parkey has struggled in a game and it has previously occurred to me to wonder if he's been practicing kicking at Soldier Field but my assumption was that he was, of course, doing it.  Kane finally asked him and to my shock, the answer was ``No''.
+
+\begin{quote}
+  ``[Parkey] said he hasn’t practiced kicking at Soldier Field midweek to get a better feel for conditions there and indicated it wasn’t his place to say whether he should consider such sessions.''
+\end{quote}
+
+For heaven's sake, has he asked?
+
+Former Bears kicker \textbf{Robbie Gould} made such a trip along with whatever punter they had on the team every week to practice at Soldier Field in the different wind conditions.  No wonder Parkey isn't comfortable.  How is it a ``home field advantage'' if you haven't been practicing your kicks there?
+
+I'm starting to have serious questions about the quality of coaching the special teams unit is getting from coordinator \textbf{Chris Tabor}.  This is an easy fix and it has to be done now.
+#+END_EXPORT

@@ -1,0 +1,519 @@
+* *Tasks*
+** DONE [#A] Email Aimee abou Core workgroup policy changes
+** CANCELED John Walton surveyed students about burnout
+[2018-11-27 Tue]
+** DONE [#A] [[message://%3c4431e3c445eb448cb87d650de351cd75@RUPW-EXCHMAIL02.rush.edu%3E][Contact student about S&R Review]]
+[2018-11-28 Wed]
+** DONE [#A] [[message://%3c4431e3c445eb448cb87d650de351cd75@RUPW-EXCHMAIL02.rush.edu%3E][Do S&R Review]]
+SCHEDULED: <2018-12-04 Tue>
+[2018-11-28 Wed]
+** DONE [[message://%3c4431e3c445eb448cb87d650de351cd75@RUPW-EXCHMAIL02.rush.edu%3E][Contact student about S&R Review]]
+[2018-11-28 Wed]
+** DONE [[message://%3c4CB2F9B9-9085-499B-A01A-F267B577BAD7@rush.edu%3E][Talk to Mark about when to meet for standard setting]]
+[2018-11-30 Fri]
+** DONE [[https://docs.google.com/document/d/15cquHDfnRsqfxibrlh85XmwOt-g4Cz2CHaFEPrUPaoQ/edit][Look over new pre-clerkship review document]]
+[2018-12-19 Wed]
+** DONE [#A] [[message://%3c725378BB-D67F-4712-B535-B2BF3FD43D10@rush.edu%3E][Send out Mark's email]]
+[2018-12-22 Sat]
+** DONE [#A] [[message://%3cD2570E93-6A0E-4A21-8D89-AB4E380126A2@rush.edu%3E][Complete Mark's spreadsheet]]
+[2018-12-23 Sun]
+** DONE [#A] Check with Princess on I&I meeting agenda
+** DONE [#A] Remind people about Mark's spreadsheet
+** DONE [#A] [[message://%3c8aa93aef33734cd7b89748b3ac3511f6@RUPW-EXCHMAIL01.rush.edu%3E][Check Chris on Standard Setting]]
+** DONE [#A] [[message://%3cEEF6639D-29A8-4566-B52B-3E429324F880@rush.edu%3E][Remind Everyone about Standard Setting]]
+** DONE [#A] Talk to Mark about Assessment Subcommittee project
+[[message://%3c5267A3AF-CEE2-485C-A2DE-8807A50D4D16@rush.edu%3E][01/23/2019 Materials: CCE Executive Meeting]
+** DONE [#A] Go through spreadsheet to check pairings with LCME standards for course review survey
+[[https://docs.google.com/spreadsheets/d/1_qMNjkt37V1XxLZi42aLL3QcO1iR4anBQYMG0gJWCVk/edit#gid=0][Master Course Review Form Item Inventory-Draft - Google Sheets]]
+** DONE [#A] Look at VF CCE Review
+[[message://%3c669C83D2-1B04-4A8D-AB77-00BDE09FE338@rush.edu%3E][Re: RMD 574 course review]]
+[[message://%3cE36464E6-7A18-4A10-9461-B9C7FE76B49B@rush.edu%3E][Re: RMD 574 course review]]
+** DONE Read Vital Fluids Review and get back to Tom H with any additions of corrections.
+[[message://%3cbb9afb162d1947cfb8d00bac5e892f16@RUDW-EXCHMAIL02.rush.edu%3E][RMD 574 Vital Fluids Course Review 2019-.docx]]
+** DONE [#A] Check with Mark on exam project
+** DONE [[https://rmc-integrated.slack.com/archives/GC1HYMJNQ/p1550874787090000][answer poll]]
+[2019-02-23 Sat 06:45]
+** DONE Work on CCE horizontal integration
+[[message://%3c53BF1ED2-EAB6-4E70-8F32-B146EC93F7FD@rush.edu%3E][Re: Vertical Integration Checklist]]
+** DONE [#A] Talk to Aimee and Mark about course review policy.  Students should not actually be doing the presentation.
+** DONE FU Aimee
+[[message://%3cD3BEFF1C-176D-4ED5-8D17-E6E6943C7C86@rush.edu%3E][Core Workgroup Policy Changes]]
+** DONE [#A] Complete course review stuff and send to Chris including hours
+** DONE [#A] Talk to Mark about altering rounding proposal to specify that its retroactive to this year
+** DONE FU Princess on Group Course Review distribution to committee members.
+** CANCELED FU on schduling meeting reschedule
+** DONE [#A] Talk to Mark about giving the standards proposal to the course directors
+** DONE [#A] Tickler:  Ask Mark about proposal going to CDs
+** DONE [#A] Talk to Bob about whatever the role-related workload problem that he wants to send to CCE is :Bob_Leven:
+** DONE [#A] Check i&i minutes https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1555954543000100
+** DONE Talk to Lisa abt CCE
+** DONE [[message://%3cd9d00e70e786493ba805f6ce7af84377@RUPW-EXCHMAIL02.rush.edu%3E][Go over M1 WG agenda and prpare for meeting]]
+** DONE [[message://%3c9bce581bf8124b8ab6840e3d4298a291@RUPW-EXCHMAIL02.rush.edu%3E][Call Bob Leven and see if he will do foundations review at CCE]] :Bob_Leven:
+** DONE [#A] [[message://%3cb81e036cd2d34efa948bce185fc61bdc@RUPW-EXCHMAIL02.rush.edu%3E][GQ Review for pre-clerkship]]
+** DONE [#A] [[message://%3c1517457654428.57268@rush.edu%3E][Review Susan's letter]]
+** DONE VFG Course Review
+** DONE Contact student who will be doing comments
+** DONE Fill out form
+** DONE Incorporate comments from student
+** DONE Send review to DDs (if there's time)
+** DONE Send review to Lisa
+** DONE [[message://%3c089e08240a90f159f60567510cd2@google.com%3E][Check the Google Doc for Re-design]]
+** DONE [[message://%3CF04AA636-4695-42B1-867C-6BDDBD2E46E9@rush.edu%3E][Follow up with Jamie about new course form]]
+** DONE New course forms for Vital Fluid and Vital Gases
+** DONE [[message://%3cE9F56340-2206-4004-8472-CD777F752928@rush.edu%3E][See which subcommittee Maureen wants]]
+[2018-07-02 Mon]
+** CANCELED You need to figure out EXACTLY what "vertical integration" means and you need to do something about it
+*** https://www.reference.com/education/horizontal-vertical-curricula-48984cf58c3a211a
+** DONE Talk to Mike about I&I meeting in 1201.
+[2018-09-06 Thu]
+** CANCELED Check out modified Angoff technique for setting grading standards.
+[2018-09-06 Thu]
+** DONE [#A] Email link and workflow explanaiton to CCE
+[2018-09-12 Wed]
+** DONE [[message://%3c57FB23A8-4677-4848-953A-19893BB56D54@rush.edu%3E][Edit Tlak to Maureen/Lisa about workload document]]
+[2018-09-28 Fri]
+** [[message://%3ca6560f8ba9dd4379a82874e91c4aae7d@RUDW-EXCHMAIL02.rush.edu%3E][Materials for CCE Meeting]]
+[2018-10-20 Sat]
+** DONE [#A] [[message://%3cb397693018dc4172b53969517d04abee@RUPW-EXCHMAIL02.rush.edu%3E][FU Adam on review of "other" courses]] <2018-11-12 Mon>
+[2018-11-10 Sat]
+*** Decided to let this go and concentrate on getting these electives done this year.
+** DONE [#A] [[message://%3c1541975760981.44796@rush.edu%3E][Review CCE meeting notes]]
+[2018-11-12 Mon]
+** DONE [#A] Lucid chart
+** DONE [[message://%3cd611c73008864e64b18bdbad2813f515@RUPW-EXCHMAIL02.rush.edu%3E][Talk to Princess about scheduling meetings.]]
+[2018-12-13 Thu]
+***** DONE [#A] Look at Bob's prepliniary calendars
+:PROPERTIES:
+:SYNCID:   399DDF84-27B1-4D1C-A9EE-398A000526A1
+:ID:       25E2BF2E-586C-4FFB-BAD6-C9360C5352EE
+:END:
+[[message://%3cc83a34fc6bca4f11a35a0b86263fee81@RUPW-EXCHMAIL02.rush.edu%3E][Draft Calendar 2019-2020]]
+****** Fall
+******* Syed won't be able to make the debrief on 9/5.  He has clinic on Thursdays.  He needs to be there.
+******* We promised mid-block EBM sessions to the students.  I may be missing them but I don't see them.
+******* I don't see a formative in S&R.  Should there be one?
+******* Can we clear Thursdays after the formative 9/19
+******* Are we actually going to give them 2 weeks to study for the S&R final exam.
+******* Tetralogy of Fallot on 10/17 is a double case.  It would be extremely helpful if you coul dmove the final off of Monday into the previous week.
+******* I think we can justify putting the EKG workshop on 11/15 but Friday (11/16) would be better after the formative
+******* Pre-renal dehydration is a double case.  Putting it the Monday after the midterm on Friday is a disaster waiting to happen.  This session was universally reviled last year as it landed the day after a formative.  I don't know what to do with this session but putting it there is a problem.  Maybe you coud move this sesson to Tuesday and put the midterm on Thursday the week before.
+** TODO [[https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1556581343002900][Do the workflows for I&I]]
+** DONE FU Princess on inviting the whole commette to the I&I second meeting
+[[message://%3cCCCEBA54-BD67-48D8-8EC7-F50C0994A3C7@rush.edu%3E][Re: 2nd Implementation & Integration Meeting]]
+** DONE Write up procedure for CDs to go thorugh Workload data.
+:PROPERTIES:
+:SYNCID:   92DD5562-5183-4FC2-88D6-97BD3335AFC6
+:ID:       4D73BD36-232D-476D-A131-50929056E10A
+:END:
+** DONE [#A] Make Princess's corrections  [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/Procedure for Evaluating Workload 2019-05-02 (pj comments).docx][Procedure for Evaluating Workload 2019-05-02 (pj comments).docx]]
+** DONE [#A] Ask Aimee about the M3 grading policy.  The group was willing to vote electronically but they wanted changes highlighted and the reason for them.
+:PROPERTIES:
+:SYNCID:   09C94336-80A7-4FD4-8766-DC4618C04D9D
+:ID:       6B8F142A-F6DB-4839-BA08-72EE7A866780
+:END:
+** DONE [#A] Email Beth and have a sit down to talk about chair's duties
+** DONE Tagging Topics Feedback to Maria
+:PROPERTIES:
+:SYNCID:   55B0D59E-DDA9-4E5D-B6DA-A5BA84C7D4D8
+:ID:       339D60D0-9875-4CF1-B194-9480414ED728
+:END:
+[[message://%3cE5FAE181-4C3E-4DBD-8ABD-E480CE9427E5@rush.edu%3E][Re: Tagging Topics - Help with Instructions ]]
+
+Hi, Maria,
+
+So I tagged two assessments.  The second Formative in S&R, 2018-2019 and the third formative from the GU Block in the legacy curriculum (2016-2017).  A few things:
+
+1.  There was no 2017-2018 assessment.  The GU block was in the first year of the legacy curriculum and the reproduction is taught in the second year of the current curriculum.  So there was a one year gap where the reproductive material wasn’t taught.  I doubt this is a huge issue but you’ll want to account for it if necessary.
+2.  It was unclear to me whether the 2016-2017 assessment should be tagged.  The reason is because the formatives that year were non-secure.  For the purposes of the exercise I tagged it but this may be something that you might want to specify.
+3.  As I suspected, having Rahul’s wiki open was handy.  This allowed me to quickly identify topic numbers before actually trying to tag the time.  Doing a search for the topic number quickly brought it up.
+4.  The total time this took me was probably less than 30 minutes.  Once I’ve done a few it probably will be quicker.  But doing a summative would take a lot longer because the legacy items aren’t tagged and you have to go through every question to see if it was yours.
+
+Let me know if you need anything else.
+
+Tom S.
+** DONE FU: Aimee on [[message://%3c91F93F0B-264D-4026-80F8-7C44C1BFEC04@rush.edu%3E][Core WG items ]]
+** [#A] [[https://rmc-integrated.slack.com/archives/GG7465D36/p1551737933005400][SOPs for I&I]] :: Do this before Beth takes over to get it off her plate
+*** Grading rubric?
+** Look at workload assessment                                    :Princess:
+SCHEDULED: <2019-07-01 Mon>
+* *Ticklers*
+** DONE Workload as part of course review?
+[2018-11-27 Tue]
+** [#A] CANCELED  Talk to Princess about the status of the course review document
+[[message://%3c1551115136092.6806@rush.edu%3E][Re: Course Review Ad Hoc committee]]
+[[message://%3cE72F37DB-B446-4B35-8943-B16048772F70@rush.edu%3E][Update: Course Review Ad Hoc committee]]
+*** Talked to Anne about this.  ETA is May.
+** DONE [#A] Talk to Maureen about whatever this objective mapping is
+[[message://%3c91d51c50f7094c8889083429d5557274@RUPW-EXCHMAIL01.rush.edu%3E][Objective Mapping]]
+** CANCELED This goes out for electronic vote.
+[[message://%3cB708CBFA-487D-4336-975D-FE3399A34C22@rush.edu%3E][FW: Proposal from M4 WG]]
+
+They want to present it at the next meeitng instead
+*** We need a written proposal
+*** Michelle Sweet needs to talk to the CD about the concerns which were raised in the meeting.
+** Add urinalysis topic to pathophys and path and delete from practitioner
+SCHEDULED: <2019-04-29 Mon>
+:PROPERTIES:
+:SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
+:ID:       CADCFB95-3E7F-4842-84FD-F1EE311B0455
+:END:
+[[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
+** DONE [#A] Started the process of reviewing the new course review website.  I will probably encourage members to submit their comments via email so that we can have a quick vote at the next WG meeting.  Talk to Adam about this.
+SCHEDULED: <2019-05-16 Thu>
+:PROPERTIES:
+:SYNCID:   FFD0E2FF-C3E9-4FD7-84B1-E4C209F8E09C
+:ID:       EAD7BD62-A0A0-469B-8DDE-7E4D31FB17C8
+:END:
+** FU Michelle on [[message://%3c5F20EA86-144E-4ED7-8662-2377193D4E50@rush.edu%3E][M4 items for I&I]]
+** Consider talking to Rahul and Bob to get Princess some help with the workload assessment.
+** DONE If you havne't heard from Princess on it, foloow up on workload assessment a week from Monday.
+SCHEDULED: <2019-06-17 Mon>
+** FU Princess on workload assessment                             :Princess:
+SCHEDULED: <2019-07-01 Mon>
+:PROPERTIES:
+:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
+:ID:       7F16B359-E59B-4303-BA40-1D9A50CEB938
+:END:
+* *Meetings*
+** CCE <2017-10-25 Wed 12:00-13:00>
+*** Moving renal to sexuality and reproduction approved
+[2017-10-25 Wed 14:47]
+Scheduled: Oct 25, 2017 at 12:00 PM to 1:30 PM
+Location: 364 POB
+/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/2017.10.25.CCE.Agenda_FINAL.pdf
+*** [[message://%3ca6560f8ba9dd4379a82874e91c4aae7d@RUDW-EXCHMAIL02.rush.edu%3E][Materials for CCE Meeting]]
+[2018-10-20 Sat]
+** [[message://%3c25b2828e2d93421097f7da2c658f8198@RUDW-EXCHMAIL02.rush.edu%3E][CCE meeting materials Nov. 28]] <2018-11-28 Wed>
+[2018-11-27 Tue]
+** CCE Subcommittee Chair Check-in Meeting <2018-11-27 Tue 12:00-13:00>
+** CCE I&I <2018-12-12 12:00-13:00>
+*** Foundations Review Tabled pending discussion about getting rid of book that students were reading before panel dicsussions
+*** We discussed what to do about S&R triggering problem from difficult sessions (as with sexual assault victim)
+**** Make sure language about policy regarding these sessions gets put into the syllabus
+**** Make sure something goes into relevant faculty guides reminding students that they can leave if they get uncomfortable
+**** Add professional session addressing what to do in uncomfortable situaitons as a clinician.
+**** Make sure roles sessions have descriptive titles so that students know what's coming and can prepare.
+** CCE I&I <2019-01-09 12:00-13:00>
+*** Surgery Clerkship Proposal
+[2018-12-14 Fri]
+[[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/2018.11.07%20Surgery%20Clerkship%20Curriculum.%20Proposed%20Changes%20for%20M3%20Core%20Workgroup.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/2018.11.07 Surgery Clerkship Curriculum. Proposed Changes for M3 Core Workgroup.pptx]]
+** Standard setting exercise  <2018-12-20 10:30-11:30>
+Location: appear.in/shannon-physiology
+** Course Review Adhoc Committee Meeting <2019-01-23 Wed 10:00-11:00>
+Location: OIME, AAC 403, Large Conference Room (rm 407) (https://zoom.us/j/142637544)
+[[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/2019.01.23_course-review_materials.pdf]]
+** Course Review Adhoc Committee (CCE Implementation Subcommittee) <2019-02-04 Mon 15:00-16:00> Small Conference Room
+** Course Review Adhoc Committee Meeting, Large Conference Room <2019-02-06 Wed 15:00-16:00>
+Zoom: https://zoom.us/j/142637544
+** ROOM & TIME CHANGE: Committee on Curriculum and Evaluation (CCE) Executive Meeting <2019-02-27 Wed 13:00-14:30>
+Location: OIME, AAC 403, Large Conference Room **https://zoom.us/j/638903670**
+*** From Princess [[message://%3c634E8415-CC40-4818-AEC2-7DFA0DAFF238@rush.edu%3E][Re: Update: Course Review Ad Hoc committee]]:
+
+Regarding Clerkship/Elective Review:  We have a planning meeting scheduled for this Wednesday in which I was going to update you on the things that occurred while you were away. Michelle is referencing the Clerkship Reviews they are going to continue to use the Google sheets to collect their data for the remainder of the Academic year because the questions have changed as they initial presentation roll out. Therefore we would constantly have to redo the survey for that pathway.
+
+Regarding Pre-Clerkship Review:  The Course Reviews for Pre-clerskship are currently using the Word/Google Doc template.  The reviews are almost complete for the year.  In the interim, Anne and I will still buildout the Pre-clerkship and Clerkship/Electives phases in SurveyMonkey.
+
+Regarding Another Meeting:
+Right now, I don’t think we don’t need another meeting since we developing the survey, unless you both think otherwise. We learned toward the end of last week that we have to rebuild the survey from scratch to do the Progress navigation sidebar since our current subscription does not include that feature (our workaround it rebuilding it)
+
+Regarding Student Comments Checklist for LCME:
+Tom, I did speak to Jamie about scheduling the meeting regarding a checklist for the needed LCME requirements. She suggested that she take a crack at the checklist since it is based on LCME for your review.
+** CCE I&I; Room 981 <2019-03-13 Wed 12:00-13:00>
+*** [[message://%3cBD0DE167-E2F9-4E11-AC53-7EE669C50947@rush.edu%3E][Grade Rounding/Significant Figures Proposal for I&I]]
+Hi Tom,
+
+I’d like to propose to I&I that this language be added as an addendum to all RMC syllabi, effective this yea:
+
+All calculations involving grades will be rounded to the nearest tenth (##.#). If in the digit in the hundredths position (to the right of tenths position) is 5 or greater, the tenths position will be rounded up to the next highest digit. If in the digit in the hundredths position (to the right of tenths position) is 4 or lower, the tenths position will not change. This will apply to all student scores, minimum passing levels, and standard deviations. Minimum pass levels must be met to the tenth position (e.g., 70.0). As an example, a student score of 69.94 is reported as 69.9 and does not mean the minimum pass level (70.0).
+
+Thanks,
+Mark
+*** DONE [#A] Email Mark and ask him to specify the dates for propoosal
+*** Edge case for not rounding to nearest decimal that came out of discussion of rounding policy with Mark.
+Consider the folloiwng case:
+Pass cut is 69.51 (1.5 SD below mean)
+Student gets 65.49
+
+By the policy as written, pass cut and student score are both rounded to 69.5 and student passes.
+
+If we round to nearest % then pass score rounds to 70% and student rounds to 69.  Student doesn't pass.
+
+Mark assures me that edge cases like this do happen.
+*** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/group review 2019-03-08.docx][group review 2019-03-08.docx]]
+*** I&I materials
+[[message://%3c81404E20-D0C1-491B-AE67-7890C5B79C60@rush.edu%3E][Re: 03/13/19 Materials: CCE Integration & Implementation (I&I) Subcommittee]]
+*** [[~/Library/Mobile Documents/com~apple~Preview/Documents/2019.03.13 Implementation Materialsv2.pdf][2019.03.13 Implementation Materialsv2.pdf]]
+** Course Review Adhoc Committee Meeting; Room 981 <2019-03-13 Wed 10:00-11:00>
+** I&I scheduling <2019-04-05 Fri 8:30-9:00>
+*** [[https://airtable.com/shrxAMPkttn4uhYYF/tblPzjhutoiabRWhP?blocks=hide][Airtable - CCE IMPLEMENTATION]]
+*** Complex cases review
+*** Hem/onc review
+*** Student course review anonymity policy for May
+** I&I <2019-04-10 Wed>
+*** I&I materials and links
+[[message://%3c4f0a305765c1492a87513b4d4814db6d@RUDW-EXCHMAIL02.rush.edu%3E][04/10/19 Materials: CCE Integration & Implementation (I&I) Subcommittee]]
+*** Pre-clerkship meeting
+****** Complex cases review
+******* There was a recommendation in student comments that all students take the exam at the same time.  Fear of cheating was mentioned.
+******* Students didn't like the online leader session.
+******* There may have been a problem with EBM.  Students felt that some of the material was taught in Hem/Onc not Complex cases.
+****** Heme/Onc didn't get done.
+** I&I scheduling <2019-04-24 Wed>
+*** Make sure Aimee can speak for what is going on in M4 at scheduling meetings
+*** I&I chair elections
+** Exec. Meeting <2018-08-22>
+*** Alter course review template. <2018-09-12 Wed>
+*** Talked about altering pass-fail rates at exec. committee.  Ask for volunteers for subcommmittee. <2018-08-23 Thu>
+*** DONE Review P&P and decide what needs t be passed up the chain and what can stop at the subcommittee level.
+** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM  CHANGE - AAC 1094 <2019-04-24 Wed 12:00-13:30>
+:PROPERTIES:
+:SYNCID:   0204205B-C7E2-4B7A-87DF-7630EAE6F2FA
+:ID:       DBC42284-3307-411F-83A4-F69C81AE8ECB
+:END:
+https://zoom.us/j/638903670
+*** WG chair position will have a spot on exec next year.
+*** WG liasons are by position determined by WG.  They are voting members.
+*** Nothing needs to be approved at the workgroup level.  They can make recommendations.
+*** DONE [#A] Talk to Princess about BBC grading rubric electronic vote
+:PROPERTIES:
+:SYNCID:   67FE2C07-63E9-480D-956B-F9022663A6BF
+:ID:       B34196D9-938B-4FD4-BBD8-B8B689A544FD
+:END:
+
+Entered on [2019-04-24 Wed 09:20]
+** CCE I&I Planning Meetings (Bob, Tom & Aimee); Location: Large conference room <2019-04-24 Wed 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   8BCD37E6-A296-4BB2-A30B-6DBC1D79A6C7
+:ID:       988DF025-36B5-4B3A-A276-640170A5A5F4
+:END:
+**** [[https://airtable.com/shrxAMPkttn4uhYYF/tblPzjhutoiabRWhP?blocks=hide][I&I agenda in Airtable]]
+**** Mark's proposal
+***** DONE FU Princess on the status of Mark's proposal.
+:PROPERTIES:
+:SYNCID:   F26DA484-1B73-43E1-A697-A49291A1C3E3
+:ID:       E7C98DEF-F4D9-4D95-B118-584837AE8697
+:END:
+**** Elections
+**** Group course review process
+**** Course reviews for three courses
+***** 563 F2F
+***** 568 Hem Onc
+***** 569 Consolidated cases
+**** SPE - electronic
+**** Core Grading Policy
+**** Core course reviews
+***** Pediatrics
+***** OB/Gyny
+**** Course evaluation survey monkey
+***** DONE [#A] Add this to WG as well.
+**** Should we have a second May meeting?
+***** Second CCE I&I meeting 12-1 on May 29. <2019-05-29 Wed>
+**** FU:  Aimee will be out of town for I&I and Beth won't be there.  Aimee will find someone from Core to sub in.
+** FU: Set up Meeting with Princess
+*** Workoad precedure
+*** Automating group review
+*** New chair
+*** DONE FU Princess on the status of Mark's proposal.
+:PROPERTIES:
+:SYNCID:   F26DA484-1B73-43E1-A697-A49291A1C3E3
+:ID:       09976C54-2D03-49CB-97BA-61FB5ABCE37A
+:END:
+** DONE alk to Beth about being CCE Chair
+** Subcommittee chairs 2019-05-06 3:30-4:30
+:PROPERTIES:
+:SYNCID:   CDB3CAFD-63B4-43F0-BA6F-808B6C885CA5
+:ID:       91C178DB-6EDE-4783-A58F-C4F948A157DE
+:END:
+*** DONE [#A] Too many student effectively delaying M3 year by taking “primary care elective”.  What is that?  Ask Bob.
+*** There were a couple action items associated with the evaluation of the USMLE Step data for the rising M4 class (i.e. not the students who have just taken the exam.  Adam will expand.
+** CCE Integration & Implementation (I&I) Subcommittee; Location: ROOM CHANGE - AAC 985 **https://zoom.us/j/318926177**(First Meeting Only) <2019-05-08 Wed 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   26BDB418-8589-4562-9D99-12E1C8108196
+:ID:       06230E54-6F67-4042-9D47-166BD39322F5
+:END:
+*** DONE [#A] Contact Beth and congratulate her.
+*** DONE [#A] Ask Aimee about the M3 grading policy.  The group was willing to vote electronically but they wanted changes highlighted and the reason for them :: Decided that this could wait unti lthe next meeting.
+:PROPERTIES:
+:SYNCID:   09C94336-80A7-4FD4-8766-DC4618C04D9D
+:ID:       F8CD4AFD-96EE-44C9-80FD-46990E2E4BF5
+:END:
+*** New standards policy which assigns incomplete to students until make up went through pretty easily.  Unanmiously approved.
+*** Hem/Onc was reviewed and approved.
+*** I talked to Maureen afterwards and the review for Complex cases was accurate.  Tes twill be in testing  center and all five BSci cases sessions will be required but she will ask for an extra excused absence next year (total of two).
+*** DONE [#A] Contact Princess and tell her Maureen's review is fine.
+** Meeting with Deri <2019-05-08 Wed 3:00-5:00>
+:PROPERTIES:
+:SYNCID:   8D2C9225-560C-46FA-BA86-DEBA2255AEF0
+:ID:       E33E1199-2651-4822-B18D-DEF0BA2D7DC6
+:END:
+*** Went through the student comments with Deri.  The reviews were disappointing and he will make changes for next year.  These will be:
+**** Re-write notes using complete sentences.
+***** DONE [#A] Send Deri one of the VF cardiovascular lessons to look at.  
+Maybe both the Heart Lesson (Levis style) and the Structure and function notes which were converted from the Joel Michale style.
+**** Make sure all of the figures used in the videos aare in the notes.
+***** CANCELED I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+:PROPERTIES:
+:SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
+:ID:       A350A3C8-5B89-4500-B803-5FBE34BF9D45
+:END:
+**** CANCELED [#A] Re-write summative questions and maybe formative questions to make them consistent with each other and of the same difficulty.
+**** Re-record videos standing in front of the camera
+***** Record video with Deri <2019-05-15 Wed 13:30-14:30>
+*** Deri's personal problems with his wife and kids being in Kansas City aren't helping here.  The impression I got is that he is definitley planning to join them eventually.  He feels like he needs to leave Rush in order to jump start his research career.  I can't help him iwht that but I can with the teaching.  I don't think I have to plan on him leaving any time soon.
+** CCE I&I Planning Meetings (Bob, Tom & Aimee) <2019-04-29 Wed 14:30-15:00>
+*** [[https://airtable.com/shrxAMPkttn4uhYYF/tblPzjhutoiabRWhP?blocks=hide][I&I agenda in Airtable]]
+*** Policy for names and privacy from Aimee
+*** Group course review process?
+*** Workload audit?
+*** Course reviews for three courses
+**** 563 F2F
+**** 568 Hem Onc
+**** 569 Consolidated cases
+*** Core Grading Policy
+*** Core course reviews
+**** Pediatrics
+**** OB/Gyny
+*** Course evaluation survey monkey
+** Pre-clerksip WG meeting <2019-05-14 Tue 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   34A101F8-17F4-4B0B-8D19-663A6C7B0897
+:ID:       18B56CA1-90B7-4092-B8B6-BBC453189F84
+:END:
+***** Heme/Onc review took most of the time.  Which is ironic since I&I completed theri review at their last meeting.
+***** Started the process of reviewing the new course review website.  I will probably encourage members to submit their comments via email so that we can have a quick vote at the next WG meeting.  Talk to Adam about this.
+:PROPERTIES:
+:SYNCID:   FFD0E2FF-C3E9-4FD7-84B1-E4C209F8E09C
+:ID:       86B2258F-C48F-44A3-806F-D0B71E317ECA
+:END:
+** DONE [#A] Notify Princess of changes to be made to the agenda
+*** Move workload
+*** Privacy policy from the Core WG
+*** Heme Onc done
+*** Food to Fuel not done yet
+*** Add primary care review - this wasn't added.  It wasn't done yet.
+*** M3 grading policy
+*** Ask Amy about Health Days
+*** Core Grading policy to M4's?
+*** Course Reviews?
+**** FM 710 Course Review
+**** SUR 710 Course Review
+**** PED 710 Course Review
+**** EMD 703 Course Review
+**** Internal Medicine?
+** WAITING  Revise the instrucitons for the course directors for the workload review to account for the fact that there will be no 2019-2020 numbers.
+** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM CHANGE - AAC 1046  **https://zoom.us/j/638903670** <2019-05-22 Wed 12:00-13:30>
+:PROPERTIES:
+:SYNCID:   449383DF-0717-48E1-B035-6D852C4376F5
+:ID:       5A046471-DA14-416D-A136-2272DD68E7A7
+:END:
+*** [[~/Library/Mobile Documents/com~apple~Preview/Documents/2019.05.22_cce_exec_meeting_materials.pdf][2019.05.22_cce_exec_meeting_materials.pdf]]
+*** I&I Report report
+**** [[~/Library/Mobile Documents/com~apple~Preview/Documents/2019.05.08_implementation_meeting_materials.pdf][2019.05.08_implementation_meeting_materials.pdf]]
+**** [[https://docs.google.com/document/d/1bZwpaRelC1Y7KmC3dVtpO-qXCRZDBP5slFc_tg3aA6Q/edit][Revised SPE document - Google Docs]]
+**** Workgroup Reps
+***** Christine Tsai - is designated as “Preclerkship WG liaison” to the I & I
+***** Elizabeth Van Opstal - remains as designated “Core WG liaison” to the I & I
+***** James Wyatt - becomes the designated “M4 WG liaison” to the I & I
+***** Beth is the new chair
+*** The workgroup passed the "Incomplete - due to Assessment" proposal that I&I recommended.
+** 2nd Implementation & Integration Meeting; Location: AAC 1048 ** https://zoom.us/j/318926177 ** <2019-05-22 Wed 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   AB07075E-754F-4E53-9FD8-730D5C5A55F6
+:ID:       918BEA03-B19B-4D63-954B-2034FA6D32D5
+:END:
+*** Most of this meeting was taken up with approval of mindfulness course.
+**** Major sticking point - chaning this elective from 4 weeks of "Other" credit to 2 weeks of other and 2 weeks of patient care
+**** Students will round and see patients with a clinician (Dr. Quesada), then go out into their rotations and apply the teaching and report back.
+**** The concern around the room was about double dipping.  Using patient care in one rotation to get credit at the same time in another rotation.
+**** The proposal was tabled again.  The committee would like
+***** 2 weeks of actual patient care in the form of rounding with Dr. Quesada.  The amount of total time needs to be increased at least some.  32 hours was suggested.
+***** The students need to document their experiences with patients when they come back to discuss.
+**** DONE [#A] Talk to Arthur Hoffman
+**** It is clear that the workgroup needs to take up the issue of what to do about the M4 year.  Right now its the wild west.  How many hours constitutes a credit?
+*** M3 Grading policy was passed except the professionalism part which was tabled until the next meeting.  The concern was that limiting students with a "borderline" evaluation only to a pass was to harsh.  The committee suggested that a third designation be added.  Borderline get documented but grade unaffected.  The second tier is limited to a pass.  The third tier (Inadequate?) cannot pass.
+** I&I meeting <2019-06-12 Wed>
+*** The workgroup passed the "Incomplete - due to Assessment" proposal that I&I recommended.
+*** 2nd Implementation & Integration Meeting; Location: AAC 1048 ** https://zoom.us/j/318926177 ** <2019-05-22 Wed 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   AB07075E-754F-4E53-9FD8-730D5C5A55F6
+:ID:       BBE7672E-7DA5-42E5-8AB9-401092677727
+:END:
+**** Most of this meeting was taken up with approval of mindfulness course.
+***** Major sticking point - chaning this elective from 4 weeks of "Other" credit to 2 weeks of other and 2 weeks of patient care
+***** Students will round and see patients with a clinician (Dr. Quesada), then go out into their rotations and apply the teaching and report back.
+***** The concern around the room was about double dipping.  Using patient care in one rotation to get credit at the same time in another rotation.
+***** The proposal was tabled again.  The committee would like
+****** 2 weeks of actual patient care in the form of rounding with Dr. Quesada.  The amount of total time needs to be increased at least some.  32 hours was suggested.
+****** The students need to document their experiences with patients when they come back to discuss.
+***** DONE [#A] Talk to Arthur Hoffman
+***** It is clear that the workgroup needs to take up the issue of what to do about the M4 year.  Right now its the wild west.  How many hours constitutes a credit?
+**** M3 Grading policy was passed except the professionalism part which was tabled until the next meeting.  The concern was that limiting students with a "borderline" evaluation only to a pass was to harsh.  The committee suggested that a third designation be added.  Borderline get documented but grade unaffected.  The second tier is limited to a pass.  The third tier (Inadequate?) cannot pass.
+*** [[message://%3c7a19cd8179094e66830133cc92390d51@RUDW-EXCHMAIL02.rush.edu%3E][06/12/2019- Materials for June Implementation & Integration Meeting ]]
+**** [[~/Library/Mobile Documents/com~apple~Preview/Documents/2019.06.12_implementation_meeting_materials.pdf][2019.06.12_implementation_meeting_materials.pdf]]
+** Pre-Clerkship Workgroup Committee meeting; Location: AAC 1098 <2019-06-11 Tue 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   D2E66FD0-FB25-4D80-AE61-D03C1830C714
+:ID:       E097C935-DCF9-42F8-AA3A-2CA930662ACD
+:END:
+*** Food to Fuel
+**** ON RADAR Anne didn't like the pdf that the site outputted.  Ask her what to change.
+**** ON RADAR Make sure date of course are printed out on pdf
+**** Students wnated more time to study for final.  CSA is moved to before final which adds extra days.
+**** Material still dense.
+**** Final exam had too much trivia
+*** Large space session comments
+**** Didn't hear anything new or that hasn't been brought up before.
+** Princess about wonky numbers in physiology workload assessment <2019-06-20 Thu 14:00-14:30>
+:PROPERTIES:
+:SYNCID:   1BACFD6F-DE0B-4091-B894-7809C961C18E
+:ID:       1A2DB099-9C70-4E50-AAE0-652D7E0ACDD8
+:END:
+- Note taken on [2019-06-21 Fri 06:49] \\
+  Yes, they are wonky.  The spreadsheet was messed up and she will work on correcting it.  She doesn't seem to believe that we are talking about weeks of work so that's good.
+
+*** FU Princess on workload assessment                           :Princess:
+SCHEDULED: <2019-07-01 Mon>
+:PROPERTIES:
+:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
+:ID:       E5C65BAF-D0A7-4236-8669-CBF00DC5D9AC
+:END:
+** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM CHANGE - AAC 1046  **https://urldefense.proofpoint.com/v2/url?u=https-3A__zoom.us_j_638903670-2A-2A&d=DwIBAg&c=XxU8ngzB_WPJXKyiin_6iQ&r=RuY8qNzGruKLm-YXF26i3a2m7uI0vhiNPwrxL-dv2MQ&m=1Bp-hCjr0trH6vXgEi2XHSJBN2eBSJEKwp4ON8oaABM&s=dYDTiWt_g02MdkYuDSuK1YU1RO4vLHFCB_-PRJpQrpE&e=  <2019-06-26 Wed 12:00-13:30>
+:PROPERTIES:
+:SYNCID:   9157F9FF-6CF4-42AA-A7BA-BC23BCD6E63B
+:ID:       405432AB-B531-489B-A9A6-971946846D3A
+:END:
+*** TODO Nominate someone for chair-elect?
+- Note taken on [2019-06-26 Wed 17:05] \\
+ Maureen leaving has left the office vacant for 2019-2020
+*** Joanna Kuppy is chair of program design
+*** P&P
+**** UCC reps will be drawn from the ex-CCE chair and ex-program design chair is there is an opening.  Members who rotate off but are still a member of UCC will be ex-officio
+**** Same for UAC from program evaluation chair and the ex-I&I chair
+**** Attendance issue needs to be clarified?
+** I&I Scheduling <2019-06-26 Wed 13:30-2:00>
+:PROPERTIES:
+:SYNCID:   AC8CC662-7E92-4025-B203-5CB5DA79DBAE
+:ID:       C7A56075-114E-4F7A-AA95-A7252DFDB17D
+:END:
+*** Health Day will be approved electronically.  Goes into efect Friday.
+*** Bob brought up that we need to start review electives.
+**** DONE [#A] Talk to Mike about reviewing electives
+*** Meeting moved to the 17th becasue of conflict with COSEP
+
+* *Notes*
+** [[message://%3c1544155327135.66237@rush.edu%3E][I&I agenda for 12/12]] <2018-12-12 Wed>
+[2018-12-07 Fri]
+** [[https://docs.google.com/spreadsheets/d/1_qMNjkt37V1XxLZi42aLL3QcO1iR4anBQYMG0gJWCVk/edit#gid=0][Master Course Review Form Item Inventory-Draft - Google Sheets]]
+** Preliminary Vital Fluids Review 2019-02-01
+[[/Users/thomasshannon/Library/Mobile Documents/com~apple~CloudDocs/Word/RMD 574 Vital Fluids Course Review 2019-.docx]]
+** Notes for horizontal review [2019-03-07 Thu]
+*** We need CE training on how to do the clinical reasoning
+*** Recruit a CD from outside the committee to help with horizontal review?
+*** Email CDs and ask them what they think should be addressed?
+** [[https://airtable.com/shrxAMPkttn4uhYYF/tblPzjhutoiabRWhP?blocks=hide][I&I agenda in Airtable]]
+** [[https://docs.google.com/document/d/1EmU7VKDnNfXGfxr0zUdpcMtD3x_ev8WwtFlhSXyxdhU/edit][Mark's standard setting proposal]]
+** [[/Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/LaTeX/Miscellaneous/Instructions for Evaluating Workload/Procedure for Evaluating Workload 2019-05-03.docx][Procedure for Evaluating Workload 2019-05-03.docx]]
+:PROPERTIES:
+:SYNCID:   4573C6DE-9EAF-4703-BFF9-152548EF4FB9
+:ID:       9ED76825-6A04-49BB-846E-456EF2FD28A4
+:END:

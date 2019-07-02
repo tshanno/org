@@ -1,0 +1,8 @@
+* *Tasks*
+** DONE [#A] [[message://%3cBYAPR08MB51767B256A8C2A1D8AB6A783AC1E0@BYAPR08MB5176.namprd08.prod.outlook.com%3E][Solicitation Letter for Dr. Daisuke Sato]] Due June 30
+SCHEDULED: <2019-06-15>
+* *Ticklers*
+** DONE Due: [[message://%3cBYAPR08MB51767B256A8C2A1D8AB6A783AC1E0@BYAPR08MB5176.namprd08.prod.outlook.com%3E][Solicitation Letter for Dr. Daisuke Sato]]
+SCHEDULED: <2019-06-30 Sun>
+* *Meetings*
+* *Notes*

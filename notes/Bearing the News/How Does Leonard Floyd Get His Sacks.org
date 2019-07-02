@@ -1,0 +1,17 @@
+#+BEGIN_EXPORT latex
+\textbf{Lorin Cox} at \textit{USA Today}  \href{https://bearswire.usatoday.com/2018/06/23/5-things-pro-football-focus-data-tells-us-about-the-bears-entering-2018/amp/}{draws some conclusions} from the data at \textit{Pro Football Focus}:
+
+\begin{quote}
+  ``\textbf{Vic Fangio’s pass rush won on stunts and twists}''
+
+  ``The Bears weren’t one of the teams that used them the most often, but they ranked fifth in pressure rate when using stunts, affecting the quarterback on 45.6 percent of these plays.
+
+``That’s pressuring the quarterback on almost every other stunt. It helps having athletic pass rushers like \textbf{Leonard Floyd} and \textbf{Akiem Hicks} (respective to their positions) who can be tough to block when they’re on the move.''
+\end{quote}
+
+This tendency of the Bears defense to use stunts so effectively may be why they are a bit more comfortable with what is at best a mediocre group of pass rushers heading into the 2018 season.
+
+Having said that, one of the things you notice when you watch the Bears is that Floyd almost never gets pressure unless he's running a stunt.  There were a notable exceptions but for the most part Fangio schemed to get him free.
+
+If the Bears are going to have success this season, Floyd is going to have to have more success when he finds himself one-on-one with blockers on the outside.
+#+END_EXPORT

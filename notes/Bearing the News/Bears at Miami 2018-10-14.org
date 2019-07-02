@@ -1,0 +1,59 @@
+* Bears at Dolphins <2018-10-14>                           :Bearing_the_News:
+
+#+BEGIN_EXPORT latex
+
+
+\section{Defense}
+\begin{enumerate}
+\item The Dolphins came out running at the Bears right up the middle.  They had moderate success early and probably planned to wear the Bears defense out over time.  It may have worked as the Bears looked a little tired in the heat in the second half.  The Dolphins upped the tempo in the third quarter to take advantage.  Under the circumstances, you had to like the Dolphins chances at home in over time.
+\item The Bears were flat on defense and there was some pretty bad tacking out there from start to finish.  It resulted in some very big plays including a Dolphins game tying touchdown by Albert Wilson late in the fourth quarter.  In particular, Kyle Fuller really needs to start wrapping guys up.
+\item The touchdown to Wilson came on another of those shallow crossing routes that the Bears seem to be so susceptible to.
+\item The Dolphins gave Ja'Wuan James plenty of tight end help and they did a pretty good job of containing Khalil Mack.  
+\item The Bears struggled to generate a pass rush.  Eventually they started playing more games up front and blitzing.  They got a bit more on Oswieler in the second half after that.
+\item Roquan Smith had a good job tracking Kenyan Drake around the field.  Drake is a pretty good pass catcher out of the backfield.
+\item The Dolphins evidently liked their tight ends matched up against safety Adrian Amos.  They went to them a number of times and had some success doing it.
+\item One of the things the Patriots did a good job of against the Dolphins was chip their smaller receivers off of the line of scrimmage, especially Danny Amendola in the slot.  Surprisingly the Bears decided not to do that and the Dolphins receivers frequently ran free through the defensive backfield.
+\item Two Dolphins possessions in the read zone in the third quarter resulted in field goals both times with the Dolphins struggling in the red zone.  If you are a Dolphins fan those have to be touchdowns.
+\end{enumerate}
+
+\section{Offense}
+\begin{enumerate}
+\item The Dolphins came out with 8 in the box, basically daring the Bears to pass.
+\item Mitch Trubisky was erratic despite having time to throw.  He threw two uncatchable balls in the first possession.
+\item Rahad Jones had a very good game.  He was pretty much everywhere.
+\item The Dolphins evidently had some pretty good coverage on the back end.  Trubisky had all day to throw but he struggled finding open receivers.
+\item As I feared, this was the Trubisky that we saw against Arizona.  The Dolphins played a heavy dose of man coverage and Trubisky had a very difficult time finding his receivers and looked confused.  If he doesn't have a very well defined read, he's got a problem.  The Dolphins didn't blitz much but when they did, he reacted poorly.  In fairness, he looked better in the second half but he's got a long way to go.
+\item The Bears offensive line did a pretty good job but there were breakdowns in protection on obvious passing downs that need to not happen.
+\item The Bears continue to target Taylor Gabriel on the deep passing game rather than Allen Robinson.  Robinson is taller and is better going up to get the 50:50 balls but the Bears believe that Gabriel is fast enough to out run the cornerbacks in the league.  I haven't seen that much in the games, though.  In fairness Gabriel caught two long passes but he was well covered.  I'm not a believer, yet.
+\item The Bears finally caught the Dolphins in a stunt on the third touchdown by Tarik Cohen.  This was a testament to continuing to run the ball despite limited success.  The Patriots pulled off some similar big runs against the Dolphins two weeks ago but it takes discipline to pull it off.
+\item Another monster game for Tarik Cohen.  He's a terrible mismatch with any linebacker.  By the end of the game the entire Dolphins linebacking corp and a safety were all following him around the field.
+\end{enumerate}
+
+\section{Miscellaneous}
+\begin{enumerate}
+\item Brian Custer, Greg Jennings and Doug Gotlieb were your announcers and didn't impress me much.  There wasn't much in the way of unique insight and they did teach the audience much of anything.
+\item Jason Sanders hit a solid 60 yard field goal in mid-third quarter that looked like it would have been good from 60.  Other than that, I don't think special teams had a lot to do with anything.  That's a win for the Bears as the Dolphins special teams have generally been very good this year.
+\item The Bears had a delay of game late in the first quarter.  That killed a drive in which the Bears went for it on fourth own and didn't get it.
+
+  The Dolphins had a pass interference and a defensive holding call in the same series, giving he Bears a first down both times.
+
+  Minkah Fitzpatrick had a damaging pass interference early in the second half.  I'm not really that surprised.  He tends to be pretty physical in coverage.  The Bears converted it into a touchdown.
+
+  Frank Gore got shaken up on what should have been a helmet to helmet call.  That was a bad miss in terms of player safety.
+
+  The Bears had a couple illegal formation calls that were irritating.  Apparently they had a receiver that wasn't lining up on the end of the line.  They need to clean that up.
+
+  Bad pass interference call on Trey Burton on what would have been the fourth Bears touchdown.  Burton barely touched Kiko Alonzo on what looked like a legitimate NFL play.  It was followed by an interception in the end zone and eventually it turned into a Dolphins touchdown with a two point conversion.  That's a 15 point swing.
+
+\item Albert Wilson dropped one early.  Amendola had a drop early in the second half.  Other than that, I don't think they factored into the game much.
+\item Jordan Howard lost a devastating fumble late in the second half on the goal line that likely cost the Bears 7 points.  Brock Osweiler returned the favor by throwing an interception near the Bears goal line shortly afterwards with less than a minute left in the half.  Kyle Fuller had a bad Osweiler interception early in the second half.  The Bears converted it into a touchdown on a pass to Allen Robinson on the next play.
+
+  Of course the crowning turnover was the Tarik Cohen fumble with less than two minute left at mid field.  
+
+\item If I see one more ``9-1-1'' commercial I'm going to puke.  Cops, firemen, doctors!  Everything you need to be a hit!  If you're about 70 years old.
+\item If you are a Dolphins fan, the continuing lack of discipline has to be worrying.  They shot themselves in the foot a lot today and they were working a small, dink and dunk game plan where they really couldn't afford set backs.  Both teams had too many penalties.  Third and nine late in the fourth quarter and you have a broken coverage.  If you are the Dolphins, that really hurts.
+\item The Bears looked flat coming off of the bye, especially on defense.  On the other side, the Dolphins looked like they were pretty high for this one, evidently seeing it as a winable game.  Sometimes teams pull together in the face of adversity and with Ryan Tannehill out, the may have been the case here.
+
+  The Bears were a step slow all over the field.  The Dolphins have some speed which, of course, didn't help.  The heat probably didn't help either.  Eventually the Bears defense wore down and it was over.  
+\end{enumerate}
+#+END_EXPORT

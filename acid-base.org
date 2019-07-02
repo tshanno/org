@@ -1,0 +1,92 @@
+* *Tasks*
+** DONE Ask Christine about changes to acid-base
+SCHEDULED: <2018-12-28 Fri>
+   [2018-12-10 Mon]
+** DONE [#A] Insert links to pathophys videos for acid-base and notify Denise
+   [2018-12-23 Sun]
+** DONE [#A] Osmosis videos for pathophys?  After that, update the plan of study and contact Denise :Denise:
+   [2018-12-23 Sun]
+** DONE [#A] [[message://%3cD31A66EF-0051-4B20-9A9B-6515805CB51F@rush.edu%3E][discuss the pathophysiology with Denise]]                :Denise:
+   SCHEDULED: <2018-12-27 Thu>
+   [2018-12-24 Mon]
+** DONE [#A] [[message://%3cQksueWJOR6NNGfNJXj18sw.0@notifications.google.com%3E][Review Paractitioner acid-base]]                         :Denise:
+   [2018-12-27 Thu]
+** DONE [#A] [[message://%3cc5a3ec8c98f3440bbd82d41141df444d@RUPW-EXCHMAIL02.rush.edu%3E][Review acid-base self-study]]
+   [2018-12-28 Fri]
+** DONE [#A] [[https://docs.google.com/spreadsheets/d/1tEa6UqTPG5y3fVXXfPCvnUEW3TTQj1j7ZbGhtJ_dW6s/edit#gid=584839142][Alter acid-base plan of study]]
+** DONE [#A] [[message://%3c5D707988-7581-48A5-A6FD-F3420FF9DC87@rush.edu%3E][Acid-Base questions]]
+** DONE [#A] [[message://%3cfff38bff968c443393338c049d307e93@RUPW-EXCHMAIL02.rush.edu%3E][Review acid-base self-study]]
+** DONE [#A] [[message://%3c7a5dcfb4ba0a4a92a0b1549194ea7bcf@RUPW-EXCHMAIL02.rush.edu%3E][Assign Allen to a session]]
+** DONE [#A] Answer Assessment Challenge
+	[[message://%3c29fb17067a2daa6.3e01499988a72e2955e99f93b6720c4a@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 5514_Submission_Acid Base Vignette BSci Session Assessment]]
+** DONE [#A] Answer Assessment Challenge 2
+	[[message://%3c4382b8d481223b5.d1d285c32e9f36e156c4b8266a06edd6@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 5517_Submission_Acid Base Vignette BSci Session Assessment]]
+** DONE [#A] Answer assessment challenge 3
+	[[message://%3c076ac181b547222.36437d521567aa19f0d2ebcddf0924a3@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 5520_Submission_Acid base vignettes BSci Session Assessment]]
+** ON RADAR [#B] Correct the "Reynolds Equation" in COPD pathophysiology.  Do this now.  It propagated from last year and we can't have it happen again.
+** DONE [#A] Check assessment challenge
+	[[message://%3c1547822494807.94567@rush.edu%3E][Re: Assessment Challenge_ID# 5514_Submission_Acid Base Vignette BSci Session Assessment]]
+** ON RADAR Program for Fluids and Electrolytes tables?
+* *Ticklers*
+** DONE [#A] faculty guide posted
+SCHEDULED: <2019-01-10 Thu>
+* *Notes*
+** Change office hours on first slide of AB1 General Acid-Base
+** Dump the Practitioner self-study
+*** Chrsitine basically told students to ignore it in 2019
+* *Session Notes*
+** BSci - Acid Base <2019-01-17 Thu 8:00-12:00> <2019-01-17 Thu 13:00-17:00>
+
+
+*** Dump renal questions in acid-base faculty guide
+* [[message://%3cfc59e0cae69c439eadd9c7e11016e29c@RUPW-EXCHMAIL02.rush.edu%3E][FU:  Janice]] <2018-08-24 Wed>
+  [2018-08-13 Mon]
+* DONE [[message://%3czLODaYk9m-WeY3PmhPz2TA.0@notifications.google.com%3E][Davenport Diagrams for Acid-Base]]
+  [2018-08-13 Mon]
+* DONE [#A] [[message://%3c9pf2jQWBx3Wx2InJ4zkTuw.0@notifications.google.com%3E][Acid-Base Mastery questions]]
+  [2018-08-22 Wed]
+* DONE [#A] [[message://%3cd6de024e80394035bc4ed88b783eb10f@RUPW-EXCHMAIL02.rush.edu%3E][Acid-Base edits and self-study questions]]
+  [2018-08-25 Sat]
+For Denise to do:
+*** Alter coverpages to add titles
+**** GENERAL ACID/BASE BALANCE
+**** BUFFERING RESPONSE TO AN ACID/BASE IMBALANCE
+**** COMPENSATORY RESPONSES TO AN ACID-BASE IMBALANCE
+**** FOR REVIEW ONLY: Fluid and Electrolyte Balance
+*** Please add the following explanation to the fluids and electrolytes coverpage:
+
+The following is for REVIEW ONLY.  The material in this lesson is made up entirely of material that you were exposed to in the Host Defense
+Host Response Block. As a result, this material is considered to be review and you are not obligated to
+read/view the content if you feel comfortable with your knowledge of it already.
+
+Note that though I will not be flipping through this lesson and asking questions DIRECTLY about the
+content, I will assume that you know it and can apply it in relation to new material. If, therefore, you feel
+weak on the subject or you do not feel confident that you remember it well, I strongly suggest that you
+at least quickly review the content either by scanning the document or watching the videos at double time
+(or both at the same time). Also note that this is background which will be important for the fluids and
+electrolytes pathophysiology which you ARE responsible for.
+* DONE [#A] [[message://%3C0317718E-5309-4F0C-8C23-C92689F67D6C@rush.edu%3E][Make sure all the changes were made to the acid-base course notes volume]] before is is posted. <2018-08-30>
+  [2018-08-28 Tue]
+* DONE [#A] Old exam questions for formative
+* DONE Get objectives from Anne for acid-base case
+  [2018-09-06 Thu]
+* DONE [#A] [[message://%3c9eabec6bc79d44d4afa7a64991c39c45@RUPW-EXCHMAIL01.rush.edu%3E][FU letter from Susan about EPIC/HIPAA]]
+  [2018-09-13 Thu]
+* DONE [#A] [[message://%3c2707166F-8271-4A54-948F-D4AB7084FB58@rush.edu%3E][Send ABASE to Deri]]
+  [2018-09-13 Thu]
+* DONE [[message://%3C8fa12c76933f4d2d8ed932ff1741c96b@RUPW-EXCHMAIL02.rush.edu%3E][Check on acid-base questions for Lauren]]
+  [2018-09-14 Fri]
+* DONE [[message://%3c1536947740204.22815@rush.edu%3E][Correct acid-base objectives]]
+  [2018-09-15 Sat]
+* [[message://%3c1537048169075.57811@rush.edu%3E][Consider posting an acid-base K correction to the discussion board]]
+  [2018-09-16 Sun]
+* DONE Post acid-base faculty guide with corrections
+  [2018-09-17 Mon]
+* DONE [#A] Check ABASE program
+  [2018-09-18 Tue]
+* Post revised faculty guide for acid-base <2018-09-20 Thu>
+  [2018-09-18 Tue]
+* DONE Ask Anne about Winter's equation
+  [2018-09-21 Fri]
+* DONE [[message://%3cFDBEB677-8821-48F6-8711-0CFF26CDC0E0@rush.edu%3E][FU Anne about whether this WS really belongs in VG or VF]]
+  [2018-10-05 Fri]

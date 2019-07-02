@@ -1,0 +1,18 @@
+* Improved Pass Rush Makes Offenses Predictable, Increases Turnover Opportunities
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-vic-fangio-bryce-callahan-20181128-story.html}{answers your questions}:
+
+
+\begin{quote}
+"The Bears’ interceptions have skyrocketed this season. They’ve only had one game this year without one. If you assigned responsibility for this improvement, how much credit would go to the scheme, the pressure up front and the improvement of the individual players, respectively? — @chriscremer5
+
+``The Bears have been very opportunistic on defense this season and that’s been one of the real keys to their success. Their plus-14 turnover differential is tied for best in the league and few statistics are more central to success than the turnover margin on a week-by-week basis. After generating only eight interceptions in 2015 – an all-time franchise low – eight in 2016 and eight again in 2017, the Bears are on pace to surpass that three-year total this season and they should do it before the Week 17 finale at Minnesota as they lead the NFL with 20. I would attribute the spike to a much improved pass rush. The more disruptive the front seven, the more chances the defensive backs will have. The scheme hasn’t changed. Yes, the defensive backs are catching the ball more when they get chances to this season but the biggest difference has been the improved pass rush. It’s also worth noting that they have been playing with the lead a lot more this season than in the recent past and anytime a defense is playing with the lead, it’s able to attack the quarterback a little more and make plays on the back end."
+\end{quote}
+
+There's no doubt that the addition of \textbf{Khalil Mack} has made a difference in the turnovers.  Just the ones he accounnts for directly by causing the quarterback to fumble are significant.  But it goes farther than that.
+
+Teams have taken to getting the ball out quickly against the Bears because of the pressure that Mack and the rest of the front seven has been putting on defenses.  This has effectively neutralized the pass rush in that there have been fewer sacks but it has also made offenses predicable.  Bears defensive backs don't have to live in constant fear of getting beat deep on a double move because quarterbacks can't afford to hold the ball.  This has allowed players like \textbf{Eddie Jackson} to jump short routes at key times during the game.
+
+
+
+#+END_EXPORT

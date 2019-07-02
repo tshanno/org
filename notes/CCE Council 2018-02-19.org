@@ -1,0 +1,4 @@
+* EBM/Capstone changes
+** Combining them - split inot topic groups of 20, subgroups of five for a project.
+** How does this fit in with existing elective?
+** Spread evenly between groups

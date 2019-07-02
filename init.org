@@ -1,0 +1,37 @@
+* scheme
+#+begin_src scheme
+
+    (define (bold)
+      (insert "**")
+      (backward-char))
+
+    (define (bold-region)
+      (region-text-set (string-append "*" (region) "*"))
+      (goto-char (region-end)))
+
+    (define (italics)
+      (insert "****")
+      (backward-char 2))
+
+    (define (italics-region)
+      (region-text-set (string-append "**" (region) "**"))
+      (goto-char (region-end)))
+
+    (set! editor-toolbar-items '(("icon-star"
+                                  (if (string=? (region) "")
+                                      (bold)
+                                      (bold-region)))
+                                 ("icon-bolt"
+                                  (if (string=? (region) "")
+                                      (italics)
+                                      (italics-region)))
+                                 ("icon-left"
+                                  (backward-char))
+                                 ("icon-right"
+                                  (forward-char))
+                                 ("icon-up"
+                                  (previous-line))
+                                 ("icon-down"
+                                  (next-line))))
+
+#+end_src

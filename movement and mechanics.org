@@ -1,0 +1,76 @@
+* *Session Notes*
+** M&M: Q&A Session (Case 1 and 2 content); AAC 539 <2019-04-05 Fri 12:00-13:00>
+
+* *Notes*
+** [[https://docs.google.com/spreadsheets/d/1O3sA5WOTV54okOaPY5bfmohr5IedZfc3s7P1rLQevwc/edit#gid=159218093][Case Completion Checklist]]
+** [[https://docs.google.com/spreadsheets/d/1_SFwYXgl5QSbwI0-1pJW_IZddLdHbRD7CEtaZCC-5K8/edit#gid=767469620][Assessment Blueprint]]
+** [[https://courses.washington.edu/bonephys/opbis2.html][Bisphosphonates: Effects on bone]] 
+** [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2667901/pdf/nihms100526.pdf][Bisphosphonates Mechanism of Action]] 
+*** Lots of video making
+:PROPERTIES:
+:SYNCID:   F77FC921-B97D-4CE5-A294-8134DA8F58EC
+:ID:       A7C925A3-FB64-4BBE-B753-2F1BD82A99CC
+:END:
+**** Re-recorded part 2 of osteoporosis physiology review and uploaded to youtube
+**** Cut the first slide (office hours, etc... had changed) from osteoporosis part 1 and uploaded to youtube.
+**** Cut the first slide from muscular dystrophy part 1 and re-uploaded
+**** Cut the first slide from myasthenia gravis part 1 and re-uploaded
+**** Uploaded all corrected PowerPoints and video links to Entrada.  Muscular dystrophys stuff is scheduled for release Thursday after the session.  All else immediately released.
+**** Also added the second part of the R1 Introduction to the Respiratory System, exported from iMovie, and uploaded to youtube.  this is a new, longer video with an "Intermission" slide half way through rather than two seperate videos.
+Entered on [2019-04-16 Tue 11:40]
+  
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/notes/video%20links%20for%20curriculum.org::*Muscular%20Dystrophy%20Physiology%20Review%20Part%201%202019-04-16:%20https://youtu.be/u-KdQDe1ZMc%20(12:38)][Muscular Dystrophy Physiology Review Part 1 2019-04-16: https://youtu.be/u-KdQDe1ZMc (12:38)]]
+
+* *Ticklers*
+** Check the M&M forum
+	[[https://entrada.rush.edu/community/rmd56419spru:discussion_board?title=Movement%20and%20Mechanics%20Questions%20and%20Answers][RMD 564 (19SPRU)]]
+* *Tasks*
+** DONE [#A] [[message://%3c7050d99c6b944bc7abab7cd0cedbf21f@RUPW-EXCHMAIL02.rush.edu%3E][Adam's Sheet]]
+   [2018-12-14 Fri]
+** DONE [#A] Objectives for M&M
+	[[message://%3c207cdd27b005447185ddbf5e8c61a8b5@RUPW-EXCHMAIL02.rush.edu%3E][Time to finalize M&M objectives]]
+** DONE [#A] Check the M&M lesson videos to make sure they are OK
+** DONE [#A] Movement and Mechanics Material Due 3/5
+	[[message://%3c10d2c755d1de49e4be5be4be0a27fe9c@RUPW-EXCHMAIL02.rush.edu%3E][MM Physiology Deadlines]]
+** DONE [#A] Make an introductory video for movement and mechanics - what does "review" mean?
+** DONE Add two formative items to MM
+** DONE [#A] Rooms for movement and mechanics
+** DONE [#A] Movemenr and Mechanics summative questions
+	[[message://%3c905228E9-6AE2-496E-9B06-5489E692B275@rush.edu%3E][RMD 564 M&M Summative Assessment Items Due]]
+** DONE [#A] Post practice exam questions
+** DONE Look at rationale for item 2280 on M&M summative
+	[[message://%3c41d715c5f5d64b10ac2b5b0774e6a588@RUPW-EXCHMAIL02.rush.edu%3E][FW: summative questions for M&M]]
+** DONE Post sekeletal muscle old exam questions
+** DONE [#A] Edit Kara Connors video - first slide
+** DONE [#A] Edit skeletal muscle video - first slide
+** DONE [#A] Add rationales to the M&M summative questions
+	[[message://%3c3CA4A89D-86F1-4E03-B5FE-F20D0056F926@rush.edu%3E][Item Revisions Needed]]
+** DONE [#A] Replace quesiton 2246 on summative - thi sis really not related closely enough to the synapse.
+** DONE [#A] Put together quesitons for movement and mechanics make up :: [[message://%3c0ee4f64b592b4455948a1b2462b413f0@RUPW-EXCHMAIL02.rush.edu%3E][FW: 564 Reassessment Blueprint]]
+** DONE [#A] Talk to Adam Wilson about MH activity [[message://%3c9a7df0bba11e4ce196f5b8718ded396a@RUPW-EXCHMAIL02.rush.edu%3E][FYI: Regarding M&M course review]]
+
+* *Meetings*
+** RMD 564 Summative Review; Location: AAC 969 <2019-04-17 Wed 10:00-11:00>
+
+** Tom Shannon - Samiya Diawara <2019-04-23 Tue 10:30-11:00>
+** RMD 564 Summative Assessment Performance Review; Location: AAC 1094 <2019-04-29 Mon 10:00-11:00>
+** RMD 564 Summative Assessment Debrief; Location: AAC 539 <2019-05-08 Wed 8:00-10:00>
+
+* DONE Find out from Adam when he wants student lunches
+* DONE [#A] [[message://%3c842350e2a9c14862ba9115d61e6aa9e9@RUPW-EXCHMAIL02.rush.edu%3E][Final exam questions]]
+* DONE [#A] Send MG case to Maureen
+* DONE [[message://%3c70dc6e3bb1684669ba3561c0e93beb1f@RUDW-EXCHMAIL02.rush.edu%3E][Look at Shanu's exercise]]
+* DONE [[message://%3c032ba24bb5934ec99b0e9c1227ebd9a3@RUPW-EXCHMAIL01.rush.edu%3E][Create Osteoporosis exercise]]
+* DONE [#A] Invite students to lunch
+* DONE [#A] [[message://%3c6389a98be3bf4aad815b4968b1b76b48@RUPW-EXCHMAIL02.rush.edu%3E][Exam items]]
+* DONE [#A] [[message://%3c20ad78af5f414a828f19d7702f736f16@RUDW-EXCHMAIL02.rush.edu%3E][Prepare slides for review on Wednesday]]
+* DONE [#A] [[message://%3c148E7F4C-169B-4321-B2FD-A901035891EA@rush.edu%3E][Prepare review slides for summative review on Friday]]
+* DONE Movement and Mechanics questions
+  [2018-06-26 Tue]
+  [[file:/ssh:bearin8@bearingthenews.com#2222:/home/bearin8/diary::%25%25(and%20(diary-float%20t%202%204)%20(not%20(diary-date%2004%2024%202018))%20(not%20(diary-date%2006%2026%202018)))%2012:00-13:00%20M2%20Work%20Group]]
+* Syed - Add kidney stones to osteoporosis <2019-02-15 Fri>
+  [2018-10-05 Fri]
+** Told Adam to remind him to do this.
+* DONE [#A] Re-do Susan Campbell Review videos
+Part 1 is OK but cut the beginning with the old office hours
+Part 2 needs to be completely redone - its now primary hyperparathyroidism

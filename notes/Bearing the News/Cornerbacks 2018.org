@@ -1,0 +1,48 @@
+#+BEGIN_EXPORT latex
+\textbf{Dan Wiederer} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-cornerbacks-prince-amukamara-kyle-fuller-20180711-story.html}{reviews the Bears situation at cornerback}:
+
+\begin{quote}
+  ``Projected on final roster: 6-7.
+
+``Roster locks: \textbf{Kyle Fuller}, \textbf{Prince Amukamara.}
+
+``Good bet: \textbf{Bryce Callahan.}
+
+``On the bubble: \textbf{Sherrick McManis}, \textbf{Marcus Cooper}, \textbf{Cre’Von LeBlanc}, \textbf{John Franklin}.
+
+``Practice squad candidates: \textbf{Kevin Toliver}, \textbf{Doran Grant}, \textbf{Michael Joseph}, \textbf{Rashard Fant}.
+
+``Camp depth: \textbf{Jonathon Mincy}, \textbf{Nick Orr}.''
+
+``Fuller, whose roster spot seemed to be in jeopardy at this time a year ago, turned in an encouraging performance in his contract season. He had 22 passes defensed, second most in the league, and had interceptions off Jimmy Garoppolo in Week 13 and DeShone Kizer three weeks later.
+
+``Fuller’s reward? That hefty four-year contract and the full confidence of his teammates and coaching staff.''
+
+``Biggest question: Is Amukamara serious?
+
+``Heading into his eighth NFL season, the 29-year-old veteran has set a lofty individual goal for 2018. Ready for it? “I’m really looking for a 10-pick season,” Amukamara said last month.
+
+``This from a corner who has seven career picks and none since intercepting Kirk Cousins in September 2015. For Amukamara, that was 37 games and two teams ago.''
+\end{quote}
+
+A couple thoughts here:
+
+\begin{enumerate}
+\item If the Bears are keeping 6-7 that means that all of those players who are ``on the bubble'' could make the squad.  Not much in the way of competition at this position, which looks like its going to be the least interesting in training camp when it starts next week.
+\item Amukamara's goal of getting 10 picks is admirable but not realistic for two reasons.
+  \begin{enumerate}
+  \item First, the Bears play a lot of man coverage.  That means
+    Amukamara is playing with his back to the quarterback a lot.
+    Unless the Bears are planning on changing their philosophy, which
+    they almost certainly aren't, this is going to work against all of
+    the cornerbacks statistically in this area.
+  \item Second, despite the fact that Fuller had what almost everyone thought was an excellent season last year, teams continued to throw at him instead of Amukamara for most of 2017.  One of the more interesting things to look for this year is to see if that changes.  Most teams find success by rapidly adapting as the season rolls on but I sometimes wonder if ideas about certain players die hard.  After 2018 opponents review the 2017 tape in the offseason, Amukamara may see more action on his side of the field this year.
+
+    Having said that, I'm not holding my breath.
+
+    For most of the year last year Amukamara still looked like the better cover corner and one that seems to be vastly under rated by the general public outside of Chicago.  If opponents still agree with that, he still isn't going to get as many balls thrown his way.  That's going to hurt him statistically.
+\end{enumerate}
+
+  
+\end{enumerate}
+#+END_EXPORT

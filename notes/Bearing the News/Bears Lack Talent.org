@@ -1,0 +1,17 @@
+#+BEGIN_LaTeX latex
+  \textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-dante-fowler-brad-biggs-20180517-story.html}{answers your questions}:
+
+  \begin{quote}
+  ``Will the Bears finally have a Pro Bowl player this year? Seems like there are some defensive guys who could make it. If the offense performs better, I think that also helps the defense become a top-five defense. — @mdprice79
+    
+  ``Pro Bowl voting is done by fans, players and coaches, with all counting one-third in the process. Players on winning teams generally fare much better in balloting. Players on winning teams get more exposure. They’re talked about more. They do better at the polls. If the Bears can reverse their pattern of losing, they will likely have some more popular players when it comes to the Pro Bowl.''
+  \end{quote}
+
+  This is, of course, quite true, especially in the fan balloting.  But as Biggs knows, this isn't the whole story.
+
+  The Bears once again this year have not a single player in the NFL Network's top 100.  This is based strictly upon player voting and though I'm sure being on a winning team helps, you can't tell me that if you are on one of the 13 teams that studied and played the Bears that its gong to influence you that much.  If there's a player that you are game planning around, he's going to make your list.
+
+  The last Bears player to make this list was \textbf{Matt Forte} in 2016 coming in at a lack luster \#90.  Since 2015 when he arrived not a single \textbf{Ryan Pace} draft pick or free agent signing has made the list.
+
+  That's not just lack of popularlity, my friends.  That's flat out lack of talent and not matter how you cut it, it lies squarely in Pace's lap.
+#+END_LaTeX

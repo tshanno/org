@@ -1,0 +1,70 @@
+#+BEGIN_EXPORT latex
+\begin{itemize}
+\item I noted comments from Armando Salguero at the \textit{Miami Herald} earlier in the spring when he  \href{http://w}ww.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article210122254.html}{suggested that} with the addition of free safety Minkah Fitzpatrick the Dolphins could play a unique nickel package.
+
+``[P]erhaps the Dolphins utilize three safeties and only one linebacker in sub packages -- with Fitzpatrick, Reshad Jones, T.J. McDonald and the best coverage linebacker the Dolphins have at the time on the field all at once,'' Salguero writes.
+
+My own thoughts are along this line but are more conventional.  What I envision the Dolphins doing is playing more of what is known as the ``Big Nickel''.  This is a standard nickel defense with an extra safety rather than an extra cornerback.  The defense has become more and more popular over the last few years.  Fitzpatrick offers the kind of versatility that you need in a third safety to be able to do this.
+
+In any case, its obvious that defensive coordinator Matt Burke has some interesting chess pieces to work with.  Here's hoping he does a better job this year of utilizing them.
+\item One of the things that's worrying me about the 2018 Dolphins is the state of their offensive line.  \textit{Pro Football Focus} \href{https://www.profootballfocus.com/news/pro-ranking-all-32-offensive-lines-from-the-2017-nfl-season
+  }{rated it 29th in the league in 2017} with some justification.
+
+  \begin{quote}
+    The Dolphins’ offensive line had a disappointing season, especially considering the unit features three former first-round picks and only one of them – right tackle Ja’Wuan James – has performed at an NFL starter level. However, when it comes to pass protection, the unit played relatively well, which led to the sixth-highest pass-blocking efficiency rating (81.7) in the NFL as they allowed just 153 total pressures on 646 passing plays. The bigger issues came in the running game where Miami’s offensive line struggled mightily and all linemen graded poorly. Consequently, Miami’s running backs averaged just 0.59 yards before contact, which was last in the NFL by a wide margin (Detroit was second to last with 0.96 yards) and well below the NFL average of 1.56 yards before contact.
+  \end{quote}
+
+  PFF's ranking \href{https://www.profootballfocus.com/news/pro-nfl-offensive-line-rankings-all-32-teams-units-entering-2018}{rose to 20th} as it considered the state of the offensive lines entering 2018.  The sighted the addition of Josh Sitton at the guard position as the reason for this.  And its true that Sitton will improve the pass protection.  He might also \href{http://dailydolphin.blog.palmbeachpost.com/2018/05/25/laremy-tunsil-josh-sitton-cohesive-on-left-side-of-miami-dolphins-o-line/}{help to stabilize Laremy Tunsil at left tackle}.  But, as mentioned in the quote above, the pass protection wasn't really the issue last year.  It was the run blocking that was abysmal and the 32 year old Sitton isn't going to make that much better.
+  
+\item On the positive side for the running game, I like the addition of Frank Gore at running back.  Even though I didn't consider the position to be a weakness in 2017, Gore will improve the depth and the veteran presence certainly can't hurt in a situation where head coach Adam Gase is trying to improve the team culture.
+
+  Executive Vice President of Football Operations Mike Tannenbaum loves to take a chance on veterans like Julius Thomas, Arian Foster and Mario Williams.  These players almost never work out and I've been very critical of each of these acquisitions.  But I'm on board with this one.
+
+  Gore has had 12 consecutive seasons with at least 1,000 yards from scrimmage.  Admittedly his yards per carry have dropped in recent years, being less than 4.0 over the last three (3.7, 3.9 and 3.7).  That's not a great trend.  But he's been playing behind some pretty bad offensive lines in Indianapolis and my gut tells me he's going to be a workhorse for this team.
+  
+\item Much has been made about how \href{http://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article211639439.html]]}{the Dolphins believe that Ryan Tannehill is as durable as ever coming off of his knee injury}.  But durability isn't really the major concern.  The potential problem is Tannehill's mental state.
+
+  Whenever I think of quarterbacks and knee injuries I think of Carson Palmer.  Palmer sustained a devastating injury during the 2005 campaign with the Bengals \href{http://www.espn.com/nfl/news/story?id=2486170}{one that was admittedly much worse than Tannehill's}.  Palmer was never the same after that not because the knee didn't heal but because he was constantly afraid that an incoming defensive lineman would hit him and cause another similar injury.
+
+  I don't have a single doubt that after surgery and rehabilitation, Tannehill's knee will be fine.  Indeed, \href{https://apple.news/A2zVN4C3bRAaPnGKOD0pMyg}{he says its fine}.  So if that's true, why is he still wearing a brace and why is he going to continue to do so throughout the season?  If its just preventative, why isn't he wearing a brace on both knees?  
+
+It could be because, no matter what he or anyone else says, deep inside he's worried about it happening again.
+
+  The major question for Tannehill is whether he can forget about the knee and focus on the game.  If he can, he'll be the same top 17 or 18 quarterback he's always been and the Dolphins will have a chance to compete.  If he can't, its going to be a miserable season.
+\item There's a lot of speculation about \href{http://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-countdown1-20180716-story.html}{how good the Dolphins have to be before owner Stephen Ross hits the reset button}.  Ross evidently likes Adam Gase and the guess here is that he isn't likely to fire him.  But Mike Tannenbaum and Chris Greer are a different story.  By all accounts, Ross wanted his personnel guys to approach the last draft with more imagination, perhaps trading back in the first round to acquire more picks.  Instead they stayed where they were and chose a safety.
+
+  I'm not saying Fitzpatrick was a bad pick.  But Ross has very evidently gotten tired of watching teams like the Eagles and Patriots maneuver around the offseason while his team does the conventional thing and remains stuck in the mud.  Its very evident that Ross is starting to question whether his front office is elite.
+
+\item I'm mildly perturbed that the Dolphins haven't been practicing any three safety looks.  It's possible they are saving it for the closed practices so they won't give anything away to the public.
+
+  The Dolphins linebacking corp is not good.  If nothing else, this is demonstrated by the fact that most people think the best one is a second year middle linebacker who spent his entire rookie year injured.
+
+  One way to minimize that weakness is to get a third safety on the field and play a big nickel defense. Many teams have played such a defense as their base look in recent years. This would solve a multitude of issues including better tight end coverage.  It might also allow the Dolphins to play more aggressively as they would be able to blitz much more effectively out of such a formation.
+
+  Defensive coordinator Matt Burke is only in his second year and remains a bit of an unknown at this point.  Right now its too early to tell but if he decides to stick to his standard scheme rather than adjusting his personnel to get his best players on the field, he'll be in for some well justified criticism.
+
+  
+\item  Xavien Howard, Cordrea Tankersley, Bobby McCain and Tony Lippett.  \href{http://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-mctyer-20180728-story.html}{And now Torry McTyer}.  I like this group of cornerbacks.  They aren't spectacular but they are deep.
+
+  As national media continue to predict dire things for the Dolphins this year, you wonder how much of it is based upon what they've lost, not what they have.  The roster isn't spectacular but there are some areas that are very solid.  None more so then the defensive back field.  They'll be fun to watch.
+
+  
+\item The situation with McTyer is interesting for another reason.  Its somewhat typical of some of the adjustments that Adam Gase has made from last year to this year.  
+
+  In past years younger players would have to excel over a long period of time before getting a chance with the first team. Things are evidently different now.
+
+\href{http://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-mctyer-20180728-story.html}{“I’ve told the defensive staff ‘Let’s not wait around,’”} Gase said. “ ‘If we feel like a guy is playing well, give him opportunities, especially with the first group.’
+
+“They feel like [McTyer has] played well enough to be put into that spot and compete with that first group.”
+
+Giving younger players, especially rookies, a chance to show what they can do early would be a welcome change, indicating a much more open mind.  It also might be an indication that Gase is putting faith in his coaching staff to bring these players up to speed more quickly.
+
+\item Another thing I've picked up that I like hearing is the Dolphins evident emphasis on fundamentals in training camp.  In particular, \href{http://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-mike-gesicki-20180728-story.html}{focusing on good tackling technique} is something that could provide a real benefit down the line.
+
+  “When we get the pads on, you really have a better sense because even though we’re not tackling to the ground, we’re thudding guys up. Who’s going to wrap up?” Gase said.
+
+  “You saw a couple of guys drop a shoulder and really reject the receiver or the tight end and our point of emphasis is we need you to wrap up because we’ve seen that enough over the last few years where a guy drops his shoulder and then the next thing you know, that guy doesn’t go to the ground.”
+
+  Good fundamentals can take a healthy team pretty far in the NFL.  Gase is evidently banking on good team culture and guys doing things the right way carrying them to the playoffs this year.  We shall see.
+\end{itemize}
+#+END_EXPORT

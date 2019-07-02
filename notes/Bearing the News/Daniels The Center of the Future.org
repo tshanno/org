@@ -1,0 +1,19 @@
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} says that if the Bears are going to make second round \textbf{James Daniels} the starting center, \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-james-daniels-center-biggs-20180818-story.html}{they need to do it now}.
+
+\begin{quote}
+  It also will be the exhibition game in which the starters get the most action, likely playing into the third quarter. So if Daniels is ready, or if the coaches believe he’s close to ready, the time to promote him is now so he can get some work with quarterback \textbf{Mitch Trubisky}.
+
+It’s sure to be a topic of discussion, whether or not the Bears want to hear it, especially after a shotgun snap from \textbf{Cody Whitehair} went through Trubisky’s hands and led to a safety in the first quarter. That snap, however, was fine, and the quarterback admitted afterward he should have caught it.
+\end{quote}
+
+Whitehair has had the occasional bad snap dating back to when he was a rookie and took over the position but otherwise he's been an excellent center.
+
+When it comes to the offensive line, the ultimate goal is to get your best five guys on the field in some capacity.  Biggs didn't say it outright but surely in the back of his head he's wondering, as I am, whether the Bears are sure that \textbf{Eric Kush} is one of those guys.
+
+The Bears have said that they like Kush and up until now, their actions have backed that up as he has been the unquestioned starter at left guard since camp opened.  But last night the Bears gave a series in the first quarter to \textbf{Earl Watford}, opening the door to the hint of the possibility that they are at least thinking about other possibilities at the position.  It's worth noting, however, that Kush went right back in on the next series.
+
+The Bears drafted Daniels, a very good college center, in the second round.  They made it clear when they did so that they were hoping he would compete at left guard.  In order to do so he was going to have to gain weight.  The 6-foot-4 Daniels is \href{https://www.chicagobears.com/team/players-roster/james-daniels/}{listed on the Bears website at 295 pounds}, which would be small for an NFL guard.  Daniels \href{http://www.profootballweekly.com/2018/05/12/chicago-bears-confident-daniels-will-grow-into-new-position/ahnx57h/}{says that he weighs 310} but many would dispute that looking at him.  Daniels is only 20 years old and he can certainly grow into his frame, especially after an offseason in the weight room.  But for now the Bears have evidently concluded that he's a center.  He has performed well in the last two preseason games there with the second string.
+
+The guess here is that the Bears don't want Daniels starting this year.  They've put him in as the back up center to allow him to learn behind Whitehair and that they have concluded that there are other answers at starting left guard.  Daniel's time is probably going to come next year and his future could be either at center or guard with Whitehair manning the position Daniels doesn't occupy.
+#+END_EXPORT

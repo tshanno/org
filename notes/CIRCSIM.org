@@ -1,0 +1,6 @@
+* DONE Fix Directons Button
+* Rename the 5th problem to Chest Mass
+* CIRCSIM Demonstration Video https://youtu.be/vPCAPM-lDs4
+* DONE [[message://%3c1543980567910.77284@rush.edu%3E][Error in web version of CIRCSIM]] Bug in CIRCSIM
+Corrected in posted veersion to bearingthenews.com
+

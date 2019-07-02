@@ -1,0 +1,3 @@
+* 2018-02-25 commit 
+** This code runs.  Did a little refactoring.  All problem data was moved to a new Problems class as in CIRCSIM.  The first run tutorial data has not been moved yet (as in CIRCSIM) but that needs to be done.  I don't know how much additional refactoring beyond that I'm going to do.
+** Eventually this needs to be refactored as in CIRCSIM.  If you are ever going to share this code, it will be an embarrassment unless you do.

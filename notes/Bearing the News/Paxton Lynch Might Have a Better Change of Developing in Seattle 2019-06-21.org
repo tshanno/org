@@ -1,0 +1,20 @@
+* Paxton Lynch Might Have a Better Chance of Developing in Seattle
+
+#+BEGIN_EXPORT latex
+\textbf{Curtis Crabtree} at \textit{profootballtalk.com} \href{https://profootballtalk.nbcsports.com/2019/06/21/pete-carroll-wide-open-competition-for-seahawks-backup-qb-job/}{addresses the Seahawks backup quarterback situation}:
+
+
+\begin{quote}
+``[[\textbf{Paxton}] \textbf{Lynch} is getting a second chance in Seattle after the former first round pick of the Denver Broncos flamed out after just two years with the team. [\textbf{Geno}] \textbf{Smith} is on his third new team in as many years after stops with the New York Giants and Los Angeles Chargers.
+
+``'Paxton’s got a big time, live arm. He really does,' offensive coordinator \textbf{Brian Schottenehimer} said. 'For a big guy, he’s really quick and athletic, picked up the system well. Geno hasn’t been here nearly as long. He’s got a lot of moxie about him, great huddle command which is cool to see.'''
+\end{quote}
+
+I think we know who Smith is.  I'm not as sure about Lynch.
+
+\href{https://predominantlyorange.com/2017/06/29/nfl-scout-says-paxton-lynch-miscast-gary-kubiaks-offense/}{Many have speculated that Lynch wasn't the best fit in the offense in Denver} and that may have been part of the reason he didn't develop.
+
+So much of properly developing a quarterback has to do with pairing him with the right coaching staff.  You wonder how many of the busts over the last 30 years would have been stars had they been in the proper nurturing environment early on.
+
+In any case Seattle is \textbf{Pete Carroll} is far more likely to adjust to Lynch's skill set.  Not that he's likely to get a chance to show it because quarterback \textbf{Russell Wilson} is a bit of an iron man but it will be interesting to see if Lynch does better there if he gets a chance to show it.
+#+END_EXPORT

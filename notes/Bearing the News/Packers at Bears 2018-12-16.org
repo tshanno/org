@@ -1,0 +1,49 @@
+#+BEGIN_EXPORT latex
+\section*{Quick Game Comments:  Packers at Bears 12/16/18}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item It seems evident that the Packers wanted to play the game as the Rams did last week.  They came out light in the box and dared the Bears to run.  The Bear responded by running Jordan Howard right at them and complimenting it with short play action passes.
+\item Mitch Trubisky generally threw the ball well early and as a result, the offense generally executed well.
+\item Trubisky was moving really well in the pocket today.  He looked like Tom Brady out there - in that respect, anyway.
+\item Both Tarik Cohen and Jordan Howard ran with good vision today.  In Howard's case that's a significant improvement over previous games.
+\item Trubisky did a nice job against the blitz today.  For instance, he hit Cohen in the area vacated by a blitzer on a pass under pressure for the Bears second touchdown right before the half.
+\item Trubisky was also reasonably accurate with most of his throws today.  This is in stark contrast to last week when he had a miserable game against the Rams.  He wasn't asked to throw deep much but his intermediate throws didn't end up in orbit.
+\end{enumerate}
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item Vic Fangio really has a gift for calling the blitz at just the right time.  Third and two on the Packers first drive for a Rogers sack was a perfect example.
+\item The Packers offense was notable for the good job they did blocking down field.  That's good fundamentals.
+\item Once again the Packers copied other teams with this game plan.  They executed the quick passing game to limit the Bears pass rush.  Rogers did a decent job of executing it.  You had to wonder if he would accept such a plan.  He likes to get out and create rather than taking the short pass.
+\item Roger's deep ball accuracy just wasn't there today for the most part.  I have been told that this has been a chronic problem with him this year.
+\item Khalil Mack really showed up today.  Hopefully this means he's going to be a Packer menace for years to come.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Chris Myers, Daryl Johnston and Laura Okmin were your announcers.  Really superior job today by Johnston.  He was making really good points right and left.  For instance, when the Bears blitzed Sherrick McManis from the same side as Khalil Mack to get a free rusher, Johnston was right on top of it, pointing out what a nice job the Packers running back did getting across the formation to block McManis.  Definitely as good as I've ever heard him.
+\item  Special Teams
+  \begin{enumerate}
+  \item I can't remember the last time a Bears returner took a ball out of the end zone.  Knowing Anthony Miller, you have to wonder if he defied orders when he took it out on the opening kickoff.
+  \item Tarik Cohen had a and timely nice punt return in the fourth quarter.  It resulted in a field goal after Cohen failed to turn up field and came up just short of a first down.  So Cohen giveth and Cohen taketh away.
+  \item Just once I'd like to see the Bears get through a game where special teams didn't hurt them.  This time it was a stupid fake punt up 14-6 near mid-field that the Packers stopped cold in the third quarter.  the Packers eventually scored a touchdown.  The two point conversion tied the game.
+
+    \begin{minipage}{1.0\linewidth}
+    This is a real problem.  I' envisioning some tough playoff games where special teams has a bad habit of making the difference.  This looks like a poorly coached aspect of the team that could burn the Bears is a big spot.
+  \end{minipage}
+
+  \end{enumerate}
+\item Drops have been a Packer trait for years.  It usually doesn't burn them too bad because the offense is good enough to overcome them. 
+\item Turnovers
+  \begin{enumerate}
+  \item The Bears finally got burned trying to execute a fancy gadget play and turned the ball over to Green Bay in Packer territory with the game tied.  This looked like it was the result of an inexperienced Cohen taking a direct snap and trying to run an option play.  He simply made the decision late and blew the exchange.
+  \item Big, big interception by Eddie Jackson in the end zone with three minutes left.  I thought he went down on purpose to avoid a turnover and let the Bears run some clock up two scores.  But it looks like he got hurt on the play.
+  \end{enumerate}
+\item I'd like to personally thank everyone involved in making sure that Bears football got played this week on a Sunday afternoon as heaven intended it.
+\item This was a big win for the Bears against a team that has had their number in Soldier Field, winning eight in a row there.  Some will say that the Bears should have won but they should have won with Brett Hundley quarterbacking the Packers last year.  They didn't.  So they'll take this one and consider it to be a major accomplishment.
+\end{enumerate}
+#+END_EXPORT

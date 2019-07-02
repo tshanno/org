@@ -1,0 +1,40 @@
+
+#+BEGIN_LaTeX latex
+
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-dante-fowler-brad-biggs-20180517-story.html}{answers your questions}:
+
+\begin{quote}
+``Best case scenario if everything goes right and the Bears stay healthy this year ... what does that look like and translate into around wins and playoffs? — @illini\_loyalty
+
+``The over/under on victories for the Bears opened at 6$\frac{1}{2}$ in Las Vegas, meaning the oddsmakers aren’t as bullish about the new Bears as many fans. Certainly I see a chance for the Bears to hit the over and, yes, they will probably need better fortune when it comes to injuries. They’re going to have to be significantly better than 6$\frac{1}{2}$ to play in January when you figure it generally takes 10 wins to get in. The first thing to focus on is how many teams the Bears can pass in the division. They’ve been terrible in the NFC North, and getting better in the division is the first hurdle to clear. Is there a division foe that is due to backslide? Are there two division foes due to backslide? It’s going to be interesting.''
+\end{quote}
+
+First of all, lets get this out of the way, first:  Unless \textbf{Mitch Trubisky} turns out to be \textbf{Peyton Manning} - and I mean every bit that good - there's no way the Bears smell the playoffs.
+
+Having said that, the reason is three fold.  Though they are getting better in both areas, the first two are obvious.  First, they lack impact players.  Second, they lack depth.
+
+The third is a bit of a surprise, at least to me:  they play in the toughest division in football.  You wouldn't actually think so.  For one thing, the Bears are in it.  For another, the Lions are in it.  Both teams were bad enough to have switched head coaches at the end of last year and both now have rookie head coaches who are learning on the job.
+
+But here's the thing: the people who are actually in the business of predicting these things don't agree with me.  The over-unders for win totals for each team is in the table below along with the average for each division.
+
+\begin{tabular}{lllllllll}
+&	&AFC East	&	&AFC North	&	&AFC South	&	&AFC West\\\hline
+&Patriots	&11	&Steelers	&10.5	&Colts	&6.5	&Raiders	&8\\
+&Dolphins	&6	&Ravens	&8	&Titans	&8	&Kansas City	&8.5\\
+&Bills 	&6.5	&Bengals	&7	&Texans	&8.5	&Broncos	&7\\
+&Jets	&6	&Browns	&5.5	&Jaguars	&9	&Chargers	&9\\\hline
+&Total	&7.375	&	&7.75	&	&8	&	&8.125\\
+&&&&&&&&\\							
+&	&NFC East	&	&NFC North	&	&NFC South	&	&NFC West\\\hline
+&Cowboys	&8.5	&Packers	&10	&Buccaneers	&6.5	&Cardinals	&5.5\\
+&Giants	&6.5	&Vikings	&10	&Panther	&9	&Seahawks	&8\\
+&Eagles	&10.5	&Lions	&8	&Falcons	&9	&49ers	&9\\
+&Redskins	&7	&Bears	&6.5	&Saints	&9.5	&Rams	&10\\\hline
+&Total	&8.125	&	&8.625	&	&8.5	&	&8.125\\
+\end{tabular}
+
+That's right.  The NFC North has the highest average with the NFC South a close second.  All of the other divisions are at least a half game behind.
+
+So I suppose the next time we point out that the Bears were (*cough* are *cough*) winless in the division, we should remember what division they're in and cut them a little slack.  A very little slack.
+
+#+END_LaTeX

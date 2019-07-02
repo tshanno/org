@@ -1,0 +1,6 @@
+* *Tasks*
+* *Ticklers*
+* *Notes*
+** $50
+** DONE [#A] Send check to Bill
+*** $50

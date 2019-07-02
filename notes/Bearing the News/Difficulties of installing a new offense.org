@@ -1,0 +1,23 @@
+
+#+BEGIN_LaTeX
+
+  \textbf{Rich Campbell} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-matt-nagy-mitch-trubisky-offense-20180531-story.html}{quotes Bears head coach \textbf{Matt Nagy}} after a recent practice on the difficulties involved in getting the Bears new offense up and running:
+
+  \begin{quote}
+    ``[The Bears players] understand that in Kansas City it took us five years to get (where) we got to. We’re kind of at a pace right now where we have to, at times, pull back and say to yourself: we’re months into this thing, not years. The more reps we can get in practice — whether it’s ... splits, alignments, shifts, motions — the more they can see themselves doing it. That’s what we want.''
+  \end{quote}
+
+  There's a lot to like about the hiring of Nagy but there's one inescapable fact about it that should bother anyone who follows the team.  Nagy is a yet another Bears first-time head coach.  He's one in a long line of them over the last 24 years that includes \textbf{Dave Wannstedt}, \textbf{Dick Jauron}, \textbf{Lovie Smith}, and \textbf{Marc Trestman}.  Over that period of time, only \textbf{John Fox} had previous coaching experience.  Indeed, the only truly successful coach the Bears have had in that time since \textbf{Mike Ditka} was Smith.  That's not at all unusual.  \textbf{Bill Belichick}, the greatest head coach in NFL history, didn't get it right until the second time around in New England after failing as a first time head coach n Cleveland.
+
+  Each of these coaches had to learn on the job and Nagy will be no different.  What makes his job even more challenging is his inexperience.  He has, for instance, only called plays for half a season.
+
+  But by far the most worrisome part of his learning process will be figuring out the best way to install a new offense, something he's never done before on his own.  Nagy spent his entire coaching career under veteran head coach and offensive guru \textbf{Andy Reid}, who served as the defacto offensive coordinator.  Nagy has never served as an offensive coordinator on a team where he was basically in charge.
+
+  You would expect under the circumstances that Nagy would follow Reid's example as closely as possible.  But he doesn't appear that he's doing that, at least not entirely.  Backup quarterback \textbf{Chase Daniel} played for the Chiefs in 2013, Reid's first year as head coach.  Daniel estimates the Bears have installed 10 times as many plays as the Chiefs had in the spring that first year.
+
+  Nagy's purpose is apparently to keep feeding quarterback \textbf{Mitchell Trubisky} as fast as possible to see how much he can handle.  But it's not just Trubisky.  It's the 10 other guys on the field with him.  And they all have to do their jobs in order for the offense to run.  Even assuming Trubisky can handle it, what are the chances all of the other guys can as well?  Could Nagy's impatience to get as much of the offense as possible installed as quickly as possible cost the Bears in the long run?  Who knows?
+
+  Nagy is doing everything for the first time and there's no guarantee that everything he does is going to work well.  In fact, history shows that it's quite the opposite.  And Bears fans are just going to have to be patient and live with the mistakes.  Again.
+
+
+#+END_LaTeX

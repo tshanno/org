@@ -1,0 +1,43 @@
+* Quick Game Comments:  Bears at Packers 9-8-2018
+#+BEGIN_EXPORT latex
+\subsection{Defense}
+
+\begin{enumerate}
+\item Khalil Mack looked like the real deal as he applied good pressure on Aaron Rogers.  It looked like the Bears tried to use him primarily in passing situations in the nickle defense.  This made good sense as it allowed him to rush the passer as a defensive end without worrying too much about linebacker responsibilities.  
+\item Rogers seemed a little jittery to start the game.  The timing with his receivers appeared to be off.
+\item Aaron Lynch looked rusty as he got a lot of playing time at outside linebacker in the 3-4.  He doesn't look real fast and he looked like he was having trouble getting off of blocks.
+\item The Bears were pretty good on third down in the first half (the Packers were only 2 of 8).  They were managing to get off the Packers off the field with some consistency.  Some Packer penalties helped.
+\item It looked like the Bears were playing a lot more press man coverage out there.  It could be that having more confidence in the pass rush affected that.
+\item The Packers got a linebacker matched up on a wide receiver time after time in the first half.  They made a lot of yardage on it.
+\item Roy Robertson-Harris had a great game.  The improvement for him from last season is dramatic.  They should give him Mack's interception.
+\item The Packers came out from half time and decided that the best way to handle the Bears pass rush was to start getting the ball out fast.  Good move.  The offensive line did a better job of protecting Rogers, too.
+\item Rogers came out sharp in the second half.  You almost think that having a bad knee keeping him in the pocket and forcing him to throw on time instead of getting out and improvising may have helped him and the Green Bay offense.
+\item The Packers were running pick plays over and over again.  They were pretty effective.
+\item Leonard Floyd did not make much of an impact with the club on his hand.  
+\end{enumerate}
+
+\subsection{Offense}
+
+\begin{enumerate}
+\item The Bears came right out with Michael Burton at fullback the first play.  There has been speculation that they might use the fullback a lot this year.  Looks like that might be true.
+\item Also notable was the fact that the Bears started out giving the ball allot to Tarik Cohen.  An obvious effort to make sure he got involved.
+\item Taylor Gabriel also got a lot of play on the first drive after we barely saw him in the preseason.  Interestingly, both he and Cohen almost disappeared after the first quarter.
+\item Two time outs in the first quarter.  Even though the Bears executed pretty well, its obvious that they didn't quite have it all together.  You can't complain too much given how they moved the ball but they'll want to start better in that particular aspect next week.
+\item Jordan Howard never looks like he is running all that well.  His specialty was the outside zone run and Green Bay did a good job of stopping that.  He did OK but he didn't look comfortable.
+\item Cody Whitehair had a rough game with Kenny Clark lined up over the top of him.
+\item The Packers started to get pressure on Mitch Trubisky in the second quarter.  The Bears tried to run the ball more but otherwise they didn't do much to slow it down.  They responded after half time with some timely screen plays.  They also ran a lot more misdirection against that kind of aggressive defense.
+\item The Packers started to blitz in the third quarter.
+\item It was obvious that Trubisky was having a hard time finding open receivers from the second quarter on.  Either he has to get more aggressive with  his throws or they've got to get more open.
+\end{enumerate}
+
+\subsection{Miscellaneous}
+
+\begin{enumerate}
+\item Al Michaels, Cris Collinsworth and Michelle Tafoya did their usual great job.  For my money, Collinsworth is the best in the business.
+\item Special teams were not notable.  We saw none of Cody Parkey's preseason struggles.
+\item The Packers got off to a rough start as far as penalties go.  Some poorly timed calls killed a couple drives in the first half.  Possibly just some first game slop.  Kyle Long had a damaging holding penalty in the second quarter.
+\item There weren't many drops which is unusual for both of these teams.
+\item Khalil Mack flat out took the ball away from Deshone Kizer on a third and goal.  Mack also had a pick six after Robertson-Harris generated some pressure.
+\item This was a good start to the season for the Bears.  Other than being a bit too aggressive in coverage, I think the defense will be fine.  The offense looks to me like its a work in progress.  After a fast start they stalled against an aggressive Green Bay defense.  The one thing that Green Bay does offensively that the Bears didn't was they owned the middle of the field.  The Bears offensive will have arrived when they can do that.  It will be interesting to see how they develop over the course of the first half of the season.
+\end{enumerate}
+#+END_EXPORT

@@ -1,0 +1,76 @@
+* *Session Notes*
+** Normal Brenner <2019-01-22 Tue 8:00-12:00> <2019-01-22 Tue 13:00-17:00>
+* *Ticklers*
+** The COPD Review video will have to be redone next year because you talked about the mistake you made in RS6 with the coma problem.
+   SCHEDULED: <2019-12-20 Fri>
+* *Tasks*
+** DONE [#A] [[message://%3c6337f8a2b8e542adb5441cfbb6df1563@RUPW-EXCHMAIL02.rush.edu%3E][Review COPD self-study]]
+** DONE [#A] self-study posted
+** DONE [#A] self-study posted
+** DONE [#A] [[message://%3c1547074612045.73676@rush.edu%3E][Look at COPD path activity]]
+** DONE [#A] [[message://%3ca4e38ed5eda14b0a824d6933fdaedf72@RUPW-EXCHMAIL02.rush.edu%3E][Invite students to case]]
+Wating for repsonse from CES and for Denise to change the room assignments (one should be in 975)
+** DONE [#A] [[message://%3c1547402028407.36427@rush.edu%3E][Look at Path in COPD case]]
+** DONE Redo COPD comcept map
+** [#A] [[message://%3c94BE656B-6FF1-445E-AF14-0457EBC6402D@rush.edu%3E][Schedule Jake for COPD Jan. 22]]
+   [2018-12-07 Fri]
+** [#A] faculty guide posted
+** DONE [#A] Invite students to COPD session
+
+[[message://%3c5663B0D0-5471-4E81-B646-3D671A860B86@rush.edu%3E][M4s for 1/22 COPD session?]
+** DONE [#A] Redo COPD Review Video
+** DONE Add Brett's thoughts to COPD faculty guide
+	[[message://%3c9e85d311c6124b8582d85b81e6cfa8f3@RUDW-EXCHMAIL01.rush.edu%3E][COPD deep thoughts]]
+
+Clinical tie ins that could be added for next year.
+ 
+COPD ventilator time/volume wave forms demonstrating breath stacking leading to increasing pressures, increased intrathoracic pressure->decreased venous return->hypotension. Fixed by slowing down the rate to allow full expiration, shortening the inspiratory time to allow more expiratory time. This happens even in people not on a ventilator, they get very anxious from dyspnea and start breathing faster and not exhaling completely, slowing down their rate can be helpful.
+ 
+Bipap is helpful because it splints open the airways preventing collapse, pursed lip breathing does something similar. We could ask why do we teach COPD patients pursed lip breathing? If COPD patients have trouble breathing out, why would we put a bipap mask on them and increase the pressure that they are breathing against?
+ 
+This stuff is definitely beyond M1 level but I think it explains why the physiology is clinically relevant.
+* DONE Post 01 Case Description
+** DONE Post Full Case Description
+* DONE Post 02 Student Self-Study
+** DONE Biochemistry
+** Microbiology - moved
+** DONE Pathology
+** DONE Pathophysiology - help write this.
+*** DONE Add Adam's radiographic material
+*** DONE Get Anne's feedback
+** DONE Table of Contents
+*** DONE Osmosis Videos
+** DONE Send Mastery Questions to Maria
+** DONE Post Mastery Questions and Answers
+** DONE [[message://%3cCAARFCZiwFqWiQNJLfjpDGra8GTtAOfRQVQK4zyzYs8KZ5C8rUw@mail.gmail.com%3E][Case video - Ellenkate Finley]]
+* DONE Post 03 Student Guide
+** DONE Post 03a Faculty Guide
+*** DONE [[message://%3cCAARFCZiwFqWiQNJLfjpDGra8GTtAOfRQVQK4zyzYs8KZ5C8rUw@mail.gmail.com%3E][Case video - Ellenkate Finley]]
+*** DONE Exercises
+**** DONE Compare and contrast PFTs/Flow-Volume Curves - Anne (& maybe Tom for flow-volume)
+**** Introduction to acid-base - Anne - Moved to CS
+**** DONE Revisit Oyxgen-hemoglobin dissociation curve - tie in with ABGs and vital signs- ANNE
+**** DONE Dynamic Compression concept map
+**** DONE Treatment
+*** DONE [[message://%3CCE3EA5FE-1A52-4ADD-9F4D-1A9889E7E22C@rush.edu%3E][Add contacts to faculty guide]]
+*** DONE Put times into schedule
+*** Clinical Reasoning - not in this case
+*** DONE Insert Case Description
+*** Guide to the guide video - not done since no one is watching them
+**** DONE Plan Session
+**** DONE Readiness Assessment
+***** DONE Pharmacology
+***** DONE Pathology
+***** DONE [#A] Pathohysiology - Me
+***** Microbiology - moved out
+
+* DONE Post 04 Self-Study
+** Professional - Conflicts of Interest (1 hour) - removed
+** DONE Practitioner - Superficial Acid Base (How to read an ABG) (1 hour)
+* DONE Post 05 CS Student Guide
+** Post 05a CS Faculty Guide
+*** DONE Readiness! - Conflicts of Interest
+*** Professional - Conflicts of Interest (1 hour) - removed
+*** DONE Practitioner - Superficial Acid Base (How to read an ABG) (1 hour)
+
+* [[https://itunes.apple.com/us/app/water-and-sodium-formulas/id1281504069?mt=8][Water and Sodium Formulas]]

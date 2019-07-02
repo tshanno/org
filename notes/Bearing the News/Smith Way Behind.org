@@ -1,0 +1,17 @@
+#+BEGIN_EXPORT latex
+\textbf{Steve Rosenbloom} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-roquan-smith-contract-holdout-rosenbloom-20180814-story.html}{on the consequences of \textbf{Roquon Smith}'s holdout}:
+
+\begin{quote}
+  ``[A]fter missing all of Bourbonnais and two practice games, the question becomes this:
+
+``How far behind is Smith?
+
+``The answer can be only this:
+
+``It depends on how quick a study he is and how fit he is to withstand the rigors of NFL practices.''
+\end{quote}
+
+No amount of study will get back what Smith has lost.  Most of playing middle linebacker is quickly reading the play and reacting.  Just determining whether its a run or a pass is a huge issue that must be resolved from the look of the play and seeing way the it develops.  The decisions are made in much less than a second.
+
+It helps to have good instincts but those instincts are all based upon recognition.  That reognition only comes through repetition and experience.  The loss of almost a month of those reps is something Smith will never get back.  And no matter how good he is this year the fact is that will remain that he could have been better.
+#+END_EXPORT

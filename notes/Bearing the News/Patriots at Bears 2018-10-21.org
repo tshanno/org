@@ -1,0 +1,61 @@
+* Patriots at Bears <2018-10-21 Sun>                       :Bearing_the_News:
+
+#+BEGIN_EXPORT latex
+\section{Defense}
+\label{sec:defense}
+\begin{enumerate}
+\item The Patriots came out attacking the edges of the Chicago defense with a lot of success.
+\item They also came out with a lot of short passing, challenging the Bears to converge and make the tackle.  There was still some bad tackling on the first touchdown drive but kudos to the Patriots for some good fundamental football.  They did  a nice job of blocking up the plays.
+\item The Pats were picking on Leonard Floyd in coverage, especially when they thought they had him matched up on Julian Edelman.
+\item Bilal Nichols had a real good game and it was nice to see someone step with with Khalil Mack apparently suffering while playing on the bad ankle.  Nichols stood out in the preseason and was one of reason why there was some hope that the Bears had some more depth on defense than they had in the past.
+\item More missed tackles on a long pass to Josh Gordon 55 yards to the Bears 1 yard line that resulted in a touchdown.  There was no pass rush to speak of.  The Bears defense looked tired again without the excuse of being in the Miami sun.  These long plays with bad tackling in the fourth quarter have to stop.
+\item Its now evident that Mack is really hampered by the bad ankle.   He's not rushing with any power at all.  The other Bears have to pick it up without him because he's not going to be the dominant pass rusher that he was until he recovers.
+\end{enumerate}
+
+\section{Offense}
+\label{sec:offense}
+\begin{enumerate}
+\item The Bears came out running against the Patriots nickel look.  Eventually they went to the air and struggled but it may have been enough to keep the Patriots honest as the Bears did a decent job of running it in the first half.  
+\item Eventually the Patriots started bring a lot of blitzes and they were getting  a lot of free guys.  They obviously watched the Arizona film.
+\item The Bears tried a long pass to Allen Robinson and it occurs to me that they might be better off trying to throw to the back shoulder on those.  Its very difficult to defend, especially when the defensive back is with him step for step.
+\item Similar to what the Dolphins did, whenever Tarik Cohen was in the game, the Patriots perked up and keyed on him.  Whatever happened , they weren't going to let him beat them.
+\item Mitch Trubisky got good protection early when the Patriots weren't blitzing but he really looked uncomfortable and confused by the zone defense the Patriots were playing under those circumstances.  Most of the Bears offense in the first quarter was Trubisky running the  ball rather than throwing it.  It seems one thing the Bears have to do better is getting Trubisky comfortable at the start of the game.
+\item Trubisky was especially effective avoiding the rush in the pocket.  Its a good thing because the Patriots had them totally confused with the blitzes they were bringing.  Trubisky made some really dangerous throws under pressure and once again he was erratic with his accuracy.  Handling the blitz is something he has to get better at.
+\item The knock on Jordan Howard coming into the year was that he couldn't catch the ball.  But every time I see him go out for a pass it seems like he catches it and makes a good play.  Seems like they could use him more this way.
+\item Good game by Trey Burton who turned in some big plays inclusding a touchdown catch lat in the game to get the Bears to 7 points down.
+\end{enumerate}
+
+\section{Miscellaneous}
+\label{sec:miscellaneous}
+
+\begin{enumerate}
+\item Ian Eagle, Dan Fouts, Evan Washburn
+\item Special Teams
+  \begin{enumerate}
+  \item   I was really surprised that they Bears went for it on 4th and 4 in the second quarter.  The alternative was a 48 yard field goal and given that head coach Matt Nagy went with Cody Parkey for a 53 yard penalty last week at the end of the game, I thought going with him for the 48 yarder would be a no brainer.  The Bears made the first down.
+  \item Cordarrelle Patterson had a really nice 95 yard kickoff return for a touchdown.  Looked like some bad tacking by the Bears on the play.
+  \item Dont'a Hightower scored a touchdown on a blocked punt in the third quarter.
+  \item Patterson had a big kick return after the Bears touchdown late in the fourth quarter to get the Pats to their own 40 yard line.  It put the Patriots just 30 yards from a game cliniching field goal with about 3 minutes left to play.
+  \item As was the case last week, special teams made a huge difference in this game with the Bears coming out on the short end.  I think that the third phase needs to come out of this game and take a good look at itself in the mirror.
+  \end{enumerate}
+\item The Patriots had a number of bad drops, some of which took away some big gains.  The Bears seemed to do better in this respect.
+\item Penalties
+  \begin{enumerate}
+  \item A series of bad penalties by Patriots defensive backs kept the Bears second scoring drive alive after they recovered a fumble on
+    the Patriots 35 yard line.  Eventually they jammed the ball into the end zone.  These sorts of penalties on their defensive backs plagued the Patriots all game.
+  \item The Pats also had a dumb unsportsman like penalty on Keion Crossen when he failed to immediately come back in bounds as the gunner on a punt.  
+  \item Yet another illegal formation penalty took a touchdown off the board at the beginning of the second half.  That's becoming a bad habit.
+  \end{enumerate}
+
+\item Turnovers
+  \begin{enumerate}
+  \item A bad fumble by Patterson on a kickoff return cause by his own man was recovered by DeAndre Houston-Carson gave the Bears the ball at about the Patriot 25 yard line.  That eventually turned into a Mitch Trubisky run for a touchdown with some real good blocking by the Bears down field on the off schedule scramble.
+  \item Sony Michelle had another bad fumble giving them the ball at the Patriot 35 yard line.  The Bears turned it into a touchdown.
+  \item Trubisky threw an interception to J.C. Jackson late in the third quarter at the New England 31 yard line.  He then threw another one early in the fourth quarter to Jonathan Jones at the NE 4 yard line.  Neither of these throws was really horrible.  I thought they were both good plays by the defensive backs.
+  \item Kyle Fuller had a nice interception late in the fourth quarter that the Bears needed if they were going to have any chance at coming back from 14 points down to win this game.  The Bear sgot the ball at their own 37 yard line.  They converted it into a touchdown on a pass to Trey Burton.
+  \end{enumerate}
+\item What struck me about this game was how good the Patriots are at doing the little things.  They didn't play well coming off a tough game against Kansas City without Rob Gronkowski with a lot of penalties, turnovers and some dropped passes.  But good blocking, good special teams and good fundamentals will go a long way.
+
+  The Bears have a long, long way to go to compete with the eltie of the NFL.  Trubisky has to get better at handling the blitz and he has to get more accurate.  The defense has to pick it up without an injured Khalil Mack.
+\end{enumerate}
+#+END_EXPORT

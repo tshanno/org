@@ -1,0 +1,41 @@
+* [[https://9to5mac.com/2018/04/17/how-to-cancel-view-apple-subscriptions/][How to cancel and view Apple subscriptions]]
+
+Michael Potuck
+
+Have you ever signed up for a first- or third-party subscription through Apple and forgotten about it? Whether you’d like to cancel one or just remember what services or apps you’re paying for, follow along…
+
+It can definitely be convenient to subscribe to recurring services through your Apple ID, but it can also be easy to forget what you’re paying for and a bit tricky to view it all.
+
+How to cancel and view Apple subscriptions
+
+Option 1
+
+Follow this link to see your subscriptions on iOS or Mac (credit to @rjonesy via @kylesethgray)
+You’ll now see all the Active and Expired subscriptions tied to your Apple ID
+Tap on one to cancel, change options, or see more information
+Option 2
+
+Open the App Store app on iPhone or iPad
+Tap your profile icon in the top right corner
+Tap on your name, then swipe down and tap on Subscriptions
+You’ll now see all the Active and Expired subscriptions tied to your Apple ID
+Tap on one to cancel, change options, or see more information
+
+
+If you have multiple Apple IDs, don’t forget to check all of them.
+
+
+
+You can also call Apple support to ask about any subscriptions you have associated with your Apple ID at 1-800-APL-CARE in the US. You can get more help at Apple’s support website as well.
+
+For more help getting the most out of your Apple devices, check out our how to guide as well as the following articles:
+
+How to secure your iPhone and iPad Lock screen
+How to turn off Airplane Mode and Do Not Disturb mirroring with iPhone and Apple Watch
+How to report phishing attempts and other suspicious messages to Apple
+How to back up your Apple Watch
+How to enable ‘Calls on Other Devices’ like iPad or Mac
+How to enable Wi-Fi calling on iPhone, iPad, or Apple Watch
+How to clean your dirty AirPods and charging case
+Check out 9to5Mac on YouTube for more Apple news:
+

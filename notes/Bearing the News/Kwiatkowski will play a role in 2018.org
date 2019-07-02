@@ -1,0 +1,22 @@
+#+BEGIN_EXPORT latex
+\textbf{Kevin Fishbain} at \textit{The Athletic} \href{https://theathletic.com/409905/2018/06/27/climb-aboard-the-bandwagon-why-its-ok-to-be-optimistic-about-the-2018-bears/}{gives fans reasons to be optiistic in 2018}:
+
+\begin{quote}
+``\textbf{The duo inside}... — Injuries to [\textbf{Danny Trevathan} and \textbf{Jerrell Freeman}], suspensions and Freeman’s subsequent release put the Bears in position to add [\textbf{Roquon}] \textbf{Smith}, the most instinctive player in the draft who brings speed and playmaking to the middle of the defense. He’ll be paired with a healthy Trevathan, who has been an impact player against both the run and pass when on the field. He’ll be motivated to prove he’s worthy of sticking around in 2019 for the last year of his contract with fourth-rounder \textbf{Joel Iyiegbuniwe} looming. There’s a lot more speed in the middle of the field to bring down the ball carrier or run with tight ends up the seam, and the instincts the two starters possess should lead to more takeaways, a number the Bears still have to increase. Trevathan and Smith form one of the better inside linebacker pairings in the league.''
+\end{quote}
+
+I'm a little surprised no mention was made here of \textbf{Nick Kwiatkowski}.  I'd be more than a little surprised if Kwiatkowski wasn't a factor at inside linebacker, especially early in Smith's rookie season.
+
+Kwiatkoski had a sneaky good year in 2017.  \textit{Profootball Focus} \href{https://www.profootballfocus.com/news/pro-ilb-spotlight-top-5-in-pff-sig-stats}{had the 2016 fourth rounder rated very highly} amongst other players at inside linebacker.  They ranked him third in the NFL in run-stop percentage and he was fourth-best in pass-rush productivity.
+
+\begin{quote}
+  
+``Kwiatoski also wasn't tagged for a missed tackle against the run all season. He still has to share time on the field with Danny Trevathan and newly-drafted Roquan Smith, but should be able to capitalize on a great sophomore year after being drafted in the fourth round from West Virginia in 2016. Overall, Kwiatoski was graded as the NFL's 12th best inside linebacker, higher than both Spaight and Hitchens.
+
+``His 21.0 pass-rush productivity ranked fourth and came on the heels of his rookie season in which he ranked 10th in the same category in 2016.''
+\end{quote}
+
+The Bears probably wouldn't have picked both Smith and Iyiegbuniwe if they were totally satisified with Kwiatkowski.  My guess is that, as was the case with saety \textbf{Adrian Amos}, PFF rated Kwiatkowski more on whether he did his job well last year over whether he was a high impact player on the field.
+
+Smith is, of course, going to be given every chance to show he brings that high impact.  Nevertheless, I think it would be a mistake to ignore his strengths in terms of what he adds to the roster, at least until we see if Iyiegbuniwe has what it takes to replace his solid play on the field.  My guess is that we'll see a lot of Kwiatkowski before the season is over.
+#+END_EXPORT

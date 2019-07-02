@@ -1,0 +1,18 @@
+#+BEGIN_EXPORT latex
+
+\textbf{John Mullin} points out what we have known for a long time.  The Bears will (once again) \href{https://www.nbcsports.com/chicago/bears/bears-shut-out-again-nfl-network-players-poll-naming-top-100-players-2018}{not have a player in the NFL's Top 100}:
+
+\begin{quote}
+  ``This year’s blanking follows a shutout in last year’s poll, which represented [voting] returns from more than 900 players. This year the number was more than 1,100, making the rankings more than simply the opinion of an individual or even small group.
+
+  ``Making them more disquieting from a Bears perspective is the fact that this marks a de facto third consecutive year that the Bears approach a season without a player whose peers rate him among the top 5 percent in the game. Because the 2016 survey (coming out of the 2015 season) listed running back \textbf{Matt Forte} (No. 90) as the lone Bear, and he was on his way to the New York Jets by the time his number was called.''
+
+  ``One of [Bears GM \textbf{Ryan}] \textbf{Pace}’s mandates has been to bring Bears talent to a level competitive with at least the NFC North. The more than 1,100 players canvassed don’t think it’s happening: The Bears are one of only four teams (plus Indianapolis, Tampa Bay and the Jets) not represented in the top 100, while Detroit (2), Green Bay (7) and Minnesota (5) have multiple selections. Even the 0-16 Cleveland Browns boast a pair – wide receiver Jarvis Landry, running back Carlos Hyde) by virtue of their offseason moves.''
+\end{quote}
+
+I was asked on a \href{https://www.spreaker.com/episode/15051463}{recent podcast} if I thought the Bears could be the new Los Angeles Rams this year.  That is certainly what Pace had in mind as he crafted his offseason and followed many of the steps the Rams did last offseason by, for instance, hiring a good, young, quarterback coach.
+
+But, much though I want to believe this plan will work, I had to give a negative to the question.  The Rams had a lot of talent when they fired \textbf{Jeff Fisher} and hired \textbf{Sean McVay} including \textbf{Aaron Donald}, \textbf{Todd Gurley}.  Both will be in this year's top 10.
+
+The addition of head coach \textbf{Matt Nagy} will help make the Bears better this year.  But the fact of the matter is that both he and defensive coordinator \textbf{Vic Fangio} have zero impact talent to work with.  The responsibility for that falls directly upon the shoulders of Pace.  And until that problem is corrected, the Bears will likely be going nowhere.
+#+END_EXPORT

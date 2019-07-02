@@ -1,0 +1,18 @@
+* Buyer Beware
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \emph{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-khalil-mack-biggs-20180905-story.html}{answers your questions}:
+
+\begin{quote}
+  ``I'm a bit worried about the way that the Bears are building their team. \textbf{Allen Robinson}, \textbf{Taylor Gabriel}, \textbf{Trey Burton}, \textbf{Akiem Hicks}, \textbf{Danny Trevathan} as free agents. Now \textbf{Khalil Mack} at a free-agent price plus two first-round picks (minus a couple of one-round upgrades). Didn't the Redskins show a long time ago that this isn't the way to build a team? It seems to me like sustained success requires sustained excellence in all areas over a long period of time, not a lot of free-agent signings to cover up previous failures. Am I wrong? — Tom S., Chicago
+
+  ``Those are legitimate points you make, but the counter is that the Bears were in desperate need to improve at wide receiver and the skill positions and they view Burton as an essential piece to Matt Nagy’s offense. In Mack, the Bears have acquired one of the truly elite edge rushers in the NFL and, considering they would have been unlikely to land a player of a similar impact with the draft picks they unloaded in the deal, it certainly makes sense. I fully understand what you’re saying about the Redskins, and after them the “Dream Team” Eagles were a disaster. But the Jaguars returned to prominence last year with some heavy spending in free agency. There’s no question the Bears have used free agency to cover for some mistakes in the draft, but no one is perfect in the draft and this will be a really competitive team if the quarterback they drafted turns into the player the Bears believe Mitch Trubisky will be.''
+\end{quote}
+
+I hated to write this question because I feel like such a kill joy.  Everyone sees good things for this team and I'll say up front that I, too, am excited to see what happens.  But I can't help feeling uneasy and when something bothers me, I have to say something about it.
+
+A lot of people  will claim that the players that the Bears signed are ``different'' from those players that the Redskins and Eagles signed.  But these players aren’t as different as you might think.  The core of the Bears team is made up of free agent signings (and I count Mack as one) that they were willing to sink significant resources into that other teams that knew them better weren’t.  They then out bid 30 other teams for his services.  Another way of saying “they won” is by saying “they were willing to overpay more”.  
+
+Yes, each individual player was his own situation and maybe it will work.  I know know nothing bad about Robinson or Burton or Gabriel or Mack or, for that matter.  But major reason why these things generally don’t work is still there.  Even if you cut Mack out of the equation, every free agent the Bears signed this year fits the "buyer beware" label for one reason or another.
+
+I know no one agrees with this now and I totally understand why.  It all looks so good on paper.  But I still say that history isn’t on the Bears side and I can’t shake the feeling that if they win something doing this they will have beaten the odds.
+#+END_EXPORT

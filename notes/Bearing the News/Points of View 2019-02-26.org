@@ -1,0 +1,78 @@
+
+
+#+BEGIN_EXPORT latex
+\section{Bears}
+\begin{itemize}
+\item This post from \textit{profootballtalk.com} caught my eye as being peripherally Bear-related.  It seems Indianapolis guard \textbf{Quenton Nelson} thought his technique deteriorated over the course of the season after being the sixth overall pick in last years draft.  Colts senior assistant \textbf{Howard Mudd} relayed a conversation from Nelson where he expressed frustration with his technique.
+
+  \begin{quote}
+``'I happened to be in the room,' Mudd recalled, 'and (Nelson) was saying, ‘I really feel like my technique has slipped, and I really don’t want that to happen. I was coached in college a certain way,’ … and he wants to be coached that way. He wants to be better. That’s not, gee coach, I want you to hear what I think you want to hear. He said that because he believes that.'''
+\end{quote}
+
+Nelson played for Notre Dame where he was coached by current Bears offensive line coach \textbf{Harry Hiestand}.  Hiestand came with a reputation for coaching meticulous technique and Nelson evidently agrees.  Evidently Colts head coach \textbf{Frank Reich} agreed that Colts offensive line coach \textbf{Dave DeGuglielmo} didn't measure up to Hiestnad's standard.  DeGuglielmo was fired after the season and \textbf{Chris Strausser} and Mudd were hired to coach the group moving forward.
+
+The Bears are fortunate to have Hiestand who appears to be setting the standard for good offensive line coaching in the league.
+
+\item \textbf{Kevin Fishbain} at \textit{The Athletic} \href{https://theathletic.com/839598/2019/02/26/with-a-restructured-contract-kyle-long-is-a-bear-for-life/}{comments upon} the restructure of \textbf{Kyle Long}'s contract:
+
+
+\begin{quote}
+"Assuming the Bears find a way to extend \textbf{Cody Whitehair}’s contract before the season, they’ll head into 2019 with all five starters on the O-line under contract for multiple seasons. Guard still remains a position for Ryan Pace to monitor over the next couple months to add depth considering Long’s recent injury history, and the Bears can do that by bringing back \textbf{Bryan Witzmann} or \textbf{Eric Kush}, or acquiring a guard via the draft. "
+\end{quote}
+
+The Bears have limited resources but the guess here is that they'd like to find something better than Witzmann and Kush to back up the guard position.
+
+More importantly, Whitehair is only signed through the 2019 season after which he becomes a free agent.  Whitehair might be the best offensive lineman they've got and extending him should be a priority.  The Bears have limited cap space and the need to negotiate with Whitehair might have an effect on any decision to resign \textbf{Adrian Amos} or, especially, \textbf{Bryce Callahan}.
+
+\item Speaking of Callahan, \textbf{Adam Jahns} at the \textit{reads my mind} when it comes to the effect of an under the radar Baltimore signing on his odds of getting a big contract.  He points out that the Ravens established a new market for nickel backs Thursday by signing \textbf{Tavon Young} to a three-year extension worth \href{https://overthecap.com/player/tavon-young/4817/}{a reported \$25.8 million}, \$13 million guaranteed.  The average-per-year of the deal \href{https://theathletic.com/835519/2019/02/25/how-can-ryan-pace-use-the-combine-to-help-improve-the-2019-bears/?redirected=1}{is more than \textbf{Chris Harris Jr.} and \textbf{Aaron Colvin}}, and Callahan could be seeking a deal in that ballpark, or more. That might be more than the Bears want to pay given their needs and cap situation.
+
+\item Fishbain \href{https://theathletic.com/835519/2019/02/25/how-can-ryan-pace-use-the-combine-to-help-improve-the-2019-bears/?redirected=1}{doesn't think} that there will be much for the Bears to pay attention to on the field at the NFL Combine.  He makes 14 points about how the Bears can use the Combine to get better.
+
+  \begin{quote}
+    10. The combine is known for the on-field prospect testing, which begins Friday. Those previous nine points? Maybe a little more important for a Bears team without a pick until No. 87 overall.
+  \end{quote}
+
+  I disagree.  The Bears are looking for running back help and the on field workouts will be critical to their evaluation because if they draft one, he'll have to be able to catch the ball.  Here's what \textit{NFL.com}'s \textbf{Daniel Jeremiah} \href{https://chicago.suntimes.com/sports/2019-nfl-draft-bears-kicker-cody-parkey-cole-tracy-bryce-love-james-williams-miles-sanders/}{had to say} about the running backs that the Bears might find in their situation.  Via \textbf{Patrick Finley} at the \textit{Chicago Sun-Times}
+
+  \begin{quote}
+    ``With no selections in the draft’s first two rounds, the Bears have limited resources to pursue upgrades to their 2019 roster. They could eye a pass-catching running back in Rounds 3-7, but, Jeremiah said, that might be difficult.
+
+    ``'As you can imagine, there’s not a lot there,” he said. “These guys don’t catch a lot of balls.'''
+  \end{quote}
+
+  Exactly.
+
+  How these running backs look in pass catching drills will be critical to their odds of being drafted by the Bears.  And its even more important for the bigger tight ends of the type that the Bears might be looking for.
+
+  If the player looks fluid and comfortable with good hands and some natural pass catching ability, he's got a chance.  Otherwise, probably not.  I expect the Bears will be watching closer than usually during these drills this year.
+ 
+\end{itemize}  
+\section{Elsewhere}
+\begin{itemize}  
+  \item \textbf{Bob Costas} is making it known that he's being blackballed by the NFL.  Via \textbf{Cindy Boren} at the \textit{Washington Post} \href{https://www.chicagotribune.com/sports/football/ct-spt-bob-costas-super-bowl-nbc-20190211-story.html#nt=oft03a-2gp3}{answers your questions}:
+
+
+\begin{quote}
+"A year after Bob Costas was conspicuous by his absence from NBC's broadcast of Super Bowl LII, the longtime face of the network's sports telecasts explained that he was told "you've crossed the line" with commentary about the NFL.
+
+"I remember being told that now I can no longer host the Super Bowl," Costas, who parted amicably with the network after 40 years, told ESPN's "Outside the Lines." "I think the words were, 'You've crossed the line' and my thought was, `What line have I crossed?'''
+
+``It's a line that isn't clearly defined, but the NFL is a ratings behemoth and likes to refer to networks as 'broadcast partners. Over the last few years, Costas had moved from being the genial host of the network's biggest sports event to someone who offered brief snippets of commentary and he quickly was subjected to an unaccustomed barrage of criticism for speaking up about long-term cognitive issues that can develop after playing football, gun control, the national anthem controversy and the Redskins' name. He had referred to football as 'unacceptably brutal' and a sport that 'destroys people's brains,' likening it to 'Russian roulette.' The reality, he said in a 2017 Shirley Povich Symposium at the University of Maryland, 'is that this sport destroys people's brains.'''
+\end{quote}
+
+Boren's expansion in the last paragraph pretty much says it all in this situation.  The line that Costas frequently crosses is, indeed, a fine one.  It separates ``critic'' from ``self-righteous''.  It's a line that we all sometimes cross, I think, but Costas has turned it into a habit.
+
+Costas defines himself as a journalist, which is fine.  The problem is that he does it by treating sports like world peace depends upon defending its dignity.  It leads to inflammatory language such as that above addressing the NFL's concussion problem.  It's this tendency that turns off not just the NFL but those of us who are just watching for a little entertainment, not what amounts to something akin to a political tirade.
+
+My guess is that we have seen the last of Costas on any major network for any sport, not just the NFL.
+
+\item I found \href{https://www.chicagotribune.com/sports/football/ct-spt-kareem-hunt-second-chance-nfl-sally-jenkins-20190212-story.html}{this column} by Sally Jenkins at the Washington Post both advocating for a second chance for Kareem Hunt and criticizing the NFL for giving him one wildly inconsistent.
+
+  I won't give this too much time except to say that this was a poorly thought out piece that looked like it was supposed to be about Hunt but which Jenkins couldn't resist using to take a shot a the NFL no matter how it conflicted with her point.
+
+  For the record, I think Hunt is an animal who doesn't ``deserve'' a second chance at anything not guaranteed him under the law.
+
+\end{itemize}
+
+
+#+END_EXPORT

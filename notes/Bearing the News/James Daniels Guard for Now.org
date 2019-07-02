@@ -1,0 +1,15 @@
+#+BEGIN_LaTeX latex
+  New Bears rookie offensive lineman \textbf{James Daniels} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-james-daniels-lineman-biggs-20180513-story.html}{talks about} why it may be better for him to play guard this year:
+
+  \begin{quote}
+  ``'(Guard) is hard, but you don’t have to make the calls and you don’t have to snap, which are two things centers do that people don’t realize how hard it is,' Daniels said. 'So I’m not saying (guard) is easier, but it’s just different from playing center.
+
+  ``'(Friday), I barely knew the calls myself, so I could find the Mike (linebacker), but that’s about it. I couldn’t make any of the blocking combos or anything like that.'''
+  \end{quote}
+
+  \href{ http://bearingthenews.com/blog/2018/04/28/bears-thoughts-s…y-2018-nfl-draft/}{My first instinct was to assume that this move to guard for Daniels was permanent}.  And maybe it still will be if he turns out to be really good there.  But even if that isn't the case, the reasons why putting him at guard is a smart move are becoming clear.
+
+  I like the way the new Bears coaching staff is thinking these things through.
+
+
+#+END_LaTeX

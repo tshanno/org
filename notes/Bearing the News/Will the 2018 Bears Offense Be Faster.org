@@ -1,0 +1,13 @@
+#+BEGIN_EXPORT latex
+\textbf{Lorin Cox} at \textit{USA Today} \href{https://bearswire.usatoday.com/2018/06/22/chicago-bears-offense-pace-matt-nagy-john-fox/}{doesn't think the Bears offense will be any quicker to snap the ball this year}.
+
+\begin{quote}
+  Last year under \textbf{John Fox} and offensive coordinator \textbf{Dowell Loggains}, the Bears’ offense was the NFL’s slowest in terms of the time it took to snap the ball, \href{https://www.footballoutsiders.com/index.php?q=stats/pacestats}{according to Football Outsiders} (\href{https://www.theringer.com/nfl/2018/6/21/17486716/weird-nfl-stats-2018}{via The Ringer}).
+
+However, [new Bears head coach \textbf{Matt}] \textbf{Nagy}’s Kansas City Chiefs were actually the second-slowest to snap the ball, just ahead of the Bears.
+\end{quote}
+
+It's worth remembering that Nagy hired former Oregon head coach \textbf{Mark Helfrich} to help bring some spread concepts to the offense.  Along with that may be a renewed commitment to a hurry up offense, at least in spots.  Indeed, this is something that Nagy, himself, has said he'd like to do depending upon the opponent.
+
+Are we going to see the kind of speed offense that Helfrich ran at Oregon?  No.  But Nagy wouldn't have hired him unless they has a simpatico vision for how the offense would run and I wouldn't be at all surprised if Nagy brought the no huddle to the offense more than his mentor, \textbf{Andy Reid} did in Kansas City.
+#+END_EXPORT

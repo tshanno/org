@@ -1,0 +1,35 @@
+* *Tickers*
+* *Tasks*
+** DONE [#A] Check with Dad to see if luggage tags can be printed.
+   SCHEDULED: <2018-12-22 Sat>
+   [2018-12-20 Thu]
+** DONE Call us at 1 (877) 202-4342 about if I'm emerald - I am
+** DONE [#A] [[message://%3c1340139785.7286700.1546469770074@mail.yahoo.com%3E][Shore excursions]]
+** DONE [#A] Pick up suit
+** DONE [#A] Pick up suit
+** DONE [#A] Get back to Dad on Zika
+	[[message://%3c937018328.1988434.1548630716825@mail.yahoo.com%3E][Roatan, Honduras Island Excursion]]
+** DONE Pre-register
+** DONE [#A] Make airline reservations for cruise
+** DONE [#A] [[message://%3c1326E1CC-DDE7-4BD8-B233-666D87A17AB3@rush.edu%3E][Email Pam about final payment]]
+** DONE [[message://%3c5BB56A6E-E598-4E38-9E86-2A8CCBB226B0@me.com%3E][FU Pam Dixon]]
+** DONE [[message://%3c224222136.17205.1541459328650.JavaMail.WD26$@10.1.4.194%3E][Check in for cruise]]
+  [2018-10-02 Tue]
+   [2018-11-01 Thu]
+   [2018-11-02 Fri]
+   [2018-11-06 Tue]
+
+** DONE Get prescriptions before cruise
+** DONE Set up an alarm for check in
+	[[message://%3cNM61EEB6DDD1A13A0A5southwe_mkt_prod1@iluv.southwest.com%3E][02/08 Tampa trip (WQKTR5): Get prepared to fly!]]
+** DONE [#A] Get the final bill from Royal Caribbean
+** DONE [#A] Send Dad check for $159.02
+* Cruise Documents 2018
+** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/SetSail%20Pass%202018-01-16.pdf][SetSail Pass for Cruise 2018]]
+** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/cruise%202018%20Southwest%20Airlines%20-%20Purchase%20Confirmation.pdf][Flight itinerary for cruise 2018]]
+** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/luggage%20tag%202018-01-16.pdf][Luggage Tag for Cruise 2018]]
+* Cruise 2019
+** Set Sail Pass
+   [2018-12-18 Tue]
+   [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/SetSail%20Pass%202018-12-18.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/SetSail Pass 2018-12-18.pdf]]
+** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/cruise 2018-10-13 Southwest Airlines - Purchase Confirmation.pdf]]

@@ -1,0 +1,146 @@
+
+#+BEGIN_EXPORT latex
+\section*{Procedures and Suggestions for Course Directors}
+
+One thing should be emphasized up front is that much of the following is suggested only (\trsem{blue text}).  Nevertheless serious consideration should be given to implementing these suggestions as they are tried and tested by the experience of others.  Having said that, each course director (CD) should work in whatever way is most comfortable.  What matters is that the work gets done correctly, efficiently and on time.
+
+\subsection*{Student Self-Study Guides}
+
+\begin{enumerate}
+\item The drop dead date for posting these is \underline{two weeks before the session date}.
+\item The posted version should include any corrections to the
+    material from the course materials review team.
+  \begin{enumerate}
+  \item Jeffrey Brandt will send out the materials for review.  As of this posting, in order to make the process more efficient, the plan is to send out the materials from the year before so that the review team does not have to wait on discipline directors (DDs) for updates.
+  \item Once the reviewed materials have been returned, the comments should be sent to the DDs, who will then make changes as they see fit.  This ensures that
+    \begin{enumerate}
+    \item no changes get made that inadvertently change the meaning of the text
+    \item changes get made in the DD's original files and, therefore, get propagated to the next year.
+    \end{enumerate}
+  \item The course coordinators will put the self-studies together in the proper format and will post them.  \trsem{However, it is strongly recommend that you check them closely before posting.  In particular, click on every single link in the file to make sure it is active and has a target.  You may even want to do this again after the file has gone up.  Links have a bad habit of going bad during the process of development of these guides, mostly for unknown reasons.}
+\end{enumerate}
+\item Although Jeffrey and the coordinators usually take care of as much of this as possible, making sure the student self-study guide goes up on time is \underline{your responsibility}.  The buck stops with you.  \trsem{You should, therefore, consider frequently touching base with both Jeffrey and the coordinators to check on the status of these guides and to make sure they are on track to go up on time.}
+  \def\labelenumi{\trsem{\arabic{enumi}.}}
+\item \trsem{It is not recommended that you simply leave it to Jeffrey to remind faculty to get materials in on time.  Busy faculty frequently ``emergency scan'' their emails and ignore those that don't seem important.  Unfortunately that frequently includes emails from Jeffrey and the coordinators whose names many faculty won't even recognize.  A couple things you can do if you run into a particularly problematic faculty member who is late getting materials in:}
+  \begin{enumerate}
+    \def\labelenumii{\trsem{\alph{enumii}.}}
+  \item \trsem{Email the faculty member yourself with an eye catching subject line such as ``IMMEDIATE'' or ``READ ME''.}
+  \item \trsem{If the situation is really desperate, ask Rahul Patwari to email the faculty member.  Most clinical faculty know Rahul and emails from him usually elicit a quick response.}
+  \end{enumerate}
+\end{enumerate}
+
+\subsection*{Faculty Guides}
+\begin{enumerate}
+\item  The drop dead date for posting these is \underline{one week before the session date}.  It is hidden from students until the afternoon session ends at which point they can download it to get the standard answers.
+\item A version of this document without answers (called the ``student guide'') goes up and becomes available to students 30 minutes before the morning session starts.  Because this document is generated from the faculty guide, everything in the faculty guide that should not be in the student guide should be in blue colored text.
+\item Once again, making sure these files go up on time, are properly formatted with all of the relevant material included and expressed in a clear fashion is \underline{your responsibility}.  We cannot expect our clinician educators (CEs) to prepare and to teach at a high standard unless they get these materials at least this far in advance.
+  \begin{enumerate}
+  \item Nothing says ``low expectations'' like posting materials one or two days before a session.  This suggests that this is all the time they will need and leads to CEs simply looking things over the night before and wandering in unprepared to teach the next day.  Because this attitude can propagate temporally down the line, this affects all of us, not just the CD in the current block.
+  \item Conscientious faculty who wish to prepare for a session like you or I would if we were teaching it are driven crazy when materials are posted late.  Their time to prepare will be limited and they will not be able to do the good job that they and we should come to expect.
+  \end{enumerate}
+\item How the materials for the session activities are developed is entirely at the discretion of the CD as long as it gets done effectively and on time.  \trsem{However, see ``Core Discipline Directors Meetings'' below for a method that has been used effectively by some of the more experienced CDs.}
+\item Communication with the relevant session activities team representative during the development of activities for each case is very important.  Not staying in touch with them can be a source of frustration for them and for you as the try to work on documents that are constantly changing out from underneath them.
+\item There is a standard template that is used for the faculty guides.  The final file in this format must be posted by the coordinator.  \trsem{It is recommended that the existing faculty guides be put into this template before the block starts and before working begins on them.  If a coordinator is forced to copy and paste the material into the template before posting all of the comments that have accumulated in the file during development of the activities will be lost.}
+\item Make sure that the coordinator puts the final Word version of the faculty guide on the Google Drive after posting it to Entrada.
+  \begin{enumerate}
+  \item This is necessary because there will often be corrections that will need to be made as the sessions progress in order to make the final guide that the students download as correct as possible.  You can't do this unless you have access to the document.
+  \item Getting the final version on the Google Drive also assures that you will have the most up to date document to start editing next year.
+  \item The coordinators at the time of this writing do not use Google Docs for formatting these documents.  In fairness, there are rare cases where Word does something necessary that Google Docs doesn't (e.g. putting a landscape page into the middle of a portrait document).
+  \item The coordinators will usually have to be reminded to post this final document to the Google Dive.  They're typically juggling a lot of issues and they very often forget.
+  \end{enumerate}
+    \def\labelenumi{\trsem{\arabic{enumi}.}}
+\item \trsem{Consider putting a note at the top of every faculty guide reminding the CEs to send you any comments that they have from the session.  These should be collected and used to improve the session next year.  Many of us simply put these notes at the top of the file after the session is over so that they are there the next year when revision begins.}
+\end{enumerate}
+
+
+\subsection*{Sessions}
+
+\begin{enumerate}
+    \def\labelenumi{\trsem{\arabic{enumi}.}}
+  \item \trsem{At least one week before the sessions consider sending out something to the CEs to remind them that they are teaching.  If they have forgotten and somehow are scheduled to be elsewhere there will be time to notify the coordinator to find someone else.  A calendar invite is fine.  Some CDs prefer to email the clinician educators with the faculty guide for the session attached.  If the relevant DDs can be down to a time, including a schedule that tells CEs when to expect them to assist with activities can also be helpful.}
+      \def\labelenumi{\arabic{enumi}.}
+    \item Make sure that all of the sessions have clinician educators well in advance of the session date (usually a week).  If a room doesn't have an assigned CE, talk to your coordinator.  If there's time, the coordinator will try to find someone.  Otherwise, the coordinator will combine the students from the room with no CE into other rooms.  Do not wait to do this.  The coordinators usually try to take care of this without intervention but it is \underline{your responsibility} if a room suddenly doesn't have an assigned CE the morning of the session.
+        \def\labelenumi{\trsem{\arabic{enumi}.}}
+      \item \trsem{On the morning of the session it is sometimes helpful to get into the rooms 15-20 minutes early.  This allows students who have arrived early to give feedback on how things are running.  If there are problems or suggestions, this is a good way to find out what they are and get on top of them.}
+          \def\labelenumi{\arabic{enumi}.}
+\item Whether you visit the rooms to chat with students or not, you should go to all of the rooms before the session starts to make sure each room has a CE.  Make sure that the CEs are not having difficulties with the equipment and that they all get up and running successfully.
+\item Monitor Slack during the session. All of the relevant DDs should be doing this but it is particularly important that you make sure questions get answered and problems get solved.  The buck stops with you.
+\item Make any necessary changes to the faculty guide from the sessions and re-post it before the end of the afternoon session for the students.
+\item There is a session quiz at the end of each BSci session.  CEs will submit challenges to questions on behalf of the students.  These will come to you via email.  Distribute these to the relevant DDs for a decision.
+\end{enumerate}
+
+\subsection*{Faculty Student Lunches}
+
+These are lunches with a random selection of students which are scheduled monthly.  The purpose is to get feedback on students about how the blocks are running and/or how they ran and to gather suggestions for improvement.
+
+Usually 12 students from each class (24 total) are invited to these and we try to get each student invited to at least one lunch over the course of the pre-clerkship curriculum.  Tom Shannon is currently in charge of maintaining the list of students.  He will reserve the room and send out the invites.  Ordering the pizza and making sure it gets to the relevant room is the job of the CD.  The coordinators can help with this.
+
+\subsection*{Miscellaneous}
+\begin{enumerate}
+\item At least a month before the block starts or as soon as possible after that, check to make sure that the course shell is as its supposed to be.  Make sure that all of the relevant sections are there and, in particular, make sure that the anatomy and histology/pathology DDs are satisfied with the sections that are available for their material.
+\item Encourage DDs to post practice exam questions before formatives and summatives.  These should be posted to the ``Review and Supplementary Materials'' section of the Entrada shell.  Above all else, students crave practice at solving problems and anything that can be given to them in this regard is well appreciated by them.
+\item Make sure that you schedule a question and answer session that all students can make before each formative and summative.  Two may be scheduled with half of the class in each if necessary.  Make sure that as many of the relevant DDs as possible can come to these.  These are opportunities for students to ask questions of faculty.
+
+  These sessions are not ``review sessions'', which have a tendency to turn into lectures, something we don't generally do out of principal.  If faculty wish to ``review'' material before an exam, encourage them to make videos and post them in the ``Review and Supplementary Materials'' section.  These videos have been well received in the past when available.
+
+\item Remember that it is your responsibility to teach not just the students, but the faculty as well.  This means that you need to identify problems, talk to them and develop a plan with them for improvement.  In this respect, you are the head coach of the football team whose responsibility it is to ``coach the coaches''.  You can't (and shouldn't try to) force faculty to do something they don't want to do.  But tactful suggestions for improvement should be made where appropriate.
+
+\item Do not forget that the roles sessions are a part of your block, as well.  As a basic scientist, which all of the CDs currently are, it is easy to simply forget about these sessions because they are clinically oriented and ``soft'' in nature (i.e. not our strength).  Role leaders generally develop the self-study materials and the faculty guides for these sessions without intervention.
+
+  Nevertheless, it is arguably more important that you keep on top of this material.  Most of the role leaders are busy clinicians and some may not remember to get materials in on time unless you prompt them to do so - frequently.
+
+  Please also remember that these role sessions should be treated exactly as the BSci sessions are.  These should not be treated as ``days off'' because your discipline is not represented in the material.  It is \underline{your responsibility} to make sure these sessions run smoothly as planned.
+\item On the same note, please do \underline{not} blissfully wander in at 9:30 on a day when the sessions (Role or BSci) started at 8:00, find out there are fires blazing everywhere and then start pointing fingers at other people ``whose job it was to take care of that''.  It cannot be emphasized enough that \textbf{you are \underline{personally responsible} for making sure that things run smoothly in your course}.  There are plenty of people around to help.  But if you are wondering if its your job to either do something or to make sure something gets done then the answer is easy.  No matter what it is, without exception, the answer is ``yes''.
+
+  There are a thousand reasons for failure but not a single excuse.
+\end{enumerate}
+
+\subsection*{\trsem{The Discussion Board}}
+  \def\labelenumi{\trsem{\arabic{enumi}.}}
+  \begin{enumerate}
+\item \trsem{The default Entrada shell does not seem to have a discussion board in it.  The section may be there but a board will have to be added to it.  The coordinators can do this for you.}
+\item \trsem{Consider encouraging students as often as possible to use this board to ask questions so that everyone can see them and see the answers.}
+\item \trsem{Remember to check the board yourself every day.  If there are questions for other DDs, let the DD know they are there via email.  The best way to encourage students to post to this board is to get responses up promptly.}
+\item \trsem{If the same question is being asked repeatedly or if a particularly good question is asked, consider posting the question to the board without the student's name.  Emails from students can be posted in the form of a question and then you can reply to your own post.}
+\item \trsem{Consider posting minor corrections to the course materials here.  Of course, an announcement with notifications should be made if its a major problem.  But otherwise students will be able to find these corrections easier in the discussion board format where there is a descriptive subject with a threaded series of replies rather than posting an announcement that will be buried among literally dozens of pages of other postings.  Corrections can be posted to the board in the form of a question and then you can reply to your own post.  Note well that it is particularly important that you continually encourage students to check this board if you are going to do this.}
+\item \trsem{Even if they do not choose to use the board, students should be encouraged to check the board regularly.}
+
+  \begin{enumerate}
+      \def\labelenumii{\trsem{\alph{enumii}.}}
+  \item \trsem{They will frequently find answers to questions that they didn't know they had}
+  \item \trsem{They will frequently find answers to questions before they email you or another DD, forcing the same answer to be typed or pasted repeatedly into multiple emails.}
+  \item \trsem{Whenever a student emails a question that has already been answered on the board, consider emailing them the link to the answer instead of typing it in.  This reminds them that the board is there and that, had they checked it, they would have gotten their answer that much sooner.}
+  \end{enumerate}
+
+\end{enumerate}
+
+\subsection*{\trsem{Core Discipline Directors Meetings}}    
+  \def\labelenumi{\trsem{\arabic{enumi}.}}
+\trsem{Many of us have found that a good way to work cooperatively on sessions is to schedule core disciplines meetings with a subset of the DDs.}
+\begin{enumerate}
+\item \trsem{As of this writing these have been scheduled on
+    Wednesdays at 11:00 for most blocks.  When two blocks are being
+    run simultaneously consider starting these earlier or scheduling a
+    second meeting at a different time, one for each block.  It can be
+    very difficult to get through everything you need to get through
+    for two courses in one hour.}
+\item \trsem{It is recommended that you be selective and that you do not invite every single DD to all of these meetings.}
+  \begin{enumerate}
+          \def\labelenumii{\trsem{\alph{enumii}.}}
+  \item \trsem{Too many cooks in the kitchen is counter productive.  The minimum number needed to produce a quality product is what should be strived for.}
+  \item \trsem{Inviting disciplines who have little to do with the cases that you are working on leads to boredom on the part of people who don't need to be there.  Eventually they stop showing up and then don't come when you actually need them to be there.}
+  \end{enumerate}
+  \trsem{Very generally for most blocks you should consider including practitioner, anatomy, physiology, pathology, pathophysiology and pharmacology with other disciplines added as needed.  This list can vary substantially block to block and case to case.  For instance, women's health is essential for the Sexuality and Reproduction block but is rarely needed at all for most of the other blocks.  Immunology/microbiology would be needed every week for Host Defense Host Response while physiology would not.  Microbiology wouldn't be needed to work on a Tetralogy of Fallot case but will be most definitely needed when putting together cystic fibrosis.}
+\item \trsem{\underline{Do invite} people from the session activities team that have been assigned to the session.  They can't always come because of clinical duties but it can be very productive when they are there and it makes communication with them easy.}
+\item \trsem{Though it is far better if people can attend in person, offering a zoom or appear.in link for these meetings so that those who can't make it can join electronically can be very helpful.}
+\item \trsem{During the meeting the process of going through relevant cases to rewrite old material or add new material is started well in advance of the session.  Again, each CD should work in whatever way is comfortable but you might consider asking the DDs to start a draft of an activity that asks what they have in mind with an answer including all relevant information that is needed to get across to the students.  Once they have put something together that can stand on its own if necessary, other DDs can build upon it.  After that, the session activities representative can be recruited in an effort to:}
+  \begin{enumerate}
+          \def\labelenumii{\trsem{\alph{enumii}.}}
+  \item \trsem{Re-write the activity into a more engaging format where possible}
+  \item \trsem{Re-check the material to make sure it is consistent and correct according to their understanding.}
+  \end{enumerate}
+  \trsem{The second of these can be particularly important as DDs frequently are not familiar with what is done clinically in a given scenario and the practical advise of a clinician can be invaluable if not critical.}
+\item \trsem{Whatever you do, \underline{set deadlines} and hold people to them.}
+\end{enumerate}
+
+#+END_EXPORT

@@ -1,0 +1,75 @@
+#+BEGIN_EXPORT latex
+\begin{itemize}
+\item Let's start on a positive note by pointing out that the new Dolphins organizational structure is probably, finally, the right one.  \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-grier-flores-20190205-story.html}{From Dave Hyde at the Sun-Sentinel}:
+  \begin{quote}
+    `One man at the top, \emph{El Jefe}, in [general manager Chris] Grier. The head coach, [Brian] Flores, who was hand-picked by Grier. A partnership starting on the same timeline with, as Flores said, “the same principles.”'
+
+    'That’s the simple way it all should be and, oddly, the way Ross never has done it. He has been the king of the staggered starts and forced marriages of general managers and coaches that devolve into divorces and the next forced marriage.
+
+'There remain questions of why Grier didn’t just survive this latest change but was promoted despite uneven drafts. That’s fair. But there’s no questions of who’s in charge or what the timeline to win is, as with every other season with [Dolphins owner Steve] Ross.'
+\end{quote}
+
+I'm going to whole heartedly agree with Hyde.  Having a good personnel man at the top of the organization in the form of a general manager who hires the head coach is almost always the way to go.  There are, of course, organizations that work with a different structure but they almost always involve an owner who knows football at the top or an extra-ordinary individual in the head coach who can also be a GM.  But generally speaking, you want a single GM who knows football and can pick talent, both players and head coaches, at the top.
+
+And there's good reason to believe that Grier is the right guy.  The last really good draft the Dolphins had was 2016 when they picked up Laremy Tunsil, Xavien Howard, Kenyan Drake, and Jakeem Grant.  Probably not coincidentally, that was the last one that Grier probably was able to pick the talent without interference from former head coach Adam Gase, who very envidently was given quite a bit more power of personnel after an excellent 2016 season.
+
+It says here that there's a very goo dchance the Dolphins have the right guy in charge.
+  
+\item Having said that, it may not be immediately evident that is the case.  The Dolphins are in for a long, tough rebuild.  They have to tear the team down before they can really build it back up and that's probably a two year process.
+
+  They'll have to start dumping older talent and replacing it with younger inexperienced guys.  The problem is that you can’t dump all of it at once because it creates more holes than you can fill.  So you gradually release and replace, release and replace, rinse and repeat until you finally get to the point that you have most of the younger pieces in place.  It's a "tear down" because you are gradually getting worse the whole time.
+
+  People have told me that perhaps the Dolphins process won't be as bad because they have a number of younger peices in place.  I really don't see it.
+
+  In the defensive backfield they have cornerback Xavien Howard and safty Minkah Fitzpatrick.  You might keep safety T.J McDonald if you have a plan for him.
+
+  Many will press to keep Rashad Jones but there's no way that happens after he flat out quit on the team in an ugly midseason incident.  I don't care what you think of the leadership of Adam Gase, there's no way as an organization you can keep a guy who allows his pride to lead him to do such a thing.  He's also 30 years old which means he could be 33 before the Dolphins are competitive again.
+
+  You probably do keep the linebackers, Kiko Alonzo, Raekwon McMillan and Jerome Baker.  No one on the defensive line is even worth mentioning either because they lack the talent or the youth necessary to survive the purge.  This is far and away where the most work needs to be done, especially \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-sidebar-20190204-story.html}{with a scheme change on the way}.
+
+  On offense, the Dolphins have made it plain that they think runningback Kenyan Drake is too imature to be the future at the position.  They need a quarterback, guards, a younger center, and possibly a right tackle.  The wide receiver and tight end positions also need a great deal of attention.
+
+  That’s a heck of a lot of work.  I'd say anyone who predicts that they'll be back to where they are now in less than two years is being wildly optimistic.
+  
+\item Having said that, there are a lot of ways to build a franchise.  I've noticed many observers predicting that the Dolphins will not be active in the free agent market.  I tend to disagree.
+
+  A good, aggressive forray into the market can be a good way to find players.  You just have to be careful to find the right players.  Look for th e Dolphins to go hard at younger free agents coming out of their first contract.  These wiuld be players who couldn't be resigned by their original teams either because of cap issues or becuase they already have established players at the position who couldn't be moved aside to allow the younger man to start.
+
+  In particular, look for the Dolphins to target rising players who have not hit their peak yet.  The key will be projecting the players talent into a future with superior coaching and more game experience.  Identifying players of this nature will be one of the keys to Grier's success.
+
+\item One of the more interesting aspects of the new Dolphins plan will be to see how Flores emerges from the other end of it.
+
+  As is well-known, Flores will try to bring the ``Patriot Way'' to the Dolphins.  The problem is that other franchises that have tried this over the year have failed.  Sometimes miserably.  \href{https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article225386655.html}{From Armando Salguero at the Miami Herald}:
+  \begin{quote}
+    [T]eams have failed miserably thinking they could copy New England’s success by hiring New England coaches.
+
+In 2017, the Detroit Lions were 9-7 to follow another 9-7 record and playoff appearance in 2016. That was deemed not good enough so the Lions hired Patriots defensive coordinator Matt Patricia to bring the Patriot Way to Motown. He was hired by general manager Bob Quinn, who spent the first 15 seasons of his career in the New England front office before moving to Detroit in 2016.
+
+  \end{quote}
+
+  The Dolphins run the risk of repeating past Dolphins mistakes here. Defensive coordinators Romeo Crennell, Eric Mangini and Patricia all became head caoches.  All failed or are struggling.  The reasons why are a mystery but a clue might be found in this interesting tidbit from Adam Kilgore at the Washington Post:
+
+  \begin{quote}
+    'The biggest spectacle in American culture staged [Patriots head coach Bill] Belichick's opus, but it began two weeks ago on a quiet field in Foxborough, Massachusetts. In their first practice after the Patriots beat the Kansas City Chiefs in the AFC championship game, when other coaches might have rested players after an arduous, emotional game, Belichick put the Patriots in full pads and went full-bore. He added extra drills and additional practice periods. Mistakes were met with coaches demanding, "Do it again." At the end, players toiled through an extra 12 sprints.
+
+'"It felt like we were running forever," [wide reciever Matthew] Slater said.'
+  \end{quote}
+
+  Belichick has the gravitas to pull this off.  Do his assistants?
+
+  Bringing the ``Patriot Way'' to Miami is easier said than done.
+  
+  But the biggest problem I see is that \href{https://www.phinmaniacs.com/news/why-the-miami-dolphins-are-already-doing-the-coaching-search-wrong}{Flores is a defensive head coach who is going to be very dependent upon the development of a young quarterback}.  The danger is that the Dolphins are in year three of their rebuild and the quarterback isn't progressing fast enough.  This leads to thoughts that an offensie head coach to further his develpment is needed.
+
+  Fortunately the Dolphins had the wisdom to hire an experienced, quarterback-centric assistant head coach in Jim Caldwell.  Because he's spent most of his time in the NFL coaching established quarterbacks, \href{https://www.phinmaniacs.com/news/dolphins-quarterbacks-and-other-points-of-view}{I do have my doubts about whether Caldwell can develop a rookie}.  But hiring quarterback-centric coaches was a priority for a lot of teams this year and the Dolphins did about as well as you could possibly expect under the circumstances.  I have far more confidence in Caldwell than I do in new head coaches like Zac Taylor and Kliff Kingbury.
+
+  
+\item And although most observers don't seem to believe that the Dolphins will draft a quarterback this year, I wouldn't rule it out.  Grier \href{https://www.sun-sentinel.com/sports/dave-hyde-blog/fl-sp-hyde5-tannehill-future-20190205-story.html}{says that he certainly has not}.
+
+  \begin{quote}
+    “We may get to the process, fall in love with a couple of guys,” Grier said. “Last year, we liked two guys a lot, they both had good success this year. It could be at that point, we may say, ‘Hey, this is the guy.’ ”
+  \end{quote}
+
+  Reportedly those ``couple guys'' were Baker Mayfield and Josh Allen, two of the bigger and more athletic quarterbacks.  I have \href{https://www.phinmaniacs.com/news/dolphins-quarterbacks-and-other-points-of-view}{made my man crush on Drew Lock known} but if I were to speculate, the fact that Sam Darnold, who has many similarities to Lock, wasn't one of their favorites might mean he won't be in love with Lock, either.  Dwayne Haskins might fit this profile best of the top cadidates.
+\end{itemize}
+#+END_EXPORT

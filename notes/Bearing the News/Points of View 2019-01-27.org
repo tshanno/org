@@ -1,0 +1,116 @@
+
+
+#+BEGIN_EXPORT latex
+\begin{itemize}
+\item The Bears \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-bobby-massie-contract-extension-20190126-story.html}{signed \textbf{Bobby Massie} to a four-year contract extension}, preventing him from entering unrestricted free agency.  The deal is reportedly worth more than \$8 million per year.  That's a pretty good price for a solid right tackle in today's NFL so Massie must have wanted to stay in Chicago.
+  \begin{minipage}{1.0\linewidth}
+    Massie did a good job this year but I did wonder if the Bears were going to try to save some money by giving \textbf{Rashaad Coward} a shot at the right tackle job.  Coward is a converted defensive line and and, though I'm sure the Bears like his future, he's probably not ready to start, yet.  He could be good depth though, probably on both sides, and it will be interesting to see how he does when he gets his chance to perform.
+  \end{minipage}
+  
+\item \textbf{Ryan Wilson} at \textit{CBS sports} thought quarterback \textbf{Drew Lock} \href{https://www.cbssports.com/nfl/draft/news/2019-senior-bowl-only-one-of-drew-lock-daniel-jones-looks-like-first-rounder-isabella-mclaurin-shine-in-win/}{showed well} at the Senior Bowl in Mobile Alabama on Saturday.
+  \begin{quote}
+    ``And while [\textbf{Daniel}] \textbf{Jones} gets the MVP hardware, those watching know that Lock was the real star. He started the game and was composed from the first snap when he rolled right only to find \textbf{Montez Sweat} in his face, made an arm-angle adjustment to find McLaurin for a 12-yard gain. First down. Two plays later Lock pump-faked the defense out of position and came back to NC State's \textbf{Jakobi Meyers} across the middle, but Meyers couldn't hang on.
+    
+    ``A series later and facing fourth-and-4, Lock rolled right and found Isabella for an eight-yard gain. It was poised, effortless -- and something an NFL quarterback is expected to do. But it was the pass on second-and-10 from the South's 26 that we'll remember most.
+
+    ``Yes, that's an incompletion but Lock put it the only place he could and McLaurin couldn't come up with it. That's the throw scouts will be talking about.''
+  \end{quote}
+
+  So let me say up front that I’m a proud University of Missouri alumnus.
+  
+  Having said that, I love what I’ve been seeing from Drew Lock.  He did, indeed, look good in the Senior Bowl.  Missouri switched to a pro style offense this year and by the end of the year Lock looked pretty good in it to my eye.
+  
+  I didn't’ feel the same way about \textbf{Blaine Gabbert} or \textbf{Chase Daniel} when they came out.  Both are from Missouri.  So I think this is different.
+
+  Lock may be the quarterback to keep an eye on as we roll towards the draft.  These quarterbacks tend to fly up the boards the closer you get and he could be the one that catches the most attention.
+
+  
+\item \textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-chuck-pagano-biggs-20190123-story.html}{answers your questions}:
+
+\begin{quote}
+  "I understand Cody Parkey’s season was disappointing, but Mason Crosby had disappointing seasons in the past and the Packers kept him. Could this season be an anomaly for Parkey, and could the Bears look at how the Packers kept Crosby? Especially since the free-agent kickers available are bottom heavy. — John K., Parts Unknown
+  
+  ``The difference between Crosby and Parkey is huge, though. Crosby had a solid reputation in Green Bay and had earned the trust of general manager Ted Thompson and coach Mike McCarthy. Parkey was given trust by the Bears by virtue of the \$9 million guarantee in his contract. He didn’t earn it. That trust has been lost. I don’t see a scenario in which the Bears bring back Parkey."
+\end{quote}
+
+I could be way off base here but I'm not so sure that Parkey doesn't kick for the Bears next year.  Yes, I know, the \textit{Today Show} appearance by Parkey just days after blowing the potential game winning field goal against Philadelphia wasn't a good look.  But as Biggs himself has pointed out, its about performance on the field.  Unless you are talking about a guy who did something that will take him off the field, its practically irrelevant.
+
+\begin{minipage}{1.0\linewidth}
+Yes, Parkey had a miserable year.  He missed 11 kicks.  But six of those actually hit the upright, inches from being good kicks.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  I was all in favor of getting rid of Robbie Gould at the time the Bears released him.  He was obviously high maintenance and I had never warmed to his almost constant media presence (at least as kickers go).  But I dislike missed kicks more than I dislike Gould and the position has been a disaster since he left while he has performed well elsewhere.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  Let's just say that I don't want to look back 2 years from now and know that Parkey got together with a good kicking coach like \textbf{John Carney} made a few minor adjustments and became a very good kicker elsewhere.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  As the questioner above implies, the Bears may be better off keeping Parkey into training camp and letting the best guy win.  If Parkey performs well, I think all can be forgiven with the team.  The worst thing you can do in this situation is let things that don't really matter take precedence over performance.
+\end{minipage}
+
+\item Biggs \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-chuck-pagano-biggs-20190123-story.html}{answers another question}:
+
+
+\begin{quote}
+"What are the chances Matt Nagy gives up play-calling duties next year? When he looks back on his first year as head coach, do you think he will see some of the mistakes as rookie-head-coach mistakes or having too much to do? Mainly thinking about game management. — @adamdcharlton
+
+I’d say there is little to no chance Nagy hands off play-calling duties to anyone on his staff, and I think doing so would be a mistake. Nagy’s offensive vision is one of his strengths, and the Bears reaped the benefits this season as they went from 29th in the league with 16.5 points per game to ninth with 26.3. That’s quite a jump in one year, and there is reason to believe the offense will be more potent in Year 2.''
+
+``..Was he perfect with game management? No. There surely are some things he’d like to do differently. Some of those situations may be rookie mistakes as you call them. But I don’t think the Bears had glaring issues with game management, and as I have written before, when you’re simply viewing the game and not processing tons of information on the fly as a coach, it’s a lot easier to make snap decisions.''
+\end{quote}
+
+I'd suggest that Nagy put a coach in the booth to advise him on some of those snap decisions, particularly those involving clock management.  I don't think Nagy was horrible with this but I think he is distracted and it might help to have someone else thinking these things through with a clear head.
+
+\item Biggs \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-chuck-pagano-biggs-20190123-story.html}{answers yet another one}:
+
+
+\begin{quote}
+"I recall some excitement about \textbf{Jonathan Bullard} when the Bears drafted him a few years ago, but I don’t remember seeing Bullard having much of an impact this year. Should we be resigned to the fact that he is just a rotational guy and not an impact player? Or is he doing things on defense the casual fan doesn't see? — Rich S., Barrington
+
+``Bullard hasn’t panned out quite like the Bears hoped he would. He is a rotational player and was on the field for 28 percent of the snaps this season. Bullard would probably would be best in a 3-4 scheme. He can help them a bit, but as a third-round pick, it’s probably fair to say he’s been a bit of a disappointment. Entering the final year of his contract, maybe the Bears will get more out of him in 2019."
+\end{quote}
+
+I'm going to mildly disagree with Biggs on this one.  Although \textbf{Roy Robertson-Harris} out performed him, I thought Bullard made some progress this year.
+
+\begin{minipage}{1.0\linewidth}
+In watching him, along with Robertson-Harris, \textbf{Bilal Nichols}, \textbf{Kylie Fitts} and \textbf{Isaiah Irving} in training camp, my impression was that the Bears had more depth on defense than I had thought back in early July.  That depth wasn't tested as the Bears remained extremely healthy.  During the season defensive coordinator \textbf{Vic Fangio} was obviously very hesitant to take \textbf{Khalil Mack} and \textbf{Leonard Floyd} off the field and when he did, veteran \textbf{Aaron Lynch} was the first off the bench.  As Biggs points out, the defensive ends got more time but only on a rotational basis.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  Nevertheless, I'm going to say that it would have been very interesting to see what some of these guys could have done given the chance.  My guess is that for the most part they would have all been solid but not spectacular performers.  That wouldn't make Bullard a great pick but it wouldn't make him a bad one, either.
+\end{minipage}
+
+\item In reading through \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-brian-urlacher-pro-bowl-20190122-story.html}{this fluffy interview} with former Bears middle linebacker \textbf{Brian Urlacher} at the Pro Bowl, one response stood out to me:
+
+\begin{quote}
+"[Q:] What did you want from your quarterback being on the other side of the ball?
+
+``[A:] Don’t turn the ball over. Simple. Don’t turn the ball over. Take care of the football. Convert some third downs. And protect the ball. The No. 1 thing for us was always: Don’t put us in bad positions. If the quarterback and the offense could do that, we were happy. We could tolerate being put on a short field every once in a while."
+\end{quote}
+
+I totally get this.  And its very evident that Nagy got it during the year as well.  But I'm not sure its the right attitude for the team overall.
+
+\begin{minipage}{1.0\linewidth}
+As the year wore on, Nagy got more and more conservative with his play calling, particularly as opponents played more and more zone defense to prevent the big play against the Bears.  Nagy has the NFL's \#1 defense and he didn't want to turn the ball over and put them in a bad spot.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  The problem is that football is a game of aggression and it has to be played aggressively.  This is especially true against good teams like the Eagles.  I've heard a lot of criticism of \textbf{Mitch Trubisky} after that game but the truth is, Trubisky's hands were tied.  He was \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mitch-trubisky-game-manager-biggs-20181215-story.html}{forced to embrace the role of game manager} because that's what the team wanted.
+\end{minipage}
+
+
+\begin{minipage}{1.0\linewidth}
+  To be frank, the Bears flat out had a better team than the Eagles did.  But Nagy played it close to the vest offensively and let them hang around. That's really why it came down to one missed field goal.
+\end{minipage}
+
+\begin{minipage}{1.0\linewidth}
+  Next year we should all hope Nagy chooses to play aggressively and attacks on both sides of the ball.  Its the only way that the team will really play up to its potential.
+\end{minipage}
+
+\end{itemize}
+
+
+#+END_EXPORT

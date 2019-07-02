@@ -1,0 +1,28 @@
+* *Tasks*
+** ON RADAR [[https://www.physiology.org/doi/full/10.1152/advan.00173.2018][Ten maxims of formative assessment | Advances in Physiology Education]] Add formatives to Dijana’s PowerPoint
+:PROPERTIES:
+:SYNCID:   89FCA51F-DC10-4FDD-BFAE-80ABB012F859
+:ID:       10F96706-F39D-4C72-B695-1238BCB07342
+:END:
+** ON RADAR [[message://%3c20190618100904.8DA9E602474F@pmdist301.st-va.ncbi.nlm.nih.gov%3E][What's new for 'lederer wj' in PubMed]] :: Ambiguous interactions between diastolic and SR Ca2+ in the regulation of cardiac
+Ca2+ release.
+
+** ON RADAR [[message://%3c20190618101039.E8FCD602474F@pmdist301.st-va.ncbi.nlm.nih.gov%3E][What's new for 'gyorke s' in PubMed]] :: The role of
+luminal Ca regulation in Ca signaling refractoriness and cardiac
+arrhythmogenesis.
+
+** ON RADAR [[message://%3c20190618100616.F38A8602474F@pmdist301.st-va.ncbi.nlm.nih.gov%3E][What's new for 'Chen SR' in PubMed]]
+Control of cardiac ryanodine receptor by sarcoplasmic reticulum luminal Ca<sup>2</sup>.
+** ON RADAR [[message://%3c20190618101217.544B26024756@pmdist301.st-va.ncbi.nlm.nih.gov%3E][What's new for 'rios e[au] AND rush' in PubMed]]
+
+
+Perspectives on "Control of Ca release from within the cardiac sarcoplasmic reticulum".
+* *Ticklers*
+** [[https://www.physiology.org/journal/advances?cookieSet=1][Advances in Physiology Education]]
+SCHEDULED: <2019-06-10 Mon>
+* ON RADAR [[message://%3c20180415221025.94083604B580@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Oxidized CaMKII]]
+* [[http://www.chicagotribune.com/lifestyles/books/sc-books-science-fiction-roundup-0425-story.html][Some nice sci fi suggestions]]
+* CANCELED Bob's paper on what generates gating current
+	[[message://%3cCAJMBsVP=6F7M_bt=Uo-_HT8K1vSC-mpzfMA+=5uoiHTQ2MmDkw@mail.gmail.com%3E][How does the voltage sensor make gating current?]]
+* ON RADAR [[https://codearsonist.com/reading-for-programmers][Piotr Limanowski 🔥 Reading for Programmers]] 
+* ON RADAR [[https://www.anand-iyer.com/blog/2017/research-literature-management-with-emacs.html][Research Literature Management with Emacs | Anand Iyer]] 

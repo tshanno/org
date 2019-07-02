@@ -1,0 +1,19 @@
+* Guard Spot in One to Watch as the Bears Try to Jump Start Their Running Game
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-brad-biggs-10-thoughts-lions-week-10-20181112-story.html}{comments on the situation at left guard}:
+
+
+\begin{quote}
+"The rotation at right guard ended as \textbf{Bryan Witzmann} started and \textbf{Eric Kush} was relegated to backup status. Witzmann was signed five weeks ago.
+
+``'Obviously there are a lot of things to improve on, just like in any game, but it’s good to get back out there,' Witzmann said. 'Good to just get the game like feel. You can kind of correct things quicker because if we are rotating the other guy might get a look that is new to you when you’re out there. You can adjust better as the game goes along.'"
+\end{quote}
+
+The Bears had only 54 yards rushing on 22 carries last week against a Lions defense that ranked near the bottom against the run going into the game.  Bears head coach \textbf{Matt Nagy} has commented several times over the last few weeks about how the Bears need to do a better job getting the running game going.
+
+The situation at guard may be a major problem here.  For several weeks before the game against the Bills two weeks ago, Kush was rotating with \textbf{James Daniels} at right guard while \textbf{Kyle Long} played on the other side.  When Long went on injured reserve, Daniels ``won'' the job and Kush started rotating with Witzmann.
+
+None of these guys has impressed me much.  Both Witzmann and Kush are inconsistent and., though Daniels may have a bright future, he's a little light at less than 300 pounds right now.  He needs an offseason in the weight room.
+
+If the Bears are going to be more than a one dimensional passing team down the stretch, they're going to need better guard play.  they may not have the horses to do it.
+#+END_EXPORT

@@ -1,0 +1,121 @@
+% Created 2019-02-17 Sun 09:59
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Tom Shannon}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Tom Shannon},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\begin{itemize}
+\item David Furones at the South Florida Sun-Sentinal \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-separate-20190522-hh6hii6ucvcpzcqgdvt5u3phwy-story.html}{comments upon the situation of runningback Kenyan Drake}:
+
+\begin{quote}
+  ``Under previous coach Adam Gase, Miami Dolphins running back Kenyan Drake’s workload would fluctuate from averaging 18 carries per game in the last five weeks of 2017 to having just 7.5 attempts per outing in 2018.''
+
+  ``'He has a lot of skill and he’s working hard and he’s doing a lot of the things we’re asking him to do,' [Dolphins head coach Brian] Flores said. 'I think he’s obviously athletic, good hands, fast, elusive. He’s a good player. Working with him has been good.'''
+\end{quote}
+
+Even as Drake flashed potential last year, not many people around the team were advocating more playing time for him.  No one said it out right but the suspicion is that his work ethic wasn't up to snuff.  Apparently working with the veteran Frank Gore didn't bring it out of him.
+
+It sounds like Drake is embracing his opportunity to work with the new staff and is looking at it as a fresh start.  Here's hoping it results in a more professional attitude and, as a results, benefits the Dolphins in a big way.  
+\item Chris Perkins at The Athletic \href{https://theathletic.com/989614/2019/05/22/guard-might-not-be-a-glamour-position-but-dolphins-know-an-improvement-is-necessary/?redirected=1}{addresses the Dolphins guard situation}.
+
+\begin{quote}
+  ``There’s no doubt Miami must upgrade from last year’s starting duo of Davis and Ted Larsen, who is now with Chicago. Davis was the league’s 77th-rated guard last season according to ProFootballFocus, allowing seven sacks. Larsen, who started 14 games, was even worse, ranking 125th and allowing four sacks.''
+\end{quote}
+
+Amen.
+
+This article highlights the past problem at guard and the fact that Davis is currently still the leading candidate to play right guard is an indication that the Dolphins have a long way to go at this position.  And the fact that third round draft pick Michael Deiter will likely beat out current starting left guard Chris Reed doesn't make me feel a lot better.  The fact is that this problem probably won’t be solved this year, at least on both both sides.
+
+Many people have a habit of underestimating the importance of the guard position.  In fact, I used to be one of them.  But experience has taught me that this is the most important position on the offensive line.  Its easier to find guards like Deiter in the middle to late rounds of the draft.  But guard position, itself, is more important than tackle. Quarterbacks can step up in the pocket to escape defensive ends coming off the edge if the interior linemen do their job.  But no quarterback can throw with pressure in his face.
+
+This is a huge problem that will likely stunt the performance of both Josh Rosen and Ryan Fitzpatrick along with the performance of the rest of the offensive players, will have to be judged with this in mind.
+\item Adam Jahns at The Athletic writes about \href{https://theathletic.com/996911/2019/05/28/forget-continuity-heres-why-change-should-benefit-the-bears-defense/}{the effect of change} upon an already very good Bears defense.  New defensive coordinator Chuck Pagano is overhauling the defense despite taking over a very successful unit from last years defensive coordinator Vic Fangio, who moved on to become the head coach in Denver.  The Dolphins are undergoing even more drastic changes under never head coach Brian Flores.
+
+\begin{quote}
+``Four different assistants — [outside linebackers coach Ted Monachino, [safeties coach Sean] coach Desai, [defensive line coach Jay] Rodgers and new linebackers coach Mark DeLeone — suggested that new voices should help combat complacency from players.
+
+``'At the end of the day, if you walk into a meeting room thinking that you know everything, you may miss some points,' Rodgers said. 'And if something comes in that’s maybe a little bit different, you’ve got to pay attention a little bit more, so when your turn is up, you’re able to execute the way we expect you to execute.
+
+``'There’s some things that from a language standpoint that may be a little bit different, but at the end of the day, the guys are focused in on what they need to do to be really good at what they do.'''
+\end{quote}
+
+This is why analysts who are \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-brian-flores-20190524-vsfblusmmbdnjgxu7xmn53k2ka-story.html}{predicting things like ridiculous 0-16 seasons} for the Dolphins are wrong.  Its because it takes more than lack of talent to result in historically bad teams.
+
+No first year head coach has ever gone 0-16.  Rod Marinelli was in his third with the Lions in 2008 and Hue Jackson was in his second with the Browns in 2017.
+
+The Dolphins do have holes all over the field with important positions on the offensive line, at pass rusher and at cornerback filled with mediocre to less than mediocre players.  But all of those players are, or should be, laser focused as new playbooks are installed and as relationships with new coaches are built.  And every job is wide open as new coaches without preconceptions watch practices with a neutral eye that may decide that a long time starter shouldn't be given his position and that maybe a relative unknown should be given a shot. 
+
+Dolphins coaches will naturally have an easier time getting the most out of their players this year.  And that could produce a pleasant surprise with a better than expected season.  But at worst, it won't produce anything historically bad.
+\item Safid Deen at the South Florida Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-josh-rosen-ryan-fitzpatrick-20190529-shrdcbpzzzeatec4jujqtgsjby-story.html}{breaks down the quarterback situation in OTAs}:
+
+\begin{quote}
+``Luckily for [Josh] Rosen, he has had some recent experience in a similar scheme.
+
+``Rosen revealed the new Dolphins offense has some basic similarities to the first of two offenses he ran last year as a rookie under former Arizona Cardinals coordinator Mike McCoy, who was fired after six games last season.
+
+``McCoy worked under current Patriots offensive coordinator Josh McDaniels when they were with the Denver Broncos in 2009-10, while O’Shea learned McDaniels’ scheme in New England since 2012.
+
+``Miami Dolphins quarterback Josh Rosen discusses the most difficult part of the offensive system.
+'That tree kinda falls here,' Rosen said of the coaching circle before describing the essence of his new offense.
+
+``It can take a lot of time to get to the point where you can simply concentrate on the opposing defense.''
+\end{quote}
+
+Exactly.
+
+Rosen is very lucky here and so are the Dolphins.  Young quarterbacks can sometimes take a full season with a new before they get to the point where they can stop concentrating on their own offense and start concentrating on the game plan for the upcoming opponent.
+
+What is more likely to hold Rosen back is how the other players on the field adjust to the new scheme rather than how he does.  Nevertheless, this is yet another reason why the Dolphins coaching staff should be able to get a good handle on Rosen over the course of just one season to make a judgment about whether he should be the franchise going forward.
+\item Dave Birkett at the Detroit Free Press \href{https://twitter.com/davebirkett/status/1130120949548949504?s=12}{checks in with the latest odds on who will be on HBO's Hard Knocks program}.
+
+\begin{tabular}{ll}
+  \multicolumn{2}{l}{\textbf{Hard Knocks 2019 - Team Featured}
+  Washington Redskins &5/4\\
+  Oakland Raiders &5/2\\
+  New York Giants &3/1\\
+  Detroit Lions &7/2\\
+  San Francisco 49ers &9/1\\ 
+\end{tabular}
+
+I understand why Daniel Snyder's Redskins might be the favorite.  Snyder seems like just the entrepreneur who would see this as an opportunity rather than a detriment.  Nevertheless my money's on the Raiders.
+
+Mark Davis has been adamantly against this team appearing in the past.  But getting permission to move his franchise to Vegas undoubtedly came with a lot of strings attached behind the scenes.  The bet here is that it's not coincidence that the Rams both appeared on Hard Knocks and went to London to play after permission to move to Line of scrimmage Angeles was given.
+
+Oakland plays a home game against the Bears in London this year and it would surprise no one if they ended up being forced to volunteer to be on Hard Knocks as well.
+\item Albert Breer at SI.com \href{https://www.si.com/nfl/2019/05/20/colts-2019-offseason-chris-ballard-chris-long-retirement-patrick-peterson-suspension-mmqb}{writes about how the Colts are gradually shrinking their draft board year to year}.
+
+\begin{quote}
+``I’d say this year we had 170 players on the board [for 2019], which is way down from where it was before,' [General Manager Chris] Ballard said. 'I think last year we were at 220, I can’t even remember the number from my first year. But yeah, it makes it easier to navigate when you have fewer names that you know fit what you want. I think when we really get it right, and we get it down to about 125, 150, that’s when we’ll have really honed down exactly what a Colt is for our schemes.'''
+\end{quote}
+
+What the Colts are doing is a lesson for us all.  I have found that being brutal about cutting things out of my life, from tossing things from storage to pruning task lists, makes it a lot easier to get better results in the end.
+
+Honestly, if you have something in your closet that you haven't touched for five years, are you really going to need it in the next 5?  Or the 5 after that?
+
+Anyway, this is a sign that the Colts really know what they are doing.  The bet here is that going into the draft, any general manager worth his salt probably knows deep in his heart that there are only 50 or so players they are really likely they'll end up with.  Maybe even less.  So why put 350 on your board?
+
+The ability to hone in on what's really important and trimming the rest seems to be one underrated key to success.
+\end{itemize}
+\end{document}

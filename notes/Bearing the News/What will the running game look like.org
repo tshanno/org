@@ -1,0 +1,19 @@
+#+BEGIN_EXPORT latex
+\textbf{Rich Campbell} at the \textit{Chicago Tribune} on what the Bears running game wil look like.
+
+\begin{quote}
+  ``Power blocking. Pulling guards. This isn’t the sideline-to-sideline outside zone blocking scheme the Bears ran the last three seasons. Yes, the Chiefs incorporated that into their repertoire with \textbf{Andy Reid} as coach and [new Bears head coach \textbf{Matt}] \textbf{Nagy} as coordinator, but they ran more inside zone and more power than the Bears have.''
+
+``'Schematically, it’s great,' Bears center \textbf{Cody Whitehair} said. 'The thing you’re going to see a lot more of is physicality up front. More downhill blocks. And just guys that are not going to beat themselves. We’re going to come off the ball and really maul guys.'''
+\end{quote}
+
+This all sounds great, especially to old school guys like me.  But the Bears have been drafting linemen to run outside zone plays and power football is a different game.  How this adjustment goes as the new season progressess is going to be an issue.
+
+Another significant issue is running back \textbf{Jordan Howard}, who thrived in the \textbf{Dowell Loggains}/\textbf{John Fox} offense his first two years with good pateince and excellent vision.  How he adjusts to the new scheme is going to be critically important.  Things are going to look different and the rhythm of the play once he has the ball in his hands is going to vary depnding on what the offense is doing and how they are blocking the play.
+
+One good thing for Howard and the other Bears personnell - he's excellent running out of the shot gun and indications are, as Campbell points out, that they're going to be running out of it a lot.  The Kansas City offense ran out of the formation 72\% of the time.
+
+Trubisky also was obviously more comfortable in the shot gun of his college days last year even as Fox tried to force him to throw more and more from the pocket in the typical drop back manner.  I would look for both Trubisky and Howard to be far more comfortable this year as their strengths in this area seems to fit Nagy's philosophy.
+
+ALl in all the adjustments this year are going to be interesting all over the offensive side of the ball.  Fans will add the ones here to their list of things to watch.
+#+END_EXPORT

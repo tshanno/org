@@ -1,0 +1,15 @@
+* Bears Wide Receivers Are a Huge Part of the Offense's Success
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-brad-biggs-10-thoughts-lions-week-10-20181112-story.html}{answers your questions}:
+
+
+\begin{quote}
+"On both of Robinson’s touchdowns, he won at the snap. That’s one of the key reasons the Bears made a major investment, making him a \$14 million-per-year receiver in free agency. They knew they were getting a polished performer.
+
+"On his first touchdown, a 36-yard pass at the end of the first quarter, Robinson shook DeShawn Shead three steps into his route. Boom. Robinson was open immediately, and by the time Trubisky reached him in the play’s progression, he had a touchdown shot. Robinson got on top of Shead immediately, Shead panicked, reached out, got off-balance, and it was over. At that point, Trubisky could have put the ball anywhere and it would have been a touchdown."
+\end{quote}
+
+
+
+
+#+END_EXPORT

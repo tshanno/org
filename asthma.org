@@ -1,0 +1,82 @@
+* *Notes*
+* *Session Notes*
+** Asthma BSci Session <2019-01-10 8:00-12:00> <2019-01-10 13:00-17:00>
+* *Ticklers*
+** DONE [#A] self-study posted                                      :Denise:
+SCHEDULED: <2018-12-27 Thu>
+* *Tasks*
+** DONE [#A] Add case to asthma
+Waiting on Anne
+   [2018-12-10 Mon]
+** DONE [#A] [[message://%3c09ad314c83cf44239ff8ad69bccf5d3c@RUPW-EXCHMAIL02.rush.edu%3E][Asthma Self-Study]]
+   [2018-12-11 Tue]
+** DONE [[message://%3c2e9251f816414661b04a504ab288c40e@RUPW-EXCHMAIL02.rush.edu%3E][Get back to Denise on asthma Pharm]]
+   [2018-12-12 Wed]
+** DONE [#A] Change the blueprint for the asthma case to reflect new pathology session content
+   [2018-12-13 Thu]
+** DONE [[message://%3cBC50D4E3-4FAD-400F-89C6-821F66306EEB@rush.edu%3E][Asthma Case Description to file]]
+   [2018-12-19 Wed]
+** DONE [#A] [[message://%3c39b707ef8dc74b2d92058839fad8569b@RUPW-EXCHMAIL02.rush.edu%3E][Go through asthma self-study]] :Course_Administration:Denise:
+   [2018-12-20 Thu]
+** DONE [[message://%3cE6B28841-3EDA-44BA-A41A-DA83BDA4AC27@rush.edu%3E][FU Mike on videos or notes or both]]
+   [2018-12-21 Fri]
+** DONE [#A] faculty guide posted
+** DONE [#A] Post asthma
+* DONE Post 01 Case Description
+** DONE Post Full Case Description
+* DONE Post 02 Student Self-Study
+** DONE Biochemistry
+** DONE [[message://%3c067a786ba2a7420c85cb72062b8eb140@RUPW-EXCHMAIL02.rush.edu%3E][Pharmacology]]
+** DONE Pathology
+** DONE Physiology
+*** DONE Add old exam quesitons to the end of COPD
+** DONE Pathophysiology - PFT video
+** DONE Table of Contents
+*** DONE Osmosis Videos
+** DONE Send Mastery Questions to Maria
+** DONE Post Mastery Questions and Answers
+** DONE Case video - Ellenkate Finley
+*** https://rush.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49eec210-5920-4ca7-8cdc-5be8c5955fca
+* DONE Post 03 Student Guide
+** DONE Post 03a Faculty Guide
+*** DONE [[message://%3c1F6E0F27-1941-4C80-9F59-5502C4B21180@rush.edu%3E][Case video - Ellenkate Finley]]
+*** DONE Exercises
+**** DONE Pulmonary Function Tests after \beta blocker - Anne and Tom
+**** DONE Flow-Volume curves - Anne
+**** DONE Reflex response to hypoxia - Tom
+***** Use blood gases
+***** How about using this: [[file:///Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/asthma concept map 2-17-08-22.pdf]]
+**** DONE Treatment of asthma - Maureen and Mike
+***** Different intensities
+***** Treatment
+***** Mechanism
+*** DONE [[message://%3CCE3EA5FE-1A52-4ADD-9F4D-1A9889E7E22C@rush.edu%3E][Add contacts to faculty guide]]
+*** DONE Put times into schedule
+*** DONE Clinical Reasoning
+*** DONE Insert Case Description
+*** DONE Guide to the guide video
+**** Didn't produce the video - will anyone notice?
+**** DONE Plan Session
+**** DONE Readiness Assessment
+***** DONE Biochemistry
+***** DONE Pharmacology
+***** DONE Pathology
+***** DONE Pathohysiology
+***** DONE Physiology
+
+* DONE Post 04 Self-Study
+** Professional - moved
+** DONE Practitioner
+*** DONE Interpret chest x-rays (1 hour)
+*** DONE Interpret CMP (metabolic profile) + CBC (1 hour)
+* DONE Post 05 CS Student Guide
+** DONE Post 05a CS Faculty Guide
+*** DONE Readinesss!
+*** DONE [[message://%3chplHGONv-_nm7Xwun9a4eA@notifications.google.com%3E][put in CBCL take home points]]
+*** Professional - moved
+*** DONE Practitioner
+**** DONE Interpret chest x-rays (1 hour)
+**** DONE Interpret CMP (metabolic profile) + CBC (1 hour)
+
+* Obesity in asthma? - gone
+* DONE [#A] Pediatrics in asthma?

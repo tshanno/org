@@ -1,0 +1,119 @@
+* *Tasks*
+** DONE Outlook invites to CEs
+   SCHEDULED: <2018-11-26 Mon>
+   [2018-11-15 Thu]
+** DONE [[message://%3c9D73E30D-2958-42B3-906C-05AB3DF90C8C@rush.edu%3E][Talk to Danehsa about Rahul's video and additional file.]]
+   [2018-11-16 Fri]
+** DONE [#A] Ruth Barcic session activites only
+   [2018-11-27 Tue]
+** ON RADAR [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=412][Correct the answer to Ruth Barcic Q 12.]]
+   [2018-11-28 Wed]
+** ON RADAR Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
+   [2018-12-04 Tue]
+** DONE [#A] Send arrhythmia objectives to Princess if necessary
+* *Ticklers*
+* *Meetings*
+* *Miscellaneous Notes*
+
+* *Session Notes*
+** Ruth Barcic BSci Session <2018-11-29 Thu 08:00-12:00> <2018-11-29 Thu 13:00-17:00>
+* DONE Post 01 Case Description
+** DONE Post Full Case Description
+* DONE Post 02 Student Self-Study
+** DONE [[clotting Osmosis video][https://www.osmosis.org/home/learn?id=Coagulation_Cascade&focus=clot_formation]]
+** DONE Pharmacology - waiting on mastery
+*** DONE [[message://%3C7F4674C2-6B5F-4520-8BDF-7DECE377B829@rush.edu%3E][See if Mike is OK with the arrythmia course notes and videos]]
+*** [[message://%3c0700C007-1FA6-42EB-B2DD-B7943B68C6FE@rush.edu%3E][Mike's content minus mastery questions]] - uploaded
+** DONE Psychiatry - waiting on Mastery questions
+** DONE Biochemistry - waiting on mastery
+*** [[message://%3c82ad98b454c9403699bd78f9d6fcad7c@RUDW-EXCHMAIL02.rush.edu%3E][Mastery but with bleeding disorders?]]
+** DONE Pathophysiology - Don't forget note to review video
+** DONE Physiology
+*** The Resting Membrane Potential
+**** The Movement of Charged Molecules Across a Membrane https://youtu.be/q3DLVtbtsak 9:05
+**** The Nernst Potential, Ohm's Law and Capacitance https://youtu.be/3Jm6cVcPJO0 7:40 
+**** Establishment of the Resting Membrane Potential and Chloride Movement Across the Membrane https://youtu.be/pBCINBI0cgI 8:53
+*** The Action Potential
+**** The Action Potential - Introduction and Overview https://youtu.be/o0NDsVCHS0E 15:35
+**** The Action Potential The Na and K Channels https://youtu.be/ZzJzL1-r_hc 11:01
+**** The Action Potential in More Detail  https://youtu.be/Rg8aVM3KI1s 7:53
+**** Properties of Action Potentials https://youtu.be/ncsp_EqQ4L4 15:47
+*** The Cardiac Action Potential
+**** The Ventricular and Atrial Action Potentials https://youtu.be/rxbSRimEzfU 13:59
+**** The Cardiac Action Potential - SA node, AV node and Factors that Affect Propagation https://youtu.be/cdFHdaMoAAw 11:21
+**** Modulatory Cardiac Channels https://youtu.be/Avzdy-YBOC0 3:55 
+**** Modulation of the Electrical and Mechanical Activity of Smooth Muscle https://youtu.be/6zN0Bdt7c-g 4:43
+*** Introducton to Arrhythmias and Anti-Arrhythmic Drugs
+**** Introduction to Arrhythmias - Shannon https://youtu.be/OUsh-zf7FBo 16:58
+**** Introduction to Anti-Arrhythmic Drugs https://youtu.be/KSRjzXUzH3g 12:02
+**** Class III Anti-Arrhythmic Drugs https://youtu.be/pR8zFV1noOA 21:55
+**** Class I Anti-Arrhythmic Drugs https://youtu.be/PyQ8cgp-zEE 27:29
+**** Class II Anti-Arrhythmics https://youtu.be/gEidTFgysOc 12:01
+**** Class IV Anti-Arrhythmic Drugs https://youtu.be/U2Gt2spRRp4 4:29 
+**** Miscellaneous Anti-Arrhythmic Drugs https://youtu.be/4PLAr3fTdzk 16:07
+
+** DONE Table of Contents
+*** DONE Osmosis Videos
+** DONE Send Mastery Questions to Maria
+** DONE Post Mastery Questions and Answers
+** DONE [[message://%3cCAARFCZiwFqWiQNJLfjpDGra8GTtAOfRQVQK4zyzYs8KZ5C8rUw@mail.gmail.com%3E][Case video - Ellenkate Finley]]
+* DONE Post 03 Student Guide
+** DONE [[https://docs.google.com/document/d/1g8NENiBJGiHFQpsVDDkGU07hhKcsO5zv2TLM6CwS4-o/edit?ts=5a2614cb#heading=h.1ozupditd7q][Post 03a Faculty Guide]]
+*** DONE [[message://%3CCE3EA5FE-1A52-4ADD-9F4D-1A9889E7E22C@rush.edu%3E][Add contacts to faculty guide]]
+*** DONE Change Anne's concept map to reflect increased SV due to reduced HR
+*** DONE [[message://%3c797A0816-832B-417E-9529-28181D5E5E2E@rush.edu%3E][Insert afib EKG]]
+*** DONE [[message://%3CyWeFogpeNFP_6OX_XaHeeA@notifications.google.com%3E][Shanu addition]]
+*** [[file://~/Library/Mobile Documents/com~apple~Preview/Documents/IMG_0923-1.jpg][Whiteboard ideas]]
+*** DONE Put times into schedule
+*** DONE [[message://%3cCAARFCZiwFqWiQNJLfjpDGra8GTtAOfRQVQK4zyzYs8KZ5C8rUw@mail.gmail.com%3E][Case video]]
+*** DONE Insert Case Description
+*** DONE Guide to the guide video
+**** DONE [[message://%3c1511905833576.31149@rush.edu%3E][Plan Session]]
+**** DONE Readiness Assessment
+***** DONE Pharmacology
+***** DONE Psychiatry
+***** DONE Pathophysiology
+***** DONE Physiology
+* DONE Post 04 Self-Study
+*** DONE Practitioner EKG and Clinical Reasoning
+* DONE Post 05 CS Student Guide
+** Post 05a CS Faculty Guide
+*** DONE Practitioner EKG
+*** DONE [[message://%3cRJGcBXGo-IZ5Boo3vLu4zA@notifications.google.com%3E][Paste in take home points]]
+
+* DONE [#A] Add electrical blog video to cardiac AP
+   [2018-10-19 Fri]
+* DONE [#A] Ruth Barcic Self-Study to be posted
+   [2018-10-29 Mon]
+   [[<2018-11-15 Thu>]]
+* DONE Ruth Barcic facluty guide to be posted
+   [2018-10-29 Mon]
+   [[<2018-11-22 Thu>]]
+* DONE [#A] Reupload resting membrane potential - its not review in title.
+   [2018-10-30 Tue]
+* DONE [#A] Look to see what you handed out last year for the EKG session
+   [2018-10-30 Tue]
+* DONE [#A] [[message://%3c5421dbd3d0494b6e98f957f81e83fe87@RUPW-EXCHMAIL02.rush.edu%3E][Alter Long-QT answers]]
+   [2018-10-31 Wed]
+* DONE [#A] Repost syeds video w Ruth Barcic 
+* DONE [#A] Arrythmia blue print
+   [2018-11-07 Wed]
+* DONE [#A] Ask Tom about Ruth Barcic Review
+   [2018-11-08 Thu]
+* DONE [#A] Ruth Barcic question
+   [2018-11-08 Thu]
+* DONE [#A] [[message://%3cC8158509-86CC-44A6-8CC2-CBBD7A5AFE8E@rush.edu%3E][FU about getting the arrhythmia program into the Program menu.  This has to be done before the arrhythmia program is released]] <2018-11-13 Tue>
+   [2018-11-10 Sat]
+* DONE [[message://%3cOnDLwctq6VUgMf8X6k57fw.0@notifications.google.com%3E][Get back to Jeffrey on this]]
+   [2018-11-13 Tue]
+* DONE [#A] [[message://%3c95F6F7F146D6B4DB.099D7CCA-183C-4FBF-923A-E75C8C7D4107@mail.outlook.com%3E][Make sure the link on Gabby's face page gets deleted from arrythmia self-study]]
+   SCHEDULED: <2018-11-12 Mon>
+   [2018-11-09 Fri]
+* DONE [[message://%3c1e7e1b5d4e1149feb17b76b32ce8b0b9@RUDW-EXCHMAIL02.rush.edu%3E][FU with Bitz if no one else does]] <2018-11-16 Fri>
+   [2018-11-14 Wed]
+* DONE [#A] Alter concept maps in Ruth Barcic
+  [2018-11-14 Wed]
+* DONE [[message://%3cCAHRKjkcgmnHrv0-VV4n0fGO6-4yT1NtoLcy9gh0aj-KvE_s+Kg@mail.gmail.com%3E][Get back to Princess]]
+  [2018-11-15 Thu]
+* DONE [#A] Check on thoracic imaging session and see if we have enough CEs 
+   [2018-11-15 Thu]

@@ -1,0 +1,17 @@
+* Will the Bears Be Prepared Mentally for the New Yark Giants Game?
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-matt-nagy-20181121-story.html}{answers your questions}:
+
+
+\begin{quote}
+"How will the Bears treat this weekend? Is it like a second bye week or will they get in extra practice? — Sace, Oak Brook
+
+``Right now, the plan is for players to be off through the weekend before reporting back to Halas Hall on Monday. The Bears have scheduled a practice for Monday so that will provide them with one extra day in preparation for the Dec. 1 Giants game. Typically, teams do not practice on Mondays, the day after a game."
+\end{quote}
+
+To me, this is a major concrn right now.  Bears fans will recall that the Bears came out of their bye week flat and laid an egg against the Miami Dolphins, a game that they should have won and one that they may look back upon at the end of their season with regret.
+
+The question now is will the Bears do something different to better handle this mini-bye coming off three critically important division games in 12 days against the Lions (twice) and the Vikings.  It will be worth watching the Bears closely during the first quarter of the Gianst game to see if they come out flat again.  If they do, it could mean trouble.
+
+
+#+END_EXPORT

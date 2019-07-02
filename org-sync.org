@@ -1,0 +1,19 @@
+* *Tasks*
+** DONE [#A] Correct bug in org-sync :: Program generates duplicate IDs when syncing two entries in the same file
+** DONE Bug in org-sync where if you sync from a branch the branch becomes the headline and the rest disappears
+** DONE [#A] org-sync you need a delete entry function that will delete the SYNCID from the locations file. :: Actually I simply fix it so that if org-id find returns nil, nothing further will be done.
+
+** DONE [#A] Bug where you get the "can't find ID nil" message  :: Actually I simply fix it so that if org-id find returns nil, nothing further will be done.
+
+** DONE There is a bug where a branch that doesn't have an ID and is a TODO is a under a heading that does have an ID.  The cursor moes to the branch with the ID.  It messes up the agenda.
+*** I removed org-trigger-hook and tried adding a org-todo advice function.  See if that works.
+* *Ticklers*
+* *Meetings*
+* *Notes*
+** ON RADAR [[info:org#Using%20the%20mapping%20API][info:org#Using the mapping API]]
+** ON RADAR [[info:org#Properties%20and%20columns][info:org#Properties and columns]]
+** ON RADAR [[info:org#Creating%20timestamps][info:org#Creating timestamps]]
+** org-trigger-hook [[https://code.orgmode.org/bzg/org-mode/commit/93c665b56da394fdb19049bbd05f7d66c90a9cc2][Intermediate state, I am just trying comiting now. · 93c665b56d - Gogs]]
+** [[https://orgmode.org/worg/dev/org-syntax.html][Org Syntax (draft)]] 
+** [[https://orgmode.org/worg/dev/org-element-api.html][Org Element API]] 
+** [[info:org#Using%20the%20property%20API][info:org#Using the property API]]

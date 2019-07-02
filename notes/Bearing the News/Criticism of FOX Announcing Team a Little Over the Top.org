@@ -1,0 +1,22 @@
+* Criticism of FOX Announcing Team a Little Over the Top
+#+BEGIN_EXPORT latex
+\textbf{Phil Rosenthal} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-giants-fox-sports-kevin-burkhardt-charles-davis-20181129-story.html}{continues to harp on one of FOX's announcing teams even when they aren't doing the game}:
+
+
+\begin{quote}
+"Still unanswered is whether Mitch Trubisky will be healthy enough to play. But there’s a collective sigh of relief to news the broadcast team of \textbf{Chris Myers} and \textbf{Daryl “Moose” Johnston} have been assigned to call the Packers-Cardinals game.
+
+``Myers and Johnston have worked Fox’s last two Bears telecasts.
+
+``It’s likely the third time would have enabled them to work out the finer points of the Bears lineup. You know, as in \textbf{Kyle Fuller}, not Kurt; \textbf{Javon Wims}, not Williams; \textbf{Bryce Callahan}, not Brian; and \textbf{Cody Parkey}, not Parker."
+\end{quote}
+
+OK.  I get it.  The name thing is a little problem.  But enough is enough.
+
+Let's keep things in perspective here.  What's important isn't that Myers pronounces names most Bears fans who care already know.  Its funny but its not that big of a deal.  What is a big deal is how the game is described.  Do the announcers actually tell you things that you wouldn't know otherwise as they do the telecast?  Does Myers clearly describe these things so everyone understands?  Does Johnston teach you anything about football?  Do both do those jobs in an unbiased way?
+
+These are the things that delineate good broadcasting teams from bad ones, not the occasional mispronunciation of a name.  And I would say that Myers and Johnston have done a pretty decent job in those areas.
+
+
+
+#+END_EXPORT

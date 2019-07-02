@@ -1,0 +1,21 @@
+* Bears Need for Runningback May Not Center Around Jordan Howard
+#+BEGIN_EXPORT latex
+\textbf{Kevin Fishbain} at the \textit{The Athletic} \href{https://theathletic.com/772143/2019/01/17/bears-offseason-ryan-paces-to-do-list-is-shorter-than-usual-and-it-starts-with-his-own-free-agents/}{reviews the Bears offseason needs}:
+
+
+\begin{quote}
+"\textbf{Greatest offseason need:} Running back. The good thing for the Bears is it’s kind of difficult to peg one major need. Last offseason it was clearly wide receiver. In 2016, they had to upgrade at inside linebacker. This depends on which free agents are re-signed, but running back isn’t an issue of a starter with a contract expiring. It held the offense back to not have more production from the position. \textbf{Jordan Howard} was sixth in the NFL in carries (remember how everyone wanted him to get the ball more?), yet his 3.7-yard rushing average was third-worst among the top 20 rushers. Only 7.2 percent of his carries went for 10-plus yards, which was the lowest for a back with at least 180 carries. Now, fulfilling that need could involve a few things. Maybe Howard completely changes his body and game for next year. Maybe the Bears think he’s fine and it was an offensive-line issue. More likely, though, they address it in the draft or free agency and put more speed in the backfield."
+\end{quote}
+
+I agree that the Bears need a running back.  But I'm not so sure that its Jordan Howard they should be looking to replace.
+
+Howard had an off year, no doubt about it.  Although I thought his vision wasn't as good earlier in the year, that improved as the season wore on.  What did not improve \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-cody-parkey-today-show-kareem-hunt-20190116-story.html}{was his explosiveness}.  Howard had one or two runs where he broke completely in the clear that should have been touchdowns but weren't because he was simply too slow.
+
+Howard will never be a burner.  But he didn't have this problem in 2017 when he was very impressive on some runs, finding cracks and bursting through them before the viewer even knew they were there.  This leads me to wonder if he was hurt in 2018 and he definitely had that look about him.
+
+I think a little patience with Howard might go a long way.  The Bears patience with \textbf{Taquan Mizzell}, however, should have run out a long, long time ago.  Mizzell was given chance after chance to do something in the Bears offense this year, presumably because head coach \textbf{Matt Nagy} wanted more of a ``do it all'' utility back who had more power than \textbf{Tarik Cohen} and more mobility than Howard.  Whatever the reason, he was a miserable failure.
+
+If Howard was, indeed, injured this year there's every reason to believe he'll come back stronger and look more like the 2017 version of himself in 2019.  If so, the Bears should be looking for a replacement for Mizzell's role in the offense.
+
+
+#+END_EXPORT

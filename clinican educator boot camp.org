@@ -1,0 +1,4 @@
+* DONE Find out from Bob who the coordinator for this is.
+SCHEDULED: <2018-06-22 Fri>
+* DONE Contact Anne about the case
+SCHEDULED: <2018-06-20 Fri>

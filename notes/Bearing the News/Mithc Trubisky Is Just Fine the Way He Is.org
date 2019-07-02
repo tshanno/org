@@ -1,0 +1,42 @@
+* Mithc Trubisky Is Just Fine the Way He Is
+#+BEGIN_EXPORT latex
+\textbf{Dan Wiederer} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-pro-bowl-eddie-jackson-mitch-trubisky-patrick-mahomes-20190125-story.html}{quotes \textbf{Mitch Trubisky} as he addresses the inevitable comparisons between himself and \textbf{Patrick Mahomes}}:
+
+
+\begin{quote}
+"But even as Mahomes has surged ahead as the consensus best quarterback from that 2017 class, Trubisky makes it clear he’s trying not to get caught up in an ill-advised chase or a competition that doesn’t really exist.
+
+'I learned that isn’t something that’s ever going to help you, when you measure against other people,' Trubisky said. 'Just measure against yourself. If you stay locked in and try to be the best you can possibly be, that’s when you’ll have the most success. But if you get caught up in the comparisons, that’s when you get distracted and you’re not as focused as you should be.'"
+\end{quote}
+
+This sounds like the right attitude and it is certainly one that fans and media should emulate as they examine Trubisky's performance.
+
+I've heard a lot of talk, mostly outside of Chicago, criticizing Bears general manager \textbf{Ryan Pace} for taking Trubisky before Mahomes.  This is total nonsense.
+
+For one thing, Trubisky isn't done developing.  Most of those people haven't actually studied Trubisky on a week-to-week basis.  If they had, they would have seen \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mitch-trubisky-quarterbacks-season-review-biggs-20190121-story.html}{very steady growth over the course of the year}.  
+
+\begin{quote}
+“'Nobody truly knows how far that kid’s come this year more than me,” [Bears head coach \textbf{Matt}] \textbf{Nagy} said. “I’m looking forward to the future because the city of Chicago is lucky to have that kid at quarterback.
+
+“We threw a lot at him early on. We threw a bunch at him, and he didn’t really have a big library into seeing a bunch of different defenses. So he was trying to learn our offense and then pair it up with the defenses he was going to see. And some defensive coordinators, they did a good job of throwing a bunch of different stuff at us this year, so we got to see a lot of different things. And what he did was early in the year, it was maybe a next play, ‘Hey, let’s forget that,’ and he grew there. So he got better in regards to (forgetting) about what just happened the previous play.”
+\end{quote}
+
+And Trubisky is very likely nowhere near finished growing.
+
+Will he ever be as good as Mahomes?  As of now, I kind of doubt it.  I've never seen a quarterback be so physically gifted and so accurate at the same time.  He plays the game on schedule almost flawlessly at times and yet he can go off schedule and make spectacular plays when necessary.  He could turn out to be the best ever before he's done.
+
+But having said that, overall, for the record, you can now consider me to be a Trubisky guy.  When this year started, I knew it would take time before we could draw any conclusions about Trubisky.  In fact, I honestly wasn't too sure we'd be able to do it even by the end of this year.  But I'm reasonably sure now.
+
+I think Trubisky's floor is above average quarterback because, as he plays in his first Pro Bowl, that’s what he is right now.  Trubisky settled down as the season wore on, he got more comfortable with what he was seeing and his accuracy got better with that.  The wild throws that went miles over the heads of receivers had virtually disappeared by the end of the year.  By all accounts he was reading the field much better than he was at the beginning of the year and there's every expectation that he'll get better at it as he progresses in the offense in 2019.  Certainly \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mitch-trubisky-matt-nagy-20190116-story.html}{that is Nagy's expectation}.
+
+\begin{quote}
+  “'By the end of the year, he was reading (his progressions) 1-2-3-run,' Nagy said. 'That, he conquered. Now, I think level two next year is going to be him really recognizing pre-snap what he’s about to see from these defenses.'”
+\end{quote}
+
+I think it's very possible Trubisky could eventually grow to be something really special.  Right now I’m thinking his ceiling is \textbf{Drew Brees}.  In my wildest dreams, \textbf{Peyton Manning}.  But I’m definitely beginning to see a little Drew Brees there.
+
+And, for now, that should be good enough for anyone.
+
+
+
+#+END_EXPORT

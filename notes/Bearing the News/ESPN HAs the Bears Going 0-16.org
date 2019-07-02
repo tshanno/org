@@ -1,0 +1,32 @@
+Of all the ``news'' that the NFL releases to great fan fare throughout the year, I've always found revealing the league schedule to be the most worthless.  Not that it isn't important - fans all over the country are planning trips around games so they can see their teams.  Its just that all of the all of the who-ha is so over done.
+
+Of all of the things that are traditionally done with this piece of news, the game-by-game prediction for the season for each individual team perhaps is the worst.  Predicting wins and losses for an NFL season when anything can happen on any given Sunday and teams routinely go from miserable to playoffs in one offseason is totally without merit.
+
+Having said that, this exercise does give you a chance to see what the rest of the NFL thinks of your team.  You can look at what beat writers outside of your area are predicting and get a pretty good feel for what expectations are.  \textit{ESPN} in particularly provides a glimpse as the require each of their beat writers to do a game-by-game prediction.
+
+So what do the writers outside of the Chicago think of Chicago's chances this year?  Not much.  \textit{ESPN} writers have predicted that the Bears - get this - will go 0-16 next year!
+
+That's right, according to ESPN we're in for a season for the ages.  On a schedule that includes the Jets, Giants, and Tampa Bay, not one NFL win.
+
+Here's how it breaks down:
+
+Packers - L\\
+Seahawks - L\\
+Cardinals - L\\
+Buccaneers - L\\
+Dolphins - L\\
+Patriots - L\\
+Jets - L\\
+Bills - L\\
+Lions - L\\
+Vikings - L\\
+Lions - L\\
+Giants - L\\
+Rams - L\\
+Packers - L\\
+49ers - L\\
+Vikings - L\\
+
+For what its worth (not much), Bears neat writer \textbf{Jeff Dickerson} \href{http://www.espn.com/blog/chicago-bears/post/_/id/4708075/2018-chicago-bears-game-by-game-predictions}{has the Bears going 7-9} after beating the Cardinals, Buccaneers, Dolphins, Jets, Giants, 49ers and splitting with the Lions.
+
+Given what the other beat writers think of the Bears, I'd say we can take that as an upper limit.  But even a cynic like me doesn't see 0-16.  It takes the collective genius of an \textit{ESPN} hive-mind to predict that.

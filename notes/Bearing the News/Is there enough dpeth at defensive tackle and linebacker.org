@@ -1,0 +1,19 @@
+* Is There Enough Depth at Defensive Tackle and Linebacker?
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-spt-bears-mailbag-eddie-jackson-contract-gerald-mccoy-20190605-story.html}{answers your questions}:
+
+\begin{quote}
+``Linebacker and defensive tackle depth seem to be biggest needs on defense. Who are the free-agent targets that would best fit? — @jokertownhero
+
+
+``The Bears have pretty good depth at defensive tackle. Look at \textbf{Eddie Goldman}, \textbf{Bilal Nichols} and \textbf{Akiem Hicks}, who plays inside, and you’re talking about a really talented top three. \textbf{Nick Williams} has been around and he knows the scheme. I disagree that this is an area of need for depth. I also think the Bears are in pretty good shape at linebacker. There aren’t quality pass rushers on the street, and when you have a group headlined by \textbf{Khalil Mack}, \textbf{Leonard Floyd} and \textbf{Aaron Lynch} at outside linebacker, that’s good to me. They’ve got some decent reserves, too, including \textbf{Isaiah Irving}. At inside linebacker, \textbf{Nick Kwiatkoski} and \textsf{Joel Iyiegbuniwe} are behind starters \textbf{Danny Trevathan} and \textbf{Roquan Smith}. \textbf{Josh Woods} is another reserve to keep an eye on. He impressed the team last year as a rookie on the practice field. I don’t see depth issues at these positions.
+\end{quote}
+
+The guess here is that the questioner isn’t impressed Nichols and Irving as quality back ups.   A year ago this time I would have agreed with this assessment as lack of depth was one of the reasons I gave for predicting a last place finish for the Bears.  However, I don't agree now.
+
+Irving and Nichols both impressed me in the preseason last year with the progress that they had made in terms of their play.  Both looked to me like they could play in the regular season if a veteran went down and provide average productivity (which is as much as you can ask of a back up).
+
+Both have now had an additional year to develop, with Nichols seeing significant playing time.  That's good because although the Bears depth wasn't tested much last year, it almost certainly will be this year.  They are probably going to need one or both of these players to be able to step in.
+
+#+END_EXPORT

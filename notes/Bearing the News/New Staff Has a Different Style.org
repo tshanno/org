@@ -1,0 +1,21 @@
+* The New Bears Defensive Staff Has a Noticeably Different Style
+
+#+BEGIN_EXPORT latex
+\textbf{Kevin Fishbain} at \emph{The Athletic} \href{https://theathletic.com/992432/2019/05/24/this-is-a-rare-athlete-why-leonard-floyd-is-a-bears-breakout-candidate/}{quotes outside linebackers coach \textbf{Ted Monachino} on defensive end \textbf{Leonard Floyd}}
+
+\begin{quote}
+  ``'I think the sacks will come,' Monachino said. 'I think Leonard as a pure natural pass rusher has a bigger toolbox than anybody else I’m coaching right now. I want everybody to understand what I just said. The better rusher right now is No. 52. But the natural pass-rush ability, the pass-rush gene, No. 94 has it. As he gets better at one or two things, his numbers will go up. The thing that may happen first are the effective rushes.'''
+
+  ``'This is a rare athlete playing the position.  There’s a whole bunch of guys that are great hammers and guys that have the pass-rush gene that have that dominant trait. This is a rare athlete for the position. I’ve coached a bunch of good ones. I’ve coached big ones, I’ve coached smart ones, I’ve coached fast ones. I’ve never coached an athlete like this.
+
+  ``'… His length. His short-area quickness. Long speed. The ability to cover and change direction. All of those things are very special with this player.'''
+
+  ``'He is more than willing to learn any way he can learn.   He’s learning on his own because he asks me great questions every day when he gets back into the building after he’s watched tape on his own. I think that the guy has a very, very high ceiling.'''
+\end{quote}
+
+The quotes show the difference between the current staff under new defensive coordinator \textbf{Chuck Pagano} and the understated style that former head coach \textbf{John Fox} and coordinator \textbf{Vic Fangio}.  ``Under promise and over deliver'' doesn't seem to be in anyone's mantra in May, that's for sure.
+
+Personally, I like the Fox/Fangio way of handling these things.  Raising expectations to high level sets players that might otherwise be very solid up for what might be perceived as disappointing results.
+
+There is a reason why Floyd hasn't been a great player on the field entering his third year.  True, he might bloom this year.  But I think setting him up to be more than he's shown that he is to this point might be unfair.
+#+END_EXPORT

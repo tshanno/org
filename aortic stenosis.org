@@ -1,0 +1,129 @@
+* DONE CBCL Faculty Guide            :aortic_stenosis:vital_fluids_and_gases:
+** Waiting on confirmation from Anne on my correction
+** Waiting on a couple things from Maureen and Mark (commented in guide on  GD).
+* DONE Post 01 Case Description
+
+** DONE Post Session 1 Case Description
+
+*** DONE Edit down the description into student version
+
+* DONE Post 02 CBCL Self-Study
+** DONE Get George Papadakis case film
+*** George Papadakis interview video:  https://rush.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a605fba-2ae6-4d9a-990e-4f2e852eb9c5
+** DONE [#A] Email Disciplines to ask for materials
+** DONE Put in the links to the Osmosis videos
+*** aortic stenosis
+*** aortic insufficiency
+*** mitral stenosis
+*** mittral insufficiency
+*** tricuspid
+*** pulmonary
+*** pericarditis
+*** Rheumatic heart Disease
+*** endocarditis
+** DONE Pathology
+*** [[message://%3C6314EF8A-5D52-40AF-9F01-88CDB21D6F5D@rush.edu%3E][The promise of materials]]
+*** [[message://%3c1511373910205.54297@rush.edu%3E][Mark's Material]]
+*** DONE Waiting on Mark to tell me if there should be slides for the Overview
+**** [[message://%3cd3d79e63-5c87-4186-a203-7b4a1e4d41bb@me.com%3E][Replace Mark's slides]]
+**** No salides for overview
+*** Waiting on a correction - one incomplete stem.
+** DONE Microbiology
+*** [[message://%3C001a1140ad8858a921055e1bab5b@google.com%3E][Maureen's material]]
+*** [[message://%3C001a11450afa7cb547055e942a03@google.com%3E][Maurreen's mastery questions]]
+** DONE Pharmacology
+*** Mike is getting me a new version with links to a video and slides
+*** [[message://%3CCADqXL_hdY=t5oq5PepaBhEReb9hEFXo2pzVdW8GEMxgD9DcLwg@mail.gmail.com%3E][Mikes content]]
+** DONE Case video
+*** George Papadakis interview video:  https://rush.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a605fba-2ae6-4d9a-990e-4f2e852eb9c5
+** DONE Pathophysiology
+*** Need to make mastery questions correct.
+*** Is there any reading material?
+*** Waiting on corections from Anen and Maureen on the mastery quesitons.
+** DONE George Papadakis self-study video: https://youtu.be/JYKoxu9z8ec
+* DONE Post 03a CBCL Faculty guide
+** DONE [[message://%3CCE3EA5FE-1A52-4ADD-9F4D-1A9889E7E22C@rush.edu%3E][Add contacts to faculty guide]]
+** DONE Guide to the guide video
+*** George Papadakis faculty guide video: https://youtu.be/CBOkvh2IQwM
+** DONE Put times into schedule
+** DONE Clinical Reasoning?
+
+** DONE Case video
+*** George Papadakis interview video:  https://rush.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a605fba-2ae6-4d9a-990e-4f2e852eb9c5
+** DONE Insert case description
+** DONE Look up info on this case so that you can have a reasonable discusison abotu a plan for this
+** DONE Alter the concept map so that it no longer says that afterload decreases force of contraction
+** DONE Maureen is editing the CBCL question.  She said she will notify me when finished.
+** DONE [[message://%3cD4l1l2KhSVTQ1tKsAaTF7w@notifications.google.com%3E][Maureen's RA question]] - partial credit?  How?
+
+* DONE Post 04 CS Self-Study
+** DONE Practitioner - Mastery Lab
+** DONE [[message://%3c1511910527191.24397@rush.edu%3E][Repost with Pauls new Mastery questions]] and send to Maria.
+** DONE Advocate
+*** [[message://%3c1511280028219.11398@rush.edu%3E][Paul's content]]
+** Leader - [[message://%3Cd94ba2105c9c4551a1c4d0351881cf12@RUPW-EXCHMAIL02.rush.edu%3E][Angela Blood in charge of this]]
+*** This was moved to February
+* DONE 05a CS Faculty Guide
+** DONE Practitioner - Masery Lab
+** DONE CBCL Summary
+** DONE Advocate
+*** [[message://%3c1511280028219.11398@rush.edu%3E][Paul's content]]
+** Leader-  [[message://%3Cd94ba2105c9c4551a1c4d0351881cf12@RUPW-EXCHMAIL02.rush.edu%3E][Angela Blood in charge of this]]
+*** This was moved to February
+* DONE Mastery Questions and Answers
+** DONE Pathology
+*** Downloaded these - add to file.
+** DONE Microbiology
+*** [[message://%3C001a11450afa7cb547055e942a03@google.com%3E][Maurreen's mastery questions]]
+** DONE Pharmacology
+** DONE Pathophysiology
+** DONE Advocate
+** Leader - [[message://%3Cd94ba2105c9c4551a1c4d0351881cf12@RUPW-EXCHMAIL02.rush.edu%3E][Angela Blood in charge of this]]
+*** This was moved to February
+* DONE Mastery Questions and Answers to Maria for RA
+** DONE Pathology
+** DONE Microbiology
+*** [[message://%3C001a11450afa7cb547055e942a03@google.com%3E][Maurreen's mastery questions]]
+** DONE Pharmacology
+** DONE Pathophysiology
+** Advocate
+*** No multiple choice
+** Leader -  [[message://%3Cd94ba2105c9c4551a1c4d0351881cf12@RUPW-EXCHMAIL02.rush.edu%3E][Angela Blood in charge of this]]
+*** This was moved to February
+
+* DONE [#A] Bug people for materials
+* Clinical Educators and Rooms
+	12/14/2017 8:00am	Dale, Jordan	Ruth_Barzcic CBCL Group_1	1A, 1B, 1C, 1D	710	
+	12/14/2017 8:00am	Kishore, Suchita	Ruth_Barzcic CBCL Group_2	2A, 2B, 2C, 2D	711	
+	12/14/2017 8:00am	Lambert, Carl	Ruth_Barzcic CBCL Group_3	3A, 3B, 3C, 3D	1046	
+	12/14/2017 8:00am	Huck, Bruce	Ruth_Barzcic CBCL Group_4	4A, 4B, 4C, 4D	1096	
+	12/14/2017 1:00pm	Gore, Katarzyna	Ruth_Barzcic CBCL Group_5	5A, 5B, 5C, 5D	710	
+	12/14/2017 1:00pm	Kent, Paul	Ruth_Barzcic CBCL Group_6	6A, 6B, 6C, 6D	711	
+	12/14/2017 1:00pm	Lopez, George	Ruth_Barzcic CBCL Group_7	7A, 7B, 7C, 7D	1094	
+	12/14/2017 1:00pm	Rice, Melissa	Ruth_Barzcic CBCL Group_8	8A, 8B, 8C, 8D	1096
+
+
+
+* Concentric hypertrophy is exactly as you described it.  For cases like aortic stenosis, in response to the pressure overload, left ventricular wall thickness increases while the cavitary radius remains relatively unchanged.  These compensatory changes reduce the increase in wall tension observed in aortic stenosis.  See the wall thickness term in the Law of LaPlace. :aortic_stenosis:congestive_heart_failure:vital_fluids_and_gases:
+In contrast, eccentric hypertrophy takes place in diseases like aortic regurgitation where there is a volume overload with very little change in systolic pressure.   Because systolic pressure remains relatively unchanged, increased wall stress—again by the Law of Laplace—can be compensated for by an additional increase in wall thickness but this time the ventricular volume increases.
+
+This response is called “eccentric hypertrophy” because the ventricular cavity enlarges laterally in the chest and becomes eccentric to its normal position.  Patients with aortic insufficiency therefore have a different ventricular geometry observed versus those with aortic stenosis (concentric hypertrophy caused by the systolic pressure overload). 
+
+* DONE [#A] [[message://%3c1F436F3A-5EC5-4379-A606-034A8796E8E7@rush.edu%3E][Revise Brett's concept map]]
+  [2018-09-16 Sun]
+* DONE [#A] Add increased HR to concept mapa nd fix Mike's drugs
+  [2018-10-05 Fri]
+* DONE [#A] [[message://%3c0U2UAbU1QdgheejIl0zvBg.0@notifications.google.com%3E][Check out Brett's edit of aortic stenosis]]
+   [2018-10-25 Thu]
+* DONE [#A] George Papadakis Self-Study to be posted
+   [2018-10-29 Mon]
+   [[<2018-11-05 Mon>]]
+* DONE [#A] George Papadakis faculty guide to be posted
+   [2018-10-29 Mon]
+   [[<2018-11-12 Mon>]]
+* DONE [#A] [[message://%3c1541012085209.92091@rush.edu%3E][Get back to Janice on biochem narrated powerpoints]]
+   [2018-11-01 Thu]
+* DONE [#A] [[message://%3c1C174E06-A7D1-4CB9-82F4-2AA510337178@rush.edu%3E][Re-review the Papadakis course notes]]
+   [2018-11-06 Tue]
+* DONE [#A] Work on Papadakis faculty guide
+* DONE [#A] Papadakis faculty guide

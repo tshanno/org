@@ -1,0 +1,25 @@
+* Syed's EKG Introduction
+** boxes
+1 small box =  0.04 sec
+1 large box = 0.20 sec
+6 large boxes = 1.2 sec
+** rate
+*** 1 beat every 0.2 sec = 5 times per second = 300 bpm
+
+*** 1 beat q 0.4 sec = 5 times q 2 sec = 150 bpm
+
+*** 1 beat q 0.6 sec = 5 times q 3 sec = 100 bpm
+*** 1 beat q 0.8 sec = 5 times q 4 sec = 75 bpm
+*** 1 beat q 1 sec = 5 times q 5 sec = 60 bpm
+** Intervals
+*** PR interval 0.21-0.2 sec
+*** QRS 0.6-0.1 sec
+** Amplitude > 5 mm limb leads and > 10 mm precordial leads
+** Small narrow Q waves may be normal in I, aVL, aVF, V5-V6
+** Heart Block
+*** 2nd degree type 1 - gradual increase in PR interval
+*** type 2 - no gradual change - abrupt drop in QRS
+** AV leads
+*** AVR perpenticular to III
+*** AVL perpenticular to II
+*** AVF perpendicular to I
