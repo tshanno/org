@@ -145,6 +145,10 @@ https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired-and-Find.html
   ! calls dired-do-shell-command
   & calls dired-do-async-shell-command
 :END:
+** GitHub - DerBeutlin/filetags.el: Emacs package to manage filetags in the filename
+SCHEDULED: <2019-07-08 Mon>
+[2019-07-06 Sat 07:32]
+https://github.com/DerBeutlin/filetags.el
 * *Development*
 ** [[https://spin.atomicobject.com/2016/05/27/write-emacs-package/][Take Your Emacs to the Next Level by Writing Custom Packages]]  Includes instrucitons on how to push to MELPA.
 ** [[message://%3c53DBB187-0C25-4BAB-895B-4C73C609AB38@rush.edu%3E][Configureing Emacs for Python]]
@@ -314,6 +318,13 @@ https://www.ctan.org/pkg/csquotes
 
 
 * *Miscellaneous*
+** How do I get to the menu in Emacs in console mode? - Stack Overflow
+
+[2019-07-03 Wed 05:13]https://stackoverflow.com/questions/191312/how-do-i-get-to-the-menu-in-emacs-in-console-mode#191377
+** [[https://www.reddit.com/r/planetemacs/comments/c90kp8/using_emacs_episode_52_eyebrowse_youtube/?utm_source=share&utm_medium=ios_app][Try eyebrows.]]  Looks like it might be helpful.
+SCHEDULED: <2019-07-09 Tue>
+[2019-07-04 Thu 06:10]
+
 ** emms (emacs multimedia)
 Try this. 
 emms ftw
@@ -482,6 +493,25 @@ Which is a smidgen hacky, so this would be better:
 
 (global-set-key (kbd "C-c v") 'halve-other-window-height)
 Tangentially, I also love winner-mode which lets you repeatedly 'undo' any changes to window configurations with C-c left (whether the change is the size/number/arrangement of the windows, or just which buffer is displayed). C-c right returns you to the most recent configuration. Set it globally with (winner-mode 1)
+** TODO Try to save window configuration to register the next time you are copying data around
+:PROPERTIES:
+:SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
+:ID:       606b04cd-ef91-450d-bb00-bac20509564b
+:END:
+[2019-07-05 Fri 05:34]
+https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
+
+** Isn't this already possible in default emacs?
+SCHEDULED: <2019-07-08 Mon>
+[2019-07-06 Sat 07:36]
+https://github.com/pashinin/workgroups2
+GitHub - pashinin/workgroups2: Workgroups2 - Emacs session manager
+
+Look at "desktop"
+
+** Searching in Buffers with Occur Mode - Mastering Emacs
+[2019-07-08 Mon 03:34]
+https://www.masteringemacs.org/article/searching-buffers-occur-mode
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

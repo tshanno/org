@@ -3,7 +3,7 @@
 * *Notes*
 ** [[~/Library/Mobile Documents/com~apple~Preview/Documents/IACUC Investigator User Guide RUSH_V1.pdf][IACUC Investigator User Guide RUSH_V1.pdf]]
 ** [[~/Library/Mobile Documents/com~apple~Preview/Documents/LARS PI User Guide_RUSH V1 2019-06-28.pdf][LARS PI User Guide_RUSH V1 2019-06-28.pdf]]
-
+** [[https://app.sparkmailapp.com/web-share/fUawmfOEumZEqOeQ8LEu4HS71RnD1w2Iqmal0EQv][A whole bunch of information and instructions for the new electronic system]]
 * *Meetings*
 ** eRAM Training Session
 Scheduled: Jun 28, 2019 at 9:00 AM to 11:45 AM
@@ -15,3 +15,12 @@ Please plan to arive with enough time to sign attendance sheet roster and be sea
 
 If you have any questions, or find you need to change your class registration, please email Danita_M_Schaal@rush.edu so we can ensure your needs are met. 
 
+** eRAM Training Session; Location AAC 976 <2019-06-28 Fri 09:00-11:45>
+:PROPERTIES:
+:SYNCID:   877246a6-0488-44b9-baac-c36ffeaaf5b7
+:ID:       96a1cab2-7323-4d58-85f0-dad1a8624eea
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-03 Wed 14:17] \\
+  I attended this.  That attendance was acknowledged via email.
+:END:

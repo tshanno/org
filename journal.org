@@ -2485,6 +2485,15 @@ Tom S.
   We went over Angela's test exam breakdown (not the exam which is, of course, off limits at this point since many questions are the same).  She did poorly in anatomy, physiology and pathophysiology.  I recommended active study techniques (image occlusion and Note cards) and that she review the old physiology exam questions.  I also sent her links to the updated computer programs online and asked for bug reports.
 :END:
 *** 2019-06-28 Friday
+**** eRAM Training Session; Location AAC 976 <2019-06-28 Fri 09:00-11:45>
+:PROPERTIES:
+:SYNCID:   877246a6-0488-44b9-baac-c36ffeaaf5b7
+:ID:       6a269ba2-41bb-462b-8496-22398142fff7
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-03 Wed 14:17] \\
+  I attended this.  That attendance was acknowledged via email.
+:END:
 *** 2019-06-29 Saturday
 **** Weighed in at 171.4 lb at <2019-06-29 Sat 6:30>.  -15.8 lb since May 21. 
 Entered on <2019-06-29 Sat>
@@ -2509,4 +2518,50 @@ Will add salt before eating tomorrow.
 
 Entered on <2019-06-30 Sun>
 ***** [[https://www.yummly.com/recipe/Juicy-Oven-Baked-Chicken-Breast-2716315?prm-v1#directions][Juicy Oven Baked Chicken Breast Recipe | Yummly]]
+** 2019-07 July
+*** 2019-07-03 Wednesday
+*** 2019-07-07 Sunday
+**** Just finishing up a trip to St. Charles for the Fourth of July.
 
+Its been a nice weekend.  Came down to the Lake of the Ozarks Wednesday morning and we came straight down.
+
+Tried to "help" Mom by pairing her phone to the car so that things like remote start could work.  I'm pretty sure the only thing I did was mess up what little did work by deleting the existing blue tooth connections.  Who'd have thought that getting it to pair with a new phone would be so difficult?  It didn't even offer th eopportunity to do so.  There's probably some setting deep within the interface that allws it but, really, it shouldn't be that difficult.  Once yo venture outside the Apple system, things sometimes just don't work easily.
+
+Anyway, I'll have to admit to Mom and Da that I messed it up.  Dad pretty much suspects already.  He'll have to take it to the dealer and get her phone re-paired with the car.  I'll wait to tell him until after I leave.  I really don't want to hear about it.
+
+It rained pretty much all day Friday and it was beautiful.  I wish I'd had the presence of mind to take a picture do I could put it here.
+
+I am re-reading The Agony and the Extacy and started to fear tha I'd finish it before I left.  I've done a lot of sitting and reading in the sun which, of course, is great.  I would ordinarily have packed another book but I was trying to pack light to keep the backpack from overflowing.  
+
+I bought another book yesterday.  "This Case is Gonna Kill Me" by Phillip Bornikova.  It was 60% off at Publisher's Clearing House and the jacket makes it sound a bit light and funny.  If I don't start it before heading home I'll keep it in reserve.
+
+Wireless internet fown here sucks.  I ran up against my data limit on my phone because I was tethering so I called and uppped the limit to 6 Gigabites.  I will probably reduce it back down to 2 G next month but I've been running up agains ttha tlimit a lot so maybe not.  I'll see what the bill is.
+
+the only thing that really marred the weekend was the constant bitching about Colleen's financial situation.  This is frustrating because I have to hear about it but they won't let me help and I cna't do anything about it.  I try to change the subject but it jest comes back again.  I guess listening to this is my job.  There are certainly worse things.
+
+Heading to 8AM mass in about an hour at Our Lady of the Lake.  Mom and Dad will go to 10 and after clean up we'll head back to St. Charles.  Greg and Beth are hosting the family for dinner.  Greg has an early flight like me so it will be an early night.
+***** Consider reducing the data limit fo the phone back down to 2G.
+SCHEDULED: <2019-07-15 Mon>
+
+Entered on <2019-07-07 Sun>
+*** 2019-07-08 Monday
+**** DONE Consider how feasible to work strictly with iPad over 4th.  If it works well, consider this case to carry both piad and keyboard.
+SCHEDULED: <2019-07-08 Mon>
+:PROPERTIES:
+:SYNCID:   ae4654aa-b5a7-4f30-8050-2778ecb2d94e
+:ID:       ffb83ba9-112e-470a-b617-a273052afbd5
+:END:
+[[https://www.amazon.com/BUBM-Shoulder-Compatible-Chromebook-Notebook/dp/B074SQG7KJ/ref=sxbs_sxwds-stvp?keywords=9.7+inch+iPad+Pro+bag&pd_rd_i=B074SQG7KJ&pd_rd_r=de0bdbf2-bc8e-4780-922f-6ee86e6f6578&pd_rd_w=QO9U0&pd_rd_wg=alzXQ&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=QE5D8TYCYZN5DCDKE2QH&qid=1561904317&s=gateway][Amazon.com: BUBM Travel 13.3 inch Laptop Shoulder Bag Compatible for 12inch New MacBook Pro Retina Air 12.9 inch iPad Pro Chromebook Notebook HP ACER ASUS DELL Lenovo: Gateway]]
+
+This went well.  I think that unless data analysis is involved that there's not reason whyI should have to drag a laptop on trups.  I should very seriously consider a new iPad, perhaps this fall.  We'll see what the mnoney situaiton looksl like.
+**** Seriously blew my diet on vvactioan this week.  Need to get back on the horse.  I fear what I'll weigh on Saturday.
+
+There was a radio problem with the plane to Chicago.  Had to de-board, then reboard on another aircraff. I'm on the plane now.  We'll be more than an our late.
+
+Have to get in some exercise on the bike, then walk downtown this morning.  I'll try to get some questions tagged with objectives this afternoon.  
+
+Early morning tommorrow so I can anaylze Dan's data. 
+
+***** TODO [#A] Install ispell on this iPad.  Also latex (tex-live Alpine package).
+
+Entered on <2019-07-08 Mon>
