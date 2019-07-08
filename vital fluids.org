@@ -146,14 +146,12 @@ SCHEDULED: <2018-12-12 Wed>
 ** ON RADAR FU Anne and Syed and joanna on peds VF topics
 	[[message://%3c01139CAB-5DAE-473B-AF0B-E63208CF8D69@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add urinalysis topic to pathophys and path and delete from practitioner
-   SCHEDULED: <2019-04-29 Mon>
-   :PROPERTIES:
-   :SYNCID:       FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
-   :ID:       CB116CC1-3F73-400E-A6D7-B9D9548F7BC4
-   :END:
-	[[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
-
-
+SCHEDULED: <2019-04-29 Mon>
+:PROPERTIES:
+:SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
+:ID:       CB116CC1-3F73-400E-A6D7-B9D9548F7BC4
+:END:
+[[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
 ** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
 SCHEDULED: <2019-04-29 Mon>
    [2018-12-21 Fri]

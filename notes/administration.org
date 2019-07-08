@@ -3,10 +3,22 @@
 
 - Note taken on [2019-06-07 Fri 08:58] \\
   This has to be complete before August 31 and will require parrts being filled out by both Beth and Mike.  So maybe getting it done by July 15 or so wouldn't be a bad idea.
+* *Ticklers*
+** Get back to Bob on this.
+SCHEDULED: <2019-07-08 Mon>
+[2019-07-06 Sat 08:52]
+
+[[message:%3C9cd7f2cda7184eb89571e30763fdb0ff@RUPW-EXCHMAIL02.rush.edu%3E]]
+** Find out what this ticket is about.
+SCHEDULED: <2019-07-09 Tue>
+[2019-07-07 Sun 05:27]
+
+[[message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-2.amazonses.com%3E]]
 * *Notes*
 ** [[message://%3cb4a5a4971bdc4b1c9238295a8eaa1dba@RUPW-EXCHMAIL02.rush.edu%3E][Note on the move from Bill]]
   [2018-10-17 Wed]
 ** [[/Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list.xlsx]]
 ** [[/Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list 2019-02-25.xlsx][OMSP Phone List 2019-02-25]]
+** [[file:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Excel/OMSP%20Phone%20list.xlsx][OMIE phone list]] [2019-07-03 Wed]
 * DONE [#A] Review Grad School Material
 	[[message://%3c6C327739-1022-4D25-867B-7BAA4FFD660A@rush.edu%3E][FW: Tom_Shannon@rush.edu]]

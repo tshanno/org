@@ -36,6 +36,11 @@ SCHEDULED: <2019-07-05 Fri>
 ** DONE [#A] Pay Fidelity
 	[[message://%3cFidelityInvestmentsCreditCard.6g0814b9wj.gblp@email.fidelityrewards.com%3E][Your rewards statement is waiting]]
 
+** TODO [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
+:PROPERTIES:
+:SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
+:ID:       eca6c148-7194-4057-aa53-b10f13b455db
+:END:
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
 * *Large Expenses*

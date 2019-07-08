@@ -694,6 +694,17 @@ In any case Seattle is \textbf{Pete Carroll} is far more likely to adjust to Lyn
 *** [[http://www.nfl.com/news/story/0ap3000001033747/article/vets-addressed-duke-johnson-remarks-with-mayfield][Vets addressed Duke Johnson remarks with Mayfield - NFL.com]] Use this when addressing Cleveland comments by Lombardi 
 
 ** ON RADAR [[https://theathletic.com/1038908/2019/06/21/how-to-go-from-a-good-nfl-team-to-a-great-nfl-team/][How to go from a good NFL team to a great NFL team – The Athletic]] There are probably a couple posts here. The brown reflect their qb for factor 1. The bears are counting on exiting players to get better for number 3. 
+** DONE Watch this later with wireless
+SCHEDULED: <2019-07-08 Mon>
+[2019-07-06 Sat 07:38]
+https://www.reddit.com/r/planetemacs/comments/c9h9q9/how_i_organize_my_work_with_org_mode_in_spacemacs/?utm_source=share&utm_medium=ios_app
+** Inside the film room: How the Bears utilized a cross concept in the passing game [2019-07-06 Sat 07:14]
+SCHEDULED: <2019-07-07 Sun>
+https://theathletic.com/1063331/2019/07/05/inside-the-film-room-how-the-bears-utilized-a-cross-concept-in-the-passing-game/
+
+
+Read this later.  s probably lots of video ll want to stream with the wireless.
+youThere*
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 

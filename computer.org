@@ -10,6 +10,13 @@
 *** ON RADAR [[https://dzone.com/articles/filtering-with-array-functions-part-3?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][Filtering With Array Functions (Part 3) - DZone Web Dev]]
 ** DONE [[https://m.youtube.com/watch?feature=youtu.be&v=DuO31Ro2ypg][The 10 best augmented reality apps for iPhone - YouTube]]
 ** ON RADAR Gigsky and dual sim
+** Back up videos and data
+SCHEDULED: <2019-08-01 Thu>
+** TODO [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
+:PROPERTIES:
+:SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
+:ID:       6c623957-2308-4bc1-81bc-026f2d077699
+:END:
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]
@@ -18,9 +25,21 @@
 ** WWDC
 <%%(diary-block 6 3 2019 6 7 2019)>
 ** Apple Event <2019-03-25 Mon>
-** Consider how feasible to work strictly with iPad over 4th.  If it works well, consider this case to carry both piad and keyboard.
+** DONE Consider how feasible to work strictly with iPad over 4th.  If it works well, consider this case to carry both piad and keyboard.
 SCHEDULED: <2019-07-08 Mon>
+:PROPERTIES:
+:SYNCID:   ae4654aa-b5a7-4f30-8050-2778ecb2d94e
+:ID:       23596d5e-ba92-4cfd-adcc-8e86407abc0c
+:END:
 [[https://www.amazon.com/BUBM-Shoulder-Compatible-Chromebook-Notebook/dp/B074SQG7KJ/ref=sxbs_sxwds-stvp?keywords=9.7+inch+iPad+Pro+bag&pd_rd_i=B074SQG7KJ&pd_rd_r=de0bdbf2-bc8e-4780-922f-6ee86e6f6578&pd_rd_w=QO9U0&pd_rd_wg=alzXQ&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=QE5D8TYCYZN5DCDKE2QH&qid=1561904317&s=gateway][Amazon.com: BUBM Travel 13.3 inch Laptop Shoulder Bag Compatible for 12inch New MacBook Pro Retina Air 12.9 inch iPad Pro Chromebook Notebook HP ACER ASUS DELL Lenovo: Gateway]]
+
+This went well.  I think that unless data analysis is involved that there's not reason whyI should have to drag a laptop on trups.  I should very seriously consider a new iPad, perhaps this fall.  We'll see what the mnoney situaiton looksl like.
+** Five Mac Apps Worth Checking Out - July 2019 - MacRumors
+
+[2019-07-03 Wed 05:07]https://www.macrumors.com/2019/07/02/five-mac-apps-july-2019/
+** [[https://www.reddit.com/r/planetemacs/comments/c90kp8/using_emacs_episode_52_eyebrowse_youtube/?utm_source=share&utm_medium=ios_app][Try eyebrows.]]  Looks like it might be helpful.
+SCHEDULED: <2019-07-09 Tue>
+[2019-07-04 Thu 06:10]
 
 * *Notes*
 ** Info about find command

@@ -666,3 +666,10 @@ SCHEDULED: <2019-06-10 Mon>
 **** 2019-06-19-19 very good for everything
 **** 2019-06-19-21 very good for everything.  Probably either this or 19.
 
+** TODO Try to save window configuration to register the next time you are copying data around
+:PROPERTIES:
+:SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
+:ID:       f6f6269b-c3ca-4512-ba58-88d96adf313c
+:END:
+[2019-07-05 Fri 05:34]
+https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
