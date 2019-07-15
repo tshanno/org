@@ -698,7 +698,7 @@ In any case Seattle is \textbf{Pete Carroll} is far more likely to adjust to Lyn
 SCHEDULED: <2019-07-08 Mon>
 [2019-07-06 Sat 07:38]
 https://www.reddit.com/r/planetemacs/comments/c9h9q9/how_i_organize_my_work_with_org_mode_in_spacemacs/?utm_source=share&utm_medium=ios_app
-** Inside the film room: How the Bears utilized a cross concept in the passing game [2019-07-06 Sat 07:14]
+** DONE Inside the film room: How the Bears utilized a cross concept in the passing game [2019-07-06 Sat 07:14]
 SCHEDULED: <2019-07-07 Sun>
 https://theathletic.com/1063331/2019/07/05/inside-the-film-room-how-the-bears-utilized-a-cross-concept-in-the-passing-game/
 

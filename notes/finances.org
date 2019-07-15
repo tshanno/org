@@ -3,7 +3,7 @@
 * *Ticklers*
 ** DONE [#A] [[message://%3c22619210ddc645f7ab13d8e864d3f50e@RUDW-EXCHMAIL01.rush.edu%3E][Consider enrolling to get W2 online]] due 1/12
 ** $100 to fidelity
-SCHEDULED: <2019-07-05 Fri>
+SCHEDULED: <2019-07-12 Fri>
   [2018-10-12 Fri]
 * *Tasks*
 ** DONE [#A] [[message://%3c2048249476.30625.1542450956204.JavaMail.WASFARMCCCPRD@VMAKSA69901ASW%3E][Pay Fidelity]]
@@ -36,11 +36,18 @@ SCHEDULED: <2019-07-05 Fri>
 ** DONE [#A] Pay Fidelity
 	[[message://%3cFidelityInvestmentsCreditCard.6g0814b9wj.gblp@email.fidelityrewards.com%3E][Your rewards statement is waiting]]
 
-** TODO [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
+** DONE [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
 :PROPERTIES:
 :SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
 :ID:       eca6c148-7194-4057-aa53-b10f13b455db
 :END:
+** TODO Map out dates for monthly bills for planning
+** TODO [#A] Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
+:PROPERTIES:
+:SYNCID:   4B565FDB-4CB7-47E1-8676-595B605D8413
+:ID:       4FA68073-4E84-42F1-9FF3-3C3DDE870803
+:END:
+
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
 * *Large Expenses*

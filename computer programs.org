@@ -13,6 +13,7 @@
 :ID:       04868A4F-8303-41D8-ACF3-00F83F9A7604
 :END:
 [2018-09-07 Fri]
+** ON RADAR Take a look at this.  It might help javascript edevelopment [[http://eschulte.github.io/emacs-web-server/Introduction.html#Introduction][Emacs Web Server (web-server) User Manual: Introduction]] 
 * *Meetings*
 * *Ticklers*
 * *Notes*

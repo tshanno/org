@@ -19,6 +19,13 @@ SCHEDULED: <2019-06-19 Wed>
 :ID:       584C78E5-7AFE-43D6-9505-9E913889CFD5
 :END:
 
+** TODO [#A]  Talk to Jeffrey and help Nadia out with this. [[message://%3ca06fe6207db64c96b5c56d3cdd1e8642@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+:PROPERTIES:
+:SYNCID:   EB7EE53E-301C-42DF-97B2-7AEAE7E4FD9B
+:ID:       17BEB0FC-13C6-4AC6-856D-586EF5CC6E8F
+:END:
+
+
 * *Ticklers*
 * *Meetings*
 * *Notes*

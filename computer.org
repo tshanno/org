@@ -12,11 +12,24 @@
 ** ON RADAR Gigsky and dual sim
 ** Back up videos and data
 SCHEDULED: <2019-08-01 Thu>
-** TODO [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
+** DONE [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
 :PROPERTIES:
 :SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
 :ID:       6c623957-2308-4bc1-81bc-026f2d077699
 :END:
+** DONE [#A] [[https://sixcolors.com/post/2019/07/know-when-to-holdem/][Know when to Hold'em - Six Colors]]
+
+
+Apple’s Texas Hold’em game is so old it was originally developed for the iPod. While it eventually made the jump to iOS, it eventually folded in 2011. But now it’s back! With updated gameplay, graphics, and “new characters.”  You can even play against up to eight of your friends via Wi-Fi. (What, no Game Center support?)
+
+** ON RADAR [[https://dzone.com/articles/4-useful-javascript-libraries-for-data-analysis-an][4 Useful JavaScript Libraries for Data Analysis and Visualization - DZone Web Dev]] 
+** ON RADAR [[https://leancrew.com/all-this/2019/07/zoom-out/][Zoom out - All this]] This shows how to fix the zoom vulnerability. It also has some handy Unix cmd line tips. 
+** TODO [#A] Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
+:PROPERTIES:
+:SYNCID:   4B565FDB-4CB7-47E1-8676-595B605D8413
+:ID:       74095EF2-428E-4688-B485-73ECB6A94FB0
+:END:
+
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]
@@ -37,10 +50,9 @@ This went well.  I think that unless data analysis is involved that there's not 
 ** Five Mac Apps Worth Checking Out - July 2019 - MacRumors
 
 [2019-07-03 Wed 05:07]https://www.macrumors.com/2019/07/02/five-mac-apps-july-2019/
-** [[https://www.reddit.com/r/planetemacs/comments/c90kp8/using_emacs_episode_52_eyebrowse_youtube/?utm_source=share&utm_medium=ios_app][Try eyebrows.]]  Looks like it might be helpful.
-SCHEDULED: <2019-07-09 Tue>
-[2019-07-04 Thu 06:10]
 
+** [[https://www.cultofmac.com/637330/apple-huge-cuts-ssd-upgrade-pricing-macs/][Apple makes huge cuts to SSD upgrade pricing for Macs]] You should really consider doing this. 
+SCHEDULED: <2019-07-13 Sat>
 * *Notes*
 ** Info about find command
   [2018-10-12 Fri]
@@ -63,3 +75,33 @@ SCHEDULED: <2019-07-09 Tue>
 
 
 ** [[https://www.payetteforward.com/how-to-hard-reset-iphone-xs-iphone-xs-max-fix/][How Do I Hard Reset An iPhone XS & iPhone XS Max? The Fix!]] 
+** IDL infor for download and activation [[message://%3c-447307046.32676.1562686706293.JavaMail.wasadmin@scapp-04.isys.intraware.com%3E][Maintenance ID: 235841 (Rush University) - Harris Download and License Center]]
+
+
+Dear Thomas Shannon (Rush University),
+
+Thank you for choosing our software and services.
+
+Download your software from the Harris Download and License Center.
+
+Below are your activation codes for your software.
+
+E026-13C2-02DB-30E8
+
+Your activation codes provide the following software, quantity, and maintenance date or term/temporary license expiration date:
+
+Software	Activation Code	Quantity	Maintenance Date
+or Term/Temporary
+License Expire Date
+IDL 8.7 License	E026-13C2-02DB-30E8	2	07/31/2020
+Please note, if you receive a new activation code for your current Maintenance ID, the new code must be used to update your older version licensing. Your old activation code for the same Maintenance ID will no longer be useful. To re-host your license to a different installation, you must first use your new activation code on your existing installation before you can deactivate, so that that license can be used on a different computer.
+
+You can access your licensing information at anytime through the Harris Download and License Center, just select Search Entitlements and search with your MAINTENANCE ID: 235841
+
+If you need help or want to give us feedback, visit our Contact Us page.
+
+Thanks,
+
+The Harris Geospatial Solutions Team
+
+** [[https://support.apple.com/en-us/HT203085][Use Dictation Commands to tell your Mac what to do - Apple Support]]

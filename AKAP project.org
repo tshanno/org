@@ -1,7 +1,46 @@
+* *Tasks*
+** ON RADAR [#C] [[message://%3c20180124110537.49E71604D8E7@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Read Wayne's new article]]
+** ON RADAR [#C] [[message://%3c20180124110952.02870604D8E6@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Read Mike/Xun article]]
+** ON RADAR [#C] [[message://%3c20180125111327.E50D720155E0@esupp01.be-md.ncbi.nlm.nih.gov%3E][Another Fill article]]
+** DONE [#A] Analyze Dan's latest data before phone call with Don at noon.
+*** Looks to me like he's overdosing with ISO.
+*** Check solutions
+*** Decrease dose to 100 nM
+** DONE [[message://%3cd86b20f74b8f4abbad2a713cd91e9e31@MLBXCH15.cs.myharris.net%3E][Renew IDL Maintenance by July 1]]
+** DONE [#A] TRAVEL FORMS! 
+  [2018-07-17 Tue]
+** DONE [#A] [[message://%3c959be2bf71a443ac9bbfb5eac56f4fd8@646005169%3E][Renew Matlab (90 day notice)]]
+   SCHEDULED: <2019-03-11 Mon>
+** DONE [#A] Call Dan
+** DONE [#A] [[message://%3c172ACE66-BF7C-48F6-908D-1589C1209E4B@rush.edu%3E][Do work for Don on AKAP stuff]]
+** ON RADAR [[message://%3c172ACE66-BF7C-48F6-908D-1589C1209E4B@rush.edu%3E][Work on methods paper]]
+** DONE FU: Dan (due June 12) [[message://%3cc6ef34a6c1ed42aa9d2062694f0be929@RUPW-EXCHMAIL01.rush.edu%3E][Annual Renewal Notification IACUC #17-040]]
+SCHEDULED: <2019-06-10 Mon>
+
+** DONE [#A] Prepare a PowerPoint for call with Don [[message://%3c61415DB3-D295-4CE7-BC84-5CED3BABF338@rush.edu%3E][Re: Could we set up a call?]]
+:PROPERTIES:
+:SYNCID:   BA401EFA-8B20-4E7D-B9DA-566EAE2EA1EB
+:ID:       77D58284-DDFA-4516-8CF2-6E17E1E69A5D
+:END:
+*** Possible cells for presentaton
+**** 2019-06-06-05 peak transients
+**** 2019-06-07 transients - needs some trimming
+**** 2019-06-07-04 very good trasients
+**** 2019-06-19-19 very good for everything
+**** 2019-06-19-21 very good for everything.  Probably either this or 19.
+
+** TODO Try to save window configuration to register the next time you are copying data around
+:PROPERTIES:
+:SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
+:ID:       f6f6269b-c3ca-4512-ba58-88d96adf313c
+:END:
+[2019-07-05 Fri 05:34]
+https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
 
 * *Ticklers*
-** Consider re-uping mantenance agreement for IDL [[message://%3c0625ed0fbf874548891800b852e2a7f5@MLBXCH15.cs.myharris.net%3E][Quote No. QTO-042209]]
+** DONE [#A] Consider re-uping mantenance agreement for IDL [[message://%3c0625ed0fbf874548891800b852e2a7f5@MLBXCH15.cs.myharris.net%3E][Quote No. QTO-042209]]
 SCHEDULED: <2019-07-08 Mon>
+** DONE Submit reimbursement for IDL (2 days to process, then presumably, the final reciept)
 
 ** DONE FU: Don Bers [[message://%3cF72116E9-F896-444D-A834-02403F73F1FD@rush.edu%3E][Could we set up a call?]]
 :PROPERTIES:
@@ -71,6 +110,21 @@ Scheduled: May 25, 2018 at 11:30 AM to 1:30 PM
 ***** Get this from Sabina
 **** Try IBMX and forskolin.  These should affect global cyclic AMP and should not have a gradient.
 *** Suggeted reading - a collaborative paper in Nat. Comm. "a couple years ago" with Zaccolo.  Also a review article with the same author.
+** [[message://%3cBYAPR08MB5062A55DB1D0715FAC639859D4E20@BYAPR08MB5062.namprd08.prod.outlook.com%3E][Save the date! BERS-PALOOZA Feb 22-23, 2020]]
+<2020-02-22 Sat> -- <2020-02-23 Sun>
+
+We are pleased to announce a celebration of Don Bers’ life in science at a meeting to be held in Davis on Saturday and Sunday February 22nd and 23rd following the 6th UC Davis Cardiovascular Symposium. You are invited to join students and trainees, associates, and colleagues in celebrating Don’s lifelong work and his mentoring and influence on so many people. We hope you will be able to participate to not only enjoy the scientific program, but also to share hilarious anecdotes and memorable stories.
+ 
+Who?              Don’s students and trainees, associates, colleagues, friends
+
+When?            February 22-23, 2020
+
+Where?           UC Davis, Davis, California
+
+What?:            February 22 registration, scientific program, storytelling, dinner
+
+February 23: informal get together, golf outing
+
 * *Notes*
 ** You were having trouble with 2019-06=19-12.  You were just about to reanalyze with new parameters for 25 micron band.  Try these.
 ** Ideas for Dan
@@ -619,57 +673,151 @@ This was for the most part usable data.  2019-06-19-21 was, indeed, the best and
   
   I'll have to analyze the rest of this data.  In the meant time I advised Dan to double the [Ca] in the pipette (4 mM to 8 mM) and in the bath (0.5 mM to 1 mM).  We'll take the bath to 2 mM if necessary.  The idea is to load up the SR a bit more so we get more response to the increased Ca current on the pipette end of the cell.
 :END:
-** [[message://%3cBYAPR08MB5062A55DB1D0715FAC639859D4E20@BYAPR08MB5062.namprd08.prod.outlook.com%3E][Save the date! BERS-PALOOZA Feb 22-23, 2020]]
+*** 2019-07
+**** 2019-07-02 :: [2019-07-09 Tue]
+***** 2019-07-02-01 :: Nothing here.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-010-01.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_1.lsm_BandVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_1.lsm_BandVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_1.lsm_BandVsNormalizedTimeTo90.png]]
+***** *2019-07-02-02* :: No change in tt50 or tt90 but transient peaks *sank* under the pipette instead of rising
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-02.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_2.lsm_BandVsNormalizedTransientPeak.png
+]][[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_2.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_2.lsm_BandVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_2.lsm_BandVsNormalizedTimeTo90.png]]
+***** *2019-07-02-03* :: Gradient in the transient peaks.  This time it went as expected with the area under the pipette increasing
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-03.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_3.lsm_TimeVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_3.lsm_TimeVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_3.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_3.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** 2019-07-02-04 :: no response
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-04.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_4.lsm_BandVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_4.lsm_BandVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_4.lsm_BandVsNormalizedTransientPeak.png]]
+***** *2019-07-02-05*
+****** Once again, the increase in the peak strsients was up stream of the pipette end.  This is very weird.
+******* Pipette is further up the cell than Dan thinks?
+******* Ca current inactivates itself?
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-05.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_5.lsm_TimeVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_5.lsm_TimeVsNormalizedTimeToHalf - trimmed.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_5.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_5.lsm_TimeVsNormalizedTransientPeak.png]]
+***** *2019-07-02-06* :: This data is beautiful.  Perfect gradient in transient peaks only, the highest peaks were on the pipette end.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-06.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_6.lsm_TimeVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_6.lsm_TimeVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_6.lsm_TimeVsNormalizedTransientPeak.png]]
+***** 2019-07-02-07 :: Nothing here I trust.  There is a gradient in the peaks but it starts at the very edge of the cell on the end under the pipette.  Usually this needs to be trimmed so it might be an artifact.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/2019-07-02-07.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_7.lsm_TimeVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_7.lsm_TimeVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-02/2019-07-02 Analysis 2019-07-09/Rhod2-LineScan_8mMCa_1mMBG_070219_F_7.lsm_TimeVsNormalizedTransientPeak.png]]
+**** 2019-07-09 :: [2019-07-10 Wed]
+***** All of these were done with 4 mM Ca in the pipette and 1 mM Ca in the bath.  We hope to achieve increased CICR thorough increased Ca currentwhile maintaining SR Ca load.  We lowered the [Ca] in the pipette from the 8mM used on 2019-07-02 to avoid the decreased Ca transients that we saw underneath the pipette in some runs (though this was interesting and could deserve some follow up).
+***** 2019-07-09-01 :: Didn't bother to analyze this.  The baseline is just too variable.
+ [[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-01.png]]
+***** 2019-07-09-02 :: Nothing here
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-02.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_2.lsm_TimeVsNormalizedTransientPeak.png]]
+***** *2019-07-09-03* :: Nice spread on the transient peaks
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-03.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_3.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_3.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** 2019-07-09-04 :: Nothing here
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_4.lsm_TimeVsNormalizedTransientPeak.png]]
+***** *2019-07-09-05* :: There's a transient spread but they are declining for some reason.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-05.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_5.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_5.lsm_TimeVsNormalizedTransientPeak trimmed.png]]
+***** *2019-07-09-06* :: There's a spread in the transient peak data but, again, the peaks are declining with time.  The tt50 and tt90 seem to both be increased under the pipette but the data is super noisy.  You may have to go back and look more closely at some of the other responders for this.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-06.png]]
+****** tt90
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTimeTo90.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTimeTo90 - trimmed.png]]
+****** tt50
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTimeToHalf.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTimeToHalf - trimmed.png]]
+****** transient peaks
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_6.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** 2019-07-09-07 :: Nothing discernible here
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-07.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_7.lsm_TimeVsNormalizedTransientPeak.png]]
+***** 2019-07-09-08 :: There appears to be a potential spread in this data but I'm really uncomfortable with it.  The highest and lowest transients run right to the edges where I'm usually trimming data.  This looks like it could be an artifact.
+ [[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-08.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_8.lsm_TimeVsNormalizedTransientPeak.png]]
+***** *2019-07-09-09* :: OK, there's a spread here.  I didn't even have to trim the data.  Again, it gets uncomfortably close to the edge but there appears to be s stable plateau before the transient heights start to decline.  There might be a gradient in the tt50 and tt90 but its far too noisy to be sure.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-09.png]]
+****** tt90
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_9.lsm_TimeVsNormalizedTimeTo90.png]]
+****** tt50
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_9.lsm_TimeVsNormalizedTimeToHalf.png]]
+****** transient peak
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_9.lsm_TimeVsNormalizedTransientPeak.png]]
+***** *2019-07-09-10* :: This has a beautiful transient gradient.  It starts in the middle and the gradient is perfect on either side.  Once again, there might be a gradient for the tt50 and tt90 but the data is too noisy.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/2019-07-09-10.png]]
+****** tt90
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_10.lsm_TimeVsNormalizedTimeTo90.png]]
+****** tt50
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_10.lsm_TimeVsNormalizedTimeToHalf.png]]
+****** transient peak
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-09/Analysis 2019-07-10/Rhod2-LineScan_4mMCa_1mMBG_070919_F_10.lsm_TimeVsNormalizedTransientPeak.png]]
+**** 2019-07-11 [2019-07-12 Fri]--[2019-07-13 Sat]
+***** All of these were done with 4 mM Ca in the pipette and 1 mM Ca in the bath.
+***** I think I have an explanation for the results where the transients are decreasing in some of the bands over time.  I think these bands are throwing DADs of increasing severity.  This is probably still due to increased SR and/org cytosolic [Ca] and therefore be part of the effect.  For now I'll analyze them like the others but keep in mind that they might be different and that I may have to separate them out in the end.
+***** All figures are peak transient increases.  None of these showed an effect on transient decline.
+***** Conversation with Dan via text about the cells and a perfusion error
+Dan Bare:
+	Perfusion Error  | Hi Tom
+I discovered that late in today’s data collection that the “up-close “ perfusion was set at a higher rate than in the past .  Cells 1-15.. setting was corrected for 16-17... sorry for error... may make difference
+
+Thomas R. Shannon:
+	I’ll look and see if there’s a difference.  My gut tells me that it probably won’t matter.  Maybe a it more movement artifact.
+
+Dan Bare:
+	Okay. I will be going to a CRC meeting from 10-11:30 and then to lunch out with a Dept. Group so should be in lab after 1:00 if you need me, also I have the  forskolin if we are ready to move to it.
+
+Thomas R. Shannon:
+	I’m looking a the data now.  I should be able to direct you by then.
+	I don’t think I’m going to make it up there today.  I think another round of Ca experiments is called for.  I analyzed 11 so and only 3 maybe showed the effect.  I think despite my earlier assertion, the increased rate of perfusion might, indeed, have affected the data.  Even with reasonable success from the later cells, I think we’ll need more data.
+
+Dan Bare:
+	I was afraid 😟 of that ... the cells were very good yesterday
+	And I should have gotten better results... will go again on Tuesday unless you change your mind for trial on forskolin Monday... thanks
 
 
-We are pleased to announce a celebration of Don Bers’ life in science at a meeting to be held in Davis on Saturday and Sunday February 22nd and 23rd following the 6th UC Davis Cardiovascular Symposium. You are invited to join students and trainees, associates, and colleagues in celebrating Don’s lifelong work and his mentoring and influence on so many people. We hope you will be able to participate to not only enjoy the scientific program, but also to share hilarious anecdotes and memorable stories.
- 
-Who?              Don’s students and trainees, associates, colleagues, friends
-
-When?            February 22-23, 2020
-
-Where?           UC Davis, Davis, California
-
-What?:            February 22 registration, scientific program, storytelling, dinner
-
-February 23: informal get together, golf outing
-
-
-* *Tasks*
-** ON RADAR [#C] [[message://%3c20180124110537.49E71604D8E7@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Read Wayne's new article]]
-** ON RADAR [#C] [[message://%3c20180124110952.02870604D8E6@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Read Mike/Xun article]]
-** ON RADAR [#C] [[message://%3c20180125111327.E50D720155E0@esupp01.be-md.ncbi.nlm.nih.gov%3E][Another Fill article]]
-** DONE [#A] Analyze Dan's latest data before phone call with Don at noon.
-*** Looks to me like he's overdosing with ISO.
-*** Check solutions
-*** Decrease dose to 100 nM
-** DONE [[message://%3cd86b20f74b8f4abbad2a713cd91e9e31@MLBXCH15.cs.myharris.net%3E][Renew IDL Maintenance by July 1]]
-** DONE [#A] TRAVEL FORMS! 
-  [2018-07-17 Tue]
-** DONE [#A] [[message://%3c959be2bf71a443ac9bbfb5eac56f4fd8@646005169%3E][Renew Matlab (90 day notice)]]
-   SCHEDULED: <2019-03-11 Mon>
-** DONE [#A] Call Dan
-** DONE [#A] [[message://%3c172ACE66-BF7C-48F6-908D-1589C1209E4B@rush.edu%3E][Do work for Don on AKAP stuff]]
-** ON RADAR [[message://%3c172ACE66-BF7C-48F6-908D-1589C1209E4B@rush.edu%3E][Work on methods paper]]
-** DONE FU: Dan (due June 12) [[message://%3cc6ef34a6c1ed42aa9d2062694f0be929@RUPW-EXCHMAIL01.rush.edu%3E][Annual Renewal Notification IACUC #17-040]]
-SCHEDULED: <2019-06-10 Mon>
-
-** DONE [#A] Prepare a PowerPoint for call with Don [[message://%3c61415DB3-D295-4CE7-BC84-5CED3BABF338@rush.edu%3E][Re: Could we set up a call?]]
-:PROPERTIES:
-:SYNCID:   BA401EFA-8B20-4E7D-B9DA-566EAE2EA1EB
-:ID:       77D58284-DDFA-4516-8CF2-6E17E1E69A5D
-:END:
-*** Possible cells for presentaton
-**** 2019-06-06-05 peak transients
-**** 2019-06-07 transients - needs some trimming
-**** 2019-06-07-04 very good trasients
-**** 2019-06-19-19 very good for everything
-**** 2019-06-19-21 very good for everything.  Probably either this or 19.
-
-** TODO Try to save window configuration to register the next time you are copying data around
-:PROPERTIES:
-:SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
-:ID:       f6f6269b-c3ca-4512-ba58-88d96adf313c
-:END:
-[2019-07-05 Fri 05:34]
-https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
+***** 2019-07-11-01 :: Nothing
+***** 2019-07-11-02 :: Nothing
+***** *2019-07-11-03* :: Responder
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/2019-07-11-03.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_3.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_3.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** *2019-07-11-04* :: Responder
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/2019-07-11-04.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_4.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_4.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** *2019-07-11-05* :: Responder
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_5.lsm_TimeVsNormalizedTransientPeak.png]]
+***** 2019-07-11-06 :: Nothing here
+***** *2019-07-11-07* :: This one starts at the downstream edge.  The transients in those edge bands look normal.  I'm inclined to believe it isn't an artifact.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/2019-07-11-07.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_7.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_7.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** 2019-07-11-08 :: Nothing
+***** 2019-07-11-09 :: Nothing
+***** 2019-07-11-10 :: Nothing
+***** 2019-07-11-11 :: Nothing
+***** *2019-07-11-12* :: Starts at the edge but, again, transients look OK in those bands.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_12.lsm_TimeVsNormalizedTransientPeak.png]]
+***** 2019-07-11-13 :: Nothing
+***** *2019-07-11-14* :: Transients are throwing DADs but cut out the last 60 bands where this looked severe and where the transients were declining.  The non-DAD bands look like they are showing the desired effect.
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/2019-07-11-14.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_14.lsm_TimeVsNormalizedTransientPeak.png]]
+[[~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Shannon Data/2019-07-11/Rhod2-LineScan_4mMCa_1mMBG_071119_F_14.lsm_TimeVsNormalizedTransientPeak - trimmed.png]]
+***** 2019-07-11-15 :: Nothing
+***** 2019-07-11-16 :: Nothing
+***** 2019-07-11-17 :: Nothing

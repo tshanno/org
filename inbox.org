@@ -1,13 +1,4 @@
 * Tasks
 * Notes
-<<<<<<< HEAD
-* TODO Find out what this ticket is about.
-[2019-07-07 Sun 05:27]
 
-message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-2.amazonses.com%3E
-* TODO Blew diet.
-* TODO Tell dad about moms bluetooth
-* TODO Dad and mom first weekend in August
-* TODO Polo red extreme and polo red
-=======
->>>>>>> ef2e81274ced899042339e24bd96fc69feee9389
+** TODO [[message://%3c0101016bf20337e4-1dde3895-dab0-4bcd-bb33-af282a7a1fc3-000000@us-west-2.amazonses.com%3E][ACTION REQUIRED: Update FY19 Faculty Performance Evaluation and Goals]]

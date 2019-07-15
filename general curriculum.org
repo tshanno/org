@@ -24,6 +24,8 @@ SCHEDULED: <2019-06-19 Wed>
 
 ** Schedule student lunch
 SCHEDULED: <2019-09-01 Sun>
+** Talk to Maria about how to get on tag questions
+SCHEDULED: <2019-07-15 Mon>
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -417,6 +419,14 @@ One of the approaches being considered for class sessions next year is to use th
 
 ** [[http://support.kotobee.com/en/support/solutions/articles/8000024599-import-a-pdf-file-in-mac-os][Importing PDF for Mac users : Kotobee]]
 
+** [[https://docs.google.com/spreadsheets/d/1eOZgZ-3IojbfWlrGpHaWtO0aMLZ3IA2mTANLIuSeOvg/edit#gid=0][00 - RMC AY19/20 Google Content Outlines - Google Sheets]] :: Links to all disciplines
+** [[https://airtable.com/shrqOrzFJW5IUMyz4/tbljDpPhbpJ40IDlK?blocks=hide][Airtable - RMC CI- Faculty View]] :: This is not the current version
+** [[https://drive.google.com/file/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/view?ts=5d040e84][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Drive]]
+:PROPERTIES:
+:SYNCID:   4D39AFCF-7BEB-4299-87BB-E53CEF086F2F
+:ID:       C8F41BDC-24F8-4AB4-8E5C-9F7A13824020
+:END:
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -557,3 +567,11 @@ SCHEDULED: <2019-06-17 Mon>
 ** DONE [#A] Talk to Bob about this [[message://%3c9c25c27aedf24096906a708d4e10b5a7@RUPW-EXCHMAIL02.rush.edu%3E][Feedback on Paria]]            :Bob_Leven:
 *** Is she going to be a course director?  If so, she lacks teaching experience.  Part of our job is to "teach the teachers".  Further more with all of the administrative dutites, experience in the curriculum is going to be a major asset.  She has none (neither does Katie).
 *** She's personable, intelligent and obviously active.  Very good personal traits.
+** TODO [#A] Find out from Bob about this supposed studio on the 9th floor for making videos
+:PROPERTIES:
+:SYNCID:   C154AD1E-BB8C-4FC4-BC02-4FED5438AEC1
+:ID:       F1D9D30E-4A97-4445-B2D0-EDE81B123D7D
+:END:
+** Angela Solic about recording studio
+SCHEDULED: <2019-07-15 Mon>
+

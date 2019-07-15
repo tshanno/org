@@ -482,7 +482,11 @@ SCHEDULED: <2019-07-01 Mon>
 :SYNCID:   9157F9FF-6CF4-42AA-A7BA-BC23BCD6E63B
 :ID:       405432AB-B531-489B-A9A6-971946846D3A
 :END:
-*** TODO Nominate someone for chair-elect?
+*** DONE Nominate someone for chair-elect?
+:LOGBOOK:
+- Note taken on [2019-07-11 Thu 07:44] \\
+  Nominated Chris Bruti
+:END:
 - Note taken on [2019-06-26 Wed 17:05] \\
  Maureen leaving has left the office vacant for 2019-2020
 *** Joanna Kuppy is chair of program design

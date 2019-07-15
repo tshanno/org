@@ -3,22 +3,120 @@
 
 - Note taken on [2019-06-07 Fri 08:58] \\
   This has to be complete before August 31 and will require parrts being filled out by both Beth and Mike.  So maybe getting it done by July 15 or so wouldn't be a bad idea.
+** DONE Find out what this ticket is about.
+[2019-07-07 Sun 05:27]
+
+[[message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-2.amazonses.com%3E]]
+** DONE Find out what this ticket is about.
+[2019-07-07 Sun 05:27]
+
+message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-2.amazonses.com%3E
 * *Ticklers*
-** Get back to Bob on this.
+** DONE [#A] Get back to Bob on this.
 SCHEDULED: <2019-07-08 Mon>
 [2019-07-06 Sat 08:52]
 
 [[message:%3C9cd7f2cda7184eb89571e30763fdb0ff@RUPW-EXCHMAIL02.rush.edu%3E]]
-** Find out what this ticket is about.
-SCHEDULED: <2019-07-09 Tue>
-[2019-07-07 Sun 05:27]
-
-[[message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-2.amazonses.com%3E]]
 * *Notes*
 ** [[message://%3cb4a5a4971bdc4b1c9238295a8eaa1dba@RUPW-EXCHMAIL02.rush.edu%3E][Note on the move from Bill]]
   [2018-10-17 Wed]
 ** [[/Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list.xlsx]]
 ** [[/Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list 2019-02-25.xlsx][OMSP Phone List 2019-02-25]]
 ** [[file:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Excel/OMSP%20Phone%20list.xlsx][OMIE phone list]] [2019-07-03 Wed]
+** Safty issue tracking website [[message://%3c45A01C27-BF70-4128-BF58-8405397001FF@rush.edu%3E][Sentact Information]]
+
+U:  tshannon
+P:  calcium01
+
+** [[message://%3c70f4cff3ccf44114b8f522a66651890b@RUPW-EXCHMAIL01.rush.edu%3E][OIME Team Building - volunteers needed]]
+
+
+Hi all,
+ 
+Thank you for taking the team-building survey!
+ 
+We are excited to start putting some activities together for us to have fun and grow as a team!
+ 
+Below are the top 5 activities that were selected and the people who have volunteered to take the lead.
+ 
+We would like two people to co-lead each activity, so please email me if you are interested in co-leading any of these activities.
+ 
+Top 5 Team-Building Activities:
+Activity Leader(s):
+Potluck
+Mashonda Daniels
+Sports outing
+Katie Solka
+Monthly lunch-hour yoga/dance class
+Tamara Green
+Volunteer event
+Laney McDougal
+Book club
+Tessa Banks
+ 
+Once we have all of the co-leaders, we will have a team-building committee meeting to schedule the activities and review/discuss the survey comments.
+ 
+Thanks again for all of your input and enthusiasm!
+
+** [[message://%3c70f4cff3ccf44114b8f522a66651890b@RUPW-EXCHMAIL01.rush.edu%3E][OIME Team Building - volunteers needed]]
+
+
+Hi all,
+ 
+Thank you for taking the team-building survey!
+ 
+We are excited to start putting some activities together for us to have fun and grow as a team!
+ 
+Below are the top 5 activities that were selected and the people who have volunteered to take the lead.
+ 
+We would like two people to co-lead each activity, so please email me if you are interested in co-leading any of these activities.
+ 
+Top 5 Team-Building Activities:
+Activity Leader(s):
+Potluck
+Mashonda Daniels
+Sports outing
+Katie Solka
+Monthly lunch-hour yoga/dance class
+Tamara Green
+Volunteer event
+Laney McDougal
+Book club
+Tessa Banks
+ 
+Once we have all of the co-leaders, we will have a team-building committee meeting to schedule the activities and review/discuss the survey comments.
+ 
+Thanks again for all of your input and enthusiasm!
+
+** [[message://%3c70f4cff3ccf44114b8f522a66651890b@RUPW-EXCHMAIL01.rush.edu%3E][OIME Team Building - volunteers needed]]
+
+
+Hi all,
+ 
+Thank you for taking the team-building survey!
+ 
+We are excited to start putting some activities together for us to have fun and grow as a team!
+ 
+Below are the top 5 activities that were selected and the people who have volunteered to take the lead.
+ 
+We would like two people to co-lead each activity, so please email me if you are interested in co-leading any of these activities.
+ 
+Top 5 Team-Building Activities:
+Activity Leader(s):
+Potluck
+Mashonda Daniels
+Sports outing
+Katie Solka
+Monthly lunch-hour yoga/dance class
+Tamara Green
+Volunteer event
+Laney McDougal
+Book club
+Tessa Banks
+ 
+Once we have all of the co-leaders, we will have a team-building committee meeting to schedule the activities and review/discuss the survey comments.
+ 
+Thanks again for all of your input and enthusiasm!
+
 * DONE [#A] Review Grad School Material
 	[[message://%3c6C327739-1022-4D25-867B-7BAA4FFD660A@rush.edu%3E][FW: Tom_Shannon@rush.edu]]

@@ -19,12 +19,17 @@
 
 - Note taken on [2019-06-14 Fri 08:00] \\
   She took care of it.
+** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+SCHEDULED: <2019-07-12 Fri>
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       0CF2C4B8-FAFB-4AEE-BA17-735C6ACFF544
+:END:
 * *Ticklers*
 ** [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
   [2018-10-03 Wed]
   [2018-10-03 Wed]
-** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
-SCHEDULED: <2019-07-12 Fri>
+
 * *Meetings*
 * *Notes*

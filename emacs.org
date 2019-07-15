@@ -43,6 +43,16 @@ https://github.com/atomontage/xterm-color
 [2019-06-14 Fri 05:58]
 https://en.wikipedia.org/wiki/PGF/TikZ
 ** DONE Write a lisp function to do the text processing for copying a meeting from Mac calendar application
+** ON RADAR Evil for iPad?
+** TODO [#A] [[https://github.com/DerBeutlin/date2name.el][DerBeutlin/date2name.el: Emacs package to add ISO timestamps to files in dired]]
+
+
+In dired call date2name-dired-add-date-to-name to add the modification date of the file to the filename. With the prefix C-u the user is instead prompted to insert a date using the wonderful org-read-date. With two prefixes C-u the user is only prompted once for all marked files. The same is true for filetags-dired-add-datetime-to-name only that it also adds the time. The format is again the same as in date2name of novoid.
+
+2018-07-06_test.txt
+2018-07-06T13.53.09_test.txt
+Unfortunately right now this format should not be changed as it must match a corresponding regexp to remove potential timestamps already in the filename.
+** ON RADAR Write something that eith takes a reminder and transforms it into org-mode or vice-versa
 * *Org*
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/org%20manual%202019-01-13.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/org manual 2019-01-13.pdf]]
 ** \C-cam to match tag or property
@@ -145,7 +155,7 @@ https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired-and-Find.html
   ! calls dired-do-shell-command
   & calls dired-do-async-shell-command
 :END:
-** GitHub - DerBeutlin/filetags.el: Emacs package to manage filetags in the filename
+** DONE [#A] GitHub - DerBeutlin/filetags.el: Emacs package to manage filetags in the filename
 SCHEDULED: <2019-07-08 Mon>
 [2019-07-06 Sat 07:32]
 https://github.com/DerBeutlin/filetags.el
@@ -251,6 +261,15 @@ These buffers don't work entirely like ordinary Dired buffers: file operations w
 
 ** DONE bug where cursor move to beginning of topmost item in nested sync
 ** [[http://pchristensen.com/blog/articles/setting-up-and-using-emacs-infomode/][Setting Up and Using Emacs InfoMode]] 
+** Accessing Symbol Properties [[https://www.gnu.org/software/emacs/manual/html_node/elisp/Symbol-Plists.html#Symbol-Plists][Symbol Plists - GNU Emacs Lisp Reference Manual]] 
+** GitHub - 6502/JSLisp: A Lisp to Javascript compiler
+[2019-07-12 Fri 02:47]
+https://github.com/6502/JSLisp
+
+** TODO Check the functions in the comments.  they look useful. [[https://www.reddit.com/r/emacs/comments/cbuhi1/using_mapcar_with_list_of_strings/][Using mapcar with list of strings : emacs]]
+
+** This has how to resolve merge conflicts (6:40).  Basically hit 'e' for ediff, then 'n' (next commit difference), choose 'a (left) or 'b' (right) to choose which one you want to keep. The rebasing demonstration in the second half is kind of cool, too. [[https://www.reddit.com/r/planetemacs/comments/cbw8vp/magit_introduction_and_demonstration_youtube/][Magit Introduction and Demonstration - YouTube : planetemacs]]
+
 * *LaTeX*
 ** Keyboard shortcut to insert latex
 [[https://emacs.stackexchange.com/questions/18619/org-mode-any-keyboard-shortcut-for-latex-code][yasnippet - Org-mode: any keyboard shortcut for Latex code? - Emacs Stack Exchange]]
@@ -321,8 +340,7 @@ https://www.ctan.org/pkg/csquotes
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 
 [2019-07-03 Wed 05:13]https://stackoverflow.com/questions/191312/how-do-i-get-to-the-menu-in-emacs-in-console-mode#191377
-** [[https://www.reddit.com/r/planetemacs/comments/c90kp8/using_emacs_episode_52_eyebrowse_youtube/?utm_source=share&utm_medium=ios_app][Try eyebrows.]]  Looks like it might be helpful.
-SCHEDULED: <2019-07-09 Tue>
+** ON RADAR [[https://www.reddit.com/r/planetemacs/comments/c90kp8/using_emacs_episode_52_eyebrowse_youtube/?utm_source=share&utm_medium=ios_app][Try eyebrows.]]  Looks like it might be helpful.
 [2019-07-04 Thu 06:10]
 
 ** emms (emacs multimedia)
@@ -493,7 +511,7 @@ Which is a smidgen hacky, so this would be better:
 
 (global-set-key (kbd "C-c v") 'halve-other-window-height)
 Tangentially, I also love winner-mode which lets you repeatedly 'undo' any changes to window configurations with C-c left (whether the change is the size/number/arrangement of the windows, or just which buffer is displayed). C-c right returns you to the most recent configuration. Set it globally with (winner-mode 1)
-** TODO Try to save window configuration to register the next time you are copying data around
+** ON RADAR Try to save window configuration to register the next time you are copying data around
 :PROPERTIES:
 :SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
 :ID:       606b04cd-ef91-450d-bb00-bac20509564b
@@ -501,8 +519,7 @@ Tangentially, I also love winner-mode which lets you repeatedly 'undo' any chang
 [2019-07-05 Fri 05:34]
 https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
 
-** Isn't this already possible in default emacs?
-SCHEDULED: <2019-07-08 Mon>
+** ON RADAR Isn't this already possible in default emacs?
 [2019-07-06 Sat 07:36]
 https://github.com/pashinin/workgroups2
 GitHub - pashinin/workgroups2: Workgroups2 - Emacs session manager
@@ -512,6 +529,28 @@ Look at "desktop"
 ** Searching in Buffers with Occur Mode - Mastering Emacs
 [2019-07-08 Mon 03:34]
 https://www.masteringemacs.org/article/searching-buffers-occur-mode
+** [[http://mbork.pl/2019-07-08_Pausing_an_Emacs_keyboard_macro][Marcin Borkowski: 2019-07-08 Pausing an Emacs keyboard macro]]
+
+
+Pausing an Emacs keyboard macro
+As I promised last week, I’d like to describe something I probably knew a long time ago, but completely forgot about.
+
+You can pause an Emacs keyboard macro during its execution.
+
+But wait, there’s more! During recording a macro, you can press C-x q (this means kbd-macro-query), and when the macro is run, Emacs pauses there and gives you four choices:
+
+SPC or y to just continue,
+DEL (this means “backspace”, btw) or n to skip the rest of the macro (but not subsequent repetitions – this is important when using a numerical prefix argument when calling the macro),
+RET or q to quit this and all subsequent repetitions,
+C-r to enter recursive edit or C-l to recenter screen.
+That is already pretty cool, but there is even more than that! C-u C-x q during macro recording enters recursive edit, and that serves two purposes: firstly, you may perform some editing which will not become part of the macro, and secondly, during macro execution, you will also enter recursive edit (and the macro will resume after C-M-c).
+
+All this is probably not something you would use every day, but it may come handy once in a while – so it may be good to remember that something like this exists. Hopefully I won’t forget about it anymore!
+
+** ON RADAR Wondering if this could be handy with iPad since some funtions take so long to execute. [[https://github.com/twlz0ne/with-emacs.el][twlz0ne/with-emacs.el: Evaluate expressions in a separate Emacs process]]
+
+** ON RADAR Set up [[https://github.com/dickmao/nnreddit][GitHub - dickmao/nnreddit: A Gnus backend for Reddit]] 
+** Highlight current line [[https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source=share&utm_medium=ios_app][https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source]] 
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

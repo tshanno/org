@@ -163,6 +163,9 @@ SCHEDULED: <2019-07-02 Tue>
 :ID:       4FB38B6F-4CB0-4FDC-A05A-F894BF213923
 :END:
 
+** Reminders for VF due date
+SCHEDULED: <2019-07-25 Thu>
+[2019-07-11 Thu 12:44]
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*

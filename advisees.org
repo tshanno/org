@@ -123,6 +123,26 @@ Expectations for advisors:
 ** *Lakshmi Sundaresan*
 *** [[message://%3c7191289bcde34baf8f9b6149da832a4f@RUPW-EXCHMAIL01.rush.edu%3E][IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
 
+** TODO [[message://%3c125fd82717254ab8bcc822166a189b2e@RUPW-EXCHMAIL01.rush.edu%3E][IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
+:PROPERTIES:
+:SYNCID:   ECB664CC-0D86-4024-9EBF-32B7B08A0EBD
+:ID:       FA96B878-3235-4E00-9297-B5AEE9C74120
+:END:
+
+
+Dear Ms. Leanos,
+
+I acknowledge receipt of this correspondence.
+I am deeply grateful for this opportunity and will put my full effort into these new study strategies. 
+
+Thank you all again for your support and understanding.
+I am determined to turn things around.
+
+Sincerely,
+Vissaagan Gopalakrishnan
+Rush Medical College, Class of 2021
+vissaagan@rush.edu | 847-630-6883
+
 * *Tasks*
 ** DONE [[message://%3cc6c4e699fdef49269394d7cd8b73c85d@RUDW-EXCHMAIL01.rush.edu%3E][FU with Jay]]
    [2018-12-21 Fri]

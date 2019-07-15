@@ -55,19 +55,15 @@ SCHEDULED: <2019-08-01 Thu>
 SCHEDULED: <2020-06-11 Thu>
 ** Put together the materials for [[message://%3cf084677de6164ff5be05a7be8027f80e@RUPW-EXCHMAIL02.rush.edu%3E][Camp Cardiac 2019 Request for your Physiology Mastery!]]
 SCHEDULED: <2019-07-22 Mon>
-** Look into this form Jessica Rhee :: [[message:%3C1562108449271.30452@rush.edu%3E][research]]
+** TODO [#A] Look into this form Jessica Rhee :: [[message:%3C1562108449271.30452@rush.edu%3E][research]]
 SCHEDULED: <2019-07-08 Mon>
 
 
 
-** Add T-Mobile to bbdb
-SCHEDULED: <2019-07-08 Mon>
+T-Mobile
 1-800-937-8997
 pin: 02264661
 
-** T-Mobile 1-800-937-8997
-SCHEDULED: <2019-07-08 Mon>
-02264661
 * *Task*
 
 
@@ -116,12 +112,24 @@ SCHEDULED: <2020-06-05 Fri>
  [[bbdb:Doug%20Shannon][Doug Shannon]]
 
 ** DONE [#A] Set something up with Deri and Josh
+** DONE Add T-Mobile to bbdb
+SCHEDULED: <2019-07-08 Mon>
+
+** DONE T-Mobile 1-800-937-8997
+SCHEDULED: <2019-07-08 Mon>
+02264661
+** TODO [#A] If its not too late... [[message://%3c2d29771e8aac4f1e90a95a40a8acb4c9@RUDW-EXCHMAIL02.rush.edu%3E][Noise canceling headphones ]]
+
+** DONE Bring a triple A battery
+SCHEDULED: <2019-07-12 Fri>
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>
 
 ** Amazon Prime Day <2019-07-15>--<2019-07-16 Tue>
 ** [[message://%3cf084677de6164ff5be05a7be8027f80e@RUPW-EXCHMAIL02.rush.edu%3E][Camp Cardiac 2019 Request for your Physiology Mastery!]]
 <2019-07-29 Mon 11:00-12:00>
+
+** Dad and Mom Visit <2019-08-01 Thu> -- <2019-08-04 Sun>
 
 * DONE Pay credit card                                              :finance:
 - Note taken on [2017-11-07 Tue 07:44] \\

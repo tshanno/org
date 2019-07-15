@@ -2,6 +2,11 @@
 ** DONE [#A] FU: Bob [[message://%3cCB75131F-10F7-4468-B39E-1670678D6B4C@rush.edu%3E][Survery results from large classroom session last week]]
 SCHEDULED: <2019-06-20 Thu>
 
+** TODO [#A] Find out from Bob about this supposed studio on the 9th floor for making videos
+:PROPERTIES:
+:SYNCID:   C154AD1E-BB8C-4FC4-BC02-4FED5438AEC1
+:ID:       236E029C-E27C-4114-9580-9CEAE28A17CA
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

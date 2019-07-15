@@ -27,6 +27,8 @@ Repair man came some time between 9 and 9:30.
 He said that the signal was low but that wasn't the major problem.  They'll take care of that later because the problem  is outside the building.
 
 Apparently the splitter was bad and the TiVO was broken.  He replaced the box.  I lost all of my recordings but no big deal.
+** Air conditioner repair <2019-07-16 Tue 9:00-12:00>
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
 * *Tasks*
 ** DONE Renew gym membership
 [2019-06-21 Fri 02:43]
@@ -54,3 +56,15 @@ In any case Seattle is \textbf{Pete Carroll} is far more likely to adjust to Lyn
 ** DONE Renew gym membership
 [2019-06-21 Fri 02:43]
 
+** DONE [#A] Call to get air conditioner fixed
+:PROPERTIES:
+:SYNCID:   1F0D6C91-36C2-4FA2-8015-8350BEB224B3
+:ID:       8C252455-33B7-4E6E-A303-BB054A07EC64
+:END:
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
+** DONE [#A] Call to get air conditioner fixed
+:PROPERTIES:
+:SYNCID:   1F0D6C91-36C2-4FA2-8015-8350BEB224B3
+:ID:       3AF4D914-3602-4594-B1D3-EF00CF7A556E
+:END:
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]

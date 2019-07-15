@@ -2417,7 +2417,11 @@ SCHEDULED: <2019-06-26 Wed>
 :SYNCID:   9157F9FF-6CF4-42AA-A7BA-BC23BCD6E63B
 :ID:       AA252488-4E78-4531-B6B6-F75B7ECFF21C
 :END:
-***** TODO Nominate someone for chair-elect?
+***** DONE Nominate someone for chair-elect?
+:LOGBOOK:
+- Note taken on [2019-07-11 Thu 07:44] \\
+  Nominated Chris Bruti
+:END:
 - Note taken on [2019-06-26 Wed 17:05] \\
  Maureen leaving has left the office vacant for 2019-2020
 ***** Joanna Kuppy is chair of program design
@@ -2562,6 +2566,88 @@ Have to get in some exercise on the bike, then walk downtown this morning.  I'll
 
 Early morning tommorrow so I can anaylze Dan's data. 
 
-***** TODO [#A] Install ispell on this iPad.  Also latex (tex-live Alpine package).
+***** DONE [#A] Install ispell on this iPad.  Also latex (tex-live Alpine package).
 
 Entered on <2019-07-08 Mon>
+*** 2019-07-09 Tuesday
+**** DONE [#A] Call to get air conditioner fixed
+:PROPERTIES:
+:SYNCID:   1F0D6C91-36C2-4FA2-8015-8350BEB224B3
+:ID:       25C8111E-1759-4053-B86E-7DFF25FC88AC
+:END:
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
+**** Tagged exam quesitons pretty much all day.  Left off at 13092
+Entered on <2019-07-09 Tue>
+*** 2019-07-10 Wednesday
+**** The Committee on Student Evaluation and Promotion (COSEP); Location: 364 Professional Office Building <2019-07-10 Wed 12:00-14:00>
+:PROPERTIES:
+:SYNCID:   0AFE607A-A1D0-4CE0-84DA-46274C7A93A6
+:ID:       5F75C18C-88FF-43F6-A8CC-444D166F7F88
+:END:
+***** You must recuse yourself from COSEP ID 2016-04 (Direct Advisor)
+**** Once again spent all day tagging these questions with objectives.  The program is difficult to work with and bugs are costing me a lot of time.
+
+These are the item numbers I have left.
+
+12586
+12588-12592
+12661-12663
+12665-12685
+12723-12732
+12742-12767
+12832-12858
+12937
+12994
+13092
+13095
+13128
+13132
+13156
+13168
+13408
+13512
+13526
+13934
+13935
+13936
+13938
+13939
+13940
+13942
+2719
+12957
+
+Entered on <2019-07-10 Wed>
+*** 2019-07-11 Thursday
+**** REMNIDER Goodbye/Good wishes Gathering for Maureen Richards  -- PLEASE RSVP if you haven't already 
+Location: Park Tavern Sky Box Room
+<2019-07-11 Thu 16:00 - 18:00>
+*** 2019-07-12 Friday
+**** Meeting for Heme Onc 2020; Location: Med College TBA  <2019-07-12 Fri 10:30-11:30>
+:PROPERTIES:
+:SYNCID:   CF82C8F9-351E-4C91-9F1E-2C541EB2C984
+:ID:       7155D573-5035-422B-9FE4-C89F43655912
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-13 Sat 10:16] \\
+  Really took these notes for Deri but he managed to come late so he's up to speed.
+:END:
+***** Melanoma moved into Onc (from Life Cycle?)
+***** Three bleeding cases combined into two
+***** Testes and ovarian cancer
+
+**** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   1F9BFB19-EEE6-444B-8EA2-3CEF7DFF31CC
+:ID:       04CA39A0-DB49-4755-872B-78829F062881
+:END:
+***** TODO  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+Make patient younger to eliminate menopause consideraation?  Need FSH check?
+Abnormal Genital Tract Bleeding?
+[[bbdb:Gary%20Loy][Gary Loy]]
+***** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
+:PROPERTIES:
+:SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
+:ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
+:END:
+*** 2019-07-13 Saturday

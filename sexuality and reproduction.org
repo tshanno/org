@@ -19,11 +19,11 @@ SCHEDULED: <2019-06-17 Mon>
 ** Core Discipline Room Reservation ends after 8/16.
 SCHEDULED: <2019-08-09 Fri>
 ** FU Najia on self-study.  Did it get in?  ::  [[message:%3C0858f8b2707f4b0bad41da16959cd931@RUPW-EXCHMAIL02.rush.edu%3E][RE: Deadline Today for Materials needed for Sexuality and Reproduction]]
-SCHEDULED: <2019-07-08 Mon>
-** TODO  Did Joanna get this in? :: [[message:%3C3D587692-B96D-455C-BB84-06E145F32CB4@rush.edu%3E][Re: Material for Medical Jurisprudence?]]
+SCHEDULED: <2019-07-15 Mon>
+** DONE Did Joanna get this in? :: [[message:%3C3D587692-B96D-455C-BB84-06E145F32CB4@rush.edu%3E][Re: Material for Medical Jurisprudence?]]
 SCHEDULED: <2019-07-08 Mon>
 ** Check up with Najia/Jeffrey nd see if Najia got her calendar corrections done. [[message:%3Cfeaf66e3b1d44ba788d3ab94db639354@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
-SCHEDULED: <2019-07-08 Mon>
+SCHEDULED: <2019-07-15 Mon>
 
 
 * *Meeting Notes*
@@ -249,6 +249,31 @@ SCHEDULED: <2019-06-26 Wed>
   Gary will upload his materials to the GD and will share it with me.  The materials will have the video order.  Once I have that, I'll upload them to YouTube, move his materials to the proper folder for the course and he'll be done.
 :END:
 
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   847DCCCD-6B93-4606-B080-34D33628F1FE
+:ID:       E363DC92-5209-4162-874F-00107948FAB9
+:END:
+*** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+SCHEDULED: <2019-07-12 Fri>
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       B6ACF495-7481-46BC-AE9A-1DC0F5105DBF
+:END:
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   1F9BFB19-EEE6-444B-8EA2-3CEF7DFF31CC
+:ID:       772F5394-766A-4BD1-B050-A9D3CD484166
+:END:
+*** TODO  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+Make patient younger to eliminate menopause consideraation?  Need FSH check?
+Abnormal Genital Tract Bleeding?
+[[bbdb:Gary%20Loy][Gary Loy]]
+*** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
+:PROPERTIES:
+:SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
+:ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
+:END:
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -360,7 +385,7 @@ Now that our materials are in its time to start working on the faculty guides.  
 Thanks,
 Tom S.
 
-** WAITING [#A] Check folders to see who is still late with their materials. 
+** DONE [#A] Check folders to see who is still late with their materials. 
 SCHEDULED: <2019-07-01 Mon>
 *** DONE RMD 566 Advocate: 01 Sexual Assault and Patient Care in the Emergency Room (9/16/2019) and RMD 566 Advocate: 02 Trauma and Informed Care (9/23/2019)
 :LOGBOOK:
@@ -369,7 +394,7 @@ SCHEDULED: <2019-07-01 Mon>
 - Note taken on [2019-07-01 Mon 13:15] \\
   Email sent.
 :END:
-*** WAITING RMD 566: Professional: Medical Jurisprudence (AY19/20)
+*** DONE RMD 566: Professional: Medical Jurisprudence (AY19/20)
 :LOGBOOK:
 - Note taken on [2019-07-01 Mon 13:16] \\
   Email sent
@@ -403,7 +428,14 @@ SCHEDULED: <2019-07-01 Mon>
   I had already corrected the most egregious error in response to previous reviews.  As for the rest, I didn't think adding the suggested content would be appropriate for an introductory overview.
 :END:
 
-** TODO [#A] Review syllabus for S&R.  Its in the S&R faolder on GD.
+** DONE [#A] Review syllabus for S&R.  Its in the S&R folder on GD.
+** Talk to Jeffrey and help Nadia out with this. [[message://%3ca06fe6207db64c96b5c56d3cdd1e8642@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+:PROPERTIES:
+:SYNCID:   EB7EE53E-301C-42DF-97B2-7AEAE7E4FD9B
+:ID:       CE33801A-D2E0-405E-940B-873D733EC0FD
+:END:
+
+
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]
