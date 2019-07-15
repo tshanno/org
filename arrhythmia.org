@@ -6,11 +6,12 @@
    [2018-11-16 Fri]
 ** DONE [#A] Ruth Barcic session activites only
    [2018-11-27 Tue]
-** ON RADAR [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=412][Correct the answer to Ruth Barcic Q 12.]]
+** TODO [#A] [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=412][Correct the answer to Ruth Barcic Q 12.]]
    [2018-11-28 Wed]
-** ON RADAR Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
+** TODO [#A] Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
    [2018-12-04 Tue]
 ** DONE [#A] Send arrhythmia objectives to Princess if necessary
+** TODO [#A] Remake the arrhythmia lesson video as you did it before collaborating with Mike
 * *Ticklers*
 * *Meetings*
 * *Miscellaneous Notes*

@@ -8,7 +8,7 @@ SCHEDULED: <2020-02-03 Mon>
 :ID:       AAFF1BDA-FCA3-497B-9C88-7CA6443DA108
 :END:
 *** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
-SCHEDULED: <2019-07-12 Fri>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
 :ID:       B6ACF495-7481-46BC-AE9A-1DC0F5105DBF
@@ -18,15 +18,37 @@ SCHEDULED: <2019-07-12 Fri>
 :SYNCID:   1F9BFB19-EEE6-444B-8EA2-3CEF7DFF31CC
 :ID:       69C66ABF-4BB0-4CFB-AEE2-6E1B5F5F4A1C
 :END:
-*** TODO  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+*** DONE [#A]  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 15:10] \\
+  Talked to Gary.  He's open to calling the case "abnormal genital tract bleeding" and to making the patient younger.  He said that the students get the break down for likilihood of diagnosis at different ages in the reading.  We'll talk about it Friday.
+:END:
+
+------
+Hi Gary,
+
+We're thinking the DDx for AUB in different ages is beyond the level of M2s and also, they haven't had these diseases (cancers etc).  Can this activity be simplified?
+
+https://docs.google.com/document/d/1l8BuVdN_2Mi27BEANU643MruGUSa72ryCOf-9JHffy0/edit#heading=h.qlabs1hiretz​
+
+Tom, Mark Pool, Christine Tsai, and I are all here discussing and are wondering what you think.
+
+Anne
+-----
+
 Make patient younger to eliminate menopause consideraation?  Need FSH check?
 Abnormal Genital Tract Bleeding?
+
 [[bbdb:Gary%20Loy][Gary Loy]]
+
 *** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
 :PROPERTIES:
 :SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
 :ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
 :END:
+
+*** Talk about Gary's AUB activity.
+SCHEDULED: <2019-07-19 Fri>
 * *Tasks*
 ** DONE [[https://docs.google.com/spreadsheets/d/1fIAJIFgj_pIRYdui1ayHd2Euij-JAZnAz7ulPQvloNw/edit#gid=584839142][Study Plan for AUB]]
   [2018-08-22 Wed]

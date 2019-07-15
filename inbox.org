@@ -1,4 +1,13 @@
 * Tasks
 * Notes
 
-** TODO [[message://%3c0101016bf20337e4-1dde3895-dab0-4bcd-bb33-af282a7a1fc3-000000@us-west-2.amazonses.com%3E][ACTION REQUIRED: Update FY19 Faculty Performance Evaluation and Goals]]
+
+** TODO [[message://%3cac03ca1d1f41417db4bd2fae97e4d915@RUPW-EXCHMAIL02.rush.edu%3E][S&R BSci Topics Update]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 15:47] \\
+  Talked to Jeffrey.  He's taking care of this stuff.  Follow up at the end of the week and see where we stand.
+:END:
+*** Women's Health is a problem.  Many of these topics are actually things like Advocate and Practitioner.
+*** The physiology is correct as uploaded.  These topics need to be moved.
+*** We need to ask Kristen about hers.
+*** Pathophys:  I don't think Genital ulcers is the same as Syphillis.  I belive Syphyillis is a collaboration with Micro.

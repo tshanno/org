@@ -118,7 +118,7 @@ SCHEDULED: <2019-07-08 Mon>
 ** DONE T-Mobile 1-800-937-8997
 SCHEDULED: <2019-07-08 Mon>
 02264661
-** TODO [#A] If its not too late... [[message://%3c2d29771e8aac4f1e90a95a40a8acb4c9@RUDW-EXCHMAIL02.rush.edu%3E][Noise canceling headphones ]]
+** DONE [#A] If its not too late... [[message://%3c2d29771e8aac4f1e90a95a40a8acb4c9@RUDW-EXCHMAIL02.rush.edu%3E][Noise canceling headphones ]]
 
 ** DONE Bring a triple A battery
 SCHEDULED: <2019-07-12 Fri>

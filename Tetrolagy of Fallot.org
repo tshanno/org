@@ -1,5 +1,5 @@
 * *Tasks*
-** ON RADAR I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+** TODO [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
 :ID:       A09D609C-B572-4784-A6BC-B8F55511530D
@@ -136,12 +136,12 @@ Cancelled.
    [2018-10-25 Thu]
 * DONE [#A] Ask Mark about group that didn't get to debrief their quiz <2018-10-29 Mon>
    [2018-10-25 Thu]
-* ON RADAR Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
+* TODO [#A] Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
 :PROPERTIES:
 :SYNCID:   2C95E147-6409-44E6-86BE-092D5B787180
 :ID:       061AD4AD-571D-44B2-918F-BF4EC0DEE547
 :END:
-* ON RADAR Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
+* DONE Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
 :PROPERTIES:
 :SYNCID:   A8AA234F-ED44-4CCD-96E1-3423ED9CA816
 :ID:       8BC80E5E-C4AD-46DD-904E-9D622F9FCCD5

@@ -24,8 +24,9 @@ SCHEDULED: <2019-06-19 Wed>
 
 ** Schedule student lunch
 SCHEDULED: <2019-09-01 Sun>
-** Talk to Maria about how to get on tag questions
+** TODO [#A] Talk to Maria about how to get on tag questions
 SCHEDULED: <2019-07-15 Mon>
+** TODO Got through quesitons mone more time and make sure everything got tagged.
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -567,11 +568,15 @@ SCHEDULED: <2019-06-17 Mon>
 ** DONE [#A] Talk to Bob about this [[message://%3c9c25c27aedf24096906a708d4e10b5a7@RUPW-EXCHMAIL02.rush.edu%3E][Feedback on Paria]]            :Bob_Leven:
 *** Is she going to be a course director?  If so, she lacks teaching experience.  Part of our job is to "teach the teachers".  Further more with all of the administrative dutites, experience in the curriculum is going to be a major asset.  She has none (neither does Katie).
 *** She's personable, intelligent and obviously active.  Very good personal traits.
-** TODO [#A] Find out from Bob about this supposed studio on the 9th floor for making videos
+** DONE [#A] Find out from Bob about this supposed studio on the 9th floor for making videos
 :PROPERTIES:
 :SYNCID:   C154AD1E-BB8C-4FC4-BC02-4FED5438AEC1
 :ID:       F1D9D30E-4A97-4445-B2D0-EDE81B123D7D
 :END:
-** Angela Solic about recording studio
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 07:19] \\
+  Bob said to check with Angela Solic but he didn't think it was ready.
+:END:
+** TODO [#A] Angela Solic about recording studio
 SCHEDULED: <2019-07-15 Mon>
 

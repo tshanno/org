@@ -2545,7 +2545,7 @@ the only thing that really marred the weekend was the constant bitching about Co
 
 Heading to 8AM mass in about an hour at Our Lady of the Lake.  Mom and Dad will go to 10 and after clean up we'll head back to St. Charles.  Greg and Beth are hosting the family for dinner.  Greg has an early flight like me so it will be an early night.
 ***** Consider reducing the data limit fo the phone back down to 2G.
-SCHEDULED: <2019-07-15 Mon>
+SCHEDULED: <2019-07-16 Tue>
 
 Entered on <2019-07-07 Sun>
 *** 2019-07-08 Monday
@@ -2641,13 +2641,29 @@ Location: Park Tavern Sky Box Room
 :SYNCID:   1F9BFB19-EEE6-444B-8EA2-3CEF7DFF31CC
 :ID:       04CA39A0-DB49-4755-872B-78829F062881
 :END:
-***** TODO  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+***** DONE [#A]  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+
+------
+Hi Gary,
+
+We're thinking the DDx for AUB in different ages is beyond the level of M2s and also, they haven't had these diseases (cancers etc).  Can this activity be simplified?
+
+https://docs.google.com/document/d/1l8BuVdN_2Mi27BEANU643MruGUSa72ryCOf-9JHffy0/edit#heading=h.qlabs1hiretz​
+
+Tom, Mark Pool, Christine Tsai, and I are all here discussing and are wondering what you think.
+
+Anne
+-----
+
 Make patient younger to eliminate menopause consideraation?  Need FSH check?
 Abnormal Genital Tract Bleeding?
+
 [[bbdb:Gary%20Loy][Gary Loy]]
+
 ***** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
 :PROPERTIES:
 :SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
 :ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
 :END:
+
 *** 2019-07-13 Saturday

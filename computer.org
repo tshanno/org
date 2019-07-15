@@ -52,7 +52,7 @@ This went well.  I think that unless data analysis is involved that there's not 
 [2019-07-03 Wed 05:07]https://www.macrumors.com/2019/07/02/five-mac-apps-july-2019/
 
 ** [[https://www.cultofmac.com/637330/apple-huge-cuts-ssd-upgrade-pricing-macs/][Apple makes huge cuts to SSD upgrade pricing for Macs]] You should really consider doing this. 
-SCHEDULED: <2019-07-13 Sat>
+SCHEDULED: <2019-07-20 Sat>
 * *Notes*
 ** Info about find command
   [2018-10-12 Fri]

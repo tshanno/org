@@ -29,10 +29,10 @@ Tom S.
 ** DONE Check internal calculations
 ** DONE [#A] Looks like there's evidence that angiotensin stimulates release of ADH.  Check into it and add to the notes and video is necessary.
    [2018-12-08 Sat]
-** ON RADAR Does prostaglandin directly regulate the afferent arteriole physiologically?  If so, this has to be addressed in your notes.
+** TODO [#A] Does prostaglandin directly regulate the afferent arteriole physiologically?  If so, this has to be addressed in your notes.
    [2018-12-19 Wed]
    [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/vital%20fluids.org::*%5B%5Bmessage://%253c931a154733a649d29ed20ada005249e2@RUDW-EXCHMAIL01.rush.edu%253E%5D%5BReview%20Summative%20Questions.%5D%5D][Review Summative Questions.]]
-** ON RADAR Add direct effects of prostaglandins ot the renal notes.
+** TODO [#A] Add direct effects of prostaglandins ot the renal notes.
    [2018-12-20 Thu]
  [[https://www.annualreviews.org/doi/full/10.1146/annurev.physiol.70.113006.100614#][Annual review with good info on this (and much more)]]
 * *Ticklers*
@@ -140,5 +140,5 @@ However, under physiological conditions, A-II goes up when the blood pressure dr
   [2018-11-15 Thu]
 * DONE [#A] [[message://%3cD54073F5-A2B2-4F7E-AD38-CC1955397624@rush.edu%3E][Look at Mark Ryfield blueprint]]
   [2018-11-15 Thu]
-* ON RADAR Add diuretic drug mechanisms to notes (e.g. carboinc annhydrase inhibitors causing less Na and K reabsorption (less proton cranking) and lasix causing increased Ca and Mg excretion (less K leak back into loumen so positive charge doesn't build))
+* TODO [#A] Add diuretic drug mechanisms to notes (e.g. carboinc annhydrase inhibitors causing less Na and K reabsorption (less proton cranking) and lasix causing increased Ca and Mg excretion (less K leak back into loumen so positive charge doesn't build))
    [2018-12-13 Thu]

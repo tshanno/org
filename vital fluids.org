@@ -142,8 +142,13 @@ SCHEDULED: <2018-12-12 Wed>
 ** DONE [#A] [[message://%3c7AF42919-09F0-4DDF-8EE1-34F46A1E756D@rush.edu%3E][FU Maria on scores]]
    SCHEDULED: <2018-12-31 Mon>
    [2018-12-28 Fri]
-** ON RADAR Emphasize in your introductory videos that the physiology is front loaded and that you may not get that much as part of the case but that it will be a little part of all of the cases from there on.
-** ON RADAR FU Anne and Syed and joanna on peds VF topics
+** Emphasize in your introductory videos that the physiology is front loaded and that you may not get that much as part of the case but that it will be a little part of all of the cases from there on.
+SCHEDULED: <2019-10-01 Tue>
+** DONE FU Anne and Syed and joanna on peds VF topics
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 07:28] \\
+  There's a pathophysiology folder there for ToF and last year this included the pediatrics.  I think we're OK.
+:END:
 	[[message://%3c01139CAB-5DAE-473B-AF0B-E63208CF8D69@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add urinalysis topic to pathophys and path and delete from practitioner
 SCHEDULED: <2019-04-29 Mon>
@@ -311,9 +316,13 @@ This had a self-study.
 ** DONE [[message://%3c89d26f0d6c91c39.31a430c274d18c5566f19baf5acb78c8@mailer.surveygizmo.com%3E][Ask Mike about effects of digoxin on K+]]
 SCHEDULED: <2018-12-13 Thu>
    [2018-12-12 Wed]
-** ON RADAR [[message://%3c1544648122325.62514@rush.edu%3E][Remove the reference to the syllabus in the practice questions here]]
+** DONE [[message://%3c1544648122325.62514@rush.edu%3E][Remove the reference to the syllabus in the practice questions here]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 07:42] \\
+  Removed these everywhere in practice quesitons.
+:END:
    [2018-12-13 Thu]
-** ON RADAR [[message://%3c07B3C279-EE82-49B3-B9A9-98A48425250C@rush.edu%3E][Get rid of these references to hyperkalemia in the practice questions]]
+** DONE [[message://%3c07B3C279-EE82-49B3-B9A9-98A48425250C@rush.edu%3E][Get rid of these references to hyperkalemia in the practice questions]]
    [2018-12-13 Thu]
 ** DONE [#A] Remind students about review sessions
    [2018-12-13 Thu]
@@ -343,7 +352,7 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE Send Adam VF final grades
 ** DONE Email renal changes to Anne for newsletter when we are sure it will happen.
 ** DONE [#A] Syed's thoughts on new renal case
-** ON RADAR [[~/Library/Mobile Documents/com~apple~Preview/Documents/Cardiomyocyte.png][Cardiomyocyte.png]]  Add this to your heart lessons in place of the older figures
+** DONE [[~/Library/Mobile Documents/com~apple~Preview/Documents/Cardiomyocyte.png][Cbardiomyocyte.png]]  Add this to your heart lessons in place of the older figures
 ** DONE [#A] Add rationales to make up exams
 	[[message://%3cF4ED575B-EA3D-4ECF-B099-B8FCC298E4DD@rush.edu%3E][Re: Rationales needed]]
 ** DONE [#A] Make Nutrition changes to VF
@@ -382,7 +391,7 @@ SCHEDULED: <2019-04-29 Mon>
 ** CANCELED Bug these guys about the make ups
 	[[message://%3c3B424669-ED8A-4306-84E7-F7F0D9811DC8@rush.edu%3E][Re: Revised MCQ]]
 ** Make sure all of the figures used in the videos aare in the notes.
-*** ON RADAR I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+*** TODO [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
 :ID:       5C1726D7-517F-41E9-A1DD-F038E21F1B1A
@@ -393,12 +402,12 @@ SCHEDULED: <2019-04-29 Mon>
 :ID:       9C2B4A45-6761-407A-B955-ACF7F0248DD1
 :END:
 [2018-09-07 Fri]
-** ON RADAR Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
+** TODO [#A] Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
 :PROPERTIES:
 :SYNCID:   2C95E147-6409-44E6-86BE-092D5B787180
 :ID:       E17A7E6A-EB06-4384-8828-28B3FF935F1C
 :END:
-** ON RADAR Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
+** DONE Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
 :PROPERTIES:
 :SYNCID:   A8AA234F-ED44-4CCD-96E1-3423ED9CA816
 :ID:       CD7C925A-7D6C-4B6F-828A-B5C37081B322
@@ -685,7 +694,11 @@ DEADLINE: <2018-07-09 Mon>
 * DONE [[message://%3cA5E72181-7894-47C0-B4D3-6996EB1AD0A5@rush.edu%3E][Email the blue print for VF to Jeffery and Princess on Monday]] <2018-08-13 Mon>
   [2018-08-09 Thu]
 * DONE Export and upload the ANS videos
-* ON RADAR Videos for HaaP and IHC
+* CANCELED Videos for HaaP and IHC
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 08:02] \\
+  No idea what I meant by this.  What was I thinking?
+:END:
 * DONE [#A] Add Roles to Rainbow document
 * DONE Post CV12 material
 - [X] insert introduction slide if necessary

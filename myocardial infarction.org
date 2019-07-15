@@ -1,7 +1,7 @@
 * *Tasks*
-** ON RADAR Make sure you change the smooth muscle lecture to state that there IS tropomycin in smooth muscle.  Histology says there is and you got asked about this error many times.
+** TODO Make sure you change the smooth muscle lecture to state that there IS tropomycin in smooth muscle.  Histology says there is and you got asked about this error many times.
    [2018-11-16 Fri]
-** ON RADAR Redo the smooth muscle lesson and make sure you remove any reference to the absence of tropomycin. Its actually there in quite high concentration.  No one is completely clear on the functional relevance.
+** TODO Redo the smooth muscle lesson and make sure you remove any reference to the absence of tropomycin. Its actually there in quite high concentration.  No one is completely clear on the functional relevance.
    [2018-11-16 Fri]
 * *Ticklers*
 * *Meetings*
@@ -278,7 +278,7 @@ Convey urgency - wee need to work on CHF for Wednesday.
    [2018-10-29 Mon]
 * DONE [#A] [[message://%3c6B039D6D-F86C-4D54-860F-297DAF683A9B@rush.edu%3E][Get rid of the dystrophin objective for James Parker 1]]
    [2018-10-29 Mon]
-* ON RADAR [[message://%3c1540757987041.74743@rush.edu%3E][Add quesitons to cardiac and smooth muscle lessons]] <2019-02-28 Thu>
+* TODO [[message://%3c1540757987041.74743@rush.edu%3E][Add quesitons to cardiac and smooth muscle lessons]] <2019-02-28 Thu>
    [2018-10-29 Mon]
 * DONE Email tues ces about dual session
 * DONE [#A] James Parker 2 faculty guide
@@ -291,7 +291,7 @@ Convey urgency - wee need to work on CHF for Wednesday.
    [2018-10-31 Wed]
 * DONE [#A] [[message://%3c06c31885f7784653ba1e79ca1ed954cc@RUDW-EXCHMAIL01.rush.edu%3E][Repost pathophys 1 & 2]]
    [2018-10-31 Wed]
-* ON RADAR [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=314][Correct this in the smooth muscle notes and the slides]] <2019-02-28 Thu>
+* TODO [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=314][Correct this in the smooth muscle notes and the slides]] <2019-02-28 Thu>
    [2018-10-31 Wed]
 * DONE [#A] Post link to video descibing best way to install and use programs <2018-11-02 Fri>
    [2018-11-01 Thu]

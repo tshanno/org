@@ -129,6 +129,11 @@ https://beorg.app/learning/using-templates-to-keep-a-reading-log/
   Did add an extension that adds a context menu item to copy link to clipboard in org format.
 :END:
 ** [[https://orgmode.org/worg/org-tutorials/advanced-searching.html][Advanced searching]]
+** [[https://emacs.stackexchange.com/questions/51593/hide-slashes-in-italic-text][org mode - Hide slashes in italic text - Emacs Stack Exchange]] 
+** [[https://www.reddit.com/r/planetemacs/comments/ccqx9h/introduction_to_orgref_youtube/?utm_source=share&utm_medium=ios_app][https://www.reddit.com/r/planetemacs/comments/ccqx9h/introduction_to_orgref_youtube/?utm_source=shar]] 
+** [[https://m.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref - YouTube]] Could be particularly useful for putting together a bib file
+** [[https://github.com/jkitchin/org-ref/blob/master/org-ref.org][org-ref/org-ref.org at master · jkitchin/org-ref · GitHub]] 
+
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -336,6 +341,7 @@ https://www.ctan.org/pkg/csquotes
 #+END_EXPORT
 
 
+** [[http://joostkremers.github.io/ebib/][ebib | A BibTeX database manager for Emacs.]] Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 
