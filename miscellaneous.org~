@@ -25,34 +25,19 @@ Email: djsantiago@cnic.es
 https://www.cnic.es/en/investigacion/molecular-cardiology
 
 I don’t know the title but he’s a senior postdoc with Silvia Priori.
-** [[https://www.gocomics.com/dilbert-classics/2019/06/25][Dilbert Classics by Scott Adams for June 25, 2019 - GoComics]] 
 * *Ticklers*
 ** DONE [#A] Pick up cat food
 ** Renew Driver's license
    SCHEDULED: <2019-11-01 Fri>
-** TODO Renew Passport
+** Renew Passport
    SCHEDULED: <2019-06-03 Mon>
-*** [[https://www.wikihow.com/Renew-a-Passport#Completing_Your_Renewal_Application_sub][3 Ways to Renew a Passport - wikiHow]]
-*** TODO New passport photos
-*** TODO Form DS-82
-*** TODO Check processing time online at travel.state.gov
-*** TODO Include a check or money order for fees. Payment for passport fees must be included with your application, or your application will not be processed. As of 2018, these fees are $110 for a passport book
 ** Renew your driver's license - this expires 1/2020.  If you haven't gotten a renewal notice, you should look into it.
    SCHEDULED: <2019-12-16 Mon>
-** DONE Archer begins May 29
+** Archer begins May 29
    SCHEDULED: <2019-05-28 Tue>
-** CANCELED [[https://twitter.com/FindASession/status/1124677029092372481][Hello from the Magic Tavern at Michigan Avenue Apple Store May 17 6:30-8:00]]
+** TODO [[https://twitter.com/FindASession/status/1124677029092372481][Hello from the Magic Tavern at Michigan Avenue Apple Store May 17 6:30-8:00]]
+   SCHEDULED: <2019-05-17 Fri>
 
-
-** DONE [#A] Pick up cat food - call first, it probably won't come in for another week
-SCHEDULED: <2019-06-18 Tue>
-  [[bbdb:Burnham%20Park%20Animal%20Hospital][Burnham Park Animal Hospital]]
-** [[https://www.chicagotribune.com/entertainment/museums/ct-ent-art-institute-manet-beauty-ttd-0616-story.html]['Manet and Modern Beauty' now at the Art Institute suggests that you don't know your Manet - Chicago Tribune]] :: Consider going to this before it leaves Sept. 8.  Tickets are $7 over admission ($35)
-SCHEDULED: <2019-08-01 Thu>
-
-** Beth Birthday card for June 18
-[[bbdb:Beth%20Shannon][Beth Shannon]]
-SCHEDULED: <2020-06-11 Thu>
 * *Task*
 
 
@@ -85,26 +70,11 @@ SCHEDULED: <2020-06-11 Thu>
 ** DONE [#A] Pick up the shoes that you dropped off to be re-soled last week.
 ** DONE May 12 is Mother’s Day.  Call Mom.
 SCHEDULED: <2019-05-12 Sun>
-** ON RADAR Renew AHA membership?
+** TODO [#A] Renew AHA membership?
 	[[message://%3c55bfc203-ede6-421a-99c0-9eb5b4c1b3e4@ind1s01mta801.xt.local%3E][Action Required | Renew Your AHA Premium Professional Membership by May 31]]
-** TODO [[message://%3cBN8PR05MB668932A0D98A72A0B08DD30CF4180@BN8PR05MB6689.namprd05.prod.outlook.com%3E][Seeking Faculty for Kaiser Permanente School of Medicine]]
-** Get Sam, Doug and Deb a birthday cards
-SCHEDULED: <2020-06-05 Fri>
-*** [[bbdb:Doug%20Shannon][Doug Shannon]]
-
-- Note taken on [2019-06-09 Sun 16:16] \\
-  Sent Doug's to the wrong address.  Resend it.
-*** [[bbdb:Samantha%20Shannon][Samantha Shannon]]
-*** [[bbdb:Debbie%20Perenich][Debbie Perenich]]
-
-** DONE Buy Doug another card and amil it
- [[bbdb:Doug%20Shannon][Doug Shannon]]
-
-** DONE [#A] Set something up with Deri and Josh
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>
 
-** Amazon Prime Day <2019-07-15>--<2019-07-16 Tue>
 * DONE Pay credit card                                              :finance:
 - Note taken on [2017-11-07 Tue 07:44] \\
   message://%3C1491445829.10139983.1509987142568.JavaMail.wasadm@cdc2vpc5lpr22%3E
@@ -217,7 +187,7 @@ My suggested order:
 ** DONE [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Matlab Maintenance Quote 2018-01-18.pdf][Check with Glenda on how to handle this]]
 * [[message://%3c7D0EBBEB-921B-4C95-9DAF-9A5F19E572EF@rush.edu%3E][Read this]]
 * DONE [[message://%3c1AE1468F-A098-48A9-BFC6-7A099C526040@me.com%3E][iOS video improvment]]
-* ON RADAR [[message://%3c94FABB9E-6F5C-4FB2-BD03-D099AADA4409@me.com%3E][Image analysis with python]]
+* TODO [#C] [[message://%3c94FABB9E-6F5C-4FB2-BD03-D099AADA4409@me.com%3E][Image analysis with python]]
 * DONE [#A] Get files from grant in prep for meeting with Eric
 * DONE [#A] Get the documentation together for taxes.
 * DONE [[message://%3c6C0B9546-A909-401E-84BE-4675B82DE0E3@rush.edu%3E][Contact Bob about tutor]]
@@ -228,7 +198,7 @@ My suggested order:
 * DONE send growth to deri
 
 * DONE [[message://%3c5d465d44b63f4985b576827969f7e19d@RUDW-EXCHMAIL01.rush.edu%3E][Pick up recognition stuff]]
-* DONE Rent Rogue One 
+* TODO [#C] Rent Rogue One 
 ** [[https://www.amazon.com/Rogue-One-Story-Theatrical-Version/dp/B01MQTROL1/ref=sr_1_3?ie=UTF8&qid=1527358036&sr=8-3&keywords=rogue+one]]
 * DONE [[message://%3cD7BFFB61-9FC3-4141-8707-3D9E67D5DF70@rush.edu%3E][Casper Mattress?]]
 * DONE [[message://%3cF9ABF202-72F6-4FC2-895A-4A29B656305B@rush.edu%3E][$150 mic for iPhone]]
@@ -384,13 +354,5 @@ https://apple.news/A5xUORcIdNO62yf2a5I7J-A
    [2018-12-01 Sat]
 * CANCELED The Orville
    [2018-12-02 Sun]
-* CANCELED [[https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/][Raspberry Pi 3 Model B+ - Raspberry Pi]]
+* TODO [[https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/][Raspberry Pi 3 Model B+ - Raspberry Pi]]
    [2018-12-03 Mon]
-* DONE The Gardens Between by The Voxel Agents - Do you want to buy this?  It looked interesting.
-SCHEDULED: <2019-06-19 Wed>
-:LOGBOOK:
-- Note taken on [2019-06-26 Wed 07:06] \\
-  I did buy this.  $5 dollars so let's ope its worth it.
-:END:
-[2019-06-04 Tue 12:05]
-https://itunes.apple.com/us/app/the-gardens-between/id1371965583?mt=8

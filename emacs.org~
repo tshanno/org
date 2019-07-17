@@ -16,34 +16,16 @@ https://www.youtube.com/watch?v=OB9vFu9Za8w
 *** Tried this.  Didn't like it.
 ** CANCELED https://dev.to/deciduously/how-i-emacs-and-so-can-you-packages-m9p neotree
 *** Decided I didn't need this either.
-** ON RADAR [#C] [[http://melpa.org/#/pubmed]] 
-** ON RADAR [#C] [[http://blog.anmoljagetia.me/perfect-macos-launcher-for-emacs/][Perfect macOS Emacs workflow]] 
-** ON RADAR [#C] [[https://nullprogram.com/blog/2017/10/27/][Make Flet Great Again « null program]] Look into lisp unit testing
+** TODO [#C] [[http://melpa.org/#/pubmed]] 
+** TODO [#C] [[http://blog.anmoljagetia.me/perfect-macos-launcher-for-emacs/][Perfect macOS Emacs workflow]] 
+** TODO [#C] [[https://nullprogram.com/blog/2017/10/27/][Make Flet Great Again « null program]] Look into lisp unit testing
 ** DONE [#A] [[https://github.com/abo-abo/swiper][GitHub - abo-abo/swiper: Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!]] 
-** ON RADAR [#C] [[http://doc.rix.si/cce/cce-emacs-core.html][Complete Computing Environment: Core Emacs]] 
-** ON RADAR [#C] [[https://orgmode.org/worg/org-tutorials/advanced-searching.html][Advanced searching]]
-** CANCELED Power thesaurus - downloaded the meriam webster package.
+** TODO [#C] [[http://doc.rix.si/cce/cce-emacs-core.html][Complete Computing Environment: Core Emacs]] 
+** TODO [#C] [[https://orgmode.org/worg/org-tutorials/advanced-searching.html][Advanced searching]]
+** TODO Power thesaurus
 ** CANCELED [#A] [[https://orgmode.org/manual/Structure-Editing.html#index-org_002dnarrow_002dto_002dsubtree][The Org Manual: Structure Editing]] Narrow to sub tree worked for indent problem?  Maybe you should add narwoing to initial copying of subtree to variable
 
 Its working fine the way it is.  Don't mess with it unless you have to.
-** DONE [#A] [[https://jonathanabennett.github.io/blog/2019/05/28/emacs.org-~-may-2019/][Emacs.org ~ May 2019 - Jonathan Bennett's Blog]] Erc
-Coldn't get this to work.
-** CANCELED [#A] [[https://myfitnesspal.desk.com/customer/portal/articles/11365-can-i-export-my-data-or-email-my-diary-to-my-trainer-doctor-or-nutritionist-][MyFitnessPal | Can I export my data, or email my diary ...]] 
-- Note taken on [2019-06-11 Tue 15:15] \\
-  Not worth the trouble.  MyFitnessPal is good enough.
-** DONE [#A] Prettify org buffers
-** ON RADAR [[https://emacs.stackexchange.com/questions/5938/how-to-make-auto-complete-work-in-auctex-mode][latex - How to make auto-complete work in AucTeX mode? - Emacs Stack Exchange]] 
-** CANCELED GitHub - atomontage/xterm-color: ANSI & xterm-256 color text property translator for Emacs
-:LOGBOOK:
-- Note taken on [2019-06-27 Thu 13:54] \\
-  Eh  Don't need this.
-:END:
-[2019-06-14 Fri 05:57]
-https://github.com/atomontage/xterm-color
-** CANCELED PGF/TikZ - Wikipedia :: Eh.  Too complicated and it doesn't sound like anything I need.
-[2019-06-14 Fri 05:58]
-https://en.wikipedia.org/wiki/PGF/TikZ
-** DONE Write a lisp function to do the text processing for copying a meeting from Mac calendar application
 * *Org*
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/org%20manual%202019-01-13.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/org manual 2019-01-13.pdf]]
 ** \C-cam to match tag or property
@@ -82,43 +64,6 @@ The variable org-startup-with-inline-images can be set within a buffer with the 
 How to execute code blocks by name to insert the results in an org buffer
 ** [[https://org-babel.readthedocs.io/en/latest/eval/][Code blocks - Org Babel reference card]] Named code blocks for execution as part of a file*
 ** CANCELED [#C] [[https://github.com/org2blog/org2blog/tree/v1.1.0#installation][GitHub - org2blog/org2blog at v1.1.0]] 
-** CANCELED [[https://jingsi.space/post/2017/04/30/org-protocol/][org-protocol]] See if you can use the JavaScript at the bottom for your own Scripts
-** [[https://tableconvert.com/?output=latex&import=example][Table Convert Online - table to markdown,csv,json,latex table,excel,sql,xml]] 
-:PROPERTIES:
-:SYNCID:   6C91F2FA-CD4C-40D1-A760-410BF973254F
-:ID:       BA6CCB74-13FA-4FC5-96C9-34E63C3445AE
-:END:
-
-** Users' Guide - beorg
-[2019-06-01 Sat 06:17]
-https://beorgapp.com/manual/#url-scheme
-** [[https://www.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref - YouTube]]
-
-** Using templates to keep a reading journal - beorg
-https://beorg.app/learning/using-templates-to-keep-a-reading-log/
-** Record position and return commands
-‘C-c %     (org-mark-ring-push)’
-     Push the current position onto the mark ring, to be able to return
-     easily.  Commands following an internal link do this automatically.
-‘C-c &     (org-mark-ring-goto)’
-     Jump back to a recorded position.  A position is recorded by the
-     commands following internal links, and by ‘C-c %’.  Using this
-     command several times in direct succession moves through a ring of
-     previously recorded positions.
-  [[info:org#Handling%20links][info:org#Handling links]]
-** ON RADAR [[https://orgmode.org/worg/dev/org-element-api.html][Org Element API]] :: Consider using this to get the beginning and end of an item in trs-org-sync
-
-** [[https://emacs.stackexchange.com/questions/17282/org-mode-logbook-note-entry-without-logbook-drawer][org mode logbook note entry without logbook drawer? - Emacs Stack Exchange]] 
-** [[https://www.reddit.com/r/emacs/comments/c5j3x7/org_version_924_insert_template_at_point_doesnt/?utm_source=share&utm_medium=ios_app][https://www.reddit.com/r/emacs/comments/c5j3x7/org_version_924_insert_template_at_point_doesnt/?utm_]] Org capture at point using c-0 prefix?
-** [[https://addons.mozilla.org/en-US/firefox/addon/edit-with-emacs1/][Edit with Emacs – Get this Extension for 🦊 Firefox (en-US)]] There might be an org extension too
-:PROPERTIES:
-:SYNCID:   80118DEE-B036-4EA9-AB6F-74DC1112845B
-:ID:       AFBB4BA6-0C1B-482B-B7BE-94C966AE0388
-:END:
-:LOGBOOK:
-- Note taken on [2019-06-26 Wed 07:18] \\
-  Did add an extension that adds a context menu item to copy link to clipboard in org format.
-:END:
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -136,7 +81,6 @@ https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired-and-Find.html
 ** C-x C-q make dired buffer editable, C-c C-c to end editing and "save" changes
 ** DONE [[https://github.com/jojojames/dired-sidebar][GitHub - jojojames/dired-sidebar: Sidebar for Emacs leveraging Dired]] 
 
-** [[~/Library/Mobile Documents/com~apple~Preview/Documents/dired-ref.pdf][dired reference card for keybindings]]
 * *Development*
 ** [[https://spin.atomicobject.com/2016/05/27/write-emacs-package/][Take Your Emacs to the Next Level by Writing Custom Packages]]  Includes instrucitons on how to push to MELPA.
 ** [[message://%3c53DBB187-0C25-4BAB-895B-4C73C609AB38@rush.edu%3E][Configureing Emacs for Python]]
@@ -160,85 +104,6 @@ https://anoncumlaude.wordpress.com/2019/01/17/emacs-balanced-expressions/
 ** CANCELED [[https://github.com/emacs-lsp/lsp-mode][GitHub - emacs-lsp/lsp-mode: Emacs client/library for the Language Server Protocol]] 
 ** Copy-special copies subtree as kill
    [[help:Enabled]]
-** 30.11 Subdirectories in Dired
-
-A Dired buffer usually displays just one directory, but you can optionally include its subdirectories as well.
-
-The simplest way to include multiple directories in one Dired buffer is to specify the options ‘-lR’ for running ls. (If you give a numeric argument when you run Dired, then you can specify these options in the minibuffer.) That produces a recursive directory listing showing all subdirectories at all levels.
-
-More often, you will want to show only specific subdirectories. You can do this with i (dired-maybe-insert-subdir):
-
-i
-Insert the contents of a subdirectory later in the buffer.
-If you use this command on a line that describes a file which is a directory, it inserts the contents of that directory into the same Dired buffer, and moves there. Inserted subdirectory contents follow the top-level directory of the Dired buffer, just as they do in ‘ls -lR’ output.
-
-If the subdirectory's contents are already present in the buffer, the i command just moves to it.
-
-In either case, i sets the Emacs mark before moving, so C-u C-<SPC> returns to your previous position in the Dired buffer (see Setting Mark). You can also use ‘^’ to return to the parent directory in the same Dired buffer (see Dired Visiting).
-
-Use the l command (dired-do-redisplay) to update the subdirectory's contents, and use C-u k on the subdirectory header line to remove the subdirectory listing (see Dired Updating). You can also hide and show inserted subdirectories (see Hiding Subdirectories).
-** 30.13 Moving Over Subdirectories
-
-When a Dired buffer lists subdirectories, you can use the page motion commands C-x [ and C-x ] to move by entire directories (see Pages).
-
-The following commands move across, up and down in the tree of directories within one Dired buffer. They move to directory header lines, which are the lines that give a directory's name, at the beginning of the directory's contents.
-
-C-M-n
-Go to next subdirectory header line, regardless of level (dired-next-subdir).
-
-
-C-M-p
-Go to previous subdirectory header line, regardless of level (dired-prev-subdir).
-
-
-C-M-u
-Go up to the parent directory's header line (dired-tree-up).
-
-
-C-M-d
-Go down in the directory tree, to the first subdirectory's header line (dired-tree-down).
-
-
-<
-Move up to the previous directory-file line (dired-prev-dirline). These lines are the ones that describe a directory as a file in its parent directory.
-
-
->
-Move down to the next directory-file line (dired-next-dirline).
-** 30.14 Hiding Subdirectories
-
-Hiding a subdirectory means to make it invisible, except for its header line.
-
-$
-Hide or show the subdirectory that point is in, and move point to the next subdirectory (dired-hide-subdir). This is a toggle. A numeric argument serves as a repeat count. 
-M-$
-Hide all subdirectories in this Dired buffer, leaving only their header lines (dired-hide-all). Or, if any subdirectory is currently hidden, make all subdirectories visible again. You can use this command to get an overview in very deep directory trees or to move quickly to subdirectories far away.
-Ordinary Dired commands never consider files inside a hidden subdirectory. For example, the commands to operate on marked files ignore files in hidden directories even if they are marked. Thus you can use hiding to temporarily exclude subdirectories from operations without having to remove the Dired marks on files in those subdirectories.
-
-See Subdirectories in Dired, for how to insert a subdirectory listing, and see Dired Updating, for how to delete it.
-** 30.16 Dired and find
-
-You can select a set of files for display in a Dired buffer more flexibly by using the find utility to choose the files.
-
-To search for files with names matching a wildcard pattern use M-x find-name-dired. It reads arguments directory and pattern, and chooses all the files in directory or its subdirectories whose individual names match pattern.
-
-The files thus chosen are displayed in a Dired buffer, in which the ordinary Dired commands are available.
-
-If you want to test the contents of files, rather than their names, use M-x find-grep-dired. This command reads two minibuffer arguments, directory and regexp; it chooses all the files in directory or its subdirectories that contain a match for regexp. It works by running the programs find and grep. See also M-x grep-find, in Grep Searching. Remember to write the regular expression for grep, not for Emacs. (An alternative method of showing files whose contents match a given regexp is the % g regexp command, see Marks vs Flags.)
-
-The most general command in this series is M-x find-dired, which lets you specify any condition that find can test. It takes two minibuffer arguments, directory and find-args; it runs find in directory, passing find-args to tell find what condition to test. To use this command, you need to know how to use find.
-
-The format of listing produced by these commands is controlled by the variable find-ls-option. This is a pair of options; the first specifying how to call find to produce the file listing, and the second telling Dired to parse the output.
-
-The command M-x locate provides a similar interface to the locate program. M-x locate-with-filter is similar, but keeps only files whose names match a given regular expression.
-
-These buffers don't work entirely like ordinary Dired buffers: file operations work, but do not always automatically update the buffer. Reverting the buffer with g deletes all inserted subdirectories, and erases all flags and marks.
-** [[https://www.youtube.com/watch?v=NDP91RNgT4A&feature=youtu.be&app=desktop][Magit (in Spacemacs): The Absolute Minimum you need to know - YouTube]] :: Use 's' to stage, 'c' to commit and 'P' to push to github
-
-** [[https://jonathanabennett.github.io/blog/2019/06/20/python-and-emacs-pt.-1/][Python and Emacs Pt. 1 - Jonathan Bennett's Blog]]
-
-** DONE bug where cursor move to beginning of topmost item in nested sync
-** [[http://pchristensen.com/blog/articles/setting-up-and-using-emacs-infomode/][Setting Up and Using Emacs InfoMode]] 
 * *LaTeX*
 ** Keyboard shortcut to insert latex
 [[https://emacs.stackexchange.com/questions/18619/org-mode-any-keyboard-shortcut-for-latex-code][yasnippet - Org-mode: any keyboard shortcut for Latex code? - Emacs Stack Exchange]]
@@ -253,58 +118,8 @@ These buffers don't work entirely like ordinary Dired buffers: file operations w
 ** [[https://www.overleaf.com/][Overleaf, Online LaTeX Editor]] - good site for LaTeX templates
 ** Its '\C-c )' to reference a label
    [[info:reftex#Referencing%20Labels][info:reftex#Referencing Labels]]
-** [[https://ctan.org/tex-archive/info/symbols/comprehensive/][CTAN: /tex-archive/info/symbols/comprehensive]] 
-** [[https://tableconvert.com/?output=latex&import=example][Table Convert Online - table to markdown,csv,json,latex table,excel,sql,xml]] 
-:PROPERTIES:
-:SYNCID:   6C91F2FA-CD4C-40D1-A760-410BF973254F
-:ID:       2084FC13-D147-4E2C-B584-C4AD46ACF67C
-:END:
-
-** LaTeX - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/LaTeX
-
-** AUCTeX 12.1: 2.6 Completion Keyboard Shortcut
-https://www.gnu.org/software/auctex/manual/auctex/Completion.html
-** [[https://www.reddit.com/r/emacs/comments/bzg7fp/inserting_latex_symbols_in_comfort/?utm_source=share&utm_medium=ios_app][Inserting LaTeX symbols in comfort : emacs]]
-
-
-When typing in LaTeX using AucTeX, it is very useful to be able to insert a number of LaTeX symbols by typing key sequences that begin with "`". For example, "`a" inserts "\alpha" when inside a math environment and "`I" inserts "\infty". Further, with a prefix argument, it will insert what you want inside a couple of dollars. that is, the key sequence "C-u ` a" will insert "$\alpha$".
-
-** [[https://www.overleaf.com/][Overleaf, Online LaTeX Editor]] :: this is an online LaTeX editor.  It could be particularly useful on an iPad.  Trying iSH and emacs now but it it doesn't work this could be used to take notes in meetings at least.
-
-** DONE CTAN: Package csquotes
-:LOGBOOK:
-- Note taken on [2019-06-27 Thu 13:55] \\
-  Eh.  Didn't need this.
-:END:
-[2019-06-14 Fri 05:58]
-https://www.ctan.org/pkg/csquotes
-** [[https://duckduckgo.com/?q=latex+how+to+write+a+letter+with+letterhead&t=osx&ia=web][latex how to write a letter with letterhead at DuckDuckGo]]
-
-
-
-
-** This shows how to include letter head but uses the article class rather than the letter class [[https://tex.stackexchange.com/questions/55928/business-letter-template-with-letterhead-on-the-side#55938][Business letter template with letterhead on the side - TeX - LaTeX Stack Exchange]]
-
-
-** [[https://texblog.org/2007/08/15/writing-a-letter-in-latex/][Writing a letter in Latex – texblog]]
-
-#+BEGIN_EXPORT latex
-\documentclass{letter}
-\signature{Your name}
-\address{Street \\ City \\ Country}
-\begin{document}
-\begin{letter}{Company name \\ Street\\ City\\ Country}
-\opening{Dear Sir or Madam:}
-\dots
-\closing{Yours Faithfully,}
-\ps{P.S. Here goes your ps.}
-\encl{Enclosures.}
-\end{letter}
-\end{document}
-#+END_EXPORT
-
-
+** Its '\C-c )' to reference a label
+   [[info:reftex#Referencing%20Labels][info:reftex#Referencing Labels]]
 * *Miscellaneous*
 ** emms (emacs multimedia)
 Try this. 
@@ -330,7 +145,7 @@ Enough to get by and start using it.
 
 
 http://puntoblogspot.blogspot.com/search/label/emacs
-** ON RADAR [#C] [[https://www.reddit.com/r/emacs/comments/b13n39/how_do_you_manage_window_sizes_in_emacs/]] 
+** TODO [#C] [[https://www.reddit.com/r/emacs/comments/b13n39/how_do_you_manage_window_sizes_in_emacs/]] 
 C-u (number of lines) C-x ^ to enlarge.  Negative argument shrinks window
 ** [[https://www.reddit.com/r/emacs/comments/b1h4ge/cycle_through_a_set_of_buffers/]] emacs -slack?
 ** [[https://www.reddit.com/r/emacs/comments/b13n39/how_do_you_manage_window_sizes_in_emacs/]] 
@@ -372,7 +187,7 @@ https://irreal.org/blog/
 ** [[https://joostkremers.github.io/pandoc-mode/]] 
 ** [[http://christiantietze.de/posts/2019/03/sync-emacs-org-files/][Sync Emacs Org Agenda Files via Dropbox Without Conflicts • Christian Tietze]] 
 This can be used for any file and could be handy, for instance, when coding.
-** ON RADAR [#C] [[https://qiita.com/daiyanh/items/7f63c5135db4a47b37f7][macros &amp; regex - two headed monsters - Qiita]] Regex builder
+** TODO [#C] [[https://qiita.com/daiyanh/items/7f63c5135db4a47b37f7][macros &amp; regex - two headed monsters - Qiita]] Regex builder
 ** [[https://emacs.stackexchange.com/questions/22688/how-do-i-configure-home-brew-provisioned-emacs-to-run-a-gui-based-emacsclient-pr][How do I configure home-brew-provisioned emacs to run a GUI-based emacsclient properly? - Emacs Stack Exchange]]
 ** [[https://github.com/abo-abo/ace-window][GitHub - abo-abo/ace-window: Quickly switch windows in Emacs]] Winmove?
 ** [[https://github.com/Chobbes/org-chef][GitHub - Chobbes/org-chef: A package for making a cookbook and managing recipes with org-mode.]] 
@@ -388,123 +203,33 @@ This can be used for any file and could be handy, for instance, when coding.
 ** [[https://github.com/d12frosted/homebrew-emacs-plus/][GitHub - d12frosted/homebrew-emacs-plus: Emacs Plus formulae for the Homebrew package manager]] 
 ** [[https://next.atlas.engineer/][Next]] 
 ** [[http://manuel-uberti.github.io//emacs/2019/05/14/occur/][http://manuel-uberti.github.io//emacs/2019/05/14/occur/]] Occur?
-** [[https://emacsnotes.wordpress.com/2019/05/19/rectangle-commands-a-handy-tool-for-working-with-multi-columnar-tabular-text/][Rectangle Commands: A handy tool for working with multi-columnar / tabular text – Emacs Notes]] 
-** How to save a macro for later use :: [[https://www.reddit.com/r/emacs/comments/brcrbb/comman_ringing_bell_error_when_loading_macro_from/?utm_source=share&utm_medium=ios_app][Comman ringing bell error when loading macro from .emacs - emacs]] 
-** [[https://emacsnotes.wordpress.com/2019/05/19/rectangle-commands-a-handy-tool-for-working-with-multi-columnar-tabular-text/][Rectangle Commands: A handy tool for working with multi-columnar / tabular text – Emacs Notes]] 
-** Test flight emacs
-[2019-06-02 Sun 05:35]
-https://www.reddit.com/r/emacs/comments/bvrmsf/emacs_on_an_ipad_without_jailbreaking_it_it_can/?utm_source=share&utm_medium=ios_app
-** Emacs: How to Define Keys
-http://ergoemacs.org/emacs/keyboard_shortcuts.html
-** Make use of the Super key | Emacs Redux
-http://emacsredux.com/blog/2013/07/17/make-use-of-the-super-key/
-** DONE [#A] Is RCN is BBDB? [[message://%3c7B5C710A-8015-4905-BD49-255F6E9B292B@rush.edu%3E][RCN 2014-06-30.pdf]]
-
-** Instructions for installing emacs on iPad with Test Flight and iSH [[https://www.reddit.com/r/emacs/comments/bvrmsf/emacs_on_an_ipad_without_jailbreaking_it_it_can/?utm_source=share&utm_medium=ios_app][Emacs on an iPad without jailbreaking it - It can be done! : emacs]]
-** DONE [#A] Autofill for iPad                                                                                                                         
-                                                                                                                                            
-** [[http://ergoemacs.org/emacs/elisp_unicode_representation_in_string.html][Elisp: Unicode Escape Sequence]]
-
-
-
-** C-s C-w [C-w ... ] to search for a word/expression under a cursor. 
-
-** CANCELED Inkscape - Wikipedia :: Only available if you compile using Macports.  Didn't want to go through this.
-[2019-06-14 Fri 05:58]
-https://en.wikipedia.org/wiki/Inkscape
-
-** [[https://www.tenderisthebyte.com/blog/2019/06/09/spell-checking-emacs/][Spell Checking in Emacs | Tender Is The Byte]] :: How to remove words from dictionary
-
-
-Removing words from the dictionary
-
-What happens if you add a word to the dictionary on accident and want to remove it? That’s easy as well. Checking man ispell, you will see a section called FILES that lists all the important files Ispell uses for its spell checking. My default dictionary is English, so my personal Ispell dictionary can be found here: $HOME/.ispell_english. To remove a word from the dictionary, just open that file in your favorite text editor (Emacs, obviously!) and remove the word. For it to take effect, you will likely have to close and restart Emacs.
-** [[https://github.com/agzam/mw-thesaurus.el][GitHub - agzam/mw-thesaurus.el: Merriam-Webster Thesaurus in Emacs]] 
-** [[http://davmail.sourceforge.net/osximapmailsetup.html][DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway - OSX IMAP Mail setup]]
-** DONE [[https://github.com/flycheck/flycheck][GitHub - flycheck/flycheck: On the fly syntax checking for GNU Emacs]]
-:LOGBOOK:
-- Note taken on [2019-06-28 Fri 06:21] \\
-  Installed this.  Let's see if it works when editng javascript the next time I have to do it.
-:END:
-
-** DONE [[http://joostkremers.github.io/pandoc-mode/][Introduction | Pandoc-mode]]
-:LOGBOOK:
-- Note taken on [2019-06-28 Fri 06:22] \\
-  Installed this.  Looks like it might be convenient.
-:END:
-
-** [[https://github.com/purcell/exec-path-from-shell][GitHub - purcell/exec-path-from-shell: Make Emacs use the $PATH set up by the user's shell]]
-:LOGBOOK:
-- Note taken on [2019-06-28 Fri 06:22] \\
-  Installed this.  I wonder if I can run emacs from the applications folder now?
-:END:
-
-** [[https://stackoverflow.com/questions/4987760/how-to-change-size-of-split-screen-emacs-windows][How to change size of split screen emacs windows? - Stack Overflow]]
-With the mouse, you can drag the window sizes around.
-
-Click anywhere on the mode line that is not otherwise 'active' (the buffer name is safe, or any unused area to the right hand side), and you can drag up or down.
-
-Side-to-side dragging requires a very precise click on the spot where the two mode lines join.
-
-C-x - (shrink-window-if-larger-than-buffer) will shrink a window to fit its content.
-
-C-x + (balance-windows) will make windows the same heights and widths.
-
-C-x ^ (enlarge-window) increases the height by 1 line, or the prefix arg value. A negative arg shrinks the window. e.g. C-- C-1 C-6 C-x ^ shrinks by 16 rows, as does C-u - 1 6 C-x ^.
-
-(There is no default binding for shrink-window.)
-
-C-x } (enlarge-window-horizontally) does likewise, horizontally.
-C-x { (shrink-window-horizontally) is also bound by default.
-
-Following one of these commands with repeat (C-x z to initiate, and just z for continued repetition) makes it pretty easy to get to the exact size you want.
-
-If you regularly want to do this with a specific value, you could record a keyboard macro to do it, or use something like
-(global-set-key (kbd "C-c v") (kbd "C-u - 1 6 C-x ^"))
-
-Or this:
-(global-set-key (kbd "C-c v") (kbd "C-x o C-x 2 C-x 0 C-u - 1 C-x o"))
-
-Which is a smidgen hacky, so this would be better:
-
-(defun halve-other-window-height ()
-  "Expand current window to use half of the other window's lines."
-  (interactive)
-  (enlarge-window (/ (window-height (next-window)) 2)))
-
-(global-set-key (kbd "C-c v") 'halve-other-window-height)
-Tangentially, I also love winner-mode which lets you repeatedly 'undo' any changes to window configurations with C-c left (whether the change is the size/number/arrangement of the windows, or just which buffer is displayed). C-c right returns you to the most recent configuration. Set it globally with (winner-mode 1)
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]
 ** outline minor mode automatically on.  Use \C-c and the @ before final key shortcut.  Shortcuts are the same as outline major mode otherwise.
 
-* ON RADAR Emacs Keybindings for Mac OS X | Irreal                     :Read:
+* TODO [#C] Emacs Keybindings for Mac OS X | Irreal                    :Read:
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
 [2018-02-01 Thu 03:37]
 http://irreal.org/blog/?p=259
-* ON RADAR Emacs Lisp is Fun? – Emacs Orgisms RSS feed?                :Read:
+* TODO [#C] Emacs Lisp is Fun? – Emacs Orgisms RSS feed?               :Read:
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:      
 [2018-02-06 Tue 03:09]
 https://eclectic614387068.wordpress.com/2018/01/26/emacs-lisp-is-fun/
 
-* CANCELED GitHub - weirdNox/org-noter: Emacs document annotator, using Org-mode :Read:
+* TODO [#C] GitHub - weirdNox/org-noter: Emacs document annotator, using Org-mode :Read:
 :PROPERTIES:
 :CATEGORY: Read & Review
-:END:
-:LOGBOOK:
-- Note taken on [2019-06-27 Thu 15:10] \\
-  Don't need this.
 :END:
 [2018-02-13 Tue 02:54]
 https://github.com/weirdNox/org-noter
 
 
-* ON RADAR Enamored with Emacs – Delta-Lambda                          :Read:
+* TODO [#C] Enamored with Emacs – Delta-Lambda                         :Read:
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -522,7 +247,7 @@ https://deltalambda.wordpress.com/2018/02/14/enamored-with-emacs/
 :END:
 
 
-* CANCELED Emacs as a C/C++ IDE on Windows – Blue2RGB
+* TODO [#C] Emacs as a C/C++ IDE on Windows – Blue2RGB
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -530,7 +255,7 @@ https://deltalambda.wordpress.com/2018/02/14/enamored-with-emacs/
 https://blue2rgb.wordpress.com/2018/02/22/emacs-as-a-c-c-ide-on-windows/
 
 
-* CANCELED Emacs Lisp Lambda Expressions Are Not Self-Evaluating « null program
+* TODO [#C] Emacs Lisp Lambda Expressions Are Not Self-Evaluating « null program
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -538,7 +263,7 @@ https://blue2rgb.wordpress.com/2018/02/22/emacs-as-a-c-c-ide-on-windows/
 http://nullprogram.com/blog/2018/02/22/
 
 
-* CANCELED Literate Benchmarking | Irreal
+* TODO [#C] Literate Benchmarking | Irreal
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -546,7 +271,7 @@ http://nullprogram.com/blog/2018/02/22/
 http://irreal.org/blog/?p=6974
 
 
-* CANCELED Literate DevOps
+* TODO [#C] Literate DevOps
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -554,7 +279,7 @@ http://irreal.org/blog/?p=6974
 http://www.howardism.org/Technical/Emacs/literate-devops.html
 
 
-* CANCELED What's in an Emacs Lambda « null program
+* TODO [#C] What's in an Emacs Lambda « null program
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -562,7 +287,7 @@ http://www.howardism.org/Technical/Emacs/literate-devops.html
 http://nullprogram.com/blog/2017/12/14/
 
 
-* ON RADAR Buttery Smooth Emacs
+* TODO [#C] Buttery Smooth Emacs
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
@@ -570,7 +295,7 @@ http://nullprogram.com/blog/2017/12/14/
 https://www.facebook.com/notes/daniel-colascione/buttery-smooth-emacs/10155313440066102/
 
 
-* ON RADAR Alex Schroeder: Diary rss?
+* TODO [#C] Alex Schroeder: Diary rss?
 :PROPERTIES:
 :CATEGORY: Read & Review
 :END:
