@@ -2,7 +2,16 @@
 ** Air conditioner Repair <2019-07-17 Wed 14:00-17:00>
 [[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
 ** Princess regarding Workload Assessment <2019-07-17 Wed 10:30-10:45>
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 16:11] \\
+  We worked out a procdure to take the next step and send this out.  Princess will work up a form for the CDs to fill out and send it to me to look at.
+:END:
 ** CCE Integration & Implementation (I&I) Subcommittee; Location: OIME, AAC 403, Large Conference Room **https://zoom.us/j/318926177** (First Meeting Only) -  Remaining 2019 Locations Pending  <2019-07-17 Wed 12:00-13:00>
+*** peds subI review
+*** FtF
+*** Neurrology Clerkship
+*** Peds Sub I
+*** 
 ** TODO Contact Dan and see if there is new data
 ** TODO Sign and return contract
 * Notes
