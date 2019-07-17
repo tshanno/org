@@ -55,14 +55,12 @@ SCHEDULED: <2019-08-01 Thu>
 SCHEDULED: <2020-06-11 Thu>
 ** Put together the materials for [[message://%3cf084677de6164ff5be05a7be8027f80e@RUPW-EXCHMAIL02.rush.edu%3E][Camp Cardiac 2019 Request for your Physiology Mastery!]]
 SCHEDULED: <2019-07-22 Mon>
-** TODO [#A] Look into this form Jessica Rhee :: [[message:%3C1562108449271.30452@rush.edu%3E][research]]
-SCHEDULED: <2019-07-08 Mon>
+** CANCELED Look into this form Jessica Rhee :: [[message:%3C1562108449271.30452@rush.edu%3E][research]]
+:LOGBOOK:
+- Note taken on [2019-07-16 Tue 07:24] \\
+  I'm canceling this.  I don't think she should be doing research.  I'll see if she follows up.
+:END:
 
-
-
-T-Mobile
-1-800-937-8997
-pin: 02264661
 
 * *Task*
 
@@ -122,6 +120,7 @@ SCHEDULED: <2019-07-08 Mon>
 
 ** DONE Bring a triple A battery
 SCHEDULED: <2019-07-12 Fri>
+** TODO [#A] Get an appointment for Dawn and Echo
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>
 

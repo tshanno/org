@@ -14,6 +14,7 @@
 :END:
 [2018-09-07 Fri]
 ** ON RADAR Take a look at this.  It might help javascript edevelopment [[http://eschulte.github.io/emacs-web-server/Introduction.html#Introduction][Emacs Web Server (web-server) User Manual: Introduction]] 
+** ON RADAR [[https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/][A Gentle Introduction to Javascript Test Driven Development: Part 1]]
 * *Meetings*
 * *Ticklers*
 * *Notes*

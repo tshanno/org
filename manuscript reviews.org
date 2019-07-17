@@ -35,6 +35,6 @@ SCHEDULED: <2019-06-12 Wed>
 ** DONE [[message://%3c0102016b55fc1f1e-6390ac79-f341-47ed-ac6c-8f8d0875b7fb-000000@eu-west-1.amazonses.com%3E][JMCC12312: Manuscript for your review]] due June 28
 ** DONE [[message://%3c0102016bab550cb6-1a0f19c9-9e97-47e2-81ce-93ac429fe83e-000000@eu-west-1.amazonses.com%3E][JMCC12312 Late Review]]
 
-** ON RADAR [[message://%3c0102016bd5aa1788-b39431b2-b44d-4b1c-9330-294e3b67496a-000000@eu-west-1.amazonses.com%3E][JMCC12350: Manuscript for your review]] Due July 23 <2019-07-23 Tue>
-SCHEDULED: <2019-07-16 Tue>
+** TODO [[message://%3c0102016bd5aa1788-b39431b2-b44d-4b1c-9330-294e3b67496a-000000@eu-west-1.amazonses.com%3E][JMCC12350: Manuscript for your review]] Due July 23 <2019-07-23 Tue>
+SCHEDULED: <2019-07-23 Tue>
 

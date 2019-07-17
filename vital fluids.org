@@ -151,14 +151,14 @@ SCHEDULED: <2019-10-01 Tue>
 :END:
 	[[message://%3c01139CAB-5DAE-473B-AF0B-E63208CF8D69@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add urinalysis topic to pathophys and path and delete from practitioner
-SCHEDULED: <2019-04-29 Mon>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
 :ID:       CB116CC1-3F73-400E-A6D7-B9D9548F7BC4
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
 ** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
-SCHEDULED: <2019-04-29 Mon>
+SCHEDULED: <2019-07-19 Fri>
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
@@ -372,7 +372,7 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add cardiac tamponade to HF
-SCHEDULED: <2019-04-29 Mon>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
 :ID:       CFBEE68E-3A0F-4A25-A4BA-8F784D347A90

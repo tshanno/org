@@ -30,7 +30,7 @@
 :ID:       5233D00A-FBBD-44B8-8A80-016D8732FABA
 :END:
 *** You must recuse yourself from COSEP ID 2016-04 (Direct Advisor)
-*** TODO [[message://%3c125fd82717254ab8bcc822166a189b2e@RUPW-EXCHMAIL01.rush.edu%3E][IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
+*** [[message://%3c125fd82717254ab8bcc822166a189b2e@RUPW-EXCHMAIL01.rush.edu%3E][IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
 :PROPERTIES:
 :SYNCID:   ECB664CC-0D86-4024-9EBF-32B7B08A0EBD
 :ID:       CBFE3341-3625-478D-8C54-C14D984C2B19

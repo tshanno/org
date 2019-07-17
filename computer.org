@@ -30,6 +30,10 @@ Apple’s Texas Hold’em game is so old it was originally developed for the iPo
 :ID:       74095EF2-428E-4688-B485-73ECB6A94FB0
 :END:
 
+** ON RADAR How to install the macOS Catalina beta in its own APFS container - Macworld
+[2019-07-16 Tue 04:30]
+https://apple.news/Axlbb9nT5NXWjgTta7C4BEQ
+
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]

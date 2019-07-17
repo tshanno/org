@@ -25,8 +25,7 @@ SCHEDULED: <2019-06-19 Wed>
 ** Schedule student lunch
 SCHEDULED: <2019-09-01 Sun>
 ** TODO [#A] Talk to Maria about how to get on tag questions
-SCHEDULED: <2019-07-15 Mon>
-** TODO Got through quesitons mone more time and make sure everything got tagged.
+** TODO [#A] Go through quesitons mone more time and make sure everything got tagged.
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -428,6 +427,11 @@ One of the approaches being considered for class sessions next year is to use th
 :ID:       C8F41BDC-24F8-4AB4-8E5C-9F7A13824020
 :END:
 
+** Workload Assessment stuff [[https://drive.google.com/drive/folders/1rUMvRMLissK-_5XMw3_uDe-ElNwr7h2i][18/19 Workload Assessment - Google Drive]]
+:PROPERTIES:
+:SYNCID:   6D313489-E8DB-4821-8BDA-2A6D25FD7CDC
+:ID:       2B951202-7A11-49F3-AC02-7A501E1E7553
+:END:
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -578,5 +582,4 @@ SCHEDULED: <2019-06-17 Mon>
   Bob said to check with Angela Solic but he didn't think it was ready.
 :END:
 ** TODO [#A] Angela Solic about recording studio
-SCHEDULED: <2019-07-15 Mon>
 

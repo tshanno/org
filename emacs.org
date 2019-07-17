@@ -44,7 +44,7 @@ https://github.com/atomontage/xterm-color
 https://en.wikipedia.org/wiki/PGF/TikZ
 ** DONE Write a lisp function to do the text processing for copying a meeting from Mac calendar application
 ** ON RADAR Evil for iPad?
-** TODO [#A] [[https://github.com/DerBeutlin/date2name.el][DerBeutlin/date2name.el: Emacs package to add ISO timestamps to files in dired]]
+** ON RADAR [[https://github.com/DerBeutlin/date2name.el][DerBeutlin/date2name.el: Emacs package to add ISO timestamps to files in dired]]
 
 
 In dired call date2name-dired-add-date-to-name to add the modification date of the file to the filename. With the prefix C-u the user is instead prompted to insert a date using the wonderful org-read-date. With two prefixes C-u the user is only prompted once for all marked files. The same is true for filetags-dired-add-datetime-to-name only that it also adds the time. The format is again the same as in date2name of novoid.
@@ -53,6 +53,7 @@ In dired call date2name-dired-add-date-to-name to add the modification date of t
 2018-07-06T13.53.09_test.txt
 Unfortunately right now this format should not be changed as it must match a corresponding regexp to remove potential timestamps already in the filename.
 ** ON RADAR Write something that eith takes a reminder and transforms it into org-mode or vice-versa
+** ON RADAR [[https://github.com/skeeto/emacs-web-server][GitHub - skeeto/emacs-web-server: Extensible Emacs HTTP 1.1 server]] 
 * *Org*
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/org%20manual%202019-01-13.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/org manual 2019-01-13.pdf]]
 ** \C-cam to match tag or property
@@ -134,6 +135,8 @@ https://beorg.app/learning/using-templates-to-keep-a-reading-log/
 ** [[https://m.youtube.com/watch?v=2t925KRBbFc][Introduction to org-ref - YouTube]] Could be particularly useful for putting together a bib file
 ** [[https://github.com/jkitchin/org-ref/blob/master/org-ref.org][org-ref/org-ref.org at master · jkitchin/org-ref · GitHub]] 
 
+** [[https://orgmode.org/manual/index.html][The Org Manual: Top]] 
+** TODO [[https://emacs.stackexchange.com/questions/50137/show-apple-calendar-events-in-org-mode/50185#50185][ical - Show Apple Calendar events in org-mode - Emacs Stack Exchange]]
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -271,10 +274,13 @@ These buffers don't work entirely like ordinary Dired buffers: file operations w
 [2019-07-12 Fri 02:47]
 https://github.com/6502/JSLisp
 
-** TODO Check the functions in the comments.  they look useful. [[https://www.reddit.com/r/emacs/comments/cbuhi1/using_mapcar_with_list_of_strings/][Using mapcar with list of strings : emacs]]
+** ON RADAR Check the functions in the comments.  they look useful. [[https://www.reddit.com/r/emacs/comments/cbuhi1/using_mapcar_with_list_of_strings/][Using mapcar with list of strings : emacs]]
 
 ** This has how to resolve merge conflicts (6:40).  Basically hit 'e' for ediff, then 'n' (next commit difference), choose 'a (left) or 'b' (right) to choose which one you want to keep. The rebasing demonstration in the second half is kind of cool, too. [[https://www.reddit.com/r/planetemacs/comments/cbw8vp/magit_introduction_and_demonstration_youtube/][Magit Introduction and Demonstration - YouTube : planetemacs]]
 
+** ON RADAR [[https://www.oreilly.com/library/view/writing-gnu-emacs/9781449395056/][Writing GNU Emacs Extensions (Book)]]
+** [[https://www.reddit.com/r/emacs/comments/ce3zo0/how_to_make_emacs_keep_checking_a_system_variable/][How to make emacs keep checking a system variable? : emacs]]
+** ON RADAR [[https://www.reddit.com/r/lisp/comments/ce3jth/pushing_pixels_with_lisp_episode_73_triplanar/][Pushing Pixels with Lisp - Episode 73 - Triplanar Mapping - Streaming on Twitch Wednesday 7pm UTC : lisp]]
 * *LaTeX*
 ** Keyboard shortcut to insert latex
 [[https://emacs.stackexchange.com/questions/18619/org-mode-any-keyboard-shortcut-for-latex-code][yasnippet - Org-mode: any keyboard shortcut for Latex code? - Emacs Stack Exchange]]
@@ -342,6 +348,9 @@ https://www.ctan.org/pkg/csquotes
 
 
 ** [[http://joostkremers.github.io/ebib/][ebib | A BibTeX database manager for Emacs.]] Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+** If then in LaTeX
+[2019-07-16 Tue 04:00]
+https://www.reddit.com/r/LaTeX/comments/cdjp62/piecewise_functions/?utm_source=share&utm_medium=ios_app
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 
@@ -557,6 +566,7 @@ All this is probably not something you would use every day, but it may come hand
 
 ** ON RADAR Set up [[https://github.com/dickmao/nnreddit][GitHub - dickmao/nnreddit: A Gnus backend for Reddit]] 
 ** Highlight current line [[https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source=share&utm_medium=ios_app][https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source]] 
+** [[https://github.com/railwaycat/homebrew-emacsmacport/blob/master/README.md][homebrew-emacsmacport/README.md at master · railwaycat/homebrew-emacsmacport · GitHub]] Could be useful if you have problems with the next upgrade. 
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

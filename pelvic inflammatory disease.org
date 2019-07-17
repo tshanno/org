@@ -25,6 +25,27 @@ SCHEDULED: <2019-07-19 Fri>
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
 :ID:       0CF2C4B8-FAFB-4AEE-BA17-735C6ACFF544
 :END:
+** TODO [#A] Do the order of study for this [[message://%3c527569926db44c63ad495988752ca1e6@RUPW-EXCHMAIL02.rush.edu%3E][FW: AUB & PID]]
+:PROPERTIES:
+:SYNCID:   3313947B-98AA-4CA2-8B3E-2457C14E98A7
+:ID:       731A098D-D95D-4910-AA30-94F258CC9EC8
+:END:
+*** Abnormal Uterine Bleeding
+**** Anatomy
+**** Histology
+**** Physiology
+**** Biochemistry
+**** Pathology
+**** Women's Health
+**** Pharmacology
+*** Pelvic Inflammatory Disease
+**** Anatomy
+**** Embryology
+**** Microbiology
+**** Pathophysiology
+**** Pathology
+**** Women's Health
+**** Pharmacology
 * *Ticklers*
 ** [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>

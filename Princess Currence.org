@@ -1,7 +1,7 @@
 * *Tasks*
 * *Ticklers*
 ** FU Princess on workload assessment                             :Princess:
-SCHEDULED: <2019-07-01 Mon>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
 :ID:       7EEDFBAC-F16A-472F-B6A3-50502E23439D

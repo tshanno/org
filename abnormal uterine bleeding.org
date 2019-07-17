@@ -112,6 +112,27 @@ This is done.  I have a note to replace this with a Viagra mechanism of action c
 - Note taken on [2019-06-24 Mon 09:42] \\
   This was OK.  Prostaglandin E2 is a dilator but prostacycln and thromboxane cause constriction.  These are prostaglandins, too, and on balance we get constriction.
 :END:
+** TODO [#A] Do the order of study for this [[message://%3c527569926db44c63ad495988752ca1e6@RUPW-EXCHMAIL02.rush.edu%3E][FW: AUB & PID]]
+:PROPERTIES:
+:SYNCID:   3313947B-98AA-4CA2-8B3E-2457C14E98A7
+:ID:       755BE5C6-1E2E-4DDC-86CC-6E4AF3FD8BCD
+:END:
+*** Abnormal Uterine Bleeding
+**** Anatomy
+**** Histology
+**** Physiology
+**** Biochemistry
+**** Pathology
+**** Women's Health
+**** Pharmacology
+*** Pelvic Inflammatory Disease
+**** Anatomy
+**** Embryology
+**** Microbiology
+**** Pathophysiology
+**** Pathology
+**** Women's Health
+**** Pharmacology
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
 - Note taken on [2019-06-03 Mon 08:54] \\

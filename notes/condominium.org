@@ -27,7 +27,15 @@ Repair man came some time between 9 and 9:30.
 He said that the signal was low but that wasn't the major problem.  They'll take care of that later because the problem  is outside the building.
 
 Apparently the splitter was bad and the TiVO was broken.  He replaced the box.  I lost all of my recordings but no big deal.
-** Air conditioner repair <2019-07-16 Tue 9:00-12:00>
+** Air conditioner Repair <2019-07-16 Tue 09:00-12:00>
+:PROPERTIES:
+:SYNCID:   46D693AE-C721-4165-96F6-057FF787B127
+:ID:       0A8D0970-1A1A-4CAD-B443-4568BBB32943
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 06:50] \\
+  Someone forgot to put me on the schedule.  SO no one showed.  Rescheculed for tomorrow.
+:END:
 [[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
 * *Tasks*
 ** DONE Renew gym membership

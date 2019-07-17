@@ -135,7 +135,7 @@ Tom S.
 ** [#A] [[https://rmc-integrated.slack.com/archives/GG7465D36/p1551737933005400][SOPs for I&I]] :: Do this before Beth takes over to get it off her plate
 *** Grading rubric?
 ** Look at workload assessment                                    :Princess:
-SCHEDULED: <2019-07-01 Mon>
+SCHEDULED: <2019-07-19 Fri>
 * *Ticklers*
 ** DONE Workload as part of course review?
 [2018-11-27 Tue]
@@ -152,7 +152,7 @@ They want to present it at the next meeitng instead
 *** We need a written proposal
 *** Michelle Sweet needs to talk to the CD about the concerns which were raised in the meeting.
 ** Add urinalysis topic to pathophys and path and delete from practitioner
-SCHEDULED: <2019-04-29 Mon>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
 :ID:       CADCFB95-3E7F-4842-84FD-F1EE311B0455
@@ -169,7 +169,7 @@ SCHEDULED: <2019-05-16 Thu>
 ** DONE If you havne't heard from Princess on it, foloow up on workload assessment a week from Monday.
 SCHEDULED: <2019-06-17 Mon>
 ** FU Princess on workload assessment                             :Princess:
-SCHEDULED: <2019-07-01 Mon>
+SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
 :ID:       7F16B359-E59B-4303-BA40-1D9A50CEB938
@@ -471,12 +471,8 @@ Maybe both the Heart Lesson (Levis style) and the Structure and function notes w
 - Note taken on [2019-06-21 Fri 06:49] \\
   Yes, they are wonky.  The spreadsheet was messed up and she will work on correcting it.  She doesn't seem to believe that we are talking about weeks of work so that's good.
 
-*** FU Princess on workload assessment                           :Princess:
-SCHEDULED: <2019-07-01 Mon>
-:PROPERTIES:
-:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
-:ID:       E5C65BAF-D0A7-4236-8669-CBF00DC5D9AC
-:END:
+*** FU Princess on workload assessment
+SCHEDULED: <2019-07-19 Fri>
 ** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM CHANGE - AAC 1046  **https://urldefense.proofpoint.com/v2/url?u=https-3A__zoom.us_j_638903670-2A-2A&d=DwIBAg&c=XxU8ngzB_WPJXKyiin_6iQ&r=RuY8qNzGruKLm-YXF26i3a2m7uI0vhiNPwrxL-dv2MQ&m=1Bp-hCjr0trH6vXgEi2XHSJBN2eBSJEKwp4ON8oaABM&s=dYDTiWt_g02MdkYuDSuK1YU1RO4vLHFCB_-PRJpQrpE&e=  <2019-06-26 Wed 12:00-13:30>
 :PROPERTIES:
 :SYNCID:   9157F9FF-6CF4-42AA-A7BA-BC23BCD6E63B
@@ -520,4 +516,16 @@ SCHEDULED: <2019-07-01 Mon>
 :PROPERTIES:
 :SYNCID:   4573C6DE-9EAF-4703-BFF9-152548EF4FB9
 :ID:       9ED76825-6A04-49BB-846E-456EF2FD28A4
+:END:
+** Workload Assessment stuff [[https://drive.google.com/drive/folders/1rUMvRMLissK-_5XMw3_uDe-ElNwr7h2i][18/19 Workload Assessment - Google Drive]]
+:PROPERTIES:
+:SYNCID:   6D313489-E8DB-4821-8BDA-2A6D25FD7CDC
+:ID:       EB572093-737F-46D7-AA9A-9D8CD44428E1
+:END:
+
+* *T
+** DONE Workload Assessment Follow-up.
+:LOGBOOK:
+- Note taken on [2019-07-16 Tue 08:00] \\
+  https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1563204483034200
 :END:
