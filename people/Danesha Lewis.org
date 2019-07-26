@@ -1,0 +1,14 @@
+* *Tasks*
+** DONE [#A] Talk to Danesha about electives
+:PROPERTIES:
+:SYNCID:   3AEE3979-1720-4A4D-BF8F-441445395A7A
+:ID:       1CD4C48B-9C2B-415E-963D-8659C695582F
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:36] \\
+  Actually talked to Lisa.  Apparently the transition to Danesha hasn't happened yet as this was the first that she heard that she would be coordinating pre-clerkship.  But I think it will eventually fall to her.
+- State "DONE"       from "TODO"       [2019-07-24 Wed 08:36]
+:END:
+* *Ticklers*
+* *Meetings*
+* *Notes*

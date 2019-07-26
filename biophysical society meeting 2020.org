@@ -1,0 +1,33 @@
+* *Tasks*
+** DONE When is Biophysics?  Will it affect a potential cruise?
+:PROPERTIES:
+:SYNCID:   804BC7E6-9B46-4D1E-ABCB-2DAC07D2BC67
+:ID:       89C6670E-13DD-4AE6-A9EC-C0A22A8E7E82
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 07:59] \\
+  February 15-19
+:END:
+** DONE Renew membership [[message://%3cLYRIS-21140048-43728-2019.07.22-11.59.45--tom_shannon#rush.edu@lists.biophysics.org%3E][2020 Membership Is Now Open - Time to Renew]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 08:43]
+:END:
+**** Membership Order :ATTACH:
+:PROPERTIES:
+:Attachments: Biophysical%20Society%20Membership%20Order%202019-07-23.pdf
+:ID:       DFA60F9E-182D-4B5A-8173-F0A46DB1C726
+:END:
+  [2019-07-23 Tue]
+
+
+* *Ticklers*
+** Biophysical Society Meeting Abstract Deadline Oct. 1
+SCHEDULED: <2019-09-09> DEADLINE: <2019-10-01 Tue>
+** Register for Biophysical Society Meeting
+SCHEDULED: <2019-09-09 Mon>
+* *Meetings*
+** Biophysical Society Meeting; Location:  San Diego <2020-02-15 Sat>--<2020-02-19 Wed>
+
+
+* *Notes*
+** [[message://%3c710402a2-c056-4a5a-8064-f0b67ae0453b@BPS02.biophysics.local%3E][Your myBPS Account]]

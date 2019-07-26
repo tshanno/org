@@ -1,0 +1,13 @@
+* *Tasks*
+** DONE [#A] Contact Dan and see if there is new data
+:PROPERTIES:
+:SYNCID:   FF1FBE7E-B063-4AD9-A4BB-C1E127B5ADDC
+:ID:       2BC82020-1425-497C-9382-8F6EF1F694D3
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 08:26] \\
+  There is.  Download it and analyze it
+:END:
+* *Ticklers*
+* *Meetings*
+* *Notes*

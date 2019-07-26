@@ -1,0 +1,195 @@
+* *Ticklers*
+** Next year move the introduction to LH and FSH from the male reproductive lesson to the overview to the female lesson.
+SCHEDULED: <2020-02-03 Mon>
+** Change the room instructions for activity 2 in AUB after determining what the room characteristics will be
+SCHEDULED: <2019-08-09 Fri>
+* *Meetings*
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   847DCCCD-6B93-4606-B080-34D33628F1FE
+:ID:       3207FE00-6B75-41D9-BD4A-63E3244A201E
+:END:
+*** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       B1E2FFE9-38D9-4D5B-9B16-731EC733B1A4
+:END:
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   1F9BFB19-EEE6-444B-8EA2-3CEF7DFF31CC
+:ID:       8BA211DB-FCA9-4C1D-8245-3002D7EAA420
+:END:
+*** DONE [#A]  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 15:10] \\
+  Talked to Gary.  He's open to calling the case "abnormal genital tract bleeding" and to making the patient younger.  He said that the students get the break down for likilihood of diagnosis at different ages in the reading.  We'll talk about it Friday.
+:END:
+
+------
+Hi Gary,
+
+We're thinking the DDx for AUB in different ages is beyond the level of M2s and also, they haven't had these diseases (cancers etc).  Can this activity be simplified?
+
+https://docs.google.com/document/d/1l8BuVdN_2Mi27BEANU643MruGUSa72ryCOf-9JHffy0/edit#heading=h.qlabs1hiretz​
+
+Tom, Mark Pool, Christine Tsai, and I are all here discussing and are wondering what you think.
+
+Anne
+-----
+
+Make patient younger to eliminate menopause consideraation?  Need FSH check?
+Abnormal Genital Tract Bleeding?
+
+[[bbdb:Gary%20Loy][Gary Loy]]
+
+*** DONE [#A] Add menopause exercise to Life Cycle - Talk to Deri
+:PROPERTIES:
+:SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
+:ID:       BA617AC3-A8F2-4EE4-97FD-2EAA14494AA7
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:30] \\
+  Sent an email.
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:29]
+:END:
+
+*** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       95172F5F-187C-4C2B-B913-7F29127D7246
+:END:
+** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
+:ID:       516D5D95-DA62-4A6A-924E-C77630B4B4F0
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-26 Fri 08:56]
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:35]
+- State "WAITING"    from "TODO"       [2019-07-22 Mon 08:32] \\
+  Email sent.
+:END:
+*** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       3E3FC4E9-3433-4F87-A18F-F763E5D7A052
+:END:
+*** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       71291648-5CA7-4ED6-A21C-E86978E46983
+:END:
+*** DONE [#A] Make sure mike put anti-virals in Fetal Death
+*** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
+*** Gary is going to alter the PID exercise to make it clear what the students need to know.
+*** Mark promised to re-write the pathology exercise in AGB.
+*** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
+SCHEDULED: <2019-08-09 Fri>
+* *Tasks*
+** DONE [[https://docs.google.com/spreadsheets/d/1fIAJIFgj_pIRYdui1ayHd2Euij-JAZnAz7ulPQvloNw/edit#gid=584839142][Study Plan for AUB]]
+  [2018-08-22 Wed]
+
+*** Waiting on Professional for material to add.
+*** Gary doesn't have anything abotu contraception in his PowerPoint.
+** DONE [[message://%3c726EFE63-35B5-4593-B0AA-EF6EA21A2FD3@rush.edu%3E][FU Kristin]] <2018-08-28 Tue>
+  [2018-08-27 Mon]
+** [[message://%3c55058B93-EC2B-4652-B2A0-8D8A9CFEDA4C@rush.edu%3E][FU Kristin on AUB activity]] <2018-09-10>
+  [2018-08-27 Mon]
+** DONE [#A] [[https://docs.google.com/document/d/1SQSLmfhA1xjTDO4gWNlSS5s3DYVxJxHnicneGjwOYrE/edit#][Activities for abnormal uterine bleeding]]
+  [2018-09-01 Sat]
+** DONE [#A] [[message://%3c1535930982354.58546@rush.edu%3E][Look at Gary's file and see what's going on.]]
+  [2018-09-04 Tue]
+** DONE [#A] Objectives for AUB
+  [2018-09-05 Wed]
+** DONE [#A] Take Home ponts for AUB
+  [2018-09-05 Wed]
+** DONE [#A] [[message://%3C4c71f07aa5cf4e77bfe31c86bfdd4c99@RUPW-EXCHMAIL02.rush.edu%3E][Put Kristin's activity into AUB]]
+  [2018-09-06 Thu]
+** FU: Christine about clarifying diagnostic reasoning in AUB <2018-09-12 Wed>
+  [2018-09-06 Thu]
+** DONE Do we want a biochemistry activity in AUB?
+  [2018-09-06 Thu]
+** DONE [#A]  cutting the case for the students are radiographic impressions <2018-09-12 Wed>
+  [2018-09-06 Thu]
+** DONE [#A] [[message://%3C6984f810820b4205a69cb979ba75e975@RUPW-EXCHMAIL02.rush.edu%3E][Insert Krisitns activity into AUB]]
+  [2018-09-07 Fri]
+** Make sure AUB self-study doens't have the wrong stuff from Gary <2018-09-13 Thu>
+** FU AUB videos from Gary.  <2018-09-13 Thu>
+** DONE [[message://%3c179C0911-87C1-4925-8D82-5326B94C2F0B@rush.edu%3E][Talk to Kristin about proposed edits and why she wasn't at meeting]]
+  [2018-09-13 Thu]
+** DONE [[message://%3C1pDdATulpGSrWoOPQ74rdA.0@notifications.google.com%3E][Insert Rush Way hyperlink into AUB]]
+  [2018-09-14 Fri]
+** DONE [#A] [[message://%3C1536881493255.28370@rush.edu%3E][Upload Gary's quesitons]]
+  [2018-09-14 Fri]
+** DONE [#A] [[message://%3C1536888643708.86417@rush.edu%3E][Get on top of Jerry's stuff for AUB]]
+  [2018-09-14 Fri]
+** DONE [#A] Insert link to Gary's ppt into self-study
+  [2018-09-14 Fri]
+** DONE [#A] Update AUB plan of study
+  [2018-09-14 Fri]
+** Prompt Joanna about PROFESSIONAL: Confidentiality - Mature and Emaciated Minor next week. <2018-09-28>
+  [2018-09-17 Mon]
+** DONE Review video for AUB
+** DONE [[message://%3cBF9511DD-F73F-4435-A6DF-A2EF8171AF35@rush.edu%3E][Add soemthing to infertility about the test being out of vogue]]
+  [2018-09-27 Thu]
+** DONE [#A] Is the GnRH spiking in the notes?  If not, cut from video. <2019-02-28 Thu>
+  [2018-09-29 Sat]
+
+Looks like this is there.  Its in the Male Reproduction lesson.
+
+** DONE [#A] [[message://%3c7F592125-C88F-4611-8BCF-803DA6E794CD@rush.edu%3E][Correct male infertility concept map]] <2019-02-28 Thu>
+  [2018-10-09 Tue]
+This is done.  I have a note to replace this with a Viagra mechanism of action concept map, though.
+** DONE [#A] [[message://%3c3DC54D82-3187-425E-84F8-5888412F1EB2@rush.edu%3E][Correct this concept map in infertility.]]  You might actually want to replace this concept map with the mechanism of action for Viagra (phosphodiesterase inhibitor -> increased cGMP) <2019-02-28 Thu>
+  [2018-10-06 Sat]
+** DONE [#A] What is a "streak gonad".  In figure in introduction lesson for S&R. :: This is a gonad (male or female) which siply doesn't develop and essentially becomes collagenous tissue.
+** DONE [#A] Check menstrus generation figure with Gary.  Is it outdated?
+:LOGBOOK:
+- Note taken on [2019-06-24 Mon 09:42] \\
+  This was OK.  Prostaglandin E2 is a dilator but prostacycln and thromboxane cause constriction.  These are prostaglandins, too, and on balance we get constriction.
+:END:
+** DONE [#A] Do the order of study for this [[message://%3c527569926db44c63ad495988752ca1e6@RUPW-EXCHMAIL02.rush.edu%3E][FW: AUB & PID]]
+:PROPERTIES:
+:SYNCID:   3313947B-98AA-4CA2-8B3E-2457C14E98A7
+:ID:       594C7ECA-E380-4269-A3C0-9C606027DFB2
+:END:
+*** Abnormal Uterine Bleeding
+**** Anatomy
+**** Histology
+**** Physiology
+**** Biochemistry
+**** Pathology
+**** Women's Health
+**** Pharmacology
+*** Pelvic Inflammatory Disease
+**** Anatomy
+**** Embryology
+**** Microbiology
+**** Pathophysiology
+**** Pathology
+**** Women's Health
+**** Pharmacology
+** DONE [#A] Concept map for aub
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 13:11]
+:END:
+
+** DONE Plan of study for AUB
+** DONE Plan of study for PID
+** DONE [#A] So do I review this or the review team? [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
+:PROPERTIES:
+:SYNCID:   86B0E8E8-3E7F-465B-80E5-B307BB77ACC3
+:ID:       FFB842AC-996E-4C13-9D85-F6BE239D3563
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-24 Wed 08:38]
+:END:
+** TODO [#A] Review this. [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
+:PROPERTIES:
+:SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
+:ID:       991D8653-4A7E-497A-A543-EE7750207C52
+:END:
+* *Notes*
+** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
+- Note taken on [2019-06-03 Mon 08:54] \\
+  This is a nice site that describes the processes of meiosis and mitosis and of fertilization

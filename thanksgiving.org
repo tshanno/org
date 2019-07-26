@@ -1,0 +1,19 @@
+* *Tasks*
+** DONE Make Thanksgiving airline reservations if you havne't already done it (pretty sure you haven't).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 07:57]
+:END:
+* *Ticklers*
+** Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
+SCHEDULED: <2019-10-31 Thu>
+** Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
+SCHEDULED: <2019-10-31 Thu>
+* *Meetings*
+* *Notes*
+** Thanksgiving airline reservations :: [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/Thanksgiving%20Southwest%20Airlines%20-%20Purchase%20Confirmation.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/Thanksgiving Southwest Airlines - Purchase Confirmation.pdf]]
+** Rapid Rewards 626135370
+:PROPERTIES:
+:SYNCID:   85C1BF2B-716F-48CA-AF40-4914151ED318
+:ID:       955E669C-4165-425A-AE7B-6045B4251C7D
+:END:
+** Thanksgiving airline reservations :: [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/Thanksgiving%202019%20Southwest%20Airlines%20-%20Purchase%20Confirmation.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/Thanksgiving 2019 Southwest Airlines - Purchase Confirmation.pdf]]

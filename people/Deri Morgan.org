@@ -1,0 +1,15 @@
+* *Tasks*
+** DONE [#A] Add menopause exercise to Life Cycle - Talk to Deri
+:PROPERTIES:
+:SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
+:ID:       1A7A45F4-50CE-4325-A7A7-49238724B800
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:30] \\
+  Sent an email.
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:29]
+:END:
+
+* *Ticklers*
+* *Meetings*
+* *Notes*

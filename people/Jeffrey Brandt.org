@@ -1,0 +1,35 @@
+* *Tasks*
+** DONE [#A] FU: Jeffery on tagging DDs on comments [[message://%3c1559578841367.38320@rush.edu%3E][Re: Edits to Carmen Gardner case]]
+SCHEDULED: <2019-06-05 Wed>
+:PROPERTIES:
+:SYNCID:   48F29338-C820-4B01-9F4D-C6B3352037CF
+:ID:       3C97C98F-C3BD-4094-AD79-C2C3C1B8BFDB
+:END:
+** DONE [#A] FU:Jeffery [[message://%3cF758DFAE-271C-4A41-B357-C26C3298A33F@rush.edu%3E][Re: Edits to Carmen Gardner case ]]
+SCHEDULED: <2019-06-17 Mon>
+:PROPERTIES:
+:SYNCID:   C05F06BF-95E9-4229-99B0-D41770C08836
+:ID:       22E3BFEC-0FD6-4395-8ADB-AAA5DBA0F8FB
+:END:
+
+** DONE FU:Jeffery [[message://%3cBE64AB57-FE40-4B72-B6C2-3163390B0331@rush.edu%3E][Re: AY19/20 Content Folders]]
+SCHEDULED: <2019-06-19 Wed>
+:PROPERTIES:
+:SYNCID:   C67FF344-966E-49B4-85FC-ADD4E1336750
+:ID:       584C78E5-7AFE-43D6-9505-9E913889CFD5
+:END:
+
+** DONE [#A]  Talk to Jeffrey and help Nadia out with this. [[message://%3ca06fe6207db64c96b5c56d3cdd1e8642@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+:PROPERTIES:
+:SYNCID:   EB7EE53E-301C-42DF-97B2-7AEAE7E4FD9B
+:ID:       17BEB0FC-13C6-4AC6-856D-586EF5CC6E8F
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:24] \\
+  Jeffrey said that he thought she had turned it all in.
+- State "DONE"       from "WAITING"    [2019-07-22 Mon 08:24]
+:END:
+
+* *Ticklers*
+* *Meetings*
+* *Notes*

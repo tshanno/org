@@ -1,0 +1,23 @@
+* *Tasks*
+** DONE [#A] Talk to Denise about how they are handling titles of lessons in self-study
+:PROPERTIES:
+:SYNCID:   3B79B009-6DFD-4135-8D47-CF7634A3A1A0
+:ID:       CD363CEF-EDEF-48EC-AF30-CCBA43DB0183
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 09:21] \\
+  She is using the file titles.  So that's what I'll use.
+:END:
+** DONE [#A] So do I review this or the review team? [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
+:PROPERTIES:
+:SYNCID:   86B0E8E8-3E7F-465B-80E5-B307BB77ACC3
+:ID:       54FF551C-5995-4837-8E70-2E18BBBAECEC
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:38] \\
+  Its actually for both.  So I need to so this.  But I don't think there's a hurry on it.
+- State "DONE"       from "TODO"       [2019-07-24 Wed 08:38]
+:END:
+* *Ticklers*
+* *Meetings*
+* *Notes*

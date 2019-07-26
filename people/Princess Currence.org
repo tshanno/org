@@ -1,0 +1,14 @@
+* *Tasks*
+* *Ticklers*
+** FU Princess on workload assessment
+SCHEDULED: <2019-07-29 Mon>
+:PROPERTIES:
+:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
+:ID:       7EEDFBAC-F16A-472F-B6A3-50502E23439D
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:10] \\
+  [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
+:END:
+* *Meetings*
+* *Notes*
