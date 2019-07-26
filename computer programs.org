@@ -15,6 +15,16 @@
 [2018-09-07 Fri]
 ** ON RADAR Take a look at this.  It might help javascript edevelopment [[http://eschulte.github.io/emacs-web-server/Introduction.html#Introduction][Emacs Web Server (web-server) User Manual: Introduction]] 
 ** ON RADAR [[https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/][A Gentle Introduction to Javascript Test Driven Development: Part 1]]
+** TODO Work on a javascript page for concept map exercises
+:PROPERTIES:
+:SYNCID:   4250BFE1-8D73-4D4A-8454-4021216DB9AD
+:ID:       2953301B-3458-42CC-BC65-AF1BE75BC731
+:END:
+*** [[https://www.youtube.com/watch?v=SxmTvpU260Y][Drag and Drop Application Development DnD Tutorial - YouTube]] :: http://www.developphp.com
+:PROPERTIES:
+:SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
+:ID:       C756A8CC-1B55-4975-A880-FBD2AD4D7DBA
+:END:
 * *Meetings*
 * *Ticklers*
 * *Notes*
@@ -38,6 +48,35 @@ I evidently have version 1.  Apparently this version isn't availabel in the app 
 ** [[https://dzone.com/articles/javascript-object-in-depth-part-1fundamental?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][JavaScript Objects in Depth, Part 1: The Fundamentals - DZone Web Dev]] 
 ** [[https://dzone.com/articles/javascript-objects-in-depth-part-2-inheritance?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][JavaScript Objects in Depth, Part 2: Inheritance - DZone Web Dev]]
 
+** How to combine arrays in Javscript
+
+The article showed the first one.  COuldn't access the rest of the article because it seems to be behind a pay wall.
+
+
+
+1. Concat()
+
+The most basic way is using the concat() method. It's very simple; you just have to define two arrays and combine them as shown. (Remember the sequence matters.)
+
+let firstArray = [1,2,3,'Shinchan']
+let secondArray = ['Nohara',4,5,6]
+let combinedArray1 = firstArray.concat(secondArray)
+let combinedArray2 = secondArray.concat(firstArray)
+
+console.log(`Combined Array1 = `+combinedArray1)
+// Combined Array1 = 1,2,3,Shinchan,Nohara,4,5,6
+
+console.log(`Combined Array2 = `+combinedArray2)
+//Combined Array2= Nohara,4,5,6,1,2,3,Shinchan
+
+  [2019-07-24 Wed]
+  [[gnus:gwene.com.dzone.webdev#x1-7uLB2jbeqbi5m32UyBwMzlER4nA@gwene.org][Email from Ashutosh Singh: Three Ways to Combine Arrays i]]
+
+** [[https://www.youtube.com/watch?v=SxmTvpU260Y][Drag and Drop Application Development DnD Tutorial - YouTube]] :: http://www.developphp.com
+:PROPERTIES:
+:SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
+:ID:       58D0B193-113C-433B-83DF-7A75B9A7A6F9
+:END:
 * DONE [[message://%3cE4E925AF-0DA3-45E0-B157-D9B86F540C7C@rush.edu%3E][Call help desk to ask about getting programs installed on students desktops]]
 * DONE Answers to GASP are not appearing correctly.
 * DONE [#C] [[message://%3cb1dcf58b51bf49dd899a616166d9c095@646005169%3E][Upgrade Matlab]]

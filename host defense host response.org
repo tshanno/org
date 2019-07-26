@@ -2,6 +2,15 @@
 ** DONE [#A] Due:  HDHR Topic Response - Physiology June 25
 * *Ticklers*
 * *Meetings*
+** HDHR Core Disciplines; Location: AAC 403; Large Conference room <2019-07-24 Wed 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   BE918A67-9E2A-4660-B469-BBEBD5D52812
+:ID:       C07A687F-D05D-41BD-ACB5-60771FC40E11
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-25 Thu 08:03]
+:END:
+*** DONE [#A] Change influenza take home point
 * *Notes*
 
 * Flu Chapter 2 <2017-10-23 Mon 08:00-12:00> :Flu:Host_Defense_Host_Response:

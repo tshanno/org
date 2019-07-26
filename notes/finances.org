@@ -1,9 +1,14 @@
 * *Notes*
 ** [[https://link.rush.edu/Pages/Default.aspx][Pages - Link]] Expense reports on link.rush.edu
+** [[https://myaccount.ditech.com/Account/Dashboard][My Account - ditech]]  :: Where to get online info about your account.
+:PROPERTIES:
+:SYNCID:   908F0EC3-F115-48D7-AA5A-F113207A73A7
+:ID:       A1B5051C-D352-4FDE-B483-7E7583DFE7E3
+:END:
 * *Ticklers*
 ** DONE [#A] [[message://%3c22619210ddc645f7ab13d8e864d3f50e@RUDW-EXCHMAIL01.rush.edu%3E][Consider enrolling to get W2 online]] due 1/12
 ** $100 to fidelity
-SCHEDULED: <2019-07-19 Fri>
+SCHEDULED: <2019-08-02 Fri>
   [2018-10-12 Fri]
 * *Tasks*
 ** DONE [#A] [[message://%3c2048249476.30625.1542450956204.JavaMail.WASFARMCCCPRD@VMAKSA69901ASW%3E][Pay Fidelity]]
@@ -42,14 +47,40 @@ SCHEDULED: <2019-07-19 Fri>
 :ID:       eca6c148-7194-4057-aa53-b10f13b455db
 :END:
 ** TODO Map out dates for monthly bills for planning
-** TODO [#A] Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
+** DONE Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
 :PROPERTIES:
 :SYNCID:   4B565FDB-4CB7-47E1-8676-595B605D8413
 :ID:       4FA68073-4E84-42F1-9FF3-3C3DDE870803
 :END:
+:LOGBOOK:
+- State "WAITING"    from "DONE"       [2019-07-22 Mon 07:54] \\
+  Sent an email asking for help to support.
+- State "DONE"       from              [2019-07-22 Mon 07:42]
+:END:
+
+** DONE FU with Mike Fill on this apparent faculty contract error [[message://%3c8d0a8e7f8df6446fa6345c152284c768@RUPW-EXCHMAIL01.rush.edu%3E][TS faculty contract question]]
+:PROPERTIES:
+:SYNCID:   D0324583-CA91-400B-9A08-A60F4C1C3D94
+:ID:       84BDB09A-5CED-4725-AE44-DD036096FC01
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 07:55] \\
+  Marie Zalinski got this corrected.
+- State "DONE"       from "TODO"       [2019-07-24 Wed 07:55]
+:END:
 
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
+** 3 PM Tuesday [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][RE: Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop <2019-07-30 Tue 15:00-16:00>
+
+Dylan Heathman, CFP®
+Financial Consultant
+One North LaSalle Street Suite 100
+Chicago, IL 60602
+312-346-9327 Ext. 42495
+Fidelity Brokerage Services LLC
+Fidelity Investments
+
 * *Large Expenses*
 ** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
 :PROPERTIES:

@@ -1,9 +1,0 @@
-* *Tasks*
-** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
-:PROPERTIES:
-:SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
-:ID:       F1973A8D-92B5-4CA8-B5F7-6653B74AFECF
-:END:
-* *Ticklers*
-* *Meetings*
-* *Notes*

@@ -14,3 +14,14 @@
 :ID:       37B81F9C-C167-48E0-B4A9-79B18ED5854C
 :END:
 
+** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
+:PROPERTIES:
+:SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
+:ID:       7E9D6119-1EB3-4F9D-8E77-1C0D0928473B
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:13] \\
+  Deadlines for Vital Fluids added to calendar.
+:END:
+*** Add deadlines for Vital Gases to your calendar (they are in November).
+SCHEDULED: <2019-10-01 Tue>

@@ -1,29 +1,48 @@
 * *Tickers*
 * *Tasks*
-** DONE [#A] Check with Dad to see if luggage tags can be printed.
-   SCHEDULED: <2018-12-22 Sat>
-   [2018-12-20 Thu]
-** DONE Call us at 1 (877) 202-4342 about if I'm emerald - I am
-** DONE [#A] [[message://%3c1340139785.7286700.1546469770074@mail.yahoo.com%3E][Shore excursions]]
-** DONE [#A] Pick up suit
-** DONE [#A] Pick up suit
-** DONE [#A] Get back to Dad on Zika
-	[[message://%3c937018328.1988434.1548630716825@mail.yahoo.com%3E][Roatan, Honduras Island Excursion]]
-** DONE Pre-register
-** DONE [#A] Make airline reservations for cruise
-** DONE [#A] [[message://%3c1326E1CC-DDE7-4BD8-B233-666D87A17AB3@rush.edu%3E][Email Pam about final payment]]
-** DONE [[message://%3c5BB56A6E-E598-4E38-9E86-2A8CCBB226B0@me.com%3E][FU Pam Dixon]]
-** DONE [[message://%3c224222136.17205.1541459328650.JavaMail.WD26$@10.1.4.194%3E][Check in for cruise]]
-  [2018-10-02 Tue]
-   [2018-11-01 Thu]
-   [2018-11-02 Fri]
-   [2018-11-06 Tue]
+** DONE Look at the calendar and get back to Dad about [[message://%3c2029964484.3471136.1563395663688@mail.yahoo.com%3E][2020 Cruise]] ::  [[message://%3c1072621A-AC11-423B-A82F-0EB259237F3E@me.com%3E][Re: 2020 Cruise]]
+Hi, Dad.
 
-** DONE Get prescriptions before cruise
-** DONE Set up an alarm for check in
-	[[message://%3cNM61EEB6DDD1A13A0A5southwe_mkt_prod1@iluv.southwest.com%3E][02/08 Tampa trip (WQKTR5): Get prepared to fly!]]
-** DONE [#A] Get the final bill from Royal Caribbean
-** DONE [#A] Send Dad check for $159.02
+The last day I need to be here in Chicago is Friday, 2/7/20.  I do need to be here in the afternoon but probably could fly out that evening if necessary.
+
+Tom S.
+
+** DONE When is Biophysics?  Will it affect a potential cruise?
+:PROPERTIES:
+:SYNCID:   804BC7E6-9B46-4D1E-ABCB-2DAC07D2BC67
+:ID:       D4266B16-7A6D-4841-A11A-850E33ACDE50
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 07:59] \\
+  February 15-19
+:END:
+* *Notes*
+** [[message://%3c1072621A-AC11-423B-A82F-0EB259237F3E@me.com%3E][Re: 2020 Cruise]]
+
+
+Hi, Dad.
+
+The last day I need to be here in Chicago is Friday, 2/7/20.  I do need to be here in the afternoon but probably could fly out that evening if necessary.
+
+** [[message://%3c002101d53d7b$9dc801e0$d95805a0$@perenich.com%3E][RE: 2020 Cruise]]
+
+
+Unfortunately, our schedule is not good. We MIGHT be able to do a cruise March 15-22, but won’t be sure until around the first of the year- it’s a school scheduling issue.  Unless there’s a great cruise during those dates that you want to go on (with or without us), go ahead and plan your own dates for February. We’ll see what happens for 2021.
+ 
+ 
+ 
+Nick Perenich
+
+** [[message://%3cAD97A180-2A54-4031-9A41-4E749BE48E00@me.com%3E][Re: 2020 Cruise]]
+
+
+One more restriction that I have.  I have a trip that I have to be in San Diego from Feb. 15-19.
+
+Other than that, I could make the rest of February and March work.
+
+Sorry,
+Tom
+* *Meetings*
 * Cruise Documents 2018
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/SetSail%20Pass%202018-01-16.pdf][SetSail Pass for Cruise 2018]]
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/cruise%202018%20Southwest%20Airlines%20-%20Purchase%20Confirmation.pdf][Flight itinerary for cruise 2018]]
@@ -33,3 +52,28 @@
    [2018-12-18 Tue]
    [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/SetSail%20Pass%202018-12-18.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/SetSail Pass 2018-12-18.pdf]]
 ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/cruise 2018-10-13 Southwest Airlines - Purchase Confirmation.pdf]]
+** *Tasks*
+*** DONE [#A] Check with Dad to see if luggage tags can be printed.
+   SCHEDULED: <2018-12-22 Sat>
+   [2018-12-20 Thu]
+*** DONE Call us at 1 (877) 202-4342 about if I'm emerald - I am
+*** DONE [#A] [[message://%3c1340139785.7286700.1546469770074@mail.yahoo.com%3E][Shore excursions]]
+*** DONE [#A] Pick up suit
+*** DONE [#A] Pick up suit
+*** DONE [#A] Get back to Dad on Zika
+	[[message://%3c937018328.1988434.1548630716825@mail.yahoo.com%3E][Roatan, Honduras Island Excursion]]
+*** DONE Pre-register
+*** DONE [#A] Make airline reservations for cruise
+*** DONE [#A] [[message://%3c1326E1CC-DDE7-4BD8-B233-666D87A17AB3@rush.edu%3E][Email Pam about final payment]]
+*** DONE [[message://%3c5BB56A6E-E598-4E38-9E86-2A8CCBB226B0@me.com%3E][FU Pam Dixon]]
+*** DONE [[message://%3c224222136.17205.1541459328650.JavaMail.WD26$@10.1.4.194%3E][Check in for cruise]]
+  [2018-10-02 Tue]
+   [2018-11-01 Thu]
+   [2018-11-02 Fri]
+   [2018-11-06 Tue]
+
+*** DONE Get prescriptions before cruise
+*** DONE Set up an alarm for check in
+	[[message://%3cNM61EEB6DDD1A13A0A5southwe_mkt_prod1@iluv.southwest.com%3E][02/08 Tampa trip (WQKTR5): Get prepared to fly!]]
+*** DONE [#A] Get the final bill from Royal Caribbean
+*** DONE [#A] Send Dad check for $159.02

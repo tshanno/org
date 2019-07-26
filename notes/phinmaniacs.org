@@ -793,6 +793,8 @@ As Hyde points out, Caldwell wasn't just a guy with head coaching experience.  I
 The cards are once again stacking up against Josh Rosen ever developing as an NFL quarterback.  A guy who went through a terrible rookie years with two bad offensive coodinators under a defensive head coach last year, he's evidently going to have to go through one with another defensive head coach, an offensive coordinator who doesn't coach quarterbacks and a quarterback coach who has worked only with the most veteran of veteran quarterbacks.  Rosen's only prayer is that Schuplinski picked something up as they developed back ups like Jimmy Garoppolo and that 17 year veteran quarterback Ryan Fitzpatrick might have mercy and find some time to teach him something even as he does everything he can to keep him off the field.
 
 I'm willing to wait and see but its hard to be optimistic.
+
+One more quick side pont about Caldwell.  He was undoubtedly the reason why Jake Ruddock is the third quarterback on this roster.  He spent much of his career as a back up with the Lions.  What the loss of Caldwell as an every day presence does to his chances of making the roster are uncertain.  The Dolphins will probably just roll with him at this point but this can't bode well for him.
 #+END_EXPORT
 ** ON RADAR [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-camp-countdown2-20190716-pjsxv2okvncgnnoz5lqs4wyt3u-story.html][Will third time be a charm for Dolphins safeties Reshad Jones and T.J. McDonald? | Countdown to camp - South Florida Sun-Sentinel]]
 :PROPERTIES:
@@ -814,13 +816,20 @@ Another is to give up the ghost on Jones and trade him, something they really sh
 
 In any case, the Dolphins are still paying the price of the poor team building of the previous (and in some ways the current) regime.  Here's hoping they finally solve this issue in a way that maximizes their assets.
 #+END_EXPORT
+** ON RADAR Will anyone step up and have a breakout season for the Dolphins in 2019? | Countdown to camp - South Florida Sun-Sentinel
+[2019-07-22 Mon 02:49]
+https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-camp-countdown7-20190721-6rrkkh4ybvfltpgplnu5abkcji-story.html
+
+Miami is at the beginning of a long slow process. Hoping these guys will step up is a fools game.
+** TODO  Do a look at each team in the AFC East.  This article is a good start.. [[https://theathletic.com/1080194/2019/07/24/roundtable-does-offseason-turbulence-foreshadow-changing-of-the-guard-in-afc-east/?source=rss][Roundtable: Does offseason turbulence foreshadow changing of the guard in AFC East? – The Athletic]]
+
 * *Notes*
 ** Can Watching Pro Sports on TV Prevent Crime, UC Davis Study Says, Yes https://www.prweb.com/releases/2018/06/prweb15562285.htm 
 ** [[message://%3c9B6A0526-3417-42E7-8256-490D057D835C@rush.edu%3E][Don’t forget to keep an eye on the kicker battle during the preseason.]] <2018-08-09 Thu>
   [2018-08-01 Wed]
 ** [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-miami-dolphins-depth-chart-2019-story.html][Miami Dolphins 2019 depth chart - Sun Sentinel]]
 
-* DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/greg-cote/article231207363.html][Dolphins will surprise NFL, be better than expected in 2019 | Miami Herald]] 
+** DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/greg-cote/article231207363.html][Dolphins will surprise NFL, be better than expected in 2019 | Miami Herald]] 
 :PROPERTIES:
 :SYNCID:   A27C293D-8892-480E-B146-7C9EDA6CFCC8
 :ID:       93CE1289-3F5B-4A6E-A122-26C385F63207
@@ -837,3 +846,38 @@ See my entry above where I pointed out that the Dolphins at short on talent at c
 
 Sorry.  I'm not buying it.
 #+END_EXPORT
+** *Players*
+*** *Rosen*
+**** [[https://theathletic.com/1082093/2019/07/22/2019-nfl-quarterback-tiers-rankings/?source=rss][2019 Quarterback Tiers: Fifty-five coaches and executives rank the NFL starters – The Athletic]]
+
+
+“I saw him while watching some free-agent tape, and Arizona’s offensive line was maybe the worst I have seen in the nearly 20 years I’ve been in the league,” an offensive coach said. “I do not think any quarterback could have survived behind that line.”
+A veteran offensive coach who has worked with many quarterbacks said he’d like a chance to work with Rosen. His plan would include telling Rosen to refrain from making any public comments regarding teammates or the team, especially negative comments, and instead to focus on letting his skills do the talking.
+“When you talk to people who have been around Rosen, his ability to lead is the question,” a quarterbacks coach said.
+A GM and multiple other voters said they had zero questions about Rosen’s ability to throw the ball.
+“He can throw the ball,” an offensive coach said, “but you watch his games at UCLA, and when there is pressure, there (are) people around him, he really struggles to play quarterback. There are a lot of guys who can make it look pretty in a perfect situation.”
+*** *Fitzpatrick*
+**** [[https://theathletic.com/1082093/2019/07/22/2019-nfl-quarterback-tiers-rankings/?source=rss][2019 Quarterback Tiers: Fifty-five coaches and executives rank the NFL starters – The Athletic]]
+
+
+Fitzpatrick seems to be beloved by teammates and opponents alike for his freewheeling play. The veteran has a 4-6 starting record over the past two seasons even though his teams allowed 29.4 points per game in those outings, the highest figure for any of the 39 quarterbacks with at least 10 starts over that period. Of course, that works both ways, as Fitzpatrick’s looseness with the football put his defense in compromising situations.
+
+*** *Patmon*
+**** Patmon did not play in a game during the 2016 season as he bounced around on practice squads with the Tennessee Titans, Kansas City
+Chiefs and Carolina Panthers before appearing in 25 games for Jacksonville from 2017-18.
+
+Patmon has one career interception, a 58-yard pick six as a rookie, with eight pass deflections and 39 combined tackles during his career
+after going undrafted out of Oklahoma State.
+https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-tyler-patmon-20190722-6pv3mkqd4zd5dgcnma53f25raa-story.html
+**** Patmon has played in 49 games in four seasons, starting his career with the Dallas Cowboys from 2014-15 before he was claimed by the
+Dolphins. After a week on Miami’s practice squad, he played the final two games with the team in 2015.
+https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-tyler-patmon-20190722-6pv3mkqd4zd5dgcnma53f25raa-story.html
+*** *Tankersly*
+**** Cornerback Cordrea Tankersley, Miami’s third-round pick in 2017, will begin training camp on the physically unable to perform (PUP) list,
+while rehabbing a season-ending knee injury he suffered in November.
+https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-tyler-patmon-20190722-6pv3mkqd4zd5dgcnma53f25raa-story.html
+
+*** *McTyer*
+**** Torry McTyer, who started four of 15 games last season, and Cornell Armstrong, who also saw playing time in 15 games as a rookie last
+year, will also compete for the second cornerback job.
+https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-tyler-patmon-20190722-6pv3mkqd4zd5dgcnma53f25raa-story.html

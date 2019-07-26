@@ -1,5 +1,10 @@
 * *Notes*
 ** [[~/Library/Mobile Documents/com~apple~Preview/Documents/Condo Vendor and Service List 2013.04.22 copy.pdf][Condo Vendor and Service List 2013.04.22 copy.pdf]]
+** [[https://myaccount.ditech.com/Account/Dashboard][My Account - ditech]]  :: Where to get online info about your account.
+:PROPERTIES:
+:SYNCID:   908F0EC3-F115-48D7-AA5A-F113207A73A7
+:ID:       9F7CBAC0-3429-4DCE-A6A8-2E60EB842B2F
+:END:
 * *Meetings*
 ** Bedbug inspection <2019-03-29 Fri>
 ** Plumber visited. <2019-05-28 Tue>
@@ -11,9 +16,13 @@
 ***** Removed garbage disposal.  I decided not to replace it.
 ***** Unclogged drain.
 ***** Will bill me later.  He said to sit down before I opened it but less than $1000.
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 18:44] \\
+  [2019-06-05 Wed] The bill came and I paid it. $546.45
+:END:
   
   [[bbdb:Weinberg%20Plumbing][Weinberg Plumbing]]
-**** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
+*** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
 
 ** RCN Repair
 :PROPERTIES:
@@ -35,6 +44,16 @@ Apparently the splitter was bad and the TiVO was broken.  He replaced the box.  
 :LOGBOOK:
 - Note taken on [2019-07-17 Wed 06:50] \\
   Someone forgot to put me on the schedule.  SO no one showed.  Rescheculed for tomorrow.
+:END:
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
+** Air conditioner Repair <2019-07-17 Wed 14:00-17:00>
+:PROPERTIES:
+:SYNCID:   D35C8961-C556-4FC1-8776-3F9383CCE879
+:ID:       B8F5C4FC-2242-402F-A1CD-C42B7DD2FCA5
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 18:40] \\
+  Turns out that the capacitor was bad.  Total damage was $316.
 :END:
 [[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
 * *Tasks*

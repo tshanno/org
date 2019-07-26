@@ -18,11 +18,30 @@ SCHEDULED: <2019-06-17 Mon>
 
 ** Core Discipline Room Reservation ends after 8/16.
 SCHEDULED: <2019-08-09 Fri>
-** WAITING [#A] FU Najia on self-study.  Did it get in?  ::  [[message:%3C0858f8b2707f4b0bad41da16959cd931@RUPW-EXCHMAIL02.rush.edu%3E][RE: Deadline Today for Materials needed for Sexuality and Reproduction]]
+** DONE [#A] FU Najia on self-study.  Did it get in?  ::  [[message:%3C0858f8b2707f4b0bad41da16959cd931@RUPW-EXCHMAIL02.rush.edu%3E][RE: Deadline Today for Materials needed for Sexuality and Reproduction]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-24 Wed 08:40]
+:END:
 ** DONE Did Joanna get this in? :: [[message:%3C3D587692-B96D-455C-BB84-06E145F32CB4@rush.edu%3E][Re: Material for Medical Jurisprudence?]]
 SCHEDULED: <2019-07-08 Mon>
-** WAITING [#A] Check up with Najia/Jeffrey nd see if Najia got her calendar corrections done. [[message:%3Cfeaf66e3b1d44ba788d3ab94db639354@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+** DONE [#A] Check up with Najia/Jeffrey nd see if Najia got her calendar corrections done. [[message:%3Cfeaf66e3b1d44ba788d3ab94db639354@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-22 Mon 08:39]
+:END:
 
+
+** Check to see who you need to invite to Core Disciplines August 2
+SCHEDULED: <2019-07-29 Mon>
+** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
+:PROPERTIES:
+:SYNCID:   892288F3-489C-41E6-8C85-7237F1998DF4
+:ID:       C75214D4-3755-4265-9783-B463B9686B0A
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-07-26 Fri 08:58]
+:END:
+** TODO Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
+SCHEDULED: <2019-07-26 Fri>
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -253,7 +272,6 @@ SCHEDULED: <2019-06-26 Wed>
 :ID:       E363DC92-5209-4162-874F-00107948FAB9
 :END:
 *** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
-SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
 :ID:       B6ACF495-7481-46BC-AE9A-1DC0F5105DBF
@@ -264,6 +282,10 @@ SCHEDULED: <2019-07-19 Fri>
 :ID:       772F5394-766A-4BD1-B050-A9D3CD484166
 :END:
 *** DONE [#A]  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 15:10] \\
+  Talked to Gary.  He's open to calling the case "abnormal genital tract bleeding" and to making the patient younger.  He said that the students get the break down for likilihood of diagnosis at different ages in the reading.  We'll talk about it Friday.
+:END:
 
 ------
 Hi Gary,
@@ -282,12 +304,48 @@ Abnormal Genital Tract Bleeding?
 
 [[bbdb:Gary%20Loy][Gary Loy]]
 
-*** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
+*** DONE [#A] Add menopause exercise to Life Cycle - Talk to Deri
 :PROPERTIES:
 :SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
-:ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
+:ID:       1B5B760D-9B22-418F-80D6-65CCB598A3A5
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:30] \\
+  Sent an email.
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:29]
 :END:
 
+*** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       E2565506-876D-4639-9C14-FAD56996FC00
+:END:
+** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
+:ID:       D3C7964E-1889-432A-9EE7-E625472E6254
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:35]
+- State "WAITING"    from "TODO"       [2019-07-22 Mon 08:32] \\
+  Email sent.
+:END:
+*** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       3E3FC4E9-3433-4F87-A18F-F763E5D7A052
+:END:
+*** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       71291648-5CA7-4ED6-A21C-E86978E46983
+:END:
+*** DONE [#A] Make sure mike put anti-virals in Fetal Death
+*** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
+*** Gary is going to alter the PID exercise to make it clear what the students need to know.
+*** Mark promised to re-write the pathology exercise in AGB.
+*** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
+SCHEDULED: <2019-08-09 Fri>
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -341,6 +399,37 @@ Abnormal Genital Tract Bleeding?
 *** The physiology is correct as uploaded.  These topics need to be moved.
 *** We need to ask Kristen about hers.
 *** Pathophys:  I don't think Genital ulcers is the same as Syphillis.  I belive Syphyillis is a collaboration with Micro.
+** [[message://%3c4122654d37224a3a90e0ffc155545a1b@RUPW-EXCHMAIL02.rush.edu%3E][RE: Canvas Use]] :: Course Arc username and password but probably isn't consistent with terms of the license...
+:PROPERTIES:
+:SYNCID:   581633CA-3333-40CE-AD09-72D50510A2AD
+:ID:       1D04B154-34AD-4A25-879B-91E8A50B3B4B
+:END:
+
+We do not have a license for Canvas. I am using the Free for Teacher version. You can sign up for it if you would like to test it out… https://www.instructure.com/canvas/try-canvas. You can add students to your course in Canvas and it won’t disappear.
+ 
+I do want to note that the content for the summer self study guides is in a learning management system tool called CourseArc. This is where we placed all the self study material and created some interactive learning elements for the content.  CTEI has a license for CourseArc, however, it’s limited to the users in our department. We do have a general CTEI account that you are welcome to log in with…
+https://rush.coursearc.com
+CTEI@rush.edu – CTEI1234!
+ 
+Students are not able to be added to CourseArc. If you would like for them to do the activities you create in CourseArc, you would need to add a link to the CourseArc course that you created within your Blackboard course OR create a free Canvas course for students to access the material in CourseArc. My suggestion is to use Blackboard since this is the learning management system Rush currently uses and the registrar’s office creates the course and enrolls students. You can easily embed a link to your CourseArc course in Blackboard.  You wouldn’t need to enroll any students as you will for Canvas. Also, if you link CourseArc to Blackboard, any graded activities you create in CourseArc will integrate into the Blackboard Grade Center.
+ 
+If you need any help with this or have any questions, please let me know and I would be more than happy to help. 
+** [[https://docs.google.com/spreadsheets/d/1QJsELxU6JDczacguMrNoYrOYd7qAnA5mICM1_WJRCcM/edit?usp=sharing][Activity Team Assignments to M2 Cases 2018-2019]]
+:PROPERTIES:
+:SYNCID:   1CE30209-09D0-4D4C-BC1E-978C048F8753
+:ID:       204D08DF-312C-4004-B212-52DE52763A81
+:END:
+** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
+:PROPERTIES:
+:SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
+:ID:       03F7A469-390C-42D1-BA72-327FE654B52C
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:13] \\
+  Deadlines for Vital Fluids added to calendar.
+:END:
+*** Add deadlines for Vital Gases to your calendar (they are in November).
+SCHEDULED: <2019-10-01 Tue>
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -355,7 +444,11 @@ Abnormal Genital Tract Bleeding?
 wating on Bob on this.  He needs to move the lab
 ** DONE FU Mike on S&R topics
 	[[message://%3c91744A68-6EA4-4C93-99FE-FF79E6B92405@rush.edu%3E][Re: Check of Sexuality and Reproduction Topics for 2019]]
-** WAITING Make Mark's changes to topics at the appropriate time
+** CANCELED Make Mark's changes to topics at the appropriate time
+:LOGBOOK:
+- State "CANCELED"   from "WAITING"    [2019-07-23 Tue 12:33] \\
+  Never got a chance to do this because there still is no workload assessment and there still is no final version of the CI.  Princess is correcting on the fly.
+:END:
 	[[message://%3cUF4-4J7vWszdlK7u2RqnCA.0@notifications.google.com%3E][Sexuality and Reproduction Cases and Topics 2019]]
 ** DONE [#A] Convert the S&R cases to the latest format
 <2019-05-23 Thu> Just finished PID.  Check student comments on this session.
@@ -470,15 +563,44 @@ SCHEDULED: <2019-07-01 Mon>
 :END:
 
 ** DONE [#A] Review syllabus for S&R.  Its in the S&R folder on GD.
-** WAITING [#A]  Talk to Jeffrey and help Nadia out with this. [[message://%3ca06fe6207db64c96b5c56d3cdd1e8642@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
+** DONE [#A]  Talk to Jeffrey and help Nadia out with this. [[message://%3ca06fe6207db64c96b5c56d3cdd1e8642@RUPW-EXCHMAIL02.rush.edu%3E][RE: Self-study material for sexuality and reproduction session?]]
 :PROPERTIES:
 :SYNCID:   EB7EE53E-301C-42DF-97B2-7AEAE7E4FD9B
 :ID:       CE33801A-D2E0-405E-940B-873D733EC0FD
 :END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:24] \\
+  Jeffrey said that he thought she had turned it all in.
+- State "DONE"       from "WAITING"    [2019-07-22 Mon 08:24]
+:END:
 
-** Better call Gary about this if necessary. FU on it. [[message://%3ce7109812618f41fdbd894fbbfb752f0c@RUPW-EXCHMAIL02.rush.edu%3E][Content for Dr. Loy]]
-SCHEDULED: <2019-07-19 Fri>
+** DONE Better call Gary about this if necessary. FU on it. [[message://%3ce7109812618f41fdbd894fbbfb752f0c@RUPW-EXCHMAIL02.rush.edu%3E][Content for Dr. Loy]]
 
+** DONE [#A] Talk to Denise about how they are handling titles of lessons in self-study
+:PROPERTIES:
+:SYNCID:   3B79B009-6DFD-4135-8D47-CF7634A3A1A0
+:ID:       6C42A485-5C1B-4946-BA75-6666D00F73E0
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 09:21] \\
+  She is using the file titles.  So that's what I'll use.
+:END:
+** DONE FU:  Danesha about Allocation of Resources on 9/11
+*** DONE Allocation of Resources on 9/11 was an M2 session.  Make sure the content got moved.
+:LOGBOOK:
+- State "DONE"       from              [2019-07-26 Fri 09:18]
+:END:
+** DONE [#A] Talk to Gabriella and tell her she isn't purposely being left out of anything in S&R. [[message://%3c82aac6f35f8240ca84c654e082dde119@RUDW-EXCHMAIL02.rush.edu%3E][biochem sharing responsibilities]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-25 Thu 08:15]
+:END:
+
+** TODO Work on a javascript page for concept map exercises
+:PROPERTIES:
+:SYNCID:   4250BFE1-8D73-4D4A-8454-4021216DB9AD
+:ID:       AEC42176-DE99-4B3B-A499-1D06C1A2DCB0
+:END:
+** TODO [#A] Did the head-to-toe core physical exam self-study get put on GD?
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]

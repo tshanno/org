@@ -43,3 +43,14 @@ Chicago IL 60612
 Wednesday, July 24, 2019 6:40 AM
 
 
+** Health Screening Atrium Lobby <2019-07-24 Wed 06:40-07:40>
+:PROPERTIES:
+:SYNCID:   BD54E6C7-0F67-4D54-8B48-F5D10F35AD30
+:ID:       AA9C90AA-4144-449E-84E6-14573D0EB625
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:07] \\
+  This took all of 10 minutes.  Height (5'7" even with shoes on sounds high), weight (175 pound sounds about right), blood pressure (120/80), and blood draw, presumably for cholesterol and whatever else.
+  
+  Results available online in a couple days.
+:END:

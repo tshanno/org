@@ -19,3 +19,4 @@ SCHEDULED: <%%(diary-date t 1 t)>
 <%%(diary-remind '(diary-anniversary 07 16) -7)>
 * Michael Shannon's birthday July 31
 <%%(diary-remind '(diary-anniversary 07 31) -7)>
+** Get Michael Shannon a card for his birthday July 31 <%%(diary-anniversary 07 24)>

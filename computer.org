@@ -24,16 +24,38 @@ Apple’s Texas Hold’em game is so old it was originally developed for the iPo
 
 ** ON RADAR [[https://dzone.com/articles/4-useful-javascript-libraries-for-data-analysis-an][4 Useful JavaScript Libraries for Data Analysis and Visualization - DZone Web Dev]] 
 ** ON RADAR [[https://leancrew.com/all-this/2019/07/zoom-out/][Zoom out - All this]] This shows how to fix the zoom vulnerability. It also has some handy Unix cmd line tips. 
-** TODO [#A] Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
+** DONE Cancel this. [[message://%3cpmQqG000000000000000000000000000000000000000000000PUFIPJ007eCZQW_4RoqOwYV-WRiDjQ@sfdc.net%3E][Hello and thank you for contacting Carbonite Customer Care. ref:_00DA0GyXi._5002A1bzgHe:ref]]
 :PROPERTIES:
 :SYNCID:   4B565FDB-4CB7-47E1-8676-595B605D8413
 :ID:       74095EF2-428E-4688-B485-73ECB6A94FB0
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-23 Tue 12:31]
+- State "WAITING"    from "DONE"       [2019-07-22 Mon 07:54] \\
+  Sent an email asking for help to support.
+- State "DONE"       from              [2019-07-22 Mon 07:42]
 :END:
 
 ** ON RADAR How to install the macOS Catalina beta in its own APFS container - Macworld
 [2019-07-16 Tue 04:30]
 https://apple.news/Axlbb9nT5NXWjgTta7C4BEQ
 
+** CANCELED [[https://www.cultofmac.com/639576/sky-childen-of-light-available-ios/][Sky: Children of the Light brings a stunning adventure to iOS]]
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 06:39] \\
+  Role playing game.  you can play it solo but the "encourage" you to collaborate.  I have enough games.  I won't mess with it.
+:END:
+
+** DONE Nest folders podcast
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 07:56]
+:END:
+[[gnus:gwene.com.rosemaryorchar.blog#x1-mxjcjly+FWn6bfEfztXecEvRI1Q@gwene.org][Email from Rosemary Orchard: Introducing Nested Folders, a]]
+** DONE Automators podcast
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 07:56]
+:END:
+[[gnus:gwene.com.rosemaryorchar.blog#x1-VhO9DVmjYICQhTBHsIBFOgBtC5w@gwene.org][Email from Rosemary Orchard: Automators 27: Shortcuts in iO]]
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]
@@ -56,7 +78,7 @@ This went well.  I think that unless data analysis is involved that there's not 
 [2019-07-03 Wed 05:07]https://www.macrumors.com/2019/07/02/five-mac-apps-july-2019/
 
 ** [[https://www.cultofmac.com/637330/apple-huge-cuts-ssd-upgrade-pricing-macs/][Apple makes huge cuts to SSD upgrade pricing for Macs]] You should really consider doing this. 
-SCHEDULED: <2019-07-20 Sat>
+SCHEDULED: <2019-07-27 Sat>
 * *Notes*
 ** Info about find command
   [2018-10-12 Fri]
@@ -109,3 +131,13 @@ Thanks,
 The Harris Geospatial Solutions Team
 
 ** [[https://support.apple.com/en-us/HT203085][Use Dictation Commands to tell your Mac what to do - Apple Support]]
+** [[https://dzone.com/articles/top-10-python-libraries-you-must-know-in-2019?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone][Top 10 Python Libraries You Must Know in 2019]] :: Includes a brief description of SciPy and NumPy
+:PROPERTIES:
+:SYNCID:   C3C003F7-0BDB-4B2B-B418-5F235BE9899C
+:ID:       F4D51E69-20FA-40C5-B4CA-C94AFF725451
+:END:
+** [[https://www.youtube.com/watch?v=SxmTvpU260Y][Drag and Drop Application Development DnD Tutorial - YouTube]] :: http://www.developphp.com
+:PROPERTIES:
+:SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
+:ID:       10DACA23-1E2C-4C85-AEC8-F48C2C48BFDB
+:END:

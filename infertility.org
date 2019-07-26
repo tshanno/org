@@ -10,9 +10,15 @@
   [[file:/ssh:bearin8@bearingthenews.com#2222:/home/bearin8/Org/acid-base.org::*%5B%5Bmessage://%253c2707166F-8271-4A54-948F-D4AB7084FB58@rush.edu%253E%5D%5BSend%20ABASE%20to%20Deri%5D%5D][Send ABASE to Deri]]
 ** DONE post infretility including quiz.
   [2018-09-28 Fri]
+** TODO [#A]  Plan of study for Infertility
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 07:58] \\
+  Move the bladder drugs off of this
+:END:
+** TODO [#A] Review [[message://%3c6640b57a24e2441895203f836242028d@RUPW-EXCHMAIL02.rush.edu%3E][Case 3- S&R]]
+
 * *Ticklers*
-** Alter the concept map for male infertility or replace with a path activity
-SCHEDULED: <2019-07-19 Fri>
+
 
 * *Meetings*
 * *Notes*

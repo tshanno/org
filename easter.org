@@ -12,5 +12,10 @@ Entered on [2019-04-21 Sun 09:01]
 
 She had already told me and Mom and Dad.  Obviously the immediate family knew.  Even given that, I didn't think there was a great deal of surprise and I wondered how many other people knew.
 
+** Rapid Rewards 626135370
+:PROPERTIES:
+:SYNCID:   85C1BF2B-716F-48CA-AF40-4914151ED318
+:ID:       FC72327E-A473-4BD3-B292-94BE5FCA2B81
+:END:
 * *Tasks*
 ** DONE [#A] Send Dad plane reservation information for Easter

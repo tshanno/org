@@ -1,18 +1,16 @@
 * *Tasks*
 * *Ticklers*
 * *Meetings*
+** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>
+:PROPERTIES:
+:SYNCID:   41F41D49-7718-48A5-B755-912517DF7E36
+:ID:       21BFA480-9AB0-49BA-94D1-D104EA38A7FE
+:END:
+*** Ricsip as a co-curricular? -  RICSP is actually administered by the university through Sharon Gates office (Senior Director, Community Engagement at Rush University Medical Center).  There are apprently some other Med. School activities that are co-curricular.  Service learning is required to graduate but its not a transcripted course.
+*** Notes :ATTACH:
+:PROPERTIES:
+:Attachments: UCC%20Agenda%20July%2022%202019.pdf UCC%20Agenda%20July%2022%202019.png
+:ID:       641B6B7E-B476-4342-8206-A2ACD67E66DD
+:END:
+[[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/64/1B6B7E-B476-4342-8206-A2ACD67E66DD/UCC Agenda July 22 2019.png]]
 * *Notes*
-** [[message://%3cCFFE71F2-B254-46BF-A90A-BDD1762B5258@rush.edu%3E][UCC]]
-
-
-Hi Tom
-I will like to formally welcome you to the University Curriculum Committee. We meet monthly on fourth Monday of the month from 9 AM to 10 AM. We are preparing an orientation manual for new members which we will share with you. Looking forward to your participation on the University Curriculum Committee.
-Sincerely,
-
-Shital C. Shah, PhD | Director, Program Development & Assessment and
-Associate Professor - Department of Health Systems Management
-Rush University | 1700 W Van Buren Street, 126B,  Chicago, IL 60612
-T 312.942.7926 | F 312.942.4957 | E Shital_C_Shah@Rush.edu
-
-[[bbdb:Shital%20C.%20Shah][Shital C. Shah]]
-

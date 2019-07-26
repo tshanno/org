@@ -162,10 +162,13 @@ SCHEDULED: <2020-01-03 Fri>
 ***** DONE [#A] Send Deri one of the VF cardiovascular lessons to look at.  
 Maybe both the Heart Lesson (Levis style) and the Structure and function notes which were converted from the Joel Michale style.
 **** Make sure all of the figures used in the videos aare in the notes.
-***** CANCELED I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+***** DONE [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
-:ID:       A350A3C8-5B89-4500-B803-5FBE34BF9D45
+:ID:       36535CD0-E40B-4061-91A1-CE5DDB95AB31
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 13:05]
 :END:
 **** CANCELED Re-write summative questions and maybe formative questions to make them consistent with each other and of the same difficulty.
 **** Re-record videos standing in front of the camera

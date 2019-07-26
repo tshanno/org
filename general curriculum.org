@@ -12,7 +12,7 @@ SCHEDULED: <2019-04-08 Mon>
    SCHEDULED: <2019-07-31 Wed>
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
-SCHEDULED: <%%(diary-cyclic 7 05 13 2019)>
+SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd566:discussion_board?section=view-forum&id=35][Check Discussion Board]]
 SCHEDULED: <2019-08-21 Wed>
 ** Check to make sure you have rooms on Saturdays and reserve more.
@@ -24,8 +24,23 @@ SCHEDULED: <2019-06-19 Wed>
 
 ** Schedule student lunch
 SCHEDULED: <2019-09-01 Sun>
-** TODO [#A] Talk to Maria about how to get on tag questions
-** TODO [#A] Go through quesitons mone more time and make sure everything got tagged.
+** CANCELED [#A] Talk to Maria about how to get on tag questions
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 06:45] \\
+  Recent email says we are 100% done.  I'll take their word for it.
+:END:
+** CANCELED [#A] Go through quesitons mone more time and make sure everything got tagged.
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 06:46] \\
+  Recent email says we are 100% done.  I'll take their word for it.
+:END:
+** [[message://%3cba7058c6c89b4e7b802a2b6a55815997@RUPW-EXCHMAIL02.rush.edu%3E][RE: Today’s meeting]]
+SCHEDULED: <2019-08-01 Thu>
+
+
+I will not be in Chicago next week on Thursday or Friday.  Feel free to meet without me.
+Bob
+
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -240,6 +255,29 @@ Objectives now posted by week
 **** She's a talker.  :)
 *** CD salaries will now be allocated based upon length of block and other not well-defined effort-based factors.  Probably DD by student workload time, too.
 
+** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-18 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   B2AFCC73-F0FD-4A15-9232-22729604816E
+:ID:       EF0FC1AA-53DF-4E3B-AC8A-9C7B3DC48CEB
+:END:
+*** TODO Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+*** Thinking about requiring students to pass each discipline at the end of the year                                                                    
+**** Assessment needs to give us the breakdowns for next year so that we can evaluate the effect on students grades
+**** We need to move fast if we want to get this started for 2019-2020.  Bob didn't seem to interested in pushing it ahead that quickly so I doubt it will happen.  Probably 2020-2021.
+**** Check in and see how this policy requiring students to pass all of the disciplines over the course of the year.  If its going to happen in 2021, Bob has to move now.
+SCHEDULED: <2020-02-14 Fri>
+
+** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   52007325-6876-493A-8371-D5BCB2354E9F
+:ID:       74A23B20-29D9-4ACC-A961-69A74BDD72B5
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 07:52] \\
+  We looked at Lecturio.  There was a request for more time to evaluate.
+  
+  Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
+:END:
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -432,6 +470,44 @@ One of the approaches being considered for class sessions next year is to use th
 :SYNCID:   6D313489-E8DB-4821-8BDA-2A6D25FD7CDC
 :ID:       2B951202-7A11-49F3-AC02-7A501E1E7553
 :END:
+** [[message://%3c4122654d37224a3a90e0ffc155545a1b@RUPW-EXCHMAIL02.rush.edu%3E][RE: Canvas Use]] :: Course Arc username and password but probably isn't consistent with terms of the license...
+:PROPERTIES:
+:SYNCID:   581633CA-3333-40CE-AD09-72D50510A2AD
+:ID:       EAB6A5CB-E216-4E18-8977-320D0F662500
+:END:
+
+We do not have a license for Canvas. I am using the Free for Teacher version. You can sign up for it if you would like to test it out… https://www.instructure.com/canvas/try-canvas. You can add students to your course in Canvas and it won’t disappear.
+ 
+I do want to note that the content for the summer self study guides is in a learning management system tool called CourseArc. This is where we placed all the self study material and created some interactive learning elements for the content.  CTEI has a license for CourseArc, however, it’s limited to the users in our department. We do have a general CTEI account that you are welcome to log in with…
+https://rush.coursearc.com
+CTEI@rush.edu – CTEI1234!
+ 
+Students are not able to be added to CourseArc. If you would like for them to do the activities you create in CourseArc, you would need to add a link to the CourseArc course that you created within your Blackboard course OR create a free Canvas course for students to access the material in CourseArc. My suggestion is to use Blackboard since this is the learning management system Rush currently uses and the registrar’s office creates the course and enrolls students. You can easily embed a link to your CourseArc course in Blackboard.  You wouldn’t need to enroll any students as you will for Canvas. Also, if you link CourseArc to Blackboard, any graded activities you create in CourseArc will integrate into the Blackboard Grade Center.
+ 
+If you need any help with this or have any questions, please let me know and I would be more than happy to help. 
+** [[https://docs.google.com/spreadsheets/d/1QJsELxU6JDczacguMrNoYrOYd7qAnA5mICM1_WJRCcM/edit?usp=sharing][Activity Team Assignments to M2 Cases 2018-2019]]
+:PROPERTIES:
+:SYNCID:   1CE30209-09D0-4D4C-BC1E-978C048F8753
+:ID:       584CBA72-5999-486C-8ACC-2160BDD5221D
+:END:
+** [[https://docs.google.com/spreadsheets/d/1_VMfu7Fnq4PhGPqMDAKH7mbvZbPvaLps3IijSZTclQE/edit?usp=sharing][Activity Team Assignments to M1 Cases 2018-2019]]
+:PROPERTIES:
+:SYNCID:   09F400CB-2136-4F0E-9248-52629D085F6B
+:ID:       D97A5C8B-52B1-45F1-967B-1CDB9918D5B7
+:END:
+** [[message://%3c1564076124514.47516@rush.edu%3E][Fw: Lecturio Follow Up]]
+
+** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
+:PROPERTIES:
+:SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
+:ID:       A06305B0-BC50-4B2B-9A48-98CDFACE9997
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:13] \\
+  Deadlines for Vital Fluids added to calendar.
+:END:
+*** Add deadlines for Vital Gases to your calendar (they are in November).
+SCHEDULED: <2019-10-01 Tue>
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -581,5 +657,9 @@ SCHEDULED: <2019-06-17 Mon>
 - Note taken on [2019-07-15 Mon 07:19] \\
   Bob said to check with Angela Solic but he didn't think it was ready.
 :END:
-** TODO [#A] Angela Solic about recording studio
+** DONE [#A] Angela Solic about recording studio
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 08:38] \\
+  Talk to Angela about this.  She said the end of August.
+:END:
 

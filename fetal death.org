@@ -1,7 +1,23 @@
 * *Tasks*
-** TODO  Make sure the anti-virals are moved to Fetal Death [[message://%3c0d97a39fdada4fa39bb24b6764fa0c20@RUPW-EXCHMAIL02.rush.edu%3E][RE: Mononucleosis Case]]
+** DONE Make sure the anti-virals are moved to Fetal Death [[message://%3c0d97a39fdada4fa39bb24b6764fa0c20@RUPW-EXCHMAIL02.rush.edu%3E][RE: Mononucleosis Case]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-26 Fri 14:02]
+:END:
 
+** WAITING Plan of study for Fetal Death
 * *Ticklers*
+** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
+:PROPERTIES:
+:SYNCID:   892288F3-489C-41E6-8C85-7237F1998DF4
+:ID:       893D2E86-981B-42F2-B2BC-03345EAB314F
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:58] \\
+  He moved this material in.
+- State "DONE"       from              [2019-07-26 Fri 08:58]
+:END:
+** Invite Susan to the Fetal Death Core Disciplines meeting.
+SCHEDULED: <2019-07-29 Mon>
 * *Meetings*
 * *Notes*
 * Meeting with Gary <2018-08-24 Fri>

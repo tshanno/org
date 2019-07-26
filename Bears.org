@@ -705,12 +705,46 @@ https://theathletic.com/1063331/2019/07/05/inside-the-film-room-how-the-bears-ut
 
 Read this later.  s probably lots of video ll want to stream with the wireless.
 youThere*
-** TODO [#A] Surprise TE cut
+** TODO Surprise TE cut
 :PROPERTIES:
 :SYNCID:   9E8DBC7A-9845-47F2-8C02-31C5F8D853A7
 :ID:       9DDC90FD-4750-4051-9DC7-20622CDD90D5
 :END:
 https://castro.fm/episode/LrItb0
+
+** DONE [[https://theathletic.com/1088301/2019/07/21/living-in-the-past-is-a-bears-tradition-but-the-2019-team-is-more-important-than-any-anniversary/?source=rss][Living in the past is a Bears tradition, but the 2019 team is more important than any anniversary – The Athletic]]
+:PROPERTIES:
+:SYNCID:   15E2C9CE-6458-42E7-875F-22AA4F0E5D26
+:ID:       D5E97475-5BC6-48F3-BA9C-4FF14D6AB861
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 07:37]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Adam Jahns} at \textit{The Athletic} emphasizes that fans \href{https://theathletic.com/1088301/2019/07/21/living-in-the-past-is-a-bears-tradition-but-the-2019-team-is-more-important-than-any-anniversary/?source=rss}{shouldn't let the 100 year anniversary of the Bears overshadow the importance of the 2019 version of the team making progress}.  He particularly emphasizes the importance of quarterback \textbf{Mitch Trubisky}'s continued progress:
+
+\begin{quote}
+“The word that comes to mind for me is incremental improvement, steady incremental improvement, and I think we’ve seen (Trubisky) do that,” [general manager \textbf{Ryan}] \textbf{Pace} said Sunday. “And as long as he just keeps on that pace, steady incremental improvement, we’ll be happy. You can feel his confidence growing; we’ve talked about that. Chemistry, continuity, all those things going into Year 2, and that’s going to continue as we go forward.”
+\end{quote}
+
+It is important to Note that this continued, steady improvement will be the biggest key to the 2019 season.  Trubisky is one of the most polarizing quarterbacks in the entire league right now.  YOu either really like him or your really, really don't.
+
+Amongst my friends who root for other teams, most of whom are typical, I'd say 80\% will literally tell you that Trubisky is terrible and they don't understand the hype.  And there's good reason for their skepticism.
+
+Even most objective Bears fans would have to admit that Trubisky was league average at best at the end of the year.  And that was, as Pace points out, after making steady progress throughout the 2018 campaign.  Its important to note that expecting anything beyond that is all extrapolation based upon the assumption that he's going to continue to progress
+
+You to have had the opportunity to watch Trubisky make that steady progress last year, game after game, before you could actually get the feeling that he might be on his way to something special.  And what's going to be very interesting about this year is that it won't be just Bears fans who are going to see it.  Trubisky's progress is going to be a national story as the Bears are on national television six times, the maximum allowed.  
+
+Until Trubisky actually shows that he's a very good quarterback,  he's just another guy.  If the Bears are going to remain competitive, he's going to have to become more than that.  Its far from a certainty that will happen.  But either way its going to be what we will all be watching for all over the league this year.
+
+#+END_EXPORT
+** TODO  So how do you avoid complacency?  Research it. [[https://www.chicagotribune.com/sports/bears/ct-bears-training-camp-real-talk-20190723-qq3m7w7zbngu5cmzook5mr7i4e-story.html][How can the Bears meet Super Bowl expectations and avoid taking a step back? - Chicago Tribune]]
+
+** TODO [[https://theathletic.com/1089798/2019/07/23/balanced-talented-and-motivated-a-look-at-the-bears-depth-chart-before-camp/?source=rss][Balanced, talented and motivated: A look at the Bears’ depth chart before camp – The Athletic]] :: Shelly is a bit small and he's the kind f guy that stands out in non-contact drills.  We shall see.
+
+
+Semi-bold prediction: Shelley will take over as the starting nickelback this season. Skrine’s three-year contract essentially secures his place for two years because of his structure. But the Bears seem pretty enthralled by Shelley. He was one of their best players during the offseason program.
 
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
@@ -719,6 +753,89 @@ https://castro.fm/episode/LrItb0
 In Nagy’s and Trubisky’s first year together, the Bears ranked 27th in the NFL in yards per carry, 20th in yards per play and 21st in total offense. Those disappointments ended up outweighing encouraging pockets of production, such as red-zone efficiency (tied for sixth), third-down conversion rate (11th) and time of possession (third).
 
 ** [[https://www.chicagotribune.com/sports/bears/ct-bears-training-camp-dates-20190620-m4o4gl22szgatlioqqlfwk2764-story.html][Bears announce their 2019 training camp schedule - Chicago Tribune]] Begins July 25 <2019-07-25>
+
+** *Players*
+*** *Trubisky*
+**** Column: Mitch Trubisky’s breakout season must begin with a cleaner training camp in Year 3 - Chicago Tribune
+[2019-07-26 Fri 02:45]
+https://www.chicagotribune.com/sports/bears/ct-bears-training-camp-mitch-trubisky-20190725-otwvksq5x5akpcyfae7fhvacgm-story.html
+
+According to Football Outsiders, only seven quarterbacks had a worse adjusted interceptions rate last season than Trubisky’s 3.7. The stat accounts for picks the defense dropped, interceptions made possible by receiver drops and other plays that might warp a quarterback’s actual interceptions total.
+
+*** *Daniel*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+ Daniel is in the final year of a two-year, $10 million contract. 
+
+*** *Nall*
+**** Ryan Nall can return to the practice squad in 2019 [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]] 
+
+*** *Mizzell*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+Now at wide receiver Taquan Mizzell Sr.: In his new position, Mizzell has quite the climb to make the roster, but he knows the playbook and can help on special teams.
+*** *Williams-Lambert*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+Jordan Williams-Lambert: A practice-squad candidate, Williams-Lambert has intriguing size and was productive in the CFL.
+*** *Gentry*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+Tanner Gentry: It’s year three for Gentry
+*** *Ives*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+Thomas Ives: Like Williams-Lambert, Ives’ size (6-foot-5) could attract some attention in Bourbonnais, as he makes his push for the practice squad.
+*** *Shaheen*
+**** Adam Shaheen will play the 'Y' tight end [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+*** *Bunting*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+
+Ian Bunting: It’ll be hard to miss Bunting in Bourbonnais considering he’s 6-foot-7. The Hinsdale Central product is prime practice-squad material.
+
+Ellis Richardson: A former quarterback, Richardson will vie for the practice squad.
+
+Jesper Horsted: The final preseason games should provide quite the competition for the four UDFA tight ends, including the latest addition, Horsted, who set receiving records at Princeton.
+*** *Richarson*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+
+Ian Bunting: It’ll be hard to miss Bunting in Bourbonnais considering he’s 6-foot-7. The Hinsdale Central product is prime practice-squad material.
+
+Ellis Richardson: A former quarterback, Richardson will vie for the practice squad.
+
+Jesper Horsted: The final preseason games should provide quite the competition for the four UDFA tight ends, including the latest addition, Horsted, who set receiving records at Princeton.
+*** *Horsted*
+**** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+
+Ian Bunting: It’ll be hard to miss Bunting in Bourbonnais considering he’s 6-foot-7. The Hinsdale Central product is prime practice-squad material.
+
+Ellis Richardson: A former quarterback, Richardson will vie for the practice squad.
+
+Jesper Horsted: The final preseason games should provide quite the competition for the four UDFA tight ends, including the latest addition, Horsted, who set receiving records at Princeton.
+*** *Pineiro*
+
+**** There’s a dedicated, ongoing effort to rein in Pineiro’s strong leg and add power to Fry’s consistent swing. [2019-07-22 Mon]
+  [[gnus:nnrss:Chicago%20Tribune#10@Chicago%20Tribune.nnrss][Email from Rich Campbell: Bears resume their ‘open compe]]
+*** *Fry*
+
+**** There’s a dedicated, ongoing effort to rein in Pineiro’s strong leg and add power to Fry’s consistent swing. [2019-07-22 Mon]
+  [[gnus:nnrss:Chicago%20Tribune#10@Chicago%20Tribune.nnrss][Email from Rich Campbell: Bears resume their ‘open compe]]
+*** *Burton*
+
+**** [2019-07-22 Mon] Burton missed the Bears’ one-point playoff loss to the Eagles in January after his groin locked up a day before the game. He later had surgery to repair a sports hernia.
+  [[gnus:nnrss:Chicago%20Tribune#9@Chicago%20Tribune.nnrss][Email from Dan Wiederer: Anthony Miller and Trey Burton]]
+**** Trey Burton is a 'U' tight end [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
+
+*** *Miller, Anthony*
+
+**** Miller had offseason surgery on his left shoulder after he dislocated it on multiple occasions last season.
+  [[gnus:nnrss:Chicago%20Tribune#9@Chicago%20Tribune.nnrss][Email from Dan Wiederer: Anthony Miller and Trey Burton]]
+*** *Clinton-Dix*
+**** [2019-07-22 Mon] Safety Ha Ha Clinton-Dix likely will open camp on the physically-unable-to-perform list, still recovering from a sprained knee he suffered toward the end of minicamp in June.
+  [[gnus:nnrss:Chicago%20Tribune#9@Chicago%20Tribune.nnrss][Email from Dan Wiederer: Anthony Miller and Trey Burton]]
+**** [2019-07-22 Mon] The Bears signed Clinton-Dix to a one-year, $3 million deal in free agency in March with the expectation that he will be a playmaking starter on the back end of a standout defense. The internal hope is that he will be ready to practice early in camp.
+  [[gnus:nnrss:Chicago%20Tribune#9@Chicago%20Tribune.nnrss][Email from Dan Wiederer: Anthony Miller and Trey Burton]]
 * [[message://%3cC8BC7A34-3615-4C65-953B-A70FD31FEFA9@rush.edu%3E][Bears will have a tough time matching up with Packers tall recievers]]
 * None of the top 25 players under 25 are Bears.  Another strike against Pace
   [[gnus:nnimap%2Bicloud:INBOX#A25D5DB1-77DE-4061-B27B-65692C24BEF9@rush.edu][Email from Tom Shannon: www.profootballfocus.com: PFF']]
@@ -847,3 +964,17 @@ I tried to figure out wher the next likely landing place for Murray was if he go
 Entered on [2019-04-26 Fri 12:46]
 * [[https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/][The Basics and Methodology of Projecting the NFL's Compensatory Draft Picks | Over the Cap]] https://overthecap.com/the-basics-and-methodology-of-projecting-the-nfls-compensatory-draft-picks/
 * [[https://overthecap.com/compensatory-draft-picks-cancellation-chart/][Compensatory Draft Picks Cancellation Chart | Over the Cap]] 
+* TODO I think a look around the NFC North division with a focus on each team is called for.  This article does a good job with comments from The Atheltics contributors for each team.
+** TODO [[https://theathletic.com/1081461/2019/07/24/roundtable-can-nfc-north-rivals-bears-vikings-cash-in-on-super-bowl-aspirations/?source=rss][Roundtable: Can NFC North rivals Bears, Vikings cash in on Super Bowl aspirations? – The Athletic]]
+
+
+Lions: Revealing. Lest there was any remaining mystery about where Matt Patricia is taking this roster and what he believes it takes to win in this league, the Lions tossed all the evidence out on the table. Just about every key addition on offense — T.J. Hockenson, Jesse James, Danny Amendola, new OC Darrell Bevell — points to a multidimensional, ball-control attack built to test defenses sideline to sideline more often than vertically. That plan pairs with a defense now featuring Trey Flowers and a potentially dominant D-line in front of a big, physical linebacking corps. Call it modified old-school football.
+** TODO [[https://theathletic.com/1081461/2019/07/24/roundtable-can-nfc-north-rivals-bears-vikings-cash-in-on-super-bowl-aspirations/?source=rss][Roundtable: Can NFC North rivals Bears, Vikings cash in on Super Bowl aspirations? – The Athletic]]
+
+
+Packers: Rejuvenation. The Packers have a new voice at head coach for the first time in 13 years. Matt LaFleur steps in from the Sean McVay and Kyle Shanahan coaching tree to revitalize an inconsistent Packers offense despite having (arguably) the most talented QB in the NFL. Within the last 18 months, the Packers have now replaced the head coach, offensive coordinator, defensive coordinator and general manager — an organizational shake-up that doesn’t ripple through Green Bay very often. Thirty-five-year-old Aaron Rodgers is quietly entering the back end of his career and recovering from a knee injury that left him less than 100 percent throughout most of 2018. After saying goodbye to Jordy Nelson last summer, this offseason saw an end to the Randall Cobb era in Green Bay. Perhaps the youth movement of skill players can recharge an offense that lacked efficiency over the past few seasons.
+** TODO [[https://theathletic.com/1081461/2019/07/24/roundtable-can-nfc-north-rivals-bears-vikings-cash-in-on-super-bowl-aspirations/?source=rss][Roundtable: Can NFC North rivals Bears, Vikings cash in on Super Bowl aspirations? – The Athletic]]
+
+
+Vikings: Stability. Entering a cap-strapped offseason, it looked for a time as if the Vikings might lose both linebacker Anthony Barr and tight end Kyle Rudolph, two mainstays and leaders on the team. Instead, Barr changed his mind on leaving in free agency and returned to Minnesota for less money than he would have gotten from the Jets, and Rudolph agreed to a new deal that lowered his 2019 cap hit. The Vikings now return 10 of 11 starters on defense and all but two linemen on offense.
+

@@ -137,6 +137,19 @@ https://beorg.app/learning/using-templates-to-keep-a-reading-log/
 
 ** [[https://orgmode.org/manual/index.html][The Org Manual: Top]] 
 ** TODO [[https://emacs.stackexchange.com/questions/50137/show-apple-calendar-events-in-org-mode/50185#50185][ical - Show Apple Calendar events in org-mode - Emacs Stack Exchange]]
+** ON RADAR This looks like it might be a better way to recursively add directories to agenda files
+[2019-07-18 Thu 02:38]
+https://www.reddit.com/r/orgmode/comments/cej7r2/orgrefile_and_subfolders/?utm_source=share&utm_medium=ios_app
+** TODO Fix calendar-from-kill so that it takes all day events.
+** CANCELED [#A] worg-dev/ical2org.awk at master · mjago/worg-dev · GitHub
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-07-22 Mon 08:36] \\
+  Couldn't find a good way to export from calendar app without exporting the whole calendar - which takes forever.
+:END:
+[2019-07-19 Fri 02:33]
+https://github.com/mjago/worg-dev/blob/master/code/awk/ical2org.awk
+** TODO [#A] Try this! [[https://orgmode.org/manual/Attachments.html][The Org Manual: Attachments]]
+
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -351,6 +364,11 @@ https://www.ctan.org/pkg/csquotes
 ** If then in LaTeX
 [2019-07-16 Tue 04:00]
 https://www.reddit.com/r/LaTeX/comments/cdjp62/piecewise_functions/?utm_source=share&utm_medium=ios_app
+** TODO [[https://pay.reddit.com/r/LaTeX/comments/cghc50/how_do_i_add_a_1_inch_indent_to_this_document/][How do I add a 1 inch indent to this document? : LaTeX]]
+Exam document class?
+
+
+
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 
@@ -458,7 +476,6 @@ http://emacsredux.com/blog/2013/07/17/make-use-of-the-super-key/
 ** [[http://ergoemacs.org/emacs/elisp_unicode_representation_in_string.html][Elisp: Unicode Escape Sequence]]
 
 
-
 ** C-s C-w [C-w ... ] to search for a word/expression under a cursor. 
 
 ** CANCELED Inkscape - Wikipedia :: Only available if you compile using Macports.  Didn't want to go through this.
@@ -564,9 +581,29 @@ All this is probably not something you would use every day, but it may come hand
 
 ** ON RADAR Wondering if this could be handy with iPad since some funtions take so long to execute. [[https://github.com/twlz0ne/with-emacs.el][twlz0ne/with-emacs.el: Evaluate expressions in a separate Emacs process]]
 
-** ON RADAR Set up [[https://github.com/dickmao/nnreddit][GitHub - dickmao/nnreddit: A Gnus backend for Reddit]] 
+** ON RADAR Set up [[https://github.com/dickmao/nnreddit][GitHub - dickmao/nnreddit: A Gnu s backend for Reddit]]
 ** Highlight current line [[https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source=share&utm_medium=ios_app][https://www.reddit.com/r/emacs/comments/cazokz/globalhllinemode_vs_globalvisualline_mode/?utm_source]] 
 ** [[https://github.com/railwaycat/homebrew-emacsmacport/blob/master/README.md][homebrew-emacsmacport/README.md at master · railwaycat/homebrew-emacsmacport · GitHub]] Could be useful if you have problems with the next upgrade. 
+** TODO Write a wrapper function to open url in eww.
+To eww or not to eww | Pragmatic Emacs
+:LOGBOOK:
+- Note taken on [2019-07-23 Tue 08:53] \\
+  Some good examples of how to make wrapper functions to start your browser of choice.
+:END:
+http://pragmaticemacs.com/emacs/to-eww-or-not-to-eww/
+
+** Basics - Emacs Web Wowser
+https://www.gnu.org/software/emacs/manual/html_node/eww/Basics.html#Basics
+
+Eww-use-external-browser-content-type
+** EmacsWiki: Browse Url
+https://www.emacswiki.org/emacs/BrowseUrl
+** Browse-URL - GNU Emacs Manual
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Browse_002dURL.html#Browse_002dURL
+** How to make eww default browser in Emacs? - Emacs Stack Exchange
+https://emacs.stackexchange.com/questions/7328/how-to-make-eww-default-browser-in-emacs#7332
+** Should use these more [[https://www.reddit.com/r/emacs/comments/cecs6m/what_have_you_bound_to_function_keys/][What have you bound to function keys? : emacs]]
+
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

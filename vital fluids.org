@@ -107,6 +107,39 @@ https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.107.755942
 
 Tom S.
 ** [[https://docs.google.com/document/d/1h0xyI3YcysF3y2f8cBUBciJkyIArRUYBZyZmCIeDnNI/edit#][Vital Fluids Cases and Topics]]
+** [[message://%3c655fb59bfcf24eb1a25cfc2bb5e0b0ff@RUPW-EXCHMAIL02.rush.edu%3E][Topics in 574]]
+:PROPERTIES:
+:SYNCID:   CDFDABB1-8278-49C1-B86A-0D84F079B94C
+:ID:       BF043742-19B1-4102-A40D-E50556E2707D
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 07:40] \\
+  This is a damned mess.  The last spreadsheet I saw had HF parts 1 & 2 and MI parts 1 & 2 lumped together in one case each.  It looks like she almost randomly assigned the topics to one part or the other.  There was no reanl vignettes case in that sheet either as it had just been added.
+  
+  I gave Jeffrey the rainbow sheet and he will suggest to Princess that these topics be switched around.  Unfortunately she is out of town so that won't happen until Monday.
+:END:
+Have you reviewed your topics for 574 with the discipline directors and role leaders?
+ 
+https://docs.google.com/spreadsheets/d/1E8KEGuRQ8AjcSjoRXoFHvOSj34UnOUcSZVJFioiSrUQ/edit#gid=636909220
+ 
+There are several sessions that have no, or very few topics assigned to them. I’ve created folders and linked them according to what we currently have assigned. I’ll need to know asap so I can move/finalize folders, and move content from last year. I can send this out on your behalf for faculty to approve their topic locations. I’m sending an email for Dr. Al-Ghoul today as well.
+
+** [[https://docs.google.com/spreadsheets/d/1_VMfu7Fnq4PhGPqMDAKH7mbvZbPvaLps3IijSZTclQE/edit?usp=sharing][Activity Team Assignments to M1 Cases 2018-2019]]
+:PROPERTIES:
+:SYNCID:   09F400CB-2136-4F0E-9248-52629D085F6B
+:ID:       F6F343A6-EB36-4B48-BD4B-46A082186ED9
+:END:
+** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
+:PROPERTIES:
+:SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
+:ID:       A64BB1B9-8EB0-4878-A579-152183C706FE
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:13] \\
+  Deadlines for Vital Fluids added to calendar.
+:END:
+*** Add deadlines for Vital Gases to your calendar (they are in November).
+SCHEDULED: <2019-10-01 Tue>
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -151,13 +184,17 @@ SCHEDULED: <2019-10-01 Tue>
 :END:
 	[[message://%3c01139CAB-5DAE-473B-AF0B-E63208CF8D69@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add urinalysis topic to pathophys and path and delete from practitioner
-SCHEDULED: <2019-07-19 Fri>
+SCHEDULED: <2019-08-08 Thu>
 :PROPERTIES:
 :SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
 :ID:       CB116CC1-3F73-400E-A6D7-B9D9548F7BC4
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-26 Fri 09:48] \\
+  Check for this after deadline on August 8
+:END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
-** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
+** TODO [#A] [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
 SCHEDULED: <2019-07-19 Fri>
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
@@ -169,8 +206,14 @@ SCHEDULED: <2019-07-02 Tue>
 :END:
 
 ** Reminders for VF due date
-SCHEDULED: <2019-07-25 Thu>
+SCHEDULED: <2019-07-29 Mon>
 [2019-07-11 Thu 12:44]
+** Deadline to get Self-Study guides to review team for Vital Fluids <2019-08-21 Wed>
+SCHEDULED: <2019-08-14 Wed>
+** Deadline to transfer faculty guides to case folders <2019-08-21 Wed>
+SCHEDULED: <2019-08-14 Wed>
+** Due date to have final faculty guides in place for Vital Fluids <2019-09-18 Wed>
+SCHEDULED: <2019-09-11 Wed>
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -371,7 +414,7 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] Syed promised changes to CI by Monday.  Make sure EKG is covered in topics in VF
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
-** Add cardiac tamponade to HF
+** TODO [#A] Add cardiac tamponade to HF
 SCHEDULED: <2019-07-19 Fri>
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
@@ -391,10 +434,13 @@ SCHEDULED: <2019-07-19 Fri>
 ** CANCELED Bug these guys about the make ups
 	[[message://%3c3B424669-ED8A-4306-84E7-F7F0D9811DC8@rush.edu%3E][Re: Revised MCQ]]
 ** Make sure all of the figures used in the videos aare in the notes.
-*** TODO [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+*** DONE [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
 :ID:       5C1726D7-517F-41E9-A1DD-F038E21F1B1A
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 13:05]
 :END:
 ** DONE [#A] [[message://%3CF7615B7D-9D3B-4340-8AA1-3F307FB2A49D@rush.edu%3E][Correct Renal Calculations Program]]
 :PROPERTIES:
@@ -402,10 +448,14 @@ SCHEDULED: <2019-07-19 Fri>
 :ID:       9C2B4A45-6761-407A-B955-ACF7F0248DD1
 :END:
 [2018-09-07 Fri]
-** TODO [#A] Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
+** DONE [#A] Correct self-study questoin Sv increases when preload increases not decreases <2019-03-28 Thu>
 :PROPERTIES:
 :SYNCID:   2C95E147-6409-44E6-86BE-092D5B787180
 :ID:       E17A7E6A-EB06-4384-8828-28B3FF935F1C
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-23 Tue 10:11] \\
+  Evidently I corrected this because it seems to read correclty now.
 :END:
 ** DONE Add Adams velocity hose comment - velocity increases at a constant flow when you kink the hose <2019-03-28 Thu>
 :PROPERTIES:

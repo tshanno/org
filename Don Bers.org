@@ -1,9 +1,0 @@
-* *Tasks*
-* *Ticklers*
-** DONE FU: Don Bers [[message://%3cF72116E9-F896-444D-A834-02403F73F1FD@rush.edu%3E][Could we set up a call?]]
-:PROPERTIES:
-:SYNCID:   12498D3A-3C32-4F58-8658-D3780F43D0E2
-:ID:       A82FDED0-47B2-49E4-86CB-265E57CA56B5
-:END:
-* *Meetings*
-* *Notes*

@@ -913,10 +913,13 @@ So far it seems that Rosen has had the same benefits that Manning had in his fir
 ******* DONE [#A] Send Deri one of the VF cardiovascular lessons to look at.  
 Maybe both the Heart Lesson (Levis style) and the Structure and function notes which were converted from the Joel Michale style.
 ****** Make sure all of the figures used in the videos aare in the notes.
-******* CANCELED I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+******* DONE [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
 :ID:       A350A3C8-5B89-4500-B803-5FBE34BF9D45
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 13:05]
 :END:
 ****** CANCELED Re-write summative questions and maybe formative questions to make them consistent with each other and of the same difficulty.
 ****** Re-record videos standing in front of the camera
@@ -1684,11 +1687,13 @@ Baltimore has a well-deserved reputation for being a well-run organization.  But
 ******* Removed garbage disposal.  I decided not to replace it.
 ******* Unclogged drain.
 ******* Will bill me later.  He said to sit down before I opened it but less than $1000.
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 18:44] \\
+  [2019-06-05 Wed] The bill came and I paid it. $546.45
+:END:
   
   [[bbdb:Weinberg%20Plumbing][Weinberg Plumbing]]
-****** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
-
-**** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
+***** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
 
 *** 2019-05-29 Wednesday
 **** DONE [[https://theathletic.com/996911/2019/05/28/forget-continuity-heres-why-change-should-benefit-the-bears-defense/][Forget continuity, here’s why change should benefit the Bears’ defense – The Athletic]]
@@ -1884,10 +1889,11 @@ y can get for Jones, move on and do the same.
                                                                                                                                             
 ***** Multidicplinary tagging only when you need to know the second discipline to get the answer correct (not if jut in distractors or a minor$
 ***** Use advanced search to search by assmemnt creation date.                                                                                 
-***** TODO [#A] Assessment item tagging due July 31                                                                                             
-                                                                                                                                            
-                                                                                                                                                                                                              
-                                                                                                                                            
+***** CANCELED [#A] Assessment item tagging due July 31                                                                                             
+:LOGBOOK:
+- Note taken on [2019-07-18 Thu 06:46] \\
+  Recent email says we are 100% done.  I'll take their word for it.
+:END:
 
 **** COSEP; Location: 364 professional Office Building
 :PROPERTIES:
@@ -2255,7 +2261,15 @@ Objectives now posted by week
   Yes, they are wonky.  The spreadsheet was messed up and she will work on correcting it.  She doesn't seem to believe that we are talking about weeks of work so that's good.
 
 ***** FU Princess on workload assessment
-SCHEDULED: <2019-07-19 Fri>
+SCHEDULED: <2019-07-29 Mon>
+:PROPERTIES:
+:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
+:ID:       595FFB8E-8376-43FC-8C39-E72967434012
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:10] \\
+  [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
+:END:
 **** Recording with Tom and Gary; Location: AAC 1048 <2019-06-21 Fri 8:00-12:00>
 :PROPERTIES:
 :SYNCID:   F9AD91C5-7FFF-4EFA-BDE9-0E369EF65949
@@ -2543,7 +2557,8 @@ Wireless internet fown here sucks.  I ran up against my data limit on my phone b
 the only thing that really marred the weekend was the constant bitching about Colleen's financial situation.  This is frustrating because I have to hear about it but they won't let me help and I cna't do anything about it.  I try to change the subject but it jest comes back again.  I guess listening to this is my job.  There are certainly worse things.
 
 Heading to 8AM mass in about an hour at Our Lady of the Lake.  Mom and Dad will go to 10 and after clean up we'll head back to St. Charles.  Greg and Beth are hosting the family for dinner.  Greg has an early flight like me so it will be an early night.
-***** TODO [#A] Consider reducing the data limit fo the phone back down to 2G.
+***** Consider reducing the data limit fo the phone back down to 2G.
+SCHEDULED: <2019-08-15 Thu>
 
 Entered on <2019-07-07 Sun>
 *** 2019-07-08 Monday
@@ -2640,6 +2655,10 @@ Location: Park Tavern Sky Box Room
 :ID:       04CA39A0-DB49-4755-872B-78829F062881
 :END:
 ***** DONE [#A]  Call Gary about [[message://%3c1562961974017.82969@rush.edu%3E][AUB in different ages activity]]
+:LOGBOOK:
+- Note taken on [2019-07-15 Mon 15:10] \\
+  Talked to Gary.  He's open to calling the case "abnormal genital tract bleeding" and to making the patient younger.  He said that the students get the break down for likilihood of diagnosis at different ages in the reading.  We'll talk about it Friday.
+:END:
 
 ------
 Hi Gary,
@@ -2658,12 +2677,22 @@ Abnormal Genital Tract Bleeding?
 
 [[bbdb:Gary%20Loy][Gary Loy]]
 
-***** TODO [#A] Add menopause exercise to Life Cycle - Talk to Deri
+***** DONE [#A] Add menopause exercise to Life Cycle - Talk to Deri
 :PROPERTIES:
 :SYNCID:   49732CBA-76A0-48F7-B6F7-E4046B8660E4
-:ID:       C59063FB-A8FA-4EDC-81DF-44CCA2F0EF61
+:ID:       209B546C-66DA-45DF-9E2B-F750B2BCB420
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 08:30] \\
+  Sent an email.
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:29]
 :END:
 
+***** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       2A32E7F9-3C37-49BC-9D57-9CC73A14AE78
+:END:
 *** 2019-07-13 Saturday
 *** 2019-07-15 Monday
 **** Podcast Recording <2019-07-15 Mon 12:30-15:30>
@@ -2749,6 +2778,8 @@ As Hyde points out, Caldwell wasn't just a guy with head coaching experience.  I
 The cards are once again stacking up against Josh Rosen ever developing as an NFL quarterback.  A guy who went through a terrible rookie years with two bad offensive coodinators under a defensive head coach last year, he's evidently going to have to go through one with another defensive head coach, an offensive coordinator who doesn't coach quarterbacks and a quarterback coach who has worked only with the most veteran of veteran quarterbacks.  Rosen's only prayer is that Schuplinski picked something up as they developed back ups like Jimmy Garoppolo and that 17 year veteran quarterback Ryan Fitzpatrick might have mercy and find some time to teach him something even as he does everything he can to keep him off the field.
 
 I'm willing to wait and see but its hard to be optimistic.
+
+One more quick side pont about Caldwell.  He was undoubtedly the reason why Jake Ruddock is the third quarterback on this roster.  He spent much of his career as a back up with the Lions.  What the loss of Caldwell as an every day presence does to his chances of making the roster are uncertain.  The Dolphins will probably just roll with him at this point but this can't bode well for him.
 #+END_EXPORT
 **** ON RADAR [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-camp-countdown2-20190716-pjsxv2okvncgnnoz5lqs4wyt3u-story.html][Will third time be a charm for Dolphins safeties Reshad Jones and T.J. McDonald? | Countdown to camp - South Florida Sun-Sentinel]]
 :PROPERTIES:
@@ -2770,10 +2801,224 @@ Another is to give up the ghost on Jones and trade him, something they really sh
 
 In any case, the Dolphins are still paying the price of the poor team building of the previous (and in some ways the current) regime.  Here's hoping they finally solve this issue in a way that maximizes their assets.
 #+END_EXPORT
-**** TODO [#A] Surprise TE cut
+**** TODO Surprise TE cut
 :PROPERTIES:
 :SYNCID:   9E8DBC7A-9845-47F2-8C02-31C5F8D853A7
 :ID:       ED9C1A74-A5BA-4199-B650-2E092D104071
 :END:
 https://castro.fm/episode/LrItb0
+**** Air conditioner Repair <2019-07-17 Wed 14:00-17:00>
+:PROPERTIES:
+:SYNCID:   D35C8961-C556-4FC1-8776-3F9383CCE879
+:ID:       7980770D-0068-41D9-8F1C-E9CA868E676E
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 18:40] \\
+  Turns out that the capacitor was bad.  Total damage was $316.
+:END:
+[[bbdb:Allstar%20Heating%20and%20Cooling][Allstar Heating and Cooling]]
+**** Princess regarding Workload Assessment <2019-07-17 Wed 10:30-10:45>
+:PROPERTIES:
+:SYNCID:   71B16F6E-CCC5-41E3-B778-C46E1B39B440
+:ID:       8E147775-E682-4D81-B974-A3A88ADC8B7A
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 16:11] \\
+  We worked out a procdure to take the next step and send this out.  Princess will work up a form for the CDs to fill out and send it to me to look at.
+:END:
+**** CCE Integration & Implementation (I&I) Subcommittee; Location: OIME, AAC 403, Large Conference Room **https://zoom.us/j/318926177** (First Meeting Only) -  Remaining 2019 Locations Pending  <2019-07-17 Wed 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   953A522F-6271-4BB1-9C88-7D0E5C98FEC9
+:ID:       0C125484-F71C-45C9-810A-53DDE98DFF16
+:END:
+***** Course Reviews
+****** peds subI review
+****** FtF
+****** Neurrology Clerkship
+****** Peds Sub I
+***** Had to leave at about 12:40 so I don't know what else they got through.
 
+*** 2019-07-18 Thursday
+**** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-18 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   B2AFCC73-F0FD-4A15-9232-22729604816E
+:ID:       43DF52E9-4BEF-48A2-89F1-D12AEE17BED0
+:END:
+***** TODO Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+***** Thinking about requiring students to pass each discipline at the end of the year                                                                    
+****** Assessment needs to give us the breakdowns for next year so that we can evaluate the effect on students grades
+****** We need to move fast if we want to get this started for 2019-2020.  Bob didn't seem to interested in pushing it ahead that quickly so I doubt it will happen.  Probably 2020-2021.
+****** Check in and see how this policy requiring students to pass all of the disciplines over the course of the year.  If its going to happen in 2021, Bob has to move now.
+SCHEDULED: <2020-02-14 Fri>
+
+*** 2019-07-19 Friday
+**** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
+:ID:       236B06EC-8B3E-4E8D-A296-BFDD7FF2E094
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:35]
+- State "WAITING"    from "TODO"       [2019-07-22 Mon 08:32] \\
+  Email sent.
+:END:
+***** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
+:PROPERTIES:
+:SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
+:ID:       3E3FC4E9-3433-4F87-A18F-F763E5D7A052
+:END:
+***** Talk about Gary's AUB activity.
+:PROPERTIES:
+:SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
+:ID:       71291648-5CA7-4ED6-A21C-E86978E46983
+:END:
+***** DONE [#A] Make sure mike put anti-virals in Fetal Death
+***** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
+***** Gary is going to alter the PID exercise to make it clear what the students need to know.
+***** Mark promised to re-write the pathology exercise in AGB.
+***** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
+SCHEDULED: <2019-08-09 Fri>
+*** 2019-07-20 Saturday
+*** 2019-07-21 Sunday
+**** [[https://shannonfamilygroup.slack.com/archives/C1KS68EDA/p1563714571000100][Anybody care for some yoga on a tour boat?]] :ATTACH:
+:PROPERTIES:
+:Attachments: yoga_on_a_boat.jpeg
+:ID:       2373BAE7-43D4-411C-B820-041930C38948
+:END:
+[[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/23/73BAE7-43D4-411C-B820-041930C38948/yoga_on_a_boat.jpeg]]
+
+*** 2019-07-22 Monday
+**** DONE [[https://theathletic.com/1088301/2019/07/21/living-in-the-past-is-a-bears-tradition-but-the-2019-team-is-more-important-than-any-anniversary/?source=rss][Living in the past is a Bears tradition, but the 2019 team is more important than any anniversary – The Athletic]]
+:PROPERTIES:
+:SYNCID:   15E2C9CE-6458-42E7-875F-22AA4F0E5D26
+:ID:       B360B5E1-C5BF-46D8-BD31-D9AADB735B50
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 07:37]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Adam Jahns} at \textit{The Athletic} emphasizes that fans \href{https://theathletic.com/1088301/2019/07/21/living-in-the-past-is-a-bears-tradition-but-the-2019-team-is-more-important-than-any-anniversary/?source=rss}{shouldn't let the 100 year anniversary of the Bears overshadow the importance of the 2019 version of the team making progress}.  He particularly emphasizes the importance of quarterback \textbf{Mitch Trubisky}'s continued progress:
+
+\begin{quote}
+“The word that comes to mind for me is incremental improvement, steady incremental improvement, and I think we’ve seen (Trubisky) do that,” [general manager \textbf{Ryan}] \textbf{Pace} said Sunday. “And as long as he just keeps on that pace, steady incremental improvement, we’ll be happy. You can feel his confidence growing; we’ve talked about that. Chemistry, continuity, all those things going into Year 2, and that’s going to continue as we go forward.”
+\end{quote}
+
+It is important to Note that this continued, steady improvement will be the biggest key to the 2019 season.  Trubisky is one of the most polarizing quarterbacks in the entire league right now.  YOu either really like him or your really, really don't.
+
+Amongst my friends who root for other teams, most of whom are typical, I'd say 80\% will literally tell you that Trubisky is terrible and they don't understand the hype.  And there's good reason for their skepticism.
+
+Even most objective Bears fans would have to admit that Trubisky was league average at best at the end of the year.  And that was, as Pace points out, after making steady progress throughout the 2018 campaign.  Its important to note that expecting anything beyond that is all extrapolation based upon the assumption that he's going to continue to progress
+
+You to have had the opportunity to watch Trubisky make that steady progress last year, game after game, before you could actually get the feeling that he might be on his way to something special.  And what's going to be very interesting about this year is that it won't be just Bears fans who are going to see it.  Trubisky's progress is going to be a national story as the Bears are on national television six times, the maximum allowed.  
+
+Until Trubisky actually shows that he's a very good quarterback,  he's just another guy.  If the Bears are going to remain competitive, he's going to have to become more than that.  Its far from a certainty that will happen.  But either way its going to be what we will all be watching for all over the league this year.
+
+#+END_EXPORT
+**** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>
+:PROPERTIES:
+:SYNCID:   41F41D49-7718-48A5-B755-912517DF7E36
+:ID:       A2FA5B9E-7316-40DA-9C46-BBE23C9C044B
+:END:
+***** Ricsip as a co-curricular? -  RICSP is actually administered by the university through Sharon Gates office (Senior Director, Community Engagement at Rush University Medical Center).  There are apprently some other Med. School activities that are co-curricular.  Service learning is required to graduate but its not a transcripted course.
+***** Notes                                                      :ATTACH:
+:PROPERTIES:
+:Attachments: UCC%20Agenda%20July%2022%202019.pdf UCC%20Agenda%20July%2022%202019.png
+:ID:       641B6B7E-B476-4342-8206-A2ACD67E66DD
+:END:
+[[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/64/1B6B7E-B476-4342-8206-A2ACD67E66DD/UCC Agenda July 22 2019.png]]
+**** Meeting with Dean Bean; Location: 160 Cohen <2019-07-22 Mon 10:30-11:30>
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 13:42] \\
+  Physiology were vocal in force and expressed frustrations that I've heard for years abot graduate students being in class too much.  Dean seemed to be sympathetic and agreed.
+:END:
+**** Tom Shannon - Aisha Prasad Re: VF Remediation; Location: AAC 403 <2019-07-22 Mon 13:30-14:00>
+:LOGBOOK:
+- Note taken on [2019-07-22 Mon 13:40] \\
+  Mostly questions about the composition of the exam.  She hasn't started studying yet.  She's taking the M&M make up middle of this week and then will start to concentrate on VF.  She plans to take it the last possible day (August 11).
+:END:
+
+*** 2019-07-23 Tuesday
+**** DONE Completed conflic of interest statement.  No conflicts that I could think of.
+:PROPERTIES:
+:SYNCID:   B73BF4BA-41F0-4346-874D-87C48E641B9D
+:ID:       7813ED01-C532-40E3-B100-09F4C71AC674
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 08:56]
+:END:
+**** [[message://%3c655fb59bfcf24eb1a25cfc2bb5e0b0ff@RUPW-EXCHMAIL02.rush.edu%3E][Topics in 574]]
+:PROPERTIES:
+:SYNCID:   CDFDABB1-8278-49C1-B86A-0D84F079B94C
+:ID:       69AF9E0B-3035-4588-AFF2-018750633191
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 07:40] \\
+  This is a damned mess.  The last spreadsheet I saw had HF parts 1 & 2 and MI parts 1 & 2 lumped together in one case each.  It looks like she almost randomly assigned the topics to one part or the other.  There was no reanl vignettes case in that sheet either as it had just been added.
+  
+  I gave Jeffrey the rainbow sheet and he will suggest to Princess that these topics be switched around.  Unfortunately she is out of town so that won't happen until Monday.
+:END:
+Have you reviewed your topics for 574 with the discipline directors and role leaders?
+ 
+https://docs.google.com/spreadsheets/d/1E8KEGuRQ8AjcSjoRXoFHvOSj34UnOUcSZVJFioiSrUQ/edit#gid=636909220
+ 
+There are several sessions that have no, or very few topics assigned to them. I’ve created folders and linked them according to what we currently have assigned. I’ll need to know asap so I can move/finalize folders, and move content from last year. I can send this out on your behalf for faculty to approve their topic locations. I’m sending an email for Dr. Al-Ghoul today as well.
+
+**** DONE FU with Mike Fill on this apparent faculty contract error [[message://%3c8d0a8e7f8df6446fa6345c152284c768@RUPW-EXCHMAIL01.rush.edu%3E][TS faculty contract question]]
+:PROPERTIES:
+:SYNCID:   D0324583-CA91-400B-9A08-A60F4C1C3D94
+:ID:       C8AD5495-8858-47D2-AD2A-F4C9849C580B
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 07:55] \\
+  Marie Zalinski got this corrected.
+- State "DONE"       from "TODO"       [2019-07-24 Wed 07:55]
+:END:
+
+**** DONE Upload Tetralogy of Fallot self-study materials
+:PROPERTIES:
+:SYNCID:   F2247C4C-3F45-4DBA-8197-B9B3A79E77EB
+:ID:       2FE5D0BB-A425-40BD-ACF9-869928F65250
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-24 Wed 08:03]
+:END:
+*** 2019-07-24 Wednesday
+**** Health Screening Atrium Lobby <2019-07-24 Wed 06:40-07:40>
+:PROPERTIES:
+:SYNCID:   BD54E6C7-0F67-4D54-8B48-F5D10F35AD30
+:ID:       1C361CD0-5166-485C-9DFC-877E4526DE5A
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:07] \\
+  This took all of 10 minutes.  Height (5'7" even with shoes on sounds high), weight (175 pound sounds about right), blood pressure (120/80), and blood draw, presumably for cholesterol and whatever else.
+  
+  Results available online in a couple days.
+:END:
+**** HDHR Core Disciplines; Location: AAC 403; Large Conference room <2019-07-24 Wed 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   BE918A67-9E2A-4660-B469-BBEBD5D52812
+:ID:       02700D45-1841-49F8-B77C-42C58B2C48E4
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-25 Thu 08:03]
+:END:
+***** DONE [#A] Change influenza take home point
+**** CCE I&I Planning Meetings (Bob, Tom & Aimee); Location: Large conference room <2019-07-24 Wed 14:30-15:00> :: This meeting didn't happen.  No one else showed up.
+:PROPERTIES:
+:SYNCID:   4BC67463-2B3B-4F74-9C46-FBA51EBE352A
+:ID:       ADC52583-DFA7-4AD8-9F56-BBF7D393F6E0
+:END:
+*** 2019-07-25 Thursday
+**** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   52007325-6876-493A-8371-D5BCB2354E9F
+:ID:       E012DB88-DD0B-4504-90F4-28323EA66437
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 07:52] \\
+  We looked at Lecturio.  There was a request for more time to evaluate.
+  
+  Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
+:END:
+*** 2019-07-26 Friday

@@ -27,6 +27,22 @@
 ** [[/Users/thomasshannon/Library/Mobile Documents/com~apple~CloudDocs/Word/Fadi Summary of Comments_030719.docx][Fadi Summary of Comments_030719.docx]]
 ** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/RMD 575  Course Review TRS 2019-03-09.docx][RMD 575  Course Review TRS 2019-03-09.docx]]
 ** [[https://docs.google.com/document/d/1MHQGdPBUnFGrXRJz2aC1gXNqYSRKqq35Iy8bqINwc5g/edit][Vital Gases Cases and Topics]]
+** [[https://docs.google.com/spreadsheets/d/1_VMfu7Fnq4PhGPqMDAKH7mbvZbPvaLps3IijSZTclQE/edit?usp=sharing][Activity Team Assignments to M1 Cases 2018-2019]]
+:PROPERTIES:
+:SYNCID:   09F400CB-2136-4F0E-9248-52629D085F6B
+:ID:       842B171A-B955-4C33-81AE-99A7F8EF963D
+:END:
+** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
+:PROPERTIES:
+:SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
+:ID:       755FF65D-6A1C-4DF8-824C-EDFA4BA10AA9
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-26 Fri 08:13] \\
+  Deadlines for Vital Fluids added to calendar.
+:END:
+*** Add deadlines for Vital Gases to your calendar (they are in November).
+SCHEDULED: <2019-10-01 Tue>
 * *Links*
 ** [[http://www.differencebetween.net/science/health/difference-between-forced-vital-capacity-and-vital-capacity/][Difference Between Forced Vital Capacity and Vital Capacity | Difference Between | Forced Vital Capacity vs Vital Capacity]]
 

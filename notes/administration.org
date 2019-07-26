@@ -21,6 +21,24 @@ message:%3C0101016bc8dda57f-7454b94d-2f96-46a7-97b2-831db63d7efe-000000@us-west-
 - Note taken on [2019-07-17 Wed 07:01] \\
   Apparently this resolved itself because the issues aren't listed any more.
 :END:
+** CANCELED [#A] Sign and return contract
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-07-25 Thu 08:04] \\
+  Actually didn't have to do this.  This was just a copy of the contract for my records.  We did have to straighten out and error.
+:END:
+** DONE [#A] Complete this.  Due July 26. [[message://%3c269d583cc6d94f38897aad749ab031ca@RUPW-EXCHMAIL02.rush.edu%3E][Mandatory Identifying and Reporting Abuse LEAP Module Deadline]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 09:22]
+:END:
+
+** DONE Completed conflic of interest statement.  No conflicts that I could think of.
+:PROPERTIES:
+:SYNCID:   B73BF4BA-41F0-4346-874D-87C48E641B9D
+:ID:       E25DF361-403D-48BB-B73D-91C1D426EE7E
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 08:56]
+:END:
 * *Ticklers*
 ** DONE [#A] Get back to Bob on this.
 SCHEDULED: <2019-07-08 Mon>

@@ -37,6 +37,21 @@ SCHEDULED: <2019-06-10 Mon>
 [2019-07-05 Fri 05:34]
 https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
 
+** DONE [#A] Contact Dan and see if there is new data
+:PROPERTIES:
+:SYNCID:   FF1FBE7E-B063-4AD9-A4BB-C1E127B5ADDC
+:ID:       36B093C3-CF74-490C-BF0A-0977ED3C7D4E
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-19 Fri 08:26] \\
+  There is.  Download it and analyze it
+:END:
+** Download and analyze the last data from Dan.
+SCHEDULED: <2019-07-29 Mon>
+** DONE [#A] Download Dan's data and get it off your hard drive
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-22 Mon 08:25]
+:END:
 * *Ticklers*
 ** DONE [#A] Consider re-uping mantenance agreement for IDL [[message://%3c0625ed0fbf874548891800b852e2a7f5@MLBXCH15.cs.myharris.net%3E][Quote No. QTO-042209]]
 SCHEDULED: <2019-07-08 Mon>
@@ -821,3 +836,8 @@ Dan Bare:
 ***** 2019-07-11-15 :: Nothing
 ***** 2019-07-11-16 :: Nothing
 ***** 2019-07-11-17 :: Nothing
+** [[https://dzone.com/articles/top-10-python-libraries-you-must-know-in-2019?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone][Top 10 Python Libraries You Must Know in 2019]] :: Includes a brief description of SciPy and NumPy
+:PROPERTIES:
+:SYNCID:   C3C003F7-0BDB-4B2B-B418-5F235BE9899C
+:ID:       E526551D-16AE-4CA7-B676-33E9DA8FDEE2
+:END:

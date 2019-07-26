@@ -97,7 +97,10 @@ SCHEDULED: <2018-12-04 Tue>
 ******* Tetralogy of Fallot on 10/17 is a double case.  It would be extremely helpful if you coul dmove the final off of Monday into the previous week.
 ******* I think we can justify putting the EKG workshop on 11/15 but Friday (11/16) would be better after the formative
 ******* Pre-renal dehydration is a double case.  Putting it the Monday after the midterm on Friday is a disaster waiting to happen.  This session was universally reviled last year as it landed the day after a formative.  I don't know what to do with this session but putting it there is a problem.  Maybe you coud move this sesson to Tuesday and put the midterm on Thursday the week before.
-** TODO [[https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1556581343002900][Do the workflows for I&I]]
+** DONE [[https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1556581343002900][Do the workflows for I&I]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-26 Fri 09:49]
+:END:
 ** DONE FU Princess on inviting the whole commette to the I&I second meeting
 [[message://%3cCCCEBA54-BD67-48D8-8EC7-F50C0994A3C7@rush.edu%3E][Re: 2nd Implementation & Integration Meeting]]
 ** DONE Write up procedure for CDs to go thorugh Workload data.
@@ -134,8 +137,21 @@ Tom S.
 ** DONE FU: Aimee on [[message://%3c91F93F0B-264D-4026-80F8-7C44C1BFEC04@rush.edu%3E][Core WG items ]]
 ** [#A] [[https://rmc-integrated.slack.com/archives/GG7465D36/p1551737933005400][SOPs for I&I]] :: Do this before Beth takes over to get it off her plate
 *** Grading rubric?
-** Look at workload assessment                                    :Princess:
-SCHEDULED: <2019-07-19 Fri>
+** CANCELED Look at workload assessment                           :Princess:
+:LOGBOOK:
+- State "CANCELED"   from              [2019-07-23 Tue 09:12] \\
+  Cutting down to one relevant todo.
+:END:
+** DONE [#A] Talk to Danesha about electives
+:PROPERTIES:
+:SYNCID:   3AEE3979-1720-4A4D-BF8F-441445395A7A
+:ID:       2B7EDF85-B77F-41C4-BE55-EEFD583467C1
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:36] \\
+  Actually talked to Lisa.  Apparently the transition to Danesha hasn't happened yet as this was the first that she heard that she would be coordinating pre-clerkship.  But I think it will eventually fall to her.
+- State "DONE"       from "TODO"       [2019-07-24 Wed 08:36]
+:END:
 * *Ticklers*
 ** DONE Workload as part of course review?
 [2018-11-27 Tue]
@@ -152,10 +168,14 @@ They want to present it at the next meeitng instead
 *** We need a written proposal
 *** Michelle Sweet needs to talk to the CD about the concerns which were raised in the meeting.
 ** Add urinalysis topic to pathophys and path and delete from practitioner
-SCHEDULED: <2019-07-19 Fri>
+SCHEDULED: <2019-08-08 Thu>
 :PROPERTIES:
 :SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
 :ID:       CADCFB95-3E7F-4842-84FD-F1EE311B0455
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-26 Fri 09:48] \\
+  Check for this after deadline on August 8
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
 ** DONE [#A] Started the process of reviewing the new course review website.  I will probably encourage members to submit their comments via email so that we can have a quick vote at the next WG meeting.  Talk to Adam about this.
@@ -168,11 +188,15 @@ SCHEDULED: <2019-05-16 Thu>
 ** Consider talking to Rahul and Bob to get Princess some help with the workload assessment.
 ** DONE If you havne't heard from Princess on it, foloow up on workload assessment a week from Monday.
 SCHEDULED: <2019-06-17 Mon>
-** FU Princess on workload assessment                             :Princess:
-SCHEDULED: <2019-07-19 Fri>
+** FU Princess on workload assessment
+SCHEDULED: <2019-07-29 Mon>
 :PROPERTIES:
 :SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
 :ID:       7F16B359-E59B-4303-BA40-1D9A50CEB938
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:10] \\
+  [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
 * *Meetings*
 ** CCE <2017-10-25 Wed 12:00-13:00>
@@ -351,10 +375,13 @@ Entered on [2019-04-24 Wed 09:20]
 ***** DONE [#A] Send Deri one of the VF cardiovascular lessons to look at.  
 Maybe both the Heart Lesson (Levis style) and the Structure and function notes which were converted from the Joel Michale style.
 **** Make sure all of the figures used in the videos aare in the notes.
-***** CANCELED I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
+***** DONE [#A] I need to makes sure that the heart failure case figues from the videos get added to my own heart notes
 :PROPERTIES:
 :SYNCID:   5D7DF3D7-86FC-4083-A7A7-2B59E1D5377A
-:ID:       A350A3C8-5B89-4500-B803-5FBE34BF9D45
+:ID:       883B64F4-3E2A-4812-A8E3-69408CF661B7
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-23 Tue 13:05]
 :END:
 **** CANCELED [#A] Re-write summative questions and maybe formative questions to make them consistent with each other and of the same difficulty.
 **** Re-record videos standing in front of the camera
@@ -472,7 +499,15 @@ Maybe both the Heart Lesson (Levis style) and the Structure and function notes w
   Yes, they are wonky.  The spreadsheet was messed up and she will work on correcting it.  She doesn't seem to believe that we are talking about weeks of work so that's good.
 
 *** FU Princess on workload assessment
-SCHEDULED: <2019-07-19 Fri>
+SCHEDULED: <2019-07-29 Mon>
+:PROPERTIES:
+:SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
+:ID:       71E8C04A-8128-4334-8360-7C272DA47A49
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-24 Wed 08:10] \\
+  [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
+:END:
 ** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM CHANGE - AAC 1046  **https://urldefense.proofpoint.com/v2/url?u=https-3A__zoom.us_j_638903670-2A-2A&d=DwIBAg&c=XxU8ngzB_WPJXKyiin_6iQ&r=RuY8qNzGruKLm-YXF26i3a2m7uI0vhiNPwrxL-dv2MQ&m=1Bp-hCjr0trH6vXgEi2XHSJBN2eBSJEKwp4ON8oaABM&s=dYDTiWt_g02MdkYuDSuK1YU1RO4vLHFCB_-PRJpQrpE&e=  <2019-06-26 Wed 12:00-13:30>
 :PROPERTIES:
 :SYNCID:   9157F9FF-6CF4-42AA-A7BA-BC23BCD6E63B
@@ -500,6 +535,45 @@ SCHEDULED: <2019-07-19 Fri>
 **** DONE [#A] Talk to Mike about reviewing electives
 *** Meeting moved to the 17th becasue of conflict with COSEP
 
+** Princess regarding Workload Assessment <2019-07-17 Wed 10:30-10:45>
+:PROPERTIES:
+:SYNCID:   71B16F6E-CCC5-41E3-B778-C46E1B39B440
+:ID:       5391C517-C211-4D4C-8452-D289A3C322DC
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-17 Wed 16:11] \\
+  We worked out a procdure to take the next step and send this out.  Princess will work up a form for the CDs to fill out and send it to me to look at.
+:END:
+** CCE Integration & Implementation (I&I) Subcommittee; Location: OIME, AAC 403, Large Conference Room **https://zoom.us/j/318926177** (First Meeting Only) -  Remaining 2019 Locations Pending  <2019-07-17 Wed 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   953A522F-6271-4BB1-9C88-7D0E5C98FEC9
+:ID:       66C30431-0CFE-4903-A23F-29194F7E53AD
+:END:
+*** Course Reviews
+**** peds subI review
+**** FtF
+**** Neurrology Clerkship
+**** Peds Sub I
+*** Had to leave at about 12:40 so I don't know what else they got through.
+
+** CCE; Location: Executive Office conference room in the President’s office suite <2019-07-24 Wed 12:00-13:30>
+*** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>
+:PROPERTIES:
+:SYNCID:   41F41D49-7718-48A5-B755-912517DF7E36
+:ID:       8D54EA1F-C0B5-4BF2-BF61-64394F9821F2
+:END:
+**** Ricsip as a co-curricular? -  RICSP is actually administered by the university through Sharon Gates office (Senior Director, Community Engagement at Rush University Medical Center).  There are apprently some other Med. School activities that are co-curricular.  Service learning is required to graduate but its not a transcripted course.
+**** Notes :ATTACH:
+:PROPERTIES:
+:ID:       A646EB1C-9BC2-4AC0-855D-9D97B4B94C42
+:Attachments: UCC%20Agenda%20July%2022%202019.pdf
+:END:
+[[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/64/1B6B7E-B476-4342-8206-A2ACD67E66DD/UCC Agenda July 22 2019.png]]
+** CCE I&I Planning Meetings (Bob, Tom & Aimee); Location: Large conference room <2019-07-24 Wed 14:30-15:00> :: This meeting didn't happen.  No one else showed up.
+:PROPERTIES:
+:SYNCID:   4BC67463-2B3B-4F74-9C46-FBA51EBE352A
+:ID:       C3432184-EBDA-4A6A-A079-062654B9C2CF
+:END:
 * *Notes*
 ** [[message://%3c1544155327135.66237@rush.edu%3E][I&I agenda for 12/12]] <2018-12-12 Wed>
 [2018-12-07 Fri]
@@ -529,3 +603,4 @@ SCHEDULED: <2019-07-19 Fri>
 - Note taken on [2019-07-16 Tue 08:00] \\
   https://rmc-integrated.slack.com/archives/DCE1HRZEG/p1563204483034200
 :END:
+

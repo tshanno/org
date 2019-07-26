@@ -3,6 +3,21 @@
    [2018-11-27 Tue]
 ** DONE George Papadakis video
    [2018-11-27 Tue]
+** WAITING [#A] Get back to Anne and Syed on CHF self-study.  https://rmc-integrated.slack.com/archives/D6JP19H7H/p1563403914001700
+:PROPERTIES:
+:SYNCID:   955CCBDD-D6C6-48A6-BCCC-835528B01040
+:ID:       95EF3DE5-E6F4-41FC-A28D-FF899F0147BB
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-26 Fri 09:45] \\
+  [2019-07-25 Thu] Finished a preliminary version of this and notified Anne.    Waiting for feedback.
+:END:
+*** [[https://docs.google.com/document/d/1LL3ceOZmes9jh_eHQq_LnLy0rnknlm2Ked2Qeu268fQ/edit#heading=h.ycp80n5r10x2][RMD 574 CHF self-study - Google Docs]]
+*** Talk to Anne about CHF self-study at Core Disciplines meeting.
+:PROPERTIES:
+:SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
+:ID:       B2C97C66-62B2-4B75-9935-BC4A93A8B517
+:END:
 * *Ticklers*
 * *Miscellaneous Notes*
 

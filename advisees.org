@@ -143,6 +143,18 @@ Vissaagan Gopalakrishnan
 Rush Medical College, Class of 2021
 vissaagan@rush.edu | 847-630-6883
 
+** [[message://%3cD068BB2B-9364-4308-8F69-3B39A6B7E465@rush.edu%3E][Medleaders]]
+:PROPERTIES:
+:SYNCID:   09986178-6D75-4829-B272-EFA0192C9190
+:ID:       46446A1B-E997-48E9-8AAA-CFF8ABFF8747
+:END:
+
+
+I forgot to mention, it would be great if you would all document your meetings with students in Medleaders (https://admin.gradleaders.com/Rush/Admin/Login.aspx?sid=424). It doesn’t have to be an exhaustive note, just documentation that the meeting happened would be a great start.  Christine can help with any tech issues.
+
+Best,
+
+Jay
 * *Tasks*
 ** DONE [[message://%3cc6c4e699fdef49269394d7cd8b73c85d@RUDW-EXCHMAIL01.rush.edu%3E][FU with Jay]]
    [2018-12-21 Fri]
@@ -152,6 +164,33 @@ vissaagan@rush.edu | 847-630-6883
 ** DONE FU Christine on advisees
    SCHEDULED: <2019-03-13 Wed>
 	[[message://%3cE896DD60-5D9A-4C33-9F1A-E701C617A600@rush.edu%3E][Re: IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
+** TODO [#A]  Reach out to [[message://%3cfdbe6b714bd646679ee57535c5e08fe4@RUDW-EXCHMAIL01.rush.edu%3E][M4s]] :ATTACH:
+:PROPERTIES:
+:Attachments: Photos-%20class%20of%202020-%20Hedger%202019-07-24.docx
+:ID:       0C0A6235-FBA1-40FF-814D-3D6BB720A2AB
+:END:
+
+
+Tom,
+ 
+The M4s received their class rank yesterday and are well into the residency application process.  I am sure they would appreciate an opportunity to touch base with you about this process.  So, please do reach out to them individually in the next couple of weeks.
+ 
+Best,
+ 
+Jay
+
+*** [[message://%3cD068BB2B-9364-4308-8F69-3B39A6B7E465@rush.edu%3E][Medleaders]]
+:PROPERTIES:
+:SYNCID:   09986178-6D75-4829-B272-EFA0192C9190
+:ID:       6396703A-AFBF-466A-B559-DB53B2AA9421
+:END:
+
+
+I forgot to mention, it would be great if you would all document your meetings with students in Medleaders (https://admin.gradleaders.com/Rush/Admin/Login.aspx?sid=424). It doesn’t have to be an exhaustive note, just documentation that the meeting happened would be a great start.  Christine can help with any tech issues.
+
+Best,
+
+Jay
 * Contact M2s about advising event                                 :advisees:
 ** message://%3Ca4f2c6488eec44dbbd61cc40de376c28@RUPW-EXCHMAIL01.rush.edu%3E
 * DONE [#A] Prepare for advising event
