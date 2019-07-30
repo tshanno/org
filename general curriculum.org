@@ -513,6 +513,12 @@ If you need any help with this or have any questions, please let me know and I w
 *** Add deadlines for Vital Gases to your calendar (they are in November).
 SCHEDULED: <2019-10-01 Tue>
 ** Phone number for conference room 942-8544
+** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
+:ID:       641DB528-19D8-48FE-97CF-005B0E075C70
+:END:
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

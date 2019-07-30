@@ -574,6 +574,12 @@ SCHEDULED: <2019-07-29 Mon>
 :SYNCID:   4BC67463-2B3B-4F74-9C46-FBA51EBE352A
 :ID:       C3432184-EBDA-4A6A-A079-062654B9C2CF
 :END:
+** AY19 CCE Executive Meeting; Location: AAC 1098 - Zoom: https://zoom.us/j/638903670  (Remaning AY19 Room Locations - TBD)  <2019-07-31 Wed 12:00-13:30> :ATTACH:
+:PROPERTIES:
+:Attachments: 2019.07.31_Executive_Meeting%20Materials.pdf UCC%20Agenda%20July%2022%202019.pdf
+:ID:       84F6F0BB-96F8-4E18-A978-4289BB5B3F8B
+:END:
+
 * *Notes*
 ** [[message://%3c1544155327135.66237@rush.edu%3E][I&I agenda for 12/12]] <2018-12-12 Wed>
 [2018-12-07 Fri]

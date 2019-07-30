@@ -12,5 +12,26 @@ SCHEDULED: <2019-06-20 Thu>
   Bob said to check with Angela Solic but he didn't think it was ready.
 :END:
 * *Ticklers*
+** See if the revew session for Formative got moved from 9/12 to 9/17
+SCHEDULED: <2019-08-15 Thu>
+:PROPERTIES:
+:SYNCID:   18A1CCA9-4C49-4E00-8A71-4B1CDD394AAD
+:ID:       5986B895-DDAC-4917-BFC1-B25B4F0C1C00
+:END:
+** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+:PROPERTIES:
+:SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
+:ID:       005118BD-0F7E-4846-ADD4-791B6AA47AB5
+:END:
+
+** FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+SCHEDULED: <2019-07-31 Wed>
+:PROPERTIES:
+:SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
+:ID:       26071DAE-F715-41CB-9559-2781D4CE9B9C
+:END:
+
+There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
+
 * *Meetings*
 * *Notes*

@@ -44,6 +44,27 @@ SCHEDULED: <2019-08-05 Mon>
 SCHEDULED: <2019-07-26 Fri>
 
 ** Contact Keith and update him on AGB, infertility and teen preganancy
+** See if the revew session for Formative got moved from 9/12 to 9/17
+SCHEDULED: <2019-08-15 Thu>
+:PROPERTIES:
+:SYNCID:   18A1CCA9-4C49-4E00-8A71-4B1CDD394AAD
+:ID:       36CDE2C1-817A-44A8-8960-7C988A92ABCB
+:END:
+** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+:PROPERTIES:
+:SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
+:ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
+:END:
+
+** FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+SCHEDULED: <2019-07-31 Wed>
+:PROPERTIES:
+:SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
+:ID:       D569CC8C-F8A8-4053-A8DD-638871B4440C
+:END:
+
+There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
+
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -393,6 +414,14 @@ SCHEDULED: <2019-09-09 Mon>
 *** TODO [#A] Update contact info for immuno/micro
 
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   F22828B4-9D6E-4B09-B98B-972AA37FE667
+:ID:       B59CAF0A-F761-45E0-8F7E-9FA75CB7F8FA
+:END:
+*** Ask Anne about these Praticioner:  Physical Exam, Genitourinary Exam Labs which are scattered throughout S&R
+*** Discuss Anne's comment about including info the student don't need to know under differential
+*** Discuss  Anne's comments in Teen Pregnancy
+*** Discuss Anne's comments on Infertility
 *** [[message://%3c1564246881954.53824@rush.edu%3E][male infertility activity]]
 
 
@@ -412,6 +441,23 @@ Jerome Loew, MD
 Department of Pathology, RMC
 847-533-1500 (cell)
 312-942-8850
+** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>
+:PROPERTIES:
+:SYNCID:   B170C263-0AA3-449F-AD2C-67DFA109BC2B
+:ID:       A11BF094-EC2E-4DF4-8910-DC5C6DA6B844
+:END:
+*** Where are we on self-studies?
+**** Danesha says she has this in hand.  Advocate is her Only issue.  She is working with Pail Kent.
+**** Advocate:  Sexual Assault and Patient Care in the Emergency room (9/15) went from a 2 hour session to a 1 hour lecture this year.  Does he need to change his self-study?
+**** Advocate:  Trauma and Informed Care
+***** This sounds more like a professional session
+***** It has no self-study
+***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
+**** TODO [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+*** We are finalizing the faculty guides now.
+**** AGB and PID hopefully Wednesday
+**** Teen PRgnancy early next week
+**** Fetal Death this Friday.
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -496,6 +542,12 @@ If you need any help with this or have any questions, please let me know and I w
 :END:
 *** Add deadlines for Vital Gases to your calendar (they are in November).
 SCHEDULED: <2019-10-01 Tue>
+** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
+:ID:       47EA6AD2-5AFB-47FE-9273-5ECA841EF080
+:END:
+
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -672,6 +724,10 @@ SCHEDULED: <2019-07-01 Mon>
   Yes.
 - State "DONE"       from "TODO"       [2019-07-29 Mon 08:06]
 :END:
+** TODO [#A] Get back to Bill on [[message://%3c30a0909c69d748738f475f9e8a96e6a7@RUPW-EXCHMAIL02.rush.edu%3E][Verifying faculty]]
+
+** TODO [#A] Do this [[message://%3c1BB14A88-9BBA-41C7-A0D7-FA1406A00955@rush.edu%3E][RMD 566 S&R Assessment Blueprint]]
+
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]

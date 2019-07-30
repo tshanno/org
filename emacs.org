@@ -614,6 +614,12 @@ So this looks promising.  But you have to use pip.  And I'm so unfamiliar with p
 EDIT: Thank you to u/xtifr for showing me toggle-rot13-mode, exactly what I needed!
 
  https://www.reddit.com/r/emacs/comments/ciz8bz/obfuscate_text_as_im_typing_it/
+** EmacsConf (online conference)
+SCHEDULED: <2019-10-01 Tue>
+https://emacsconf.org/2019/cfp
+
+ Schedule Published   October 1, 2019  
+ EmacsConf 2019!  November 2, 2019
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

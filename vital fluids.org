@@ -140,6 +140,12 @@ There are several sessions that have no, or very few topics assigned to them. Iâ
 :END:
 *** Add deadlines for Vital Gases to your calendar (they are in November).
 SCHEDULED: <2019-10-01 Tue>
+** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
+:ID:       FDD8AEA8-8535-48D7-8E59-0F4F54CA8D0D
+:END:
+
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -216,6 +222,13 @@ SCHEDULED: <2019-08-14 Wed>
 SCHEDULED: <2019-08-14 Wed>
 ** Due date to have final faculty guides in place for Vital Fluids <2019-09-18 Wed>
 SCHEDULED: <2019-09-11 Wed>
+** Talk to Princess about VF topics and see if we're good.
+SCHEDULED: <2019-07-31 Wed>
+** Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
+SCHEDULED: <2019-07-31 Wed>
+** Elif will be late with BCS [[message://%3c07E6C007-9C20-41FB-9FE3-457D9E81CD42@rush.edu%3E][Re: RMC: Deadlines for materials in 19/20]]
+SCHEDULED: <2019-08-08 Thu>
+
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -469,6 +482,9 @@ SCHEDULED: <2019-06-27 Thu>
 
 
 ** DONE [#A] Look over 574 exam [[message://%3c25EE3046-017B-42D4-AF3E-B177524EC381@rush.edu%3E][Re: 574 reassessment - final review]]
+
+** TODO Convert VF faculty guides to new format
+SCHEDULED: <2018-08-06 Mon> DEADLINE: <2019-08-08 Thu>
 
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>

@@ -145,6 +145,15 @@ SCHEDULED: <2019-07-12 Fri>
 ** Dad and Mom Visit <2019-08-01 Thu> -- <2019-08-04 Sun>
 
 ** Lollapalooza Aug. 1-4 at Grant Park <2019-08-01 Thu>--<2019-08-04 Sun>
+** Camp Cardiac Lecture; Location: Rm 539 AAC <2019-07-29 Mon 11:00-12:00> :ATTACH:
+:PROPERTIES:
+:Attachments: camp%20cardiac%202019-07-26.pptx
+:ID:       6643204F-F120-41BD-8C39-04C23761EC59
+:SYNCID:   6F252DCA-9F2A-4B15-B700-F9C003AAA07B
+:END:
+
+This went well.  I took my time and finished rihgt on time.  I didn't need to go on to the ANS material.
+
 * DONE Pay credit card                                              :finance:
 - Note taken on [2017-11-07 Tue 07:44] \\
   message://%3C1491445829.10139983.1509987142568.JavaMail.wasadm@cdc2vpc5lpr22%3E

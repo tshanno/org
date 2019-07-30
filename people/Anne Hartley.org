@@ -16,4 +16,32 @@
 :END:
 * *Ticklers*
 * *Meetings*
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   F22828B4-9D6E-4B09-B98B-972AA37FE667
+:ID:       BD3A4671-DE5A-4AB4-89A1-3AE5FD0FB6F7
+:END:
+*** Ask Anne about these Praticioner:  Physical Exam, Genitourinary Exam Labs which are scattered throughout S&R
+*** Discuss Anne's comment about including info the student don't need to know under differential
+*** Discuss  Anne's comments in Teen Pregnancy
+*** Discuss Anne's comments on Infertility
+*** [[message://%3c1564246881954.53824@rush.edu%3E][male infertility activity]]
+
+
+This sounds like a good idea except that I have concerns about the ability of the students to get a differential based upon the self-study that we’ve given them (or, more accurately, the lack of male information in the self-study the we’ve given them).
+
+I’d say this would be OK if you are careful about what you do.  They’re basically gong to have to be able to figure out the answers from what is in the pathology and genetics lessons, what the clinical educators tell them as they walk them through the clinical reasoning for the male vignette above your exercise, and common sense.
+
+Tom S.
+
+On Jul 27, 2019, at 12:01 PM, Jerome Loew <Jerome_Loew@rush.edu> wrote:
+
+For the male infertility activity, there are possible causes in several organs and several types of disease.  It would not be easy for the students to derive a broad differential diagnosis from the histopathology self-study materials for this case.  This seems like a good opportunity to get the students to formulate a differential based on a pathogenetic classification.  Examples include infection, toxic exposures, metabolic/endocrine disorders, congenital malformations, and genetic abnormalities.  They may already be thinking this way but I don't think it's been emphasized.
+
+Comments please...
+
+Jerome Loew, MD
+Department of Pathology, RMC
+847-533-1500 (cell)
+312-942-8850
 * *Notes*
