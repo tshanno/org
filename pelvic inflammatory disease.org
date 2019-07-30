@@ -58,14 +58,17 @@
 :SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
 :ID:       81B451FE-93C7-4A98-BE48-A17CB05E39B7
 :END:
+** TODO [#A] PowerPOint for PID
 * *Ticklers*
 ** [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
   [2018-10-03 Wed]
   [2018-10-03 Wed]
 
+** Contact Carl and update him on PID
+SCHEDULED: <2019-08-02 Fri>
 * *Meetings*
-** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
 :ID:       4143D7C6-FE7C-4E01-8217-635E246FF07F

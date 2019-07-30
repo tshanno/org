@@ -11,7 +11,10 @@
 ** TODO [#A] Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
    [2018-12-04 Tue]
 ** DONE [#A] Send arrhythmia objectives to Princess if necessary
-** TODO [#A] Remake the arrhythmia lesson video as you did it before collaborating with Mike
+** DONE [#A] Remake the arrhythmia lesson video as you did it before collaborating with Mike
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-29 Mon 14:33]
+:END:
 * *Ticklers*
 * *Meetings*
 * *Miscellaneous Notes*

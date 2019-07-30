@@ -69,6 +69,7 @@ SCHEDULED: <2019-08-02 Fri>
 - State "DONE"       from "TODO"       [2019-07-24 Wed 07:55]
 :END:
 
+** TODO [#A] Fill this out [[message://%3c1B83ED71-95A9-47C5-9B3A-255D63B6D636@rush.edu%3E][Re: Fidelity Financial Planning]]
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
 ** 3 PM Tuesday [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][RE: Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop <2019-07-30 Tue 15:00-16:00>
@@ -81,6 +82,33 @@ Chicago, IL 60602
 Fidelity Brokerage Services LLC
 Fidelity Investments
 
+*** [[message://%3c8ca4d94a-21c7-42de-95a2-722ce4cbf7e1@las1s04mta904.xt.local%3E][A reminder that your meeting is coming up]]
+
+
+You indicated you would like to discuss:
+ 
+Your Portfolio
+ 
+Your appointment is scheduled for:
+ 
+July 30, 2019 at 03:00 PM CDT
+ 
+Confirmation #: 3710943
+ 
+ 
+You will be meeting with:
+ 
+	Dylan Heathman
+Financial Consultant
+312-346-9327, ext. 42495
+ 
+Your meeting will be at the Chicago North LaSalle Investor Center located at:
+1 North LaSalle Street, Suite 100
+Chicago, IL 60602
+Investor Center Info & Directions
+** Fidelity [[message://%3c643cc155-f7aa-4cc6-ae1e-d8883838d3c8@las1s04mta906.xt.local%3E][Your meeting has been confirmed]] <2019-07-30 Tue 15:00-16:00>
+U:tshanno119
+p:Knothole7orange!
 * *Large Expenses*
 ** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
 :PROPERTIES:

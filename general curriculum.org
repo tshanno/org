@@ -261,13 +261,17 @@ Objectives now posted by week
 :ID:       EF0FC1AA-53DF-4E3B-AC8A-9C7B3DC48CEB
 :END:
 *** TODO Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+:PROPERTIES:
+:SYNCID:   DB402237-22B1-429F-94C0-A292BCABE0A0
+:ID:       622BEB0C-CFEF-40C4-B124-2FB1938EBA3B
+:END:
 *** Thinking about requiring students to pass each discipline at the end of the year                                                                    
 **** Assessment needs to give us the breakdowns for next year so that we can evaluate the effect on students grades
 **** We need to move fast if we want to get this started for 2019-2020.  Bob didn't seem to interested in pushing it ahead that quickly so I doubt it will happen.  Probably 2020-2021.
 **** Check in and see how this policy requiring students to pass all of the disciplines over the course of the year.  If its going to happen in 2021, Bob has to move now.
 SCHEDULED: <2020-02-14 Fri>
 
-** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
+** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   52007325-6876-493A-8371-D5BCB2354E9F
 :ID:       74A23B20-29D9-4ACC-A961-69A74BDD72B5
@@ -508,6 +512,7 @@ If you need any help with this or have any questions, please let me know and I w
 :END:
 *** Add deadlines for Vital Gases to your calendar (they are in November).
 SCHEDULED: <2019-10-01 Tue>
+** Phone number for conference room 942-8544
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

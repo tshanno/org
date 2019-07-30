@@ -194,8 +194,8 @@ SCHEDULED: <2019-08-08 Thu>
   Check for this after deadline on August 8
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
-** TODO [#A] [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
-SCHEDULED: <2019-07-19 Fri>
+** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
+SCHEDULED: <2019-08-01 Thu>
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
@@ -205,8 +205,10 @@ SCHEDULED: <2019-07-02 Tue>
 :ID:       4FB38B6F-4CB0-4FDC-A05A-F894BF213923
 :END:
 
-** Reminders for VF due date
-SCHEDULED: <2019-07-29 Mon>
+** DONE [#A] Reminders for VF due date
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-29 Mon 13:44]
+:END:
 [2019-07-11 Thu 12:44]
 ** Deadline to get Self-Study guides to review team for Vital Fluids <2019-08-21 Wed>
 SCHEDULED: <2019-08-14 Wed>
@@ -414,8 +416,8 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] Syed promised changes to CI by Monday.  Make sure EKG is covered in topics in VF
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
-** TODO [#A] Add cardiac tamponade to HF
-SCHEDULED: <2019-07-19 Fri>
+** Add cardiac tamponade to HF
+SCHEDULED: <2019-08-01 Thu>
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
 :ID:       CFBEE68E-3A0F-4A25-A4BA-8F784D347A90

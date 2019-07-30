@@ -10,7 +10,8 @@
 *** Notes :ATTACH:
 :PROPERTIES:
 :Attachments: UCC%20Agenda%20July%2022%202019.pdf UCC%20Agenda%20July%2022%202019.png
-:ID:       641B6B7E-B476-4342-8206-A2ACD67E66DD
+:ID:       CDD8AF15-8AED-4FB5-A4F7-EDDF7DBD1F43
+:SYNCID:   8881B6BB-B4B1-4F99-AE78-0C261BF7186C
 :END:
 [[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/64/1B6B7E-B476-4342-8206-A2ACD67E66DD/UCC Agenda July 22 2019.png]]
 * *Notes*

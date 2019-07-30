@@ -31,7 +31,7 @@ SCHEDULED: <2019-07-08 Mon>
 
 
 ** Check to see who you need to invite to Core Disciplines August 2
-SCHEDULED: <2019-07-29 Mon>
+SCHEDULED: <2019-08-05 Mon>
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
 :SYNCID:   892288F3-489C-41E6-8C85-7237F1998DF4
@@ -40,9 +40,10 @@ SCHEDULED: <2019-07-29 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** TODO Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
+** Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
 SCHEDULED: <2019-07-26 Fri>
 
+** Contact Keith and update him on AGB, infertility and teen preganancy
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -320,7 +321,7 @@ Abnormal Genital Tract Bleeding?
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
 :ID:       E2565506-876D-4639-9C14-FAD56996FC00
 :END:
-** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
 :ID:       D3C7964E-1889-432A-9EE7-E625472E6254
@@ -346,6 +347,71 @@ Abnormal Genital Tract Bleeding?
 *** Mark promised to re-write the pathology exercise in AGB.
 *** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 SCHEDULED: <2019-08-09 Fri>
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-26 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
+:ID:       7F9A785B-1928-46F6-8718-C7DA8F4D4376
+:END:
+*** Gary is going to alter the PID exercise to make it clear what the students need to know.
+SCHEDULED: <2019-08-02 Fri>
+*** Mark promised to re-write the pathology exercise in AGB.
+*** Alter the concept map for male infertility or replace with a path activity
+*** Talk to Anne about CHF self-study at Core Disciplines meeting.
+:PROPERTIES:
+:SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
+:ID:       A68CA9BF-19F5-4A88-89E7-924AB5EDA9E7
+:END:
+*** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
+
+
+Hi, guys.
+
+Just a quick note on where we are at with the faculty guides and the session activities.
+
+1.  Some general edits:
+
+I need to check the dates in the headers of all of these guides.  I’ll get that done ASAP.
+
+We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+
+2.  Keith - Abnormal Uterine bleeding is basically done.   Mark Pool is going to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  Other than that, it should be good to go.
+
+3.  Carl - Pelvic inflammatory disease is almost done as well.  Gary has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.
+
+4.  Keith - Infertility:  Anne is working a little bit on the clinical reasoning.  Jerry is going to design a pathology activity to replace the physiology activity from last year.  Frankly, this concept map wasn’t my best work and the students correctly pointed out that we need more pathology activities in this block.
+
+5.  Keith - Teen pregnancy:  Anne is working a little bit on the clinical reasoning.  Other than that it looks pretty solid.
+
+Fetal Death is the last case in this block and we’ll talk about it next week.  The due date for Vital Fluids self-study materials is August 8 so we will likely move right into those guides on the 9th.
+
+Thanks to all for your help.
+
+Tom S.
+*** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
+SCHEDULED: <2019-09-09 Mon>
+*** TODO [#A] Change dates on faculty guides
+*** TODO [#A] Update contact info for immuno/micro
+
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
+*** [[message://%3c1564246881954.53824@rush.edu%3E][male infertility activity]]
+
+
+This sounds like a good idea except that I have concerns about the ability of the students to get a differential based upon the self-study that we’ve given them (or, more accurately, the lack of male information in the self-study the we’ve given them).
+
+I’d say this would be OK if you are careful about what you do.  They’re basically gong to have to be able to figure out the answers from what is in the pathology and genetics lessons, what the clinical educators tell them as they walk them through the clinical reasoning for the male vignette above your exercise, and common sense.
+
+Tom S.
+
+On Jul 27, 2019, at 12:01 PM, Jerome Loew <Jerome_Loew@rush.edu> wrote:
+
+For the male infertility activity, there are possible causes in several organs and several types of disease.  It would not be easy for the students to derive a broad differential diagnosis from the histopathology self-study materials for this case.  This seems like a good opportunity to get the students to formulate a differential based on a pathogenetic classification.  Examples include infection, toxic exposures, metabolic/endocrine disorders, congenital malformations, and genetic abnormalities.  They may already be thinking this way but I don't think it's been emphasized.
+
+Comments please...
+
+Jerome Loew, MD
+Department of Pathology, RMC
+847-533-1500 (cell)
+312-942-8850
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -600,7 +666,12 @@ SCHEDULED: <2019-07-01 Mon>
 :SYNCID:   4250BFE1-8D73-4D4A-8454-4021216DB9AD
 :ID:       AEC42176-DE99-4B3B-A499-1D06C1A2DCB0
 :END:
-** TODO [#A] Did the head-to-toe core physical exam self-study get put on GD?
+** DONE [#A] Did the head-to-toe core physical exam self-study get put on GD?
+:LOGBOOK:
+- Note taken on [2019-07-29 Mon 08:06] \\
+  Yes.
+- State "DONE"       from "TODO"       [2019-07-29 Mon 08:06]
+:END:
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]

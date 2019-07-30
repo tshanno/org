@@ -7,6 +7,11 @@ SCHEDULED: <2019-06-07 Fri>
 :END:
 - Note taken on [2019-06-09 Sun 07:11] \\
   Adam thought the M2s would consider this to be a waste of time becuase they already learned what's in it the hard way in their first year.
+** TODO Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+:PROPERTIES:
+:SYNCID:   DB402237-22B1-429F-94C0-A292BCABE0A0
+:ID:       8EF3594B-94B6-4A21-A84F-CE84F8AD60D5
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

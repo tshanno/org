@@ -12,7 +12,7 @@
 *** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       B2C97C66-62B2-4B75-9935-BC4A93A8B517
+:ID:       8BDD454D-4469-4824-858A-B215B27839FC
 :END:
 * *Ticklers*
 * *Meetings*

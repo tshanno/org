@@ -77,6 +77,13 @@ console.log(`Combined Array2 = `+combinedArray2)
 :SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
 :ID:       58D0B193-113C-433B-83DF-7A75B9A7A6F9
 :END:
+** Three Javascript Array Methods
+https://dzone.com/articles/3-javascript-array-methods-every-developer-should?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone%2Fwebdev
+In this article, we will discuss:
+
+1 join()
+2 split()
+3 sort()
 * DONE [[message://%3cE4E925AF-0DA3-45E0-B157-D9B86F540C7C@rush.edu%3E][Call help desk to ask about getting programs installed on students desktops]]
 * DONE Answers to GASP are not appearing correctly.
 * DONE [#C] [[message://%3cb1dcf58b51bf49dd899a616166d9c095@646005169%3E][Upgrade Matlab]]

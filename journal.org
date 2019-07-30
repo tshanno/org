@@ -2852,7 +2852,7 @@ https://castro.fm/episode/LrItb0
 SCHEDULED: <2020-02-14 Fri>
 
 *** 2019-07-19 Friday
-**** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
+**** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   9652BEAD-B0CC-4E22-AB88-FC891DA402A2
 :ID:       236B06EC-8B3E-4E8D-A296-BFDD7FF2E094
@@ -3010,7 +3010,7 @@ There are several sessions that have no, or very few topics assigned to them. I�
 :ID:       ADC52583-DFA7-4AD8-9F56-BBF7D393F6E0
 :END:
 *** 2019-07-25 Thursday
-**** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
+**** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   52007325-6876-493A-8371-D5BCB2354E9F
 :ID:       E012DB88-DD0B-4504-90F4-28323EA66437
@@ -3022,3 +3022,84 @@ There are several sessions that have no, or very few topics assigned to them. I�
   Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
 :END:
 *** 2019-07-26 Friday
+**** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-26 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
+:ID:       C65D4860-6253-44A5-85A5-4D4D376F8CCD
+:END:
+***** Gary is going to alter the PID exercise to make it clear what the students need to know.
+SCHEDULED: <2019-08-02 Fri>
+***** Mark promised to re-write the pathology exercise in AGB.
+***** Alter the concept map for male infertility or replace with a path activity
+***** Talk to Anne about CHF self-study at Core Disciplines meeting.
+:PROPERTIES:
+:SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
+:ID:       A68CA9BF-19F5-4A88-89E7-924AB5EDA9E7
+:END:
+***** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
+
+
+Hi, guys.
+
+Just a quick note on where we are at with the faculty guides and the session activities.
+
+1.  Some general edits:
+
+I need to check the dates in the headers of all of these guides.  I’ll get that done ASAP.
+
+We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+
+2.  Keith - Abnormal Uterine bleeding is basically done.   Mark Pool is going to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  Other than that, it should be good to go.
+
+3.  Carl - Pelvic inflammatory disease is almost done as well.  Gary has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.
+
+4.  Keith - Infertility:  Anne is working a little bit on the clinical reasoning.  Jerry is going to design a pathology activity to replace the physiology activity from last year.  Frankly, this concept map wasn’t my best work and the students correctly pointed out that we need more pathology activities in this block.
+
+5.  Keith - Teen pregnancy:  Anne is working a little bit on the clinical reasoning.  Other than that it looks pretty solid.
+
+Fetal Death is the last case in this block and we’ll talk about it next week.  The due date for Vital Fluids self-study materials is August 8 so we will likely move right into those guides on the 9th.
+
+Thanks to all for your help.
+
+Tom S.
+***** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
+SCHEDULED: <2019-09-09 Mon>
+***** TODO [#A] Change dates on faculty guides
+***** TODO [#A] Update contact info for immuno/micro
+
+**** [[message://%3c07c42a10-41e1-42b7-941d-71b8de105d2f@rush.edu%3E][Promtions in RMC, Office of Integrated Medical Education]]
+:PROPERTIES:
+:SYNCID:   B009E480-9E15-4C5C-85F1-B0B3EA947686
+:ID:       DC4DBC5F-6F74-4425-9DF6-9AB9DE79E615
+:END:
+
+
+Greetings Everyone ,
+
+I would like to share some exciting news in RMC, Office of Integrated Medical Education.
+
+Jill Volk, director of admissions and recruitment has been promoted to Director of Diversity and Inclusion, Outreach and Recruitment for RMC, Office of Integrated Medical Education.  In this role Jill will combine her experience, expertise and strong leadership skills in working with UME and GME, to provide outreach, recruitment, retention and mentoring for students, house staff and fellows who are underrepresented in medicine (URM).  She will help foster and maintain a safe, inclusive and welcoming medical college climate for URMs.  Specifically, and in concert with the senior associate
+ dean for D&I, Jill will also develop and implement a comprehensive diversity and inclusion
+strategic plan.
+
+Jill has a longstanding history of leadership and service at Rush that spans over two decades.
+She began her career in the University where she served as director of student affairs managing office operations and the student activity budget, advising and developing student organizations, and providing career services opportunities to all university students.  Prior to her current role in RMC, Jill managed the RMC special programs/events, provided career counseling, advised first and second year students, served as the student liaison to the dean’s office, and RMC liaison to RU student services, financial affairs and the AOA chancellor.
+
+Jill will continue in her role as director of admissions and recruitment, implementing the admissions and recruitment strategic plan and providing ongoing leadership and successful outcomes for increasing URMs in UME.  She brings a strong knowledge base of holistic review in admissions with successful URM recruitment and enrollment strategies.  Jill is active nationally with the Association of American Medical Colleges Group on Student Affairs (GSA) where she recently completed five years of service as Secretary and Treasurer for the GSA Central Region.  We look forward to her continued leadership and success in her new role.
+
+Lolesia (“Lisa”) Johnson has been promoted to Project Manager for Diversity and Inclusion for RMC in the Office of Integrated Medical Education.   In her new role Lisa will serve as the primary point of contact for all key stakeholders to organize and manage the RMC D&I strategic plan and also serve as a liaison and strategic partner with department chairs, residency program directors, clerkship directors, the GME Diversity Equity and Inclusion Committee, Diversity Leadership Council and other key Rush university and medical college faculty, administrators and stakeholders to further advance RMC’s mission and URM diversity goals.   Lisa will work closely with the director and senior associate dean in creating innovative and new ideas that will further improve and promote diversity and inclusion excellence at Rush Medical College.
+
+Lisa is a seasoned administrative professional with a wealth of past knowledge and administrative leadership that spans two decades in such areas/positions as RMC dean’s office, RMC admissions, physician office practice, research coordinator, and medical staff office operations.   Lisa has outstanding interpersonal, communication and problem solving skills that are well befitting her new role.   Lisa will start in her new position July 29th as she transitions out from her preclinical responsibilities.
+
+
+Judith Busse’s role as Special Events Manager for UME has been expanded to also include GME.  While she will continue her responsibilities as events manager for UME, her role has further been expanded to support GME and the RMC D&I strategic plan in the Office of Integrated Medical Education. In this expanded role, Judith will collaborate on related graduate medical education (residents, fellows) events including Diversity Equity Inclusion Committee meetings and events, quarterly networking and social events for URM students, residents, fellows and faculty.  She will assist in the coordination and execution of social events to bring together prospective URMs, current underrepresented students, faculty and house staff through such events as Second Look Day, Interview Day, M1 Orientation, and other recruitment events/activities.  We look forward to Judith’s attention to detail and her indomitable and collaborative spirit in her expanded role.
+
+
+These three individuals are dynamic leaders who will work in a collaborative and respectful manner with key stakeholders across the continuum of medical education to assure that RMC, Office of Integrated Medical Education is well aligned with the diversity and inclusion goals and vision of Rush University Medical Center.
+
+
+
+Please join me in congratulating Jill, Lisa and Judith in their new roles.
+
+pic 1.png                      RMC.png                 pic 3.png
+*** 2019-07-29 Monday

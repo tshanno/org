@@ -4,7 +4,7 @@
 - State "DONE"       from "TODO"       [2019-07-26 Fri 14:02]
 :END:
 
-** WAITING Plan of study for Fetal Death
+** TODO [#A] Plan of study for Fetal Death
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
@@ -16,8 +16,10 @@
   He moved this material in.
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** Invite Susan to the Fetal Death Core Disciplines meeting.
-SCHEDULED: <2019-07-29 Mon>
+** DONE Invite Paola Susan to the Fetal Death Core Disciplines meeting.
+:LOGBOOK:
+- State "DONE"       from              [2019-07-29 Mon 08:03]
+:END:
 * *Meetings*
 * *Notes*
 * Meeting with Gary <2018-08-24 Fri>

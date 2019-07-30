@@ -148,7 +148,10 @@ https://www.reddit.com/r/orgmode/comments/cej7r2/orgrefile_and_subfolders/?utm_s
 :END:
 [2019-07-19 Fri 02:33]
 https://github.com/mjago/worg-dev/blob/master/code/awk/ical2org.awk
-** TODO [#A] Try this! [[https://orgmode.org/manual/Attachments.html][The Org Manual: Attachments]]
+** DONE [#A] Try this! [[https://orgmode.org/manual/Attachments.html][The Org Manual: Attachments]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-29 Mon 08:05]
+:END:
 
 * *Dired*
 ** Search for words in files
@@ -604,6 +607,13 @@ https://www.gnu.org/software/emacs/manual/html_node/emacs/Browse_002dURL.html#Br
 https://emacs.stackexchange.com/questions/7328/how-to-make-eww-default-browser-in-emacs#7332
 ** Should use these more [[https://www.reddit.com/r/emacs/comments/cecs6m/what_have_you_bound_to_function_keys/][What have you bound to function keys? : emacs]]
 
+** ON RADAR [[https://github.com/accidentalrebel/emacs-slack-cli][GitHub - accidentalrebel/emacs-slack-cli: A simple emacs interface for the slack-cli Python program]]
+So this looks promising.  But you have to use pip.  And I'm so unfamiliar with python that I don't know how to do it.  So learn.
+** Obfuscate text as I'm typing it?
+
+EDIT: Thank you to u/xtifr for showing me toggle-rot13-mode, exactly what I needed!
+
+ https://www.reddit.com/r/emacs/comments/ciz8bz/obfuscate_text_as_im_typing_it/
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

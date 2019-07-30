@@ -1,18 +1,46 @@
 * Tasks
-** TODO PowerPoint for AGB
-** TODO PowerPOint for PID
-** TODO Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-20 Fri 14:30-15:30>
-*** Gary is going to alter the PID exercise to make it clear what the students need to know.
-SCHEDULED: <2019-07-26 Fri>
-*** Mark promised to re-write the pathology exercise in AGB.
-*** Alter the concept map for male infertility or replace with a path activity
-*** Talk to Anne about CHF self-study at Core Disciplines meeting.
-:PROPERTIES:
-:SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       6BF0BBE8-AD2C-4B71-98D4-1D121E63C54D
-:END:
-** TODO Contact Carl and update him on PID
-** TODO Contact Keith and update him on AGB, infertility and teen preganancy
-** TODO Don't forget the echo movie for camp cardiac
-* Notes
-* TODO 942-8544
+** TODO Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>
+*** Where are we on self-studies?
+**** Danesha says she has this in hand.  Advocate is her Only issue.  She is working with Pail Kent.
+**** Advocate:  Sexual Assault and Patient Care in the Emergency room (9/15) went from a 2 hour session to a 1 hour lecture this year.  Does he need to change his self-study?
+**** Advocate:  Trauma and Informed Care
+***** This sounds more like a professional session
+***** It has no self-study
+***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
+**** TODO [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+*** We are finalizing the faculty guides now.
+**** AGB and PID hopefully Wednesday
+**** Teen PRgnancy early next week
+**** Fetal Death this Friday.
+** TODO Camp Cardiac Lecture; Location: Rm 539 AAC <2019-07-29 Mon 11:00-12:00>
+** TODO EmacsConf (online conference)
+https://emacsconf.org/2019/cfp
+
+ Schedule Published   October 1, 2019  
+ EmacsConf 2019!  November 2, 2019
+** TODO Mack finished his first season in Chicago with 12½ sacks and six forced fumbles, earning a first-team All-Pro nod
+  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-RxQs/aMMKDCZbL/TEsYV6sJsv6A@gwene.org][Email from Dan Wiederer: ‘I’ve never coached an athlete]]
+** TODO The Bears led the NFC with 50 sacks last season. Only the Chiefs and Steelers had more with 52 apiece. Of those 50, 20½ came from outside linebackers.
+  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-RxQs/aMMKDCZbL/TEsYV6sJsv6A@gwene.org][Email from Dan Wiederer: ‘I’ve never coached an athlete]]
+* TODO OL
+[2019-07-30 Tue 02:10]
+
+W
+File Edit Options Buffers Tools Eww Help
+Hyde5: Why Dolphins changing O-line coach matters; Ravens' Harbaugh suggests big surprise for opener - S
+Josh McDaniels was hired as head coach.
+
+When McDaniel decided to stay in New England, DeGuglielmo was paired with a coach who didn't hire him
+in Frank Reich. At season's end, he was out of the job. He came to the Dolphins in May as an analyst
+and now is the line coach.
+
+The line is a question. Laremy Tunsil's star has risen at left tackle. Jesse Davis showed some good
+signs as a first-year starter at guard. After that? Who knows?
+
+This is Flores' call. He has all the inside information to make it. You don't need an opinion here
+other than to say the importance of the offensive line coach keeps going up in the NFL.
+* TODO OL
+[2019-07-30 Tue 02:30]
+
+Googs is a solid fallback position. But the Dolphins had as many line issues with Googs as without      
+Googs the past decade. So where's that looming line upgrade going to come from?
