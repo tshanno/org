@@ -20,16 +20,19 @@
   [2019-07-23 Tue]
 
 
-** Register for [[message://%3cLYRIS-21216823-43792-2019.07.29-13.48.40--tom_shannon#rush.edu@lists.biophysics.org%3E][Scientific Program - BPS 2020 Annual Meeting]]
-SCHEDULED: <2019-07-31 Wed>
+** DONE [#A] Register for [[message://%3cLYRIS-21216823-43792-2019.07.29-13.48.40--tom_shannon#rush.edu@lists.biophysics.org%3E][Scientific Program - BPS 2020 Annual Meeting]]
 :PROPERTIES:
 :SYNCID:   5FEE2384-648A-4711-8B5D-EC00CAB62644
 :ID:       8CA17574-8F29-4032-BE05-C0FC993177D4
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 08:29]
 :END:
 
 * *Ticklers*
 ** Biophysical Society Meeting Abstract Deadline Oct. 1
 SCHEDULED: <2019-09-09> DEADLINE: <2019-10-01 Tue>
+ to submit see this email: [[message://%3cLYRIS-21216823-43792-2019.07.29-13.48.40--tom_shannon#rush.edu@lists.biophysics.org%3E][Scientific Program - BPS 2020 Annual Meeting]]
 ** Register for Biophysical Society Meeting
 SCHEDULED: <2019-09-09 Mon>
 * *Meetings*
@@ -38,3 +41,14 @@ SCHEDULED: <2019-09-09 Mon>
 
 * *Notes*
 ** [[message://%3c710402a2-c056-4a5a-8064-f0b67ae0453b@BPS02.biophysics.local%3E][Your myBPS Account]]
+** Registration Reciept :ATTACH:
+:PROPERTIES:
+:Attachments: Biophysical%20Society%20Meeting%20Registration%20Reciept%202019-07-31.pdf
+:ID:       3B780121-7C2E-490F-97BE-6F5C562284ED
+:END:
+** Hotel Reservation :ATTACH:
+:PROPERTIES:
+:Attachments: Biophysical%202020%20Hotel%20Reservation%20Guest%20Summary%20-%20BPS%202020.pdf
+:ID:       E400C642-B1A6-424E-A831-ACA23A06EF66
+:END:
+

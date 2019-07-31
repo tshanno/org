@@ -1,5 +1,10 @@
 * *Tasks*
 ** DONE [#A] Due:  HDHR Topic Response - Physiology June 25
+** DONE [#A] Complete this, too [[message://%3c8DE6C66F-9A68-4392-AFDD-58B0C3899BA6@rush.edu%3E][RMD 561 Assessment Blueprint - Deadlines]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 14:25]
+:END:
+
 * *Ticklers*
 * *Meetings*
 ** HDHR Core Disciplines; Location: AAC 403; Large Conference room <2019-07-24 Wed 11:00-12:00>

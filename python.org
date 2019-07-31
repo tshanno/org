@@ -11,3 +11,5 @@ John Kitchin's book on how to use python.  This looks like a nice reference to s
 https://matplotlib.org/
 
 ** [[https://pypi.org/][PyPI – the Python Package Index · PyPI]] 
+** [[https://www.john2x.com/blog/publishing_org_documents_to_google_drive.html][This post]] shows how to use python to publish to googledrive.
+

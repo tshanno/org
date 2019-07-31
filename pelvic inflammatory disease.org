@@ -59,19 +59,30 @@
 :ID:       81B451FE-93C7-4A98-BE48-A17CB05E39B7
 :END:
 ** TODO [#A] PowerPOint for PID
-** WAITING [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+** DONE [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-31 Wed 15:09]
 - State "WAITING"    from "TODO"       [2019-07-30 Tue 13:18] \\
   Waiting on Nell regarding syphilis false positives
 :END:
 
-*** TODO FU Mark [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
-
-*** TODO FU Nell [[message://%3cE4E49B69-B59A-4FC4-8923-E221863071AF@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
-
-*** TODO FU Princess [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
-** WAITING [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+*** DONE FU Mark [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
+:END:
+
+*** DONE FU Nell [[message://%3cE4E49B69-B59A-4FC4-8923-E221863071AF@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
+:END:
+
+*** DONE FU Princess [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
+:END:
+** DONE [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-31 Wed 15:09]
 - State "WAITING"    from "TODO"       [2019-07-30 Tue 13:18] \\
   Waiting on Nell regarding syphilis false positives
 :END:
@@ -81,8 +92,9 @@
 - State "DONE"       from "TODO"       [2019-07-30 Tue 13:19]
 :END:
 
-*** WAITING FU Nell [[message://%3cE4E49B69-B59A-4FC4-8923-E221863071AF@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+*** DONE FU Nell [[message://%3cE4E49B69-B59A-4FC4-8923-E221863071AF@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-07-31 Wed 15:09]
 - State "WAITING"    from "TODO"       [2019-07-30 Tue 13:19] \\
   Waiting on syphilis false positives.
 :END:
@@ -91,6 +103,30 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-30 Tue 13:19]
 :END:
+** DONE Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:04]
+:END:
+
+*** DONE FU Mark [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:04]
+:END:
+
+*** DONE FU Nell [[message://%3cE4E49B69-B59A-4FC4-8923-E221863071AF@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:04]
+:END:
+
+*** DONE FU Princess [[message://%3c4CA34A7F-4956-4313-B202-372D0519AA6D@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:04]
+:END:
+** DONE FU:  Nell [[message://%3cee8e63d0217f495f8dbb63193bec90ff@RUDW-EXCHMAIL02.rush.edu%3E][2 Questions about new Gardnerella topic]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
+:END:
+
 * *Ticklers*
 ** [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
@@ -102,6 +138,8 @@ SCHEDULED: <2019-08-02 Fri>
 ** FU:  Nell [[message://%3cee8e63d0217f495f8dbb63193bec90ff@RUDW-EXCHMAIL02.rush.edu%3E][2 Questions about new Gardnerella topic]]
 SCHEDULED: <2019-08-01 Thu>
 
+** FU Nell on whether Brett and/or Paria have looked at this [[message://%3c861dbe11773b42918cf014371caed359@RUDW-EXCHMAIL01.rush.edu%3E][RE: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+SCHEDULED: <2019-08-02 Fri>
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:

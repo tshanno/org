@@ -222,10 +222,8 @@ SCHEDULED: <2019-08-14 Wed>
 SCHEDULED: <2019-08-14 Wed>
 ** Due date to have final faculty guides in place for Vital Fluids <2019-09-18 Wed>
 SCHEDULED: <2019-09-11 Wed>
-** Talk to Princess about VF topics and see if we're good.
-SCHEDULED: <2019-07-31 Wed>
-** Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
-SCHEDULED: <2019-07-31 Wed>
+** TODO Talk to Princess about VF topics and see if we're good.
+** TODO Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
 ** Elif will be late with BCS [[message://%3c07E6C007-9C20-41FB-9FE3-457D9E81CD42@rush.edu%3E][Re: RMC: Deadlines for materials in 19/20]]
 SCHEDULED: <2019-08-08 Thu>
 
@@ -484,7 +482,7 @@ SCHEDULED: <2019-06-27 Thu>
 ** DONE [#A] Look over 574 exam [[message://%3c25EE3046-017B-42D4-AF3E-B177524EC381@rush.edu%3E][Re: 574 reassessment - final review]]
 
 ** TODO Convert VF faculty guides to new format
-SCHEDULED: <2018-08-06 Mon> DEADLINE: <2019-08-08 Thu>
+SCHEDULED: <2019-08-06 Mon> DEADLINE: <2019-08-08 Thu>
 
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>

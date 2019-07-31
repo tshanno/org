@@ -10,6 +10,9 @@
 ** $100 to fidelity
 SCHEDULED: <2019-08-02 Fri>
   [2018-10-12 Fri]
+** Think about checking back in with Dylan at Fidelity.
+SCHEDULED: <2020-07-31 Fri>
+[[*%5B%5Bmessage://%253c0WVJAAAW74HNT578@fmr.com%253E%5D%5BFidelity Financial Planning%5D%5D; Location: 1 N LaSalle downtown in the Loop][Fidelity Financial Planning Meeting 2019]]
 * *Tasks*
 ** DONE [#A] [[message://%3c2048249476.30625.1542450956204.JavaMail.WASFARMCCCPRD@VMAKSA69901ASW%3E][Pay Fidelity]]
    [2018-11-17 Sat]
@@ -69,10 +72,26 @@ SCHEDULED: <2019-08-02 Fri>
 - State "DONE"       from "TODO"       [2019-07-24 Wed 07:55]
 :END:
 
-** TODO [#A] Fill this out [[message://%3c1B83ED71-95A9-47C5-9B3A-255D63B6D636@rush.edu%3E][Re: Fidelity Financial Planning]]
+** DONE [#A] Fill this out [[message://%3c1B83ED71-95A9-47C5-9B3A-255D63B6D636@rush.edu%3E][Re: Fidelity Financial Planning]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 08:02]
+:END:
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
-** 3 PM Tuesday [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][RE: Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop <2019-07-30 Tue 15:00-16:00>
+** [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop 
+<2019-07-30 Tue 15:00-16:00>
+:PROPERTIES:
+:SYNCID:   F152D1F6-B618-4118-8F52-D01851DAD2B2
+:ID:       930D3EA0-D26A-468C-A5E9-87DC91D0464A
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-31 Wed 07:23] \\
+  Dylan was polite and seemed competent.  A few things:
+  
+  1.  I'm on track for retirement.  We did the calculation twice, once figuring retirement at age 72 and the other at age 67.  Both indicated that I'm on track to have more than enough money (despite my mortgage running roughly until I'm 73)  .  The calculation apparently assumes a less than optimistic look at how the economy, etc... will progress.  Dylan indicated that as long as my expectations for retirement remain as they are and I continue to earn, I should have no problems.
+  2.  He recommended that I start putting my money into the Fidelity 2030 Index Fund rather than the regular 2030 mutual fund.  The index fund grows at the rate of defined indexes of economic growth (like those tied to the Fortune 500).  These apparently grow at almost the same rate but involve less buying and selling by fund managers in the background and therefore less capital gains taxes are charged to the fund.  The symbol for the index fund is FXIFX.
+  3.  He recommended I check back in a year from now, 2 at the most.
+:END:
 
 Dylan Heathman, CFP®
 Financial Consultant
@@ -106,9 +125,7 @@ Your meeting will be at the Chicago North LaSalle Investor Center located at:
 1 North LaSalle Street, Suite 100
 Chicago, IL 60602
 Investor Center Info & Directions
-** Fidelity [[message://%3c643cc155-f7aa-4cc6-ae1e-d8883838d3c8@las1s04mta906.xt.local%3E][Your meeting has been confirmed]] <2019-07-30 Tue 15:00-16:00>
-U:tshanno119
-p:Knothole7orange!
+
 * *Large Expenses*
 ** He told me the garbage disposal was shot and not just because it was leaking.  I guess the bearings were bad.  He removed the broken garbage disposal and I told him to put in a simple drain in its place - I never used it anyway.
 :PROPERTIES:

@@ -1,6 +1,5 @@
 * *Ticklers*
-** Put comment about emailing CD immediately after the session with comments into faculty guides.
-SCHEDULED: <2019-07-31 Wed>
+** TODO [#A] Put comment about emailing CD immediately after the session with comments into faculty guides.
 ** Consider giving multiple choice self-study questions
 *** Bring this up at the course directors meeting on <2019-01-24 Thu>
 ** DONE [#A] Invite students to lunch
@@ -8,8 +7,7 @@ SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
 ** Organize pizza lunch
    SCHEDULED: <2019-08-01 Thu>
-** Be sure to document things that are generally required and optional at the beginning of the block.
-   SCHEDULED: <2019-07-31 Wed>
+** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>

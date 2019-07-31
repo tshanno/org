@@ -9,12 +9,24 @@
   Actually talked to Lisa.  Apparently the transition to Danesha hasn't happened yet as this was the first that she heard that she would be coordinating pre-clerkship.  But I think it will eventually fall to her.
 - State "DONE"       from "TODO"       [2019-07-24 Wed 08:36]
 :END:
+** DONE [#A] Schedule another S&R administrative team meeting
+:PROPERTIES:
+:SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
+:ID:       D214D444-748E-4E16-A261-8EFF46EBB8E4
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 08:13]
+:END:
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>
 :PROPERTIES:
 :SYNCID:   B170C263-0AA3-449F-AD2C-67DFA109BC2B
 :ID:       C6E7069B-A2AA-49C9-9F48-53C2C245A68E
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-31 Wed 08:17] \\
+  Emailed Najia.   [[message://%3c0BBDCDF2-D2EE-48A4-BC31-BAC7368E4D76@rush.edu%3E][EBM - Evaluating Articles on Harm]]
 :END:
 *** Where are we on self-studies?
 **** Danesha says she has this in hand.  Advocate is her Only issue.  She is working with Pail Kent.
@@ -23,7 +35,7 @@
 ***** This sounds more like a professional session
 ***** It has no self-study
 ***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
-**** TODO [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+**** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 *** We are finalizing the faculty guides now.
 **** AGB and PID hopefully Wednesday
 **** Teen PRgnancy early next week

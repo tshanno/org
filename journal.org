@@ -3115,7 +3115,7 @@ pic 1.png                      RMC.png                 pic 3.png
 ******* This sounds more like a professional session
 ******* It has no self-study
 ******* Jeffrey said eh thought it might have been done last year.  I don't remember it.
-****** TODO [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+****** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 ***** We are finalizing the faculty guides now.
 ****** AGB and PID hopefully Wednesday
 ****** Teen PRgnancy early next week
@@ -3130,3 +3130,72 @@ pic 1.png                      RMC.png                 pic 3.png
 This went well.  I took my time and finished rihgt on time.  I didn't need to go on to the ANS material.
 
 *** 2019-07-30 Tuesday
+**** [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop <2019-07-30 Tue 15:00-16:00>
+:PROPERTIES:
+:SYNCID:   F152D1F6-B618-4118-8F52-D01851DAD2B2
+:ID:       5FA493FF-BDC3-40B2-B313-65B0CE728C6C
+:END:
+:LOGBOOK:
+- Note taken on [2019-07-31 Wed 07:23] \\
+  Dylan was polite and seemed competent.  A few things:
+  
+  1.  I'm on track for retirement.  We did the calculation twice, once figuring retirement at age 72 and the other at age 67.  Both indicated that I'm on track to have more than enough money (despite my mortgage running roughly until I'm 73)  .  The calculation apparently assumes a less than optimistic look at how the economy, etc... will progress.  Dylan indicated that as long as my expectations for retirement remain as they are and I continue to earn, I should have no problems.
+  2.  He recommended that I start putting my money into the Fidelity 2030 Index Fund rather than the regular 2030 mutual fund.  The index fund grows at the rate of defined indexes of economic growth (like those tied to the Fortune 500).  These apparently grow at almost the same rate but involve less buying and selling by fund managers in the background and therefore less capital gains taxes are charged to the fund.  The symbol for the index fund is FXIFX.
+  3.  He recommended I check back in a year from now, 2 at the most.
+:END:
+
+Dylan Heathman, CFP®
+Financial Consultant
+One North LaSalle Street Suite 100
+Chicago, IL 60602
+312-346-9327 Ext. 42495
+Fidelity Brokerage Services LLC
+Fidelity Investments
+
+***** [[message://%3c8ca4d94a-21c7-42de-95a2-722ce4cbf7e1@las1s04mta904.xt.local%3E][A reminder that your meeting is coming up]]
+
+
+You indicated you would like to discuss:
+ 
+Your Portfolio
+ 
+Your appointment is scheduled for:
+ 
+July 30, 2019 at 03:00 PM CDT
+ 
+Confirmation #: 3710943
+ 
+ 
+You will be meeting with:
+ 
+	Dylan Heathman
+Financial Consultant
+312-346-9327, ext. 42495
+ 
+Your meeting will be at the Chicago North LaSalle Investor Center located at:
+1 North LaSalle Street, Suite 100
+Chicago, IL 60602
+Investor Center Info & Directions
+*** 2019-07-31 Wednesday
+**** DONE [[https://theathletic.com/1106407/2019/07/30/letters-from-bears-camp-ha-ha-clinton-dix-returns-eddy-pineiro-gets-his-second-shot-khalil-mack-and-his-popularity/?source=rss][Letters from Bears camp: Ha Ha Clinton-Dix returns, Eddy Pineiro gets his second shot, Khalil Mack and his popularity – The Athletic]]
+:PROPERTIES:
+:SYNCID:   07964652-7237-4FA8-832E-4F746DF92BF7
+:ID:       94E19BEC-9161-4C7A-837A-9BA3123897E2
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Kevin Fishbain} at \textit{The Athletic} says that Bears guard \textbf{Kyle Long} \href{https://theathletic.com/1106407/2019/07/30/letters-from-bears-camp-ha-ha-clinton-dix-returns-eddy-pineiro-gets-his-second-shot-khalil-mack-and-his-popularity/?source=rss}{is ready for 2019}:
+
+
+\begin{quote}
+``Last January, the seventh-year Bear was looking forward to a surgery-free offseason after everything he went through from 2016 to 2018. He’s been available throughout the offseason program and training camp after having to take 'veteran days' last summer.
+
+``Nagy has heard Long, a three-time Pro Bowler from 2013 to 2015, is in 'the best shape, condition, strength, mental' as he’s been as a Bear.
+
+``'Where he’s at right now is in a good place,' Nagy said. 'And so he’s worked hard for that. He’s all-in. He’s committed. Even today, he’s out there running around when we gave some other guys similar in age a vet day. And so that’s a credit to him, and we want to just make sure that he gets stronger and stronger, and then when we get to Week 1, he’s at the best he’s ever been.'''
+\end{quote}
+
+There's been a lot of talk in the offseason about Long's age and various fans, if not media members, on Twitter have suggested that at 30 years old his best days might be behind him.  Long landed on injured reserve in 2016, 2017 and 2018.
+
+Particularly given his large personality, Long's silence since camp has started has been deafening.  It could be because he doesn't like the doubts being expressed about him.  That might not be such a bad thing.  A healthy Kyle Long with something to prove could prove formidable once the season starts.
+#+END_EXPORT

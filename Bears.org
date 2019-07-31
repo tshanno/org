@@ -746,6 +746,31 @@ Until Trubisky actually shows that he's a very good quarterback,  he's just anot
 
 Semi-bold prediction: Shelley will take over as the starting nickelback this season. Skrine’s three-year contract essentially secures his place for two years because of his structure. But the Bears seem pretty enthralled by Shelley. He was one of their best players during the offseason program.
 
+** DONE [[https://theathletic.com/1106407/2019/07/30/letters-from-bears-camp-ha-ha-clinton-dix-returns-eddy-pineiro-gets-his-second-shot-khalil-mack-and-his-popularity/?source=rss][Letters from Bears camp: Ha Ha Clinton-Dix returns, Eddy Pineiro gets his second shot, Khalil Mack and his popularity – The Athletic]]
+:PROPERTIES:
+:SYNCID:   07964652-7237-4FA8-832E-4F746DF92BF7
+:ID:       73652747-94DF-4DB5-9583-765017AA420B
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 08:07]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Kevin Fishbain} at \textit{The Athletic} says that Bears guard \textbf{Kyle Long} \href{https://theathletic.com/1106407/2019/07/30/letters-from-bears-camp-ha-ha-clinton-dix-returns-eddy-pineiro-gets-his-second-shot-khalil-mack-and-his-popularity/?source=rss}{is ready for 2019}:
+
+
+\begin{quote}
+``Last January, the seventh-year Bear was looking forward to a surgery-free offseason after everything he went through from 2016 to 2018. He’s been available throughout the offseason program and training camp after having to take 'veteran days' last summer.
+
+``Nagy has heard Long, a three-time Pro Bowler from 2013 to 2015, is in 'the best shape, condition, strength, mental' as he’s been as a Bear.
+
+``'Where he’s at right now is in a good place,' Nagy said. 'And so he’s worked hard for that. He’s all-in. He’s committed. Even today, he’s out there running around when we gave some other guys similar in age a vet day. And so that’s a credit to him, and we want to just make sure that he gets stronger and stronger, and then when we get to Week 1, he’s at the best he’s ever been.'''
+\end{quote}
+
+There's been a lot of talk in the offseason about Long's age and various fans, if not media members, on Twitter have suggested that at 30 years old his best days might be behind him.  Long landed on injured reserve in 2016, 2017 and 2018.
+
+Particularly given his large personality, Long's silence since camp has started has been deafening.  It could be because he doesn't like the doubts being expressed about him.  That might not be such a bad thing.  A healthy Kyle Long with something to prove could prove formidable once the season starts.
+#+END_EXPORT
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 

@@ -41,7 +41,7 @@ SCHEDULED: <2019-08-05 Mon>
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
 ** Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
-SCHEDULED: <2019-07-26 Fri>
+SCHEDULED: <2019-08-02 Fri>
 
 ** Contact Keith and update him on AGB, infertility and teen preganancy
 ** See if the revew session for Formative got moved from 9/12 to 9/17
@@ -57,7 +57,7 @@ SCHEDULED: <2019-08-15 Thu>
 :END:
 
 ** FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
-SCHEDULED: <2019-07-31 Wed>
+SCHEDULED: <2019-08-01 Thu>
 :PROPERTIES:
 :SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
 :ID:       D569CC8C-F8A8-4053-A8DD-638871B4440C
@@ -453,7 +453,7 @@ Department of Pathology, RMC
 ***** This sounds more like a professional session
 ***** It has no self-study
 ***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
-**** TODO [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+**** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 *** We are finalizing the faculty guides now.
 **** AGB and PID hopefully Wednesday
 **** Teen PRgnancy early next week
@@ -726,7 +726,24 @@ SCHEDULED: <2019-07-01 Mon>
 :END:
 ** TODO [#A] Get back to Bill on [[message://%3c30a0909c69d748738f475f9e8a96e6a7@RUPW-EXCHMAIL02.rush.edu%3E][Verifying faculty]]
 
-** TODO [#A] Do this [[message://%3c1BB14A88-9BBA-41C7-A0D7-FA1406A00955@rush.edu%3E][RMD 566 S&R Assessment Blueprint]]
+** DONE [#A] Do this [[message://%3c1BB14A88-9BBA-41C7-A0D7-FA1406A00955@rush.edu%3E][RMD 566 S&R Assessment Blueprint]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:28]
+:END:
+
+** DONE [#A] Schedule another S&R administrative team meeting
+:PROPERTIES:
+:SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
+:ID:       E704C21F-BCD4-4265-8145-7A5D3C1FD2AD
+:END:
+** TODO [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+
+There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
+
+** DONE Do this [[message://%3c1BB14A88-9BBA-41C7-A0D7-FA1406A00955@rush.edu%3E][RMD 566 S&R Assessment Blueprint]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-07-31 Wed 15:05]
+:END:
 
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL

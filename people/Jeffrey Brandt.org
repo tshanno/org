@@ -30,6 +30,11 @@ SCHEDULED: <2019-06-19 Wed>
 - State "DONE"       from "WAITING"    [2019-07-22 Mon 08:24]
 :END:
 
+** DONE [#A] Schedule another S&R administrative team meeting
+:PROPERTIES:
+:SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
+:ID:       EF722448-DCD1-49F7-A7DA-8B6426FC9EB4
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*
