@@ -1,0 +1,9 @@
+* *Tasks*
+** DONE [#A] Schedule another S&R administrative team meeting
+:PROPERTIES:
+:SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
+:ID:       507AB73B-741D-4642-9D8C-9B57802AF3E7
+:END:
+* *Ticklers*
+* *Meetings*
+* *Notes*
