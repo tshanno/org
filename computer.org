@@ -11,7 +11,7 @@
 ** DONE [[https://m.youtube.com/watch?feature=youtu.be&v=DuO31Ro2ypg][The 10 best augmented reality apps for iPhone - YouTube]]
 ** ON RADAR Gigsky and dual sim
 ** Back up videos and data
-SCHEDULED: <2019-08-01 Thu>
+SCHEDULED: <2019-08-05 Mon>
 ** DONE [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
 :PROPERTIES:
 :SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
@@ -141,3 +141,5 @@ The Harris Geospatial Solutions Team
 :SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
 :ID:       10DACA23-1E2C-4C85-AEC8-F48C2C48BFDB
 :END:
+** [[https://dzone.com/articles/introduction-jupyter-notebook-for-python-programmi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][Introduction Jupyter Notebook for Python Programming - DZone Big Data]]
+SCHEDULED: <2019-08-04 Sun>

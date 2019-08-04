@@ -771,6 +771,46 @@ There's been a lot of talk in the offseason about Long's age and various fans, i
 
 Particularly given his large personality, Long's silence since camp has started has been deafening.  It could be because he doesn't like the doubts being expressed about him.  That might not be such a bad thing.  A healthy Kyle Long with something to prove could prove formidable once the season starts.
 #+END_EXPORT
+** ON RADAR Biggs OL
+
+Who do you project to be the reserve O-linemen? — @pistolpete54
+
+Rashaad Coward has an excellent chance to nail down a spot on the 53-man roster, and it’s pretty clear Ted Larsen, who is having a nice
+start to camp, will emerge as a reserve interior option. The Bears will likely keep eight offensive linemen, and that creates an interesting
+battle for the eighth spot. I would say that is pretty open right now with a lot of preseason action ahead that will shape decisions.
+
+I wonder if the younger guys will have a better chance than Larsen
+  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-28NOmojUcE6RJvl58uKNLO5450Y@gwene.org][Email from Brad Biggs: Bears Q&A: Is the Week 1 kicke]]
+** DONE Biggs questions on kickers
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-02 Fri 10:20]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} answers \href{https://www.chicagotribune.com/sports/bears/ct-bears-mailbag-david-montgomery-javon-wims-20190731-ktf64kgki5a6hfgkxgltxhczvi-story.html}{your questions}:
+
+\begin{quote}
+``Is there any benefit, cap-wise or other, to the Bears keeping one kicker or another? — @steveoatms
+
+``There is no way the Bears will base the decision on the kicker for this season on money or cap space. Fry and Pineiro are each signed for \$495,000 this season and would count that much
+against the cap, so there is no difference in that regard. I can’t see a kicker who would become an option for them between now and the start of the season who would cost a lot. \textbf{Robbie Gould}
+was never an option as the 49ers franchise-tagged him. 
+
+``Everything I’ve read so far from camp has both kickers performing well. But if it comes down to a little more leg strength or slightly better consistency, which would the coaching
+staff choose? — @chriscremer5
+
+``In that scenario, I think the Bears would choose the kicker with better consistency. What is more important? A kicker who is money from 30 to, say, 45 yards or a kicker who has a better chance
+of banging one through from 55? I think you go with the more consistent guy for the kicks that are going to come up much more often. But it’s hard to believe a final decision will come down to
+issues that black and white.''
+\end{quote}
+
+There is one aspect of this kicker competition that Biggs didn't mention.  The Bears give up a seventh round pick to the Raiders if Pineiro is on the Bears roster for 5 games.  They'll happily give that up if he works out.  But it is an issue if all else is equal.
+
+There is, however, one subtle advantage that Pineiro has.  Pineiro apparently won the job with the Raiders before going on injured reserve last season.  That means that the Raiders liked him.  That can have an effect upon the decision making process.  Somewhere in the back of the minds of general manager Ryan Pace and head coach Matt Nagy, they are probably thinking, ``Well, the Raiders liked him.  So shouldn't we like him, too.''.
+
+That's not a major factor - these guys definitely have their own minds.  But if its close, it could be the thing that tips the scales.
+
+#+END_EXPORT
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 

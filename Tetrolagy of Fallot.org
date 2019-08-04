@@ -21,8 +21,8 @@
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>
-** FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
-SCHEDULED: <2019-08-01 Thu>
+** WAITING FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
+SCHEDULED: <2019-08-05 Mon>
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9
 :ID:       B3F7929A-5FCE-4621-8FF3-570FDF0BE86F

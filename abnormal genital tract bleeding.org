@@ -183,12 +183,18 @@ This is done.  I have a note to replace this with a Viagra mechanism of action c
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-24 Wed 08:38]
 :END:
-** TODO [#A] Review this. [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
+** CANCELED [#A] Review this. [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
 :PROPERTIES:
 :SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
 :ID:       991D8653-4A7E-497A-A543-EE7750207C52
 :END:
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-08-02 Fri 09:45] \\
+  Already back from Reviewer
+:END:
 ** TODO [#A] PowerPoint for AGB
+** TODO [#A] Respond to the comments for this self-study [[message://%3cbf0ae523359847158d08690e20dec4f3@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 01 Carmen Gardner (Review Complete)]]
+
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
 - Note taken on [2019-06-03 Mon 08:54] \\

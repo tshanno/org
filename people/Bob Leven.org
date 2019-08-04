@@ -24,11 +24,15 @@ SCHEDULED: <2019-08-15 Thu>
 :ID:       005118BD-0F7E-4846-ADD4-791B6AA47AB5
 :END:
 
-** FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
-SCHEDULED: <2019-08-01 Thu>
+** WAITING FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+SCHEDULED: <2019-08-05 Mon>
 :PROPERTIES:
 :SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
 :ID:       26071DAE-F715-41CB-9559-2781D4CE9B9C
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-02 Fri 09:31] \\
+  Emailed Bob about this.
 :END:
 
 There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?

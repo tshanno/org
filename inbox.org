@@ -1,2 +1,6 @@
 * Tasks
-
+** TODO Set default font on Mac OS X Emacs.
+https://orangebsd.wordpress.com/
+** TODO After graduating high school in 2013, Raymond served a two-year church mission in and around Vladivostok in the far eastern side of
+Russia.
+  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-5CsLRRDBEwpfNgGbKaOvn5BCXeE@gwene.org][Email from Rich Campbell: Can Trey Burton and Adam Shahe]]

@@ -6,7 +6,7 @@
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
 ** Organize pizza lunch
-   SCHEDULED: <2019-08-01 Thu>
+   SCHEDULED: <2019-08-05 Mon>
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
@@ -33,7 +33,6 @@ SCHEDULED: <2019-09-01 Sun>
   Recent email says we are 100% done.  I'll take their word for it.
 :END:
 ** [[message://%3cba7058c6c89b4e7b802a2b6a55815997@RUPW-EXCHMAIL02.rush.edu%3E][RE: Today’s meeting]]
-SCHEDULED: <2019-08-01 Thu>
 
 
 I will not be in Chicago next week on Thursday or Friday.  Feel free to meet without me.
@@ -517,6 +516,8 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       641DB528-19D8-48FE-97CF-005B0E075C70
 :END:
 
+** How to use Keynote to add text overlays in your iMovie projects
+https://www.macworld.com/article/3411925/how-to-use-keynote-to-add-text-overlays-in-your-imovie-projects.html#tk.rss_all
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

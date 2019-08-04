@@ -40,7 +40,7 @@ SCHEDULED: <2019-08-05 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
+** TODO Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
 SCHEDULED: <2019-08-02 Fri>
 
 ** Contact Keith and update him on AGB, infertility and teen preganancy
@@ -56,11 +56,15 @@ SCHEDULED: <2019-08-15 Thu>
 :ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
 :END:
 
-** FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
-SCHEDULED: <2019-08-01 Thu>
+** WAITING FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+SCHEDULED: <2019-08-05 Mon>
 :PROPERTIES:
 :SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
 :ID:       D569CC8C-F8A8-4053-A8DD-638871B4440C
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-02 Fri 09:31] \\
+  Emailed Bob about this.
 :END:
 
 There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
@@ -368,13 +372,12 @@ Abnormal Genital Tract Bleeding?
 *** Mark promised to re-write the pathology exercise in AGB.
 *** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 SCHEDULED: <2019-08-09 Fri>
-** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-26 Fri 14:30-15:30>
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-26 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       7F9A785B-1928-46F6-8718-C7DA8F4D4376
 :END:
 *** Gary is going to alter the PID exercise to make it clear what the students need to know.
-SCHEDULED: <2019-08-02 Fri>
 *** Mark promised to re-write the pathology exercise in AGB.
 *** Alter the concept map for male infertility or replace with a path activity
 *** Talk to Anne about CHF self-study at Core Disciplines meeting.
@@ -422,6 +425,10 @@ SCHEDULED: <2019-09-09 Mon>
 *** Discuss Anne's comment about including info the student don't need to know under differential
 *** Discuss  Anne's comments in Teen Pregnancy
 *** Discuss Anne's comments on Infertility
+*** Gary is going to alter the PID exercise to make it clear what the students need to know.
+*** Contact Carl and update him on PID
+*** Mark promised to re-write the pathology exercise in AGB.
+*** Get back to Anne and Syed on CHF self-study.
 *** [[message://%3c1564246881954.53824@rush.edu%3E][male infertility activity]]
 
 
@@ -441,6 +448,8 @@ Jerome Loew, MD
 Department of Pathology, RMC
 847-533-1500 (cell)
 312-942-8850
+*** Talk to Jerry/Mark about what to do about this [[message://%3c1564689549840.96251@rush.edu%3E][male infertility activity]]
+
 ** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>
 :PROPERTIES:
 :SYNCID:   B170C263-0AA3-449F-AD2C-67DFA109BC2B
@@ -745,6 +754,18 @@ There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  It
 - State "DONE"       from "TODO"       [2019-07-31 Wed 15:05]
 :END:
 
+** TODO [#A] Review Assessment Blueprint [[message://%3c9DCA58D6-284F-45AD-8EB4-1247E0CF7E3C@rush.edu%3E][RMD 566 Assessment Blueprint]]
+
+
+** TODO [#A] track down the Treatment self-study [[message://%3cB411440A-AAA8-4903-A7C9-7141BC92B191@rush.edu%3E][Re: EBM - Evaluating Articles on Harm]]
+
+
+I will be happy to upload anything you send me to the right spot.  Let me know how I can help.  Danesha can always help you as well.
+
+I’ll track down the Treatment self-study.  It isn’t where I expected it to be but Jeffrey and I will take care of the issue.
+
+Thanks,
+Tom S.1
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]

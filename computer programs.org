@@ -84,6 +84,10 @@ In this article, we will discuss:
 1 join()
 2 split()
 3 sort()
+** Three Ways to Define Functions in JavaScript 
+https://dzone.com/articles/three-ways-to-define-functions-in-javascript?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone%2Fwebdev
+
+Describes anonymous functons and generator funciotns.  Good article.
 * DONE [[message://%3cE4E925AF-0DA3-45E0-B157-D9B86F540C7C@rush.edu%3E][Call help desk to ask about getting programs installed on students desktops]]
 * DONE Answers to GASP are not appearing correctly.
 * DONE [#C] [[message://%3cb1dcf58b51bf49dd899a616166d9c095@646005169%3E][Upgrade Matlab]]

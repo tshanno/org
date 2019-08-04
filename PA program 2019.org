@@ -1,5 +1,8 @@
 * *Tasks*
-** WAITING [#A] Take a look at this and get back to Aleen about the number of hours of lecture [[message://%3c9c9372ac15fd4ccbbd79249854b2a6ae@RUDW-EXCHMAIL01.rush.edu%3E][RE: PA program lecture request]]
+** DONE [#A] Take a look at this and get back to Aleen about the number of hours of lecture [[message://%3c9c9372ac15fd4ccbbd79249854b2a6ae@RUDW-EXCHMAIL01.rush.edu%3E][RE: PA program lecture request]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-02 Fri 09:44]
+:END:
 
 * *Ticklers*
 * *Meetings*

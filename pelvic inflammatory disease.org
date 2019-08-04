@@ -53,7 +53,7 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-24 Wed 08:38]
 :END:
-** TODO [#A] Review this. [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
+** CANCELED [#A] Review this. [[message://%3c190b6ca7b2c044a888d10238fc0840e2@RUPW-EXCHMAIL02.rush.edu%3E][S&R student self study ready for review ]]
 :PROPERTIES:
 :SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
 :ID:       81B451FE-93C7-4A98-BE48-A17CB05E39B7
@@ -127,19 +127,40 @@
 - State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
 :END:
 
+** WAITING [#A] [[message://%3c9D461427-C841-407F-B278-A0491AA848E4@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-02 Fri 10:17] \\
+  Wating on Nell to OK Gardnerella
+:END:
+I have responded to all of these comments on the pelvic inflammatory disease.
+
+Denise and Janice, please note that the following changes were made:
+
+1.  The Treponium Pallium self-study was updated.
+2.  We added a self-study on Gardnerella (it is uploaded).  However, Nell would like to wait until  Brett and Paria have taken a look at it before we finalize it.  Let’s give them to the end of the week to take a look at it.  I will let you know when it is ready.
+
+Thanks,
+Tom S.
+
 * *Ticklers*
-** [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
+** DONE [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-02 Fri 09:34]
+:END:
   [2018-10-03 Wed]
   [2018-10-03 Wed]
 
 ** Contact Carl and update him on PID
 SCHEDULED: <2019-08-02 Fri>
-** FU:  Nell [[message://%3cee8e63d0217f495f8dbb63193bec90ff@RUDW-EXCHMAIL02.rush.edu%3E][2 Questions about new Gardnerella topic]]
+** DONE FU:  Nell [[message://%3cee8e63d0217f495f8dbb63193bec90ff@RUDW-EXCHMAIL02.rush.edu%3E][2 Questions about new Gardnerella topic]]
 SCHEDULED: <2019-08-01 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-02 Fri 09:35]
+:END:
 
 ** FU Nell on whether Brett and/or Paria have looked at this [[message://%3c861dbe11773b42918cf014371caed359@RUDW-EXCHMAIL01.rush.edu%3E][RE: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
-SCHEDULED: <2019-08-02 Fri>
+SCHEDULED: <2019-08-05 Mon>
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:

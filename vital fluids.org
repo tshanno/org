@@ -201,7 +201,7 @@ SCHEDULED: <2019-08-08 Thu>
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
 ** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
-SCHEDULED: <2019-08-01 Thu>
+SCHEDULED: <2019-08-05 Mon>
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
@@ -428,7 +428,7 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
 ** Add cardiac tamponade to HF
-SCHEDULED: <2019-08-01 Thu>
+SCHEDULED: <2019-08-05 Mon>
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
 :ID:       CFBEE68E-3A0F-4A25-A4BA-8F784D347A90
