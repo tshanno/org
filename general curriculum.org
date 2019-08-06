@@ -6,7 +6,7 @@
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
 ** Organize pizza lunch
-   SCHEDULED: <2019-08-05 Mon>
+   SCHEDULED: <2019-08-12 Mon>
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]

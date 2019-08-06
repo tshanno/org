@@ -17,14 +17,13 @@ Control of cardiac ryanodine receptor by sarcoplasmic reticulum luminal Ca<sup>2
 
 
 Perspectives on "Control of Ca release from within the cardiac sarcoplasmic reticulum".
-** [[message://%3c20190721220845.96E0714A69@esupp01.be-md.ncbi.nlm.nih.gov%3E][What's new for 'cardiac AKAP' in PubMed]]
-SCHEDULED: <2019-07-27 Sat>
+** ON RADAR [[message://%3c20190721220845.96E0714A69@esupp01.be-md.ncbi.nlm.nih.gov%3E][What's new for 'cardiac AKAP' in PubMed]]
 ** TODO [[https://theathletic.com/1082093/2019/07/22/2019-nfl-quarterback-tiers-rankings/?source=rss][2019 Quarterback Tiers: Fifty-five coaches and executives rank the NFL starters – The Athletic]]
 Read later
 
 * *Ticklers*
 ** [[https://www.physiology.org/journal/advances][Advances in Physiology Education]]
-SCHEDULED: <2019-07-27 Sat>
+SCHEDULED: <2019-08-10 Sat>
 * ON RADAR [[message://%3c20180415221025.94083604B580@pmdist301.st-va.ncbi.nlm.nih.gov%3E][Oxidized CaMKII]]
 * [[http://www.chicagotribune.com/lifestyles/books/sc-books-science-fiction-roundup-0425-story.html][Some nice sci fi suggestions]]
 * CANCELED Bob's paper on what generates gating current

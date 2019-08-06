@@ -127,8 +127,9 @@
 - State "DONE"       from "TODO"       [2019-07-31 Wed 15:08]
 :END:
 
-** WAITING [#A] [[message://%3c9D461427-C841-407F-B278-A0491AA848E4@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+** DONE [#A] [[message://%3c9D461427-C841-407F-B278-A0491AA848E4@rush.edu%3E][Re: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-05 Mon 09:05]
 - State "WAITING"    from "TODO"       [2019-08-02 Fri 10:17] \\
   Wating on Nell to OK Gardnerella
 :END:
@@ -142,6 +143,14 @@ Denise and Janice, please note that the following changes were made:
 Thanks,
 Tom S.
 
+** DONE [#A] [[message://%3cae9c2076eab94070b99d0f79bf816006@RUPW-EXCHMAIL02.rush.edu%3E][case 2--final check]]
+:PROPERTIES:
+:SYNCID:   A4999E3A-3275-4A25-A520-F0C9628F4520
+:ID:       2C681C1C-B1BC-46C1-9F19-9E1834CF7F15
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-06 Tue 08:35]
+:END:
 * *Ticklers*
 ** DONE [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
@@ -151,16 +160,20 @@ SCHEDULED: <2019-08-01 Thu>
   [2018-10-03 Wed]
   [2018-10-03 Wed]
 
-** Contact Carl and update him on PID
-SCHEDULED: <2019-08-02 Fri>
+** DONE [#A] Contact Carl and update him on PID
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-05 Mon 09:05]
+:END:
 ** DONE FU:  Nell [[message://%3cee8e63d0217f495f8dbb63193bec90ff@RUDW-EXCHMAIL02.rush.edu%3E][2 Questions about new Gardnerella topic]]
 SCHEDULED: <2019-08-01 Thu>
 :LOGBOOK:
 - State "DONE"       from              [2019-08-02 Fri 09:35]
 :END:
 
-** FU Nell on whether Brett and/or Paria have looked at this [[message://%3c861dbe11773b42918cf014371caed359@RUDW-EXCHMAIL01.rush.edu%3E][RE: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
-SCHEDULED: <2019-08-05 Mon>
+** DONE FU Nell on whether Brett and/or Paria have looked at this [[message://%3c861dbe11773b42918cf014371caed359@RUDW-EXCHMAIL01.rush.edu%3E][RE: RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-05 Mon 06:48]
+:END:
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:
@@ -188,4 +201,37 @@ SCHEDULED: <2019-08-05 Mon>
 *** Mark promised to re-write the pathology exercise in AGB.
 *** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 SCHEDULED: <2019-08-09 Fri>
+** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
+:PROPERTIES:
+:SYNCID:   10C22D8D-DD36-4EA9-B0EF-7B1E62F0EB7D
+:ID:       E0FC6EBD-7AF8-4B24-8D0C-6C694C079893
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:27] \\
+  Waiting on Gary, I think.
+- State "WAITING"    from              [2019-08-06 Tue 07:27]
+:END:
+
+
+***  Some general edits:
+
+**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+
+**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+
+**** TODO [#A] This is done.  Post AGB
+Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
+**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** WAITING [#A] Keith - Infertility:  
+
+Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
+
+We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
+
+**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+
+**** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
+
 * *Notes*

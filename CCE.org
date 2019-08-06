@@ -152,6 +152,20 @@ Tom S.
   Actually talked to Lisa.  Apparently the transition to Danesha hasn't happened yet as this was the first that she heard that she would be coordinating pre-clerkship.  But I think it will eventually fall to her.
 - State "DONE"       from "TODO"       [2019-07-24 Wed 08:36]
 :END:
+** DONE [#A] Talk to Adam about this [[message://%3ccd73dd95dbc647d985dcbdcb452a1042@RUPW-EXCHMAIL02.rush.edu%3E][Seeking your thoughts]]
+:PROPERTIES:
+:SYNCID:   470CCBD9-C80F-4AC4-B066-0DD0DB8B0D59
+:ID:       468E7F82-0E32-4726-A6E5-4666F6719E4E
+:END:
+** WAITING [#A]  Look over and send edits to Princess [[message://%3c1565075017470.60238@rush.edu%3E][email to CD for Workload Evalution]]
+:PROPERTIES:
+:SYNCID:   330665E1-791E-4C06-B6EC-A258390EAE7D
+:ID:       A0858FA7-0BE4-4B67-86BC-BD9F160BFBD5
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-06 Tue 07:58] \\
+  Sent back to Princess with suggested edits.
+:END:
 * *Ticklers*
 ** DONE Workload as part of course review?
 [2018-11-27 Tue]

@@ -1,6 +1,15 @@
 * Tasks
-** TODO Set default font on Mac OS X Emacs.
-https://orangebsd.wordpress.com/
-** TODO After graduating high school in 2013, Raymond served a two-year church mission in and around Vladivostok in the far eastern side of
-Russia.
-  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-5CsLRRDBEwpfNgGbKaOvn5BCXeE@gwene.org][Email from Rich Campbell: Can Trey Burton and Adam Shahe]]
+
+** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
+:LOGBOOK:
+- Note taken on [2019-08-06 Tue 13:33] \\
+  Did some minor edits.  This went well.
+:END:
+** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
+*** Ask Janice to populate small groups on web site
+*** Joanna Williams Faculty Guide is ready to be posted.
+*** Danesha - is the roles material on track?  Will it be reviewed?
+*** Danesha - Elif's material?
+*** Paul Kent still on track?
+*** Danseha - EBM - Evaluating Articles on treatment Session Materials?  Is this with the M1 content in both HDHR and S&R?
+** TODO Make sure that packets re ready to go for AGB activity on 9/3

@@ -25,6 +25,9 @@
 :SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
 :ID:       C756A8CC-1B55-4975-A880-FBD2AD4D7DBA
 :END:
+** ON RADAR Web Application Architecture: Definitions, Types, and Components 
+https://dzone.com/articles/web-application-architecture-definition-types-and?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone%2Fwebdev
+
 * *Meetings*
 * *Ticklers*
 * *Notes*

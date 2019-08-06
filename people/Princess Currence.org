@@ -4,6 +4,15 @@
 :SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
 :ID:       55B4FC21-3712-4F6C-8BEA-5ECBF096A45F
 :END:
+** WAITING [#A]  Look over and send edits to Princess [[message://%3c1565075017470.60238@rush.edu%3E][email to CD for Workload Evalution]]
+:PROPERTIES:
+:SYNCID:   330665E1-791E-4C06-B6EC-A258390EAE7D
+:ID:       1E310000-381E-417B-8E16-E2F4770CF308
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-06 Tue 07:58] \\
+  Sent back to Princess with suggested edits.
+:END:
 * *Ticklers*
 ** FU Princess on workload assessment
 SCHEDULED: <2019-07-29 Mon>

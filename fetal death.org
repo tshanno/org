@@ -30,6 +30,39 @@
 :END:
 
 * *Meetings*
+** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
+:PROPERTIES:
+:SYNCID:   10C22D8D-DD36-4EA9-B0EF-7B1E62F0EB7D
+:ID:       5B4AEFA6-15AE-4ADB-AC40-3EA8EB9E4401
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:27] \\
+  Waiting on Gary, I think.
+- State "WAITING"    from              [2019-08-06 Tue 07:27]
+:END:
+
+
+***  Some general edits:
+
+**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+
+**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+
+**** TODO [#A] This is done.  Post AGB
+Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
+**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** WAITING [#A] Keith - Infertility:  
+
+Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
+
+We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
+
+**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+
+**** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
+
 * *Notes*
 * Meeting with Gary <2018-08-24 Fri>
 ** Self-study material

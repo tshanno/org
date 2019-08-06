@@ -11,7 +11,7 @@
 ** DONE [[https://m.youtube.com/watch?feature=youtu.be&v=DuO31Ro2ypg][The 10 best augmented reality apps for iPhone - YouTube]]
 ** ON RADAR Gigsky and dual sim
 ** Back up videos and data
-SCHEDULED: <2019-08-05 Mon>
+SCHEDULED: <2019-08-12 Mon>
 ** DONE [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
 :PROPERTIES:
 :SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86
@@ -56,6 +56,12 @@ https://apple.news/Axlbb9nT5NXWjgTta7C4BEQ
 - State "DONE"       from "TODO"       [2019-07-22 Mon 07:56]
 :END:
 [[gnus:gwene.com.rosemaryorchar.blog#x1-VhO9DVmjYICQhTBHsIBFOgBtC5w@gwene.org][Email from Rosemary Orchard: Automators 27: Shortcuts in iO]]
+** ON RADAR Customizing the Cocoa Text System
+http://www.hcs.harvard.edu/%7Ejrus/site/cocoa-text.html
+
+This is amazing.  Describes how to set pretty much any key binding you want.  Its basically like writing in lisp with selectors.
+
+
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]
@@ -77,8 +83,11 @@ This went well.  I think that unless data analysis is involved that there's not 
 
 [2019-07-03 Wed 05:07]https://www.macrumors.com/2019/07/02/five-mac-apps-july-2019/
 
-** [[https://www.cultofmac.com/637330/apple-huge-cuts-ssd-upgrade-pricing-macs/][Apple makes huge cuts to SSD upgrade pricing for Macs]] You should really consider doing this. 
-SCHEDULED: <2019-07-27 Sat>
+** CANCELED [[https://www.cultofmac.com/637330/apple-huge-cuts-ssd-upgrade-pricing-macs/][Apple makes huge cuts to SSD upgrade pricing for Macs]] You should really consider doing this. 
+:LOGBOOK:
+- State "CANCELED"   from              [2019-08-05 Mon 06:43] \\
+  Decided not to mess with this at this time.
+:END:
 * *Notes*
 ** Info about find command
   [2018-10-12 Fri]
@@ -141,5 +150,4 @@ The Harris Geospatial Solutions Team
 :SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
 :ID:       10DACA23-1E2C-4C85-AEC8-F48C2C48BFDB
 :END:
-** [[https://dzone.com/articles/introduction-jupyter-notebook-for-python-programmi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][Introduction Jupyter Notebook for Python Programming - DZone Big Data]]
-SCHEDULED: <2019-08-04 Sun>
+** ON RADAR [[https://dzone.com/articles/introduction-jupyter-notebook-for-python-programmi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][Introduction Jupyter Notebook for Python Programming - DZone Big Data]]

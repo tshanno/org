@@ -200,8 +200,7 @@ SCHEDULED: <2019-08-08 Thu>
   Check for this after deadline on August 8
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
-** [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
-SCHEDULED: <2019-08-05 Mon>
+** TODO [#A] [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
@@ -427,13 +426,11 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] Syed promised changes to CI by Monday.  Make sure EKG is covered in topics in VF
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
-** Add cardiac tamponade to HF
-SCHEDULED: <2019-08-05 Mon>
+** TODO [#A] Add cardiac tamponade to HF
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
 :ID:       CFBEE68E-3A0F-4A25-A4BA-8F784D347A90
 :END:
-
 
 ** CANCELED Did medical imaging objectives get taken care of?
 ** CANCELED FU:  Shay on make up exams.  HOw is this coming?  SHould I do something about it?
@@ -481,8 +478,7 @@ SCHEDULED: <2019-06-27 Thu>
 
 ** DONE [#A] Look over 574 exam [[message://%3c25EE3046-017B-42D4-AF3E-B177524EC381@rush.edu%3E][Re: 574 reassessment - final review]]
 
-** TODO Convert VF faculty guides to new format
-SCHEDULED: <2019-08-06 Mon> DEADLINE: <2019-08-08 Thu>
+** TODO [#A] Convert VF faculty guides to new format
 
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>

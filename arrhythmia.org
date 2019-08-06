@@ -6,7 +6,10 @@
    [2018-11-16 Fri]
 ** DONE [#A] Ruth Barcic session activites only
    [2018-11-27 Tue]
-** TODO [#A] [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=412][Correct the answer to Ruth Barcic Q 12.]]
+** DONE [#A] [[https://entrada.rush.edu/community/rmd57418faru:discussion_board?section=view-post&id=412][Correct the answer to Ruth Barcic Q 12.]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-05 Mon 12:57]
+:END:
    [2018-11-28 Wed]
 ** TODO [#A] Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
    [2018-12-04 Tue]
@@ -15,11 +18,14 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-29 Mon 14:33]
 :END:
-** FU Neeral on [[message://%3c4AC61D07-BB98-4824-A13D-239B19505665@rush.edu%3E][Re: Vital Fluids Deadline Approaching]]
-SCHEDULED: <2019-08-05 Mon>
+** CANCELED FU Neeral on [[message://%3c4AC61D07-BB98-4824-A13D-239B19505665@rush.edu%3E][Re: Vital Fluids Deadline Approaching]]
 :PROPERTIES:
 :SYNCID:   65A69819-79DC-4533-A332-8D74A244F2BE
 :ID:       C1F59116-10B3-45A5-BBE5-9DEB6A9CEF6D
+:END:
+:LOGBOOK:
+- State "CANCELED"   from              [2019-08-05 Mon 06:47] \\
+  He's on top of it.  Looks like he's going to cut it down to one self-study on substance use including alcohol for Keith Simmons.
 :END:
 
 * *Ticklers*

@@ -12,6 +12,14 @@ SCHEDULED: <2019-06-07 Fri>
 :SYNCID:   DB402237-22B1-429F-94C0-A292BCABE0A0
 :ID:       8EF3594B-94B6-4A21-A84F-CE84F8AD60D5
 :END:
+** DONE [#A] Talk to Adam about this [[message://%3ccd73dd95dbc647d985dcbdcb452a1042@RUPW-EXCHMAIL02.rush.edu%3E][Seeking your thoughts]]
+:PROPERTIES:
+:SYNCID:   470CCBD9-C80F-4AC4-B066-0DD0DB8B0D59
+:ID:       DA17CC5E-C9A5-48C4-B386-DFEFAAA456B0
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-05 Mon 12:54]
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

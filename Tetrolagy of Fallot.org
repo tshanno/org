@@ -21,11 +21,14 @@
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>
-** WAITING FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
-SCHEDULED: <2019-08-05 Mon>
+** WAITING [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9
 :ID:       B3F7929A-5FCE-4621-8FF3-570FDF0BE86F
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-02 Fri 09:32] \\
+  Mike said he would work on this.  He was having a hard time matching this objective with his content.  He needs to figure out where he was teaching it.
 :END:
 
 * *Meetings*

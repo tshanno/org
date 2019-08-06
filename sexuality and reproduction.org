@@ -30,8 +30,7 @@ SCHEDULED: <2019-07-08 Mon>
 :END:
 
 
-** Check to see who you need to invite to Core Disciplines August 2
-SCHEDULED: <2019-08-05 Mon>
+** TODO [#A] Check to see who you need to invite to Core Disciplines August 2
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
 :SYNCID:   892288F3-489C-41E6-8C85-7237F1998DF4
@@ -40,8 +39,7 @@ SCHEDULED: <2019-08-05 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** TODO Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
-SCHEDULED: <2019-08-02 Fri>
+** TODO [#A] Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
 
 ** Contact Keith and update him on AGB, infertility and teen preganancy
 ** See if the revew session for Formative got moved from 9/12 to 9/17
@@ -57,7 +55,7 @@ SCHEDULED: <2019-08-15 Thu>
 :END:
 
 ** WAITING FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
-SCHEDULED: <2019-08-05 Mon>
+SCHEDULED: <2019-08-19 Mon>
 :PROPERTIES:
 :SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
 :ID:       D569CC8C-F8A8-4053-A8DD-638871B4440C
@@ -68,6 +66,9 @@ SCHEDULED: <2019-08-05 Mon>
 :END:
 
 There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
+
+** Make sure you add Neeral's content in the proper spot [[message://%3c1565051923008.29249@rush.edu%3E][Sexuality/Reproduction for AY 20/21]]
+SCHEDULED: <2020-02-01 Sat>
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -467,6 +468,39 @@ Department of Pathology, RMC
 **** AGB and PID hopefully Wednesday
 **** Teen PRgnancy early next week
 **** Fetal Death this Friday.
+** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
+:PROPERTIES:
+:SYNCID:   10C22D8D-DD36-4EA9-B0EF-7B1E62F0EB7D
+:ID:       C380034A-FB7C-43E7-981B-8935494DA2D9
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:28]
+- State "WAITING"    from              [2019-08-06 Tue 07:27] \\
+  Waiting on Gary, I think.
+- State "WAITING"    from              [2019-08-06 Tue 07:27]
+:END:
+
+
+***  Some general edits:
+
+**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+
+**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+
+**** TODO [#A] This is done.  Post AGB
+Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
+**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** WAITING [#A] Keith - Infertility:  
+
+Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
+
+We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
+
+**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+
+**** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
+
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
