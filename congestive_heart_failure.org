@@ -3,7 +3,7 @@
    [2018-11-27 Tue]
 ** DONE George Papadakis video
    [2018-11-27 Tue]
-** WAITING [#A] Get back to Anne and Syed on CHF self-study.  https://rmc-integrated.slack.com/archives/D6JP19H7H/p1563403914001700
+** DONE [#A] Get back to Anne and Syed on CHF self-study.  https://rmc-integrated.slack.com/archives/D6JP19H7H/p1563403914001700
 :PROPERTIES:
 :SYNCID:   955CCBDD-D6C6-48A6-BCCC-835528B01040
 :ID:       95EF3DE5-E6F4-41FC-A28D-FF899F0147BB
@@ -16,7 +16,7 @@
 *** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       8BDD454D-4469-4824-858A-B215B27839FC
+:ID:       841D5D9C-17B4-4DB3-8A89-5C3B8A5D0AE0
 :END:
 ** CANCELED FU Neeral on [[message://%3c4AC61D07-BB98-4824-A13D-239B19505665@rush.edu%3E][Re: Vital Fluids Deadline Approaching]]
 :PROPERTIES:
@@ -31,6 +31,16 @@
 * *Ticklers*
 * *Miscellaneous Notes*
 
+* *Meetings*
+** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
+:PROPERTIES:
+:SYNCID:   1C22845C-DDFF-4FA3-8433-25212DB71021
+:ID:       881B4BCD-C958-4F9C-9BEA-AB2F8F37ACB4
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-06 Tue 13:33] \\
+  Did some minor edits.  This went well.
+:END:
 * DONE 01 Case Description
 
 ** DONE Post Session 1 Case Description

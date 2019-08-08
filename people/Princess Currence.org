@@ -4,25 +4,34 @@
 :SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
 :ID:       55B4FC21-3712-4F6C-8BEA-5ECBF096A45F
 :END:
-** WAITING [#A]  Look over and send edits to Princess [[message://%3c1565075017470.60238@rush.edu%3E][email to CD for Workload Evalution]]
+** DONE [#A]  Look over and send edits to Princess [[message://%3c1565075017470.60238@rush.edu%3E][email to CD for Workload Evalution]]
 :PROPERTIES:
 :SYNCID:   330665E1-791E-4C06-B6EC-A258390EAE7D
 :ID:       1E310000-381E-417B-8E16-E2F4770CF308
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-07 Wed 10:12]
 - State "WAITING"    from "TODO"       [2019-08-06 Tue 07:58] \\
   Sent back to Princess with suggested edits.
 :END:
 * *Ticklers*
-** FU Princess on workload assessment
+** DONE FU Princess on workload assessment
 SCHEDULED: <2019-07-29 Mon>
 :PROPERTIES:
 :SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
 :ID:       7EEDFBAC-F16A-472F-B6A3-50502E23439D
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2019-08-07 Wed 08:24]
 - Note taken on [2019-07-24 Wed 08:10] \\
   [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
 * *Meetings*
+** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
+:ID:       ACCA3ED1-C59D-48BC-A027-A61624C7C55E
+:END:
+*** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
+*** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
 * *Notes*

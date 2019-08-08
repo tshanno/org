@@ -16,6 +16,8 @@
   6895191
   6895212
 :END:
+** TODO [#A] Get a blood draw for Usama [[message://%3c77C6EA4EDAD33936.591c95d6-027a-4750-9e06-5bb9d81f1e84@mail.outlook.com%3E][Re: MyChart message]]
+
 * *Notes*
 ** Prescriptions - These numbers are updateed as of <2018-07-03 Tue> :health_and_medical:
 [2017-11-02 Thu 09:10]

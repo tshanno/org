@@ -1,4 +1,4 @@
-
+n
 * 2019
 ** 2019-04 April
 *** 2019-04-04 Thursday
@@ -75,10 +75,6 @@ She had already told me and Mom and Dad.  Obviously the immediate family knew.  
 :PROPERTIES:
 :SYNCID:   A3B5EA10-E2A3-42DE-846C-9E85B3E3F15D
 :ID:       9116E38A-967C-4033-B802-638A226D1194
-:END:
-
-:PROPERTIES:
-:SYNCID:   52F6A72D-4E9C-46A1-B5F0-D3E31E5D14A4
 :END:
 
 "By far, the most common question about the Dolphins after the rhetorical tank-of-no-tank (seriously?) is this: Why was Chris Grier promoted to king-of-his-world powers when his drafts seem mediocre the past three years?"
@@ -2260,13 +2256,14 @@ Objectives now posted by week
 - Note taken on [2019-06-21 Fri 06:49] \\
   Yes, they are wonky.  The spreadsheet was messed up and she will work on correcting it.  She doesn't seem to believe that we are talking about weeks of work so that's good.
 
-***** FU Princess on workload assessment
+***** DONE FU Princess on workload assessment
 SCHEDULED: <2019-07-29 Mon>
 :PROPERTIES:
 :SYNCID:   38A2F553-465C-4432-883C-1C13EF4EA7B6
 :ID:       595FFB8E-8376-43FC-8C39-E72967434012
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2019-08-07 Wed 08:24]
 - Note taken on [2019-07-24 Wed 08:10] \\
   [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
@@ -2865,12 +2862,12 @@ SCHEDULED: <2020-02-14 Fri>
 ***** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       3E3FC4E9-3433-4F87-A18F-F763E5D7A052
+:ID:       CE72A02E-5290-45F1-87DF-5E5356AC6F6F
 :END:
 ***** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       71291648-5CA7-4ED6-A21C-E86978E46983
+:ID:       B792ABC5-C537-4EE9-A1E4-AF87EBAA322F
 :END:
 ***** DONE [#A] Make sure mike put anti-virals in Fetal Death
 ***** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
@@ -3027,7 +3024,7 @@ There are several sessions that have no, or very few topics assigned to them. I�
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       C65D4860-6253-44A5-85A5-4D4D376F8CCD
 :END:
-***** WAITING [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
+***** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
 :LOGBOOK:
 - State "WAITING"    from              [2019-08-05 Mon 06:45]
 :END:
@@ -3036,7 +3033,7 @@ There are several sessions that have no, or very few topics assigned to them. I�
 ***** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       A68CA9BF-19F5-4A88-89E7-924AB5EDA9E7
+:ID:       D13EE913-14E7-49A7-9A80-9A27235C23A0
 :END:
 ***** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 
@@ -3067,7 +3064,7 @@ Tom S.
 ***** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 SCHEDULED: <2019-09-09 Mon>
 ***** TODO [#A] Change dates on faculty guides
-***** TODO [#A] Update contact info for immuno/micro
+***** DONE [#A] Update contact info for immuno/micro
 
 **** [[message://%3c07c42a10-41e1-42b7-941d-71b8de105d2f@rush.edu%3E][Promtions in RMC, Office of Integrated Medical Education]]
 :PROPERTIES:
@@ -3110,6 +3107,10 @@ pic 1.png                      RMC.png                 pic 3.png
 :SYNCID:   B170C263-0AA3-449F-AD2C-67DFA109BC2B
 :ID:       22C0741A-40B4-4A6D-B9DE-1B1F784A6CEC
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-31 Wed 08:17] \\
+  Emailed Najia.   [[message://%3c0BBDCDF2-D2EE-48A4-BC31-BAC7368E4D76@rush.edu%3E][EBM - Evaluating Articles on Harm]]
+:END:
 ***** Where are we on self-studies?
 ****** Danesha says she has this in hand.  Advocate is her Only issue.  She is working with Pail Kent.
 ****** Advocate:  Sexual Assault and Patient Care in the Emergency room (9/15) went from a 2 hour session to a 1 hour lecture this year.  Does he need to change his self-study?
@@ -3117,7 +3118,7 @@ pic 1.png                      RMC.png                 pic 3.png
 ******* This sounds more like a professional session
 ******* It has no self-study
 ******* Jeffrey said eh thought it might have been done last year.  I don't remember it.
-****** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+****** DONE [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 ***** We are finalizing the faculty guides now.
 ****** AGB and PID hopefully Wednesday
 ****** Teen PRgnancy early next week
@@ -3209,6 +3210,8 @@ Particularly given his large personality, Long's silence since camp has started 
 :ID:       29106ADE-ED9C-4351-998A-B6335F86956D
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:27] \\
@@ -3216,24 +3219,106 @@ Particularly given his large personality, Long's silence since camp has started 
 - State "WAITING"    from              [2019-08-06 Tue 07:27]
 :END:
 
+***** DONE [#A] For Fetal Death, give columns 2 and 3 and match #1
 
+***** DONE [#A] For Fetal Death, Add note to CEs that USMLE questions are optional
 *****  Some general edits:
 
-****** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+****** DONE [#A] Tom:  I still need to check the dates in the headers of all of these guides.
 
-****** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+****** DONE [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
 
-****** TODO [#A] This is done.  Post AGB
+****** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
-****** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+****** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
 ****** WAITING [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
 We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
 
-****** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+****** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
 ****** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
 *** 2019-08-06 Tuesday
+**** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
+:PROPERTIES:
+:SYNCID:   1C22845C-DDFF-4FA3-8433-25212DB71021
+:ID:       FA20F77A-CDBD-46AC-90A0-9F34F7CE34ED
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-06 Tue 13:33] \\
+  Did some minor edits.  This went well.
+:END:
+**** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
+:PROPERTIES:
+:SYNCID:   BCF9EE57-5559-484B-BF3E-3D532E87FF26
+:ID:       E7D5D804-F6E9-41B8-87F6-9F2B55F8276B
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 09:16]
+:END:
+***** Ask Janice to populate small groups on web site
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:51] \\
+  I think we're just going to populate as we go.
+:END:
+***** Joanna Williams Faculty Guide is ready to be posted.
+***** Danesha - is the roles material on track?  Will it be reviewed?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:52] \\
+  Kind of yes and kind of no.  It sounds like the content is in.  But she hasn't been sending it out for review.  They're going to do this but its going to be close.  It all needs to be up by August 21
+:END:
+***** Danesha - Elif's material?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:53] \\
+  This is going to go into its own Entrada shell.  In the mean time there is a folder for BCS and Elif will set up subfolders for content that she considers to be of different types (i.e. the oral presentation WS will  be separate from some of the other introductory/general information material.
+:END:
+***** Paul Kent still on track?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  Yes
+:END:
+***** Danseha - EBM - Evaluating Articles on treatment Session Materials?  Is this with the M1 content in both HDHR and S&R?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  I told her this.
+:END:
+***** DONE Contact Anne and Rahul.  Set up a meeting to help out Danesha with the Practitioner material.  Apparently its a mess, especially the HDHR sessions.
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:57] \\
+  Friday after the Core Sisciplines meeting at 3:30.  Danesha will use appear.in
+- State "DONE"       from              [2019-08-07 Wed 07:57]
+:END:
+***** DONE [#A] Send Danesha the appear.in link for the meeting Friday
+***** DONE [#A] Schedule the next Administrative team meeting
+*** 2019-08-07 Wednesday
+**** TODO Collaboration Tool Discussion (Updated location); Location: Office of Integrated Medical Education in AAC 403 <2019-08-07 Wed 15:30-16:00>
+:PROPERTIES:
+:SYNCID:   874CC32E-57AB-410D-932E-7BA2EF0F459A
+:ID:       0BC5722F-5416-4407-8D26-A2A99997A42F
+:END:
+***** Pre-meeting notes
+****** Where did the impetus for this came from? . Why me?
+****** Who she?
+****** Our current system-Google Does
+****** This wouldn't have been my choice but swithaig now might be more of a problem than isles worth
+****** We do have some educators that struggle with it-faculty develops meat?
+****** SharePoint?
+****** File share?
+****** Office 365 + One Drive?
+***** Meeting notes
+Carrie was very nice. Took copies notes. Wanted to koeourhat I use to collaborate. We talked a lot oelout Google Docs and Dropbox.
+Apparently I was asked to meet other because they were talking about it and 4 my nana came up".
+She wanted to know if I was interested in tooting something new-for document distribution and collaboration and I said ''yes." Don't know what they have
+in mind, though.
+   
+ 
+**** <2019-08-07 Wed> Talked to Syed.  He says his material will be in Friday.  He will add the introduction to the ECG to MI.  He will add cardiac tamponade to CHF.  The introduction to the ECG will be a new topic.
+:PROPERTIES:
+:SYNCID:   2136ED61-20A6-4940-95F4-B55F8CB5AD95
+:ID:       512033E8-E48A-4790-88FD-CE84A68F871C
+:END:
+
+*** 2019-08-08 Thursday

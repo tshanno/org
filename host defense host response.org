@@ -5,6 +5,11 @@
 - State "DONE"       from "TODO"       [2019-07-31 Wed 14:25]
 :END:
 
+** DONE [#A] [[message://%3cA6140AC7-BCEC-42CD-8950-2F07C2D780E6@rush.edu%3E][Re: BLUEPRINTS DUE - RMD 561 HDHR]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 08:43]
+:END:
+
 * *Ticklers*
 * *Meetings*
 ** HDHR Core Disciplines; Location: AAC 403; Large Conference room <2019-07-24 Wed 11:00-12:00>
@@ -17,7 +22,7 @@
 :END:
 *** DONE [#A] Change influenza take home point
 * *Notes*
-
+**  [[message://%3cA6140AC7-BCEC-42CD-8950-2F07C2D780E6@rush.edu%3E][Re: BLUEPRINTS DUE - RMD 561 HDHR]]
 * Flu Chapter 2 <2017-10-23 Mon 08:00-12:00> :Flu:Host_Defense_Host_Response:
 * DONE Email out old exam quesitons to the class 
   - Note taken on [2017-10-25 Wed 04:28] \\

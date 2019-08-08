@@ -18,9 +18,26 @@
 :END:
 ** TODO [#A] Review [[message://%3c6640b57a24e2441895203f836242028d@RUPW-EXCHMAIL02.rush.edu%3E][Case 3- S&R]]
 
+** TODO [#A] Look over these changes and then get back to Jerry [[message://%3c2DA15B40-8931-4888-9587-6BB637B7A946@rush.edu%3E][Re: Update: Core Disciplines Meeting 7/26/19]]
+
 * *Ticklers*
 
 
+** FU on [[message://%3c12756d841057479990867c60fc095f5e@RUPW-EXCHMAIL02.rush.edu%3E][Kelsey Spencer: Review]] for Self-Study
+SCHEDULED: <2019-08-09 Fri>
+:PROPERTIES:
+:SYNCID:   3314CB8C-CEBD-431D-8A5D-44C3AE8BFCEA
+:ID:       CBE4331D-930E-419C-8F6B-51A100259FF7
+:END:
+
+** Be sure to contact Neeral and add these topics to infertility [[message://%3c49242D53-C6D7-4DF4-8CCD-E4E183AB4493@rush.edu%3E][Re: Sexuality/Reproduction for AY 20/21]]
+SCHEDULED: <2020-02-15 Sat>
+
+Hi Tom, Rahul, and Bob-
+
+There are a # of psychiatric disorders related to sexuality that I don't believe we are covering in the curriculum yet (they are the sexual paraphilias, hypoactive sexual desire, sexual aversion, anorgasmia, psychological causes of erectile dysfunction, premature ejaculation, and sexual pain disorders).  I wonder if there might be an opportunity to add a brief psych-focused "Sexual Dysfunctions" lecture somewhere in next year's Sexuality/Reproduction block.  I think it is too late to add anything like that this year but I just wanted to put it on the radar.  Thanks-
+
+Neeral  
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:
@@ -28,6 +45,8 @@
 :ID:       B3D2B489-795F-4769-87CC-BE979DC44913
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:27] \\
@@ -35,23 +54,25 @@
 - State "WAITING"    from              [2019-08-06 Tue 07:27]
 :END:
 
+*** DONE [#A] For Fetal Death, give columns 2 and 3 and match #1
 
+*** DONE [#A] For Fetal Death, Add note to CEs that USMLE questions are optional
 ***  Some general edits:
 
-**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+**** DONE [#A] Tom:  I still need to check the dates in the headers of all of these guides.
 
-**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+**** DONE [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
 
-**** TODO [#A] This is done.  Post AGB
+**** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
-**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
 **** WAITING [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
 We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
 
-**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+**** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
 **** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 

@@ -25,6 +25,7 @@
 :ID:       C6E7069B-A2AA-49C9-9F48-53C2C245A68E
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-07 Wed 10:11]
 - State "WAITING"    from "TODO"       [2019-07-31 Wed 08:17] \\
   Emailed Najia.   [[message://%3c0BBDCDF2-D2EE-48A4-BC31-BAC7368E4D76@rush.edu%3E][EBM - Evaluating Articles on Harm]]
 :END:
@@ -35,9 +36,58 @@
 ***** This sounds more like a professional session
 ***** It has no self-study
 ***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
-**** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+**** DONE [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 *** We are finalizing the faculty guides now.
 **** AGB and PID hopefully Wednesday
 **** Teen PRgnancy early next week
 **** Fetal Death this Friday.
+** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
+:PROPERTIES:
+:SYNCID:   BCF9EE57-5559-484B-BF3E-3D532E87FF26
+:ID:       EEF83293-8895-4A0A-9B08-65B2F11722C6
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 09:16]
+:END:
+*** Ask Janice to populate small groups on web site
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:51] \\
+  I think we're just going to populate as we go.
+:END:
+*** Joanna Williams Faculty Guide is ready to be posted.
+*** Danesha - is the roles material on track?  Will it be reviewed?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:52] \\
+  Kind of yes and kind of no.  It sounds like the content is in.  But she hasn't been sending it out for review.  They're going to do this but its going to be close.  It all needs to be up by August 21
+:END:
+*** Danesha - Elif's material?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:53] \\
+  This is going to go into its own Entrada shell.  In the mean time there is a folder for BCS and Elif will set up subfolders for content that she considers to be of different types (i.e. the oral presentation WS will  be separate from some of the other introductory/general information material.
+:END:
+*** Paul Kent still on track?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  Yes
+:END:
+*** Danseha - EBM - Evaluating Articles on treatment Session Materials?  Is this with the M1 content in both HDHR and S&R?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  I told her this.
+:END:
+*** DONE Contact Anne and Rahul.  Set up a meeting to help out Danesha with the Practitioner material.  Apparently its a mess, especially the HDHR sessions.
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:57] \\
+  Friday after the Core Sisciplines meeting at 3:30.  Danesha will use appear.in
+- State "DONE"       from              [2019-08-07 Wed 07:57]
+:END:
+*** DONE [#A] Send Danesha the appear.in link for the meeting Friday
+*** DONE [#A] Schedule the next Administrative team meeting
+** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
+:ID:       F839FA8E-86DA-4910-B173-5642D5FA5D4C
+:END:
+*** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
+*** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
 * *Notes*

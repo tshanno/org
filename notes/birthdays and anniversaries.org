@@ -23,3 +23,8 @@ SCHEDULED: <%%(diary-date t 1 t)>
 * Jenni's Birthday <%%(diary-anniversary 07 28)>
 ** Get jenni a birthday card 
 SCHEDULED: <2020-07-21 Tue>
+* Drew Perenick Birthday August 8
+** Buy Drew a card and send it
+<%%(diary-remind '(diary-anniversary 08 08) -7)>
+
+[[bbdb:Drew%20Perenich][Drew Perenich]]

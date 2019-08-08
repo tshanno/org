@@ -30,7 +30,8 @@ SCHEDULED: <2019-07-08 Mon>
 :END:
 
 
-** TODO [#A] Check to see who you need to invite to Core Disciplines August 2
+** Check to see who you need to invite to Core Disciplines
+SCHEDULED: <2019-08-12 Mon>
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
 :SYNCID:   892288F3-489C-41E6-8C85-7237F1998DF4
@@ -39,7 +40,8 @@ SCHEDULED: <2019-07-08 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** TODO [#A] Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
+** Send out an email with minutes of the Core Disciplines Meeting.  Be sure to include Keith and Carl. [[message://%3c31D4EC90-42E2-4A07-918E-6ED1022BB426@northpark.edu%3E][Meeting Friday ]]
+SCHEDULED: <2019-08-12 Mon>
 
 ** Contact Keith and update him on AGB, infertility and teen preganancy
 ** See if the revew session for Formative got moved from 9/12 to 9/17
@@ -69,6 +71,20 @@ There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  It
 
 ** Make sure you add Neeral's content in the proper spot [[message://%3c1565051923008.29249@rush.edu%3E][Sexuality/Reproduction for AY 20/21]]
 SCHEDULED: <2020-02-01 Sat>
+
+** Make an introductory video for S&R
+SCHEDULED: <2019-08-15 Thu>
+*** Be sure to explain that the S&R block and the life cycle blocks are outr attempt to be forward thinking and to get ahead of the curve.  Some of the content might not be in First Aid.
+*** Narrative feedback
+*** Add comment about women's health being forward thinking
+*** Mention that BCS (Bedside Clinical Skills) will have its own shell.
+*** Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
+  
+  Students will not be told they are being evaluated.
+  
+  This won't affect the grade but can affect a Deans letter
+  
+  Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -373,18 +389,24 @@ Abnormal Genital Tract Bleeding?
 *** Mark promised to re-write the pathology exercise in AGB.
 *** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 SCHEDULED: <2019-08-09 Fri>
-** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-26 Fri 14:30-15:30>
+** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-26 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       7F9A785B-1928-46F6-8718-C7DA8F4D4376
 :END:
-*** Gary is going to alter the PID exercise to make it clear what the students need to know.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:33]
+:END:
+*** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-05 Mon 06:45]
+:END:
 *** Mark promised to re-write the pathology exercise in AGB.
 *** Alter the concept map for male infertility or replace with a path activity
 *** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       A68CA9BF-19F5-4A88-89E7-924AB5EDA9E7
+:ID:       D13EE913-14E7-49A7-9A80-9A27235C23A0
 :END:
 *** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 
@@ -415,7 +437,7 @@ Tom S.
 *** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 SCHEDULED: <2019-09-09 Mon>
 *** TODO [#A] Change dates on faculty guides
-*** TODO [#A] Update contact info for immuno/micro
+*** DONE [#A] Update contact info for immuno/micro
 
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
 :PROPERTIES:
@@ -456,6 +478,10 @@ Department of Pathology, RMC
 :SYNCID:   B170C263-0AA3-449F-AD2C-67DFA109BC2B
 :ID:       A11BF094-EC2E-4DF4-8910-DC5C6DA6B844
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-07-31 Wed 08:17] \\
+  Emailed Najia.   [[message://%3c0BBDCDF2-D2EE-48A4-BC31-BAC7368E4D76@rush.edu%3E][EBM - Evaluating Articles on Harm]]
+:END:
 *** Where are we on self-studies?
 **** Danesha says she has this in hand.  Advocate is her Only issue.  She is working with Pail Kent.
 **** Advocate:  Sexual Assault and Patient Care in the Emergency room (9/15) went from a 2 hour session to a 1 hour lecture this year.  Does he need to change his self-study?
@@ -463,7 +489,7 @@ Department of Pathology, RMC
 ***** This sounds more like a professional session
 ***** It has no self-study
 ***** Jeffrey said eh thought it might have been done last year.  I don't remember it.
-**** WAITING [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
+**** DONE [#A] Danesha - Does EBM - Evaluating Articles on Harm Session have self-study or is it all online? ::  [[https://theebmproject.wordpress.com/small-group-01/][Small Group 01: Ginde 2009 (Harm) | the ebm project]].  Check with Najia and see if she wants to use the same self-study.  If so, maybe copy and paste.  Be sure to include the link though so they can watch the videos?
 *** We are finalizing the faculty guides now.
 **** AGB and PID hopefully Wednesday
 **** Teen PRgnancy early next week
@@ -474,6 +500,8 @@ Department of Pathology, RMC
 :ID:       C380034A-FB7C-43E7-981B-8935494DA2D9
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:27] \\
@@ -481,26 +509,84 @@ Department of Pathology, RMC
 - State "WAITING"    from              [2019-08-06 Tue 07:27]
 :END:
 
+*** DONE [#A] For Fetal Death, give columns 2 and 3 and match #1
 
+*** DONE [#A] For Fetal Death, Add note to CEs that USMLE questions are optional
 ***  Some general edits:
 
-**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+**** DONE [#A] Tom:  I still need to check the dates in the headers of all of these guides.
 
-**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+**** DONE [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
 
-**** TODO [#A] This is done.  Post AGB
+**** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
-**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
 **** WAITING [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
 We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
 
-**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+**** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
 **** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
+** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
+:PROPERTIES:
+:SYNCID:   BCF9EE57-5559-484B-BF3E-3D532E87FF26
+:ID:       480CC4E2-47E7-4466-8B3C-DC8BA3B86247
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 09:16]
+:END:
+*** Ask Janice to populate small groups on web site
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:51] \\
+  I think we're just going to populate as we go.
+:END:
+*** Joanna Williams Faculty Guide is ready to be posted.
+*** Danesha - is the roles material on track?  Will it be reviewed?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:52] \\
+  Kind of yes and kind of no.  It sounds like the content is in.  But she hasn't been sending it out for review.  They're going to do this but its going to be close.  It all needs to be up by August 21
+:END:
+*** Danesha - Elif's material?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:53] \\
+  This is going to go into its own Entrada shell.  In the mean time there is a folder for BCS and Elif will set up subfolders for content that she considers to be of different types (i.e. the oral presentation WS will  be separate from some of the other introductory/general information material.
+:END:
+*** Paul Kent still on track?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  Yes
+:END:
+*** Danseha - EBM - Evaluating Articles on treatment Session Materials?  Is this with the M1 content in both HDHR and S&R?
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:55] \\
+  I told her this.
+:END:
+*** DONE Contact Anne and Rahul.  Set up a meeting to help out Danesha with the Practitioner material.  Apparently its a mess, especially the HDHR sessions.
+:LOGBOOK:
+- Note taken on [2019-08-07 Wed 07:57] \\
+  Friday after the Core Sisciplines meeting at 3:30.  Danesha will use appear.in
+- State "DONE"       from              [2019-08-07 Wed 07:57]
+:END:
+*** DONE [#A] Send Danesha the appear.in link for the meeting Friday
+*** DONE [#A] Schedule the next Administrative team meeting
+** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
+:ID:       E8560606-3C12-4F17-A661-D0AC4BE2F560
+:END:
+*** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
+*** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-16 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   AD3C00B0-46D6-4672-82FF-7C1D848324FB
+:ID:       DF02EE8A-CAA0-4923-AABD-80F9D8408B77
+:END:
+*** From Paola [[message://%3c321c4e227f254d43ac9bd20c0c187926@RUPW-EXCHMAIL01.rush.edu%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
+For Fetal death are we talking about prenatal test? What about T21? Or we could do  GTT. Not sure if that is the idea
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -788,10 +874,16 @@ There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  It
 - State "DONE"       from "TODO"       [2019-07-31 Wed 15:05]
 :END:
 
-** TODO [#A] Review Assessment Blueprint [[message://%3c9DCA58D6-284F-45AD-8EB4-1247E0CF7E3C@rush.edu%3E][RMD 566 Assessment Blueprint]]
+** DONE [#A] Review Assessment Blueprint [[message://%3c9DCA58D6-284F-45AD-8EB4-1247E0CF7E3C@rush.edu%3E][RMD 566 Assessment Blueprint]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:34]
+:END:
 
 
-** TODO [#A] track down the Treatment self-study [[message://%3cB411440A-AAA8-4903-A7C9-7141BC92B191@rush.edu%3E][Re: EBM - Evaluating Articles on Harm]]
+** DONE [#A] track down the Treatment self-study [[message://%3cB411440A-AAA8-4903-A7C9-7141BC92B191@rush.edu%3E][Re: EBM - Evaluating Articles on Harm]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 10:16]
+:END:
 
 
 I will be happy to upload anything you send me to the right spot.  Let me know how I can help.  Danesha can always help you as well.
@@ -800,6 +892,12 @@ I’ll track down the Treatment self-study.  It isn’t where I expected it to b
 
 Thanks,
 Tom S.1
+** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
+SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+:PROPERTIES:
+:SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
+:ID:       8FD31F9A-487B-477B-A4B2-42651068D123
+:END:
 * DONE PROJECT Finalize schedule
 **** BSci instead of CBCL
 * DONE [[message://%3cc54cc12e18ba42b0bd625f93ffccf5ed@RUPW-EXCHMAIL01.rush.edu%3E][Mike Fill's table - pu t this into the notes]]

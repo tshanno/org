@@ -74,6 +74,13 @@ Regarding the student comment about jokes
   
   We went over Angela's test exam breakdown (not the exam which is, of course, off limits at this point since many questions are the same).  She did poorly in anatomy, physiology and pathophysiology.  I recommended active study techniques (image occlusion and Note cards) and that she review the old physiology exam questions.  I also sent her links to the updated computer programs online and asked for bug reports.
 :END:
+** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-16 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   AD3C00B0-46D6-4672-82FF-7C1D848324FB
+:ID:       65F6E0E5-FE26-4EDF-B2BA-C83BFC2AEAAF
+:END:
+*** From Paola [[message://%3c321c4e227f254d43ac9bd20c0c187926@RUPW-EXCHMAIL01.rush.edu%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
+For Fetal death are we talking about prenatal test? What about T21? Or we could do  GTT. Not sure if that is the idea
 * *Notes*
 ** [[message://%3c9C86D54B-94C8-405D-AE61-E8CFA90A2BDA@rush.edu%3E][Assessment Challenge Link]]
   [2018-09-28 Fri]
@@ -146,6 +153,12 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       FDD8AEA8-8535-48D7-8E59-0F4F54CA8D0D
 :END:
 
+** <2019-08-07 Wed> Talked to Syed.  He says his material will be in Friday.  He will add the introduction to the ECG to MI.  He will add cardiac tamponade to CHF.  The introduction to the ECG will be a new topic.
+:PROPERTIES:
+:SYNCID:   2136ED61-20A6-4940-95F4-B55F8CB5AD95
+:ID:       78AD87D4-3309-4B41-BA8C-713AE613C031
+:END:
+
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -200,7 +213,11 @@ SCHEDULED: <2019-08-08 Thu>
   Check for this after deadline on August 8
 :END:
 [[message://%3c1554997616479.19981@rush.edu%3E][Re: Check of Vital Gases Topics Topics for 2020]]
-** TODO [#A] [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
+** WAITING [#A] [[message://%3c0173196a932e452280d5f9634012d48e@RUDW-EXCHMAIL01.rush.edu%3E][We should be covering cardiac tamponade somewhere.  Should add it.]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-07 Wed 10:19] \\
+  Emailed Syed
+:END:
    [2018-12-21 Fri]
 *** Reminded Anne and Syed of this [2019-03-13 Wed]  Did it get added?
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
@@ -426,10 +443,13 @@ SCHEDULED: <2018-12-13 Thu>
 ** DONE [#A] Syed promised changes to CI by Monday.  Make sure EKG is covered in topics in VF
 ** DONE [#A] FU Carolyn in VF
 	[[message://%3cFA5283A0-98E3-4202-B635-915F8CB9FDE8@rush.edu%3E][Re: Check of Vital Fluids Topics Topics for 2019]]
-** TODO [#A] Add cardiac tamponade to HF
+** WAITING [#A] Add cardiac tamponade to HF
 :PROPERTIES:
 :SYNCID:   7C0BB521-E2FA-4B6E-AAD3-AEB198412196
 :ID:       CFBEE68E-3A0F-4A25-A4BA-8F784D347A90
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-07 Wed 10:19]
 :END:
 
 ** CANCELED Did medical imaging objectives get taken care of?
@@ -480,6 +500,18 @@ SCHEDULED: <2019-06-27 Thu>
 
 ** TODO [#A] Convert VF faculty guides to new format
 
+** TODO FU: Syed [[message://%3cAB72CDE7-8224-4E99-999B-110DC96D40E7@rush.edu%3E][Two things]]
+:PROPERTIES:
+:SYNCID:   F178C2AA-B643-4AF1-85A2-38B5697FF7EE
+:ID:       4CD3B0E6-C90B-4F01-853C-4535C27F96FE
+:END:
+
+** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
+SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+:PROPERTIES:
+:SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
+:ID:       11877ED8-F8D3-4777-98F1-05667A15B80A
+:END:
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

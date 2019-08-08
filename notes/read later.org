@@ -18,7 +18,7 @@ Control of cardiac ryanodine receptor by sarcoplasmic reticulum luminal Ca<sup>2
 
 Perspectives on "Control of Ca release from within the cardiac sarcoplasmic reticulum".
 ** ON RADAR [[message://%3c20190721220845.96E0714A69@esupp01.be-md.ncbi.nlm.nih.gov%3E][What's new for 'cardiac AKAP' in PubMed]]
-** TODO [[https://theathletic.com/1082093/2019/07/22/2019-nfl-quarterback-tiers-rankings/?source=rss][2019 Quarterback Tiers: Fifty-five coaches and executives rank the NFL starters – The Athletic]]
+** ON RADAR [[https://theathletic.com/1082093/2019/07/22/2019-nfl-quarterback-tiers-rankings/?source=rss][2019 Quarterback Tiers: Fifty-five coaches and executives rank the NFL starters – The Athletic]]
 Read later
 
 * *Ticklers*

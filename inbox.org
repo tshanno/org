@@ -1,15 +1,28 @@
 * Tasks
-
-** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
+** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
 :LOGBOOK:
-- Note taken on [2019-08-06 Tue 13:33] \\
-  Did some minor edits.  This went well.
+- Note taken on [2019-08-08 Thu 13:15] \\
+  Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
+  
+  Students will not be told they are being evaluated.
+  
+  This won't affect the grade but can affect a Deans letter
+  
+  Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
 :END:
-** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
-*** Ask Janice to populate small groups on web site
-*** Joanna Williams Faculty Guide is ready to be posted.
-*** Danesha - is the roles material on track?  Will it be reviewed?
-*** Danesha - Elif's material?
-*** Paul Kent still on track?
-*** Danseha - EBM - Evaluating Articles on treatment Session Materials?  Is this with the M1 content in both HDHR and S&R?
-** TODO Make sure that packets re ready to go for AGB activity on 9/3
+                                 
+** TODO CCE Implementation Planning Meeting; Location: OIME, AAC 403, Medium Conference Room <2019-08-08 Thu 14:30-15:00>
+** WAITING Send infertility edits to Janice and post self-study
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-08 Thu 13:06] \\
+  Waiting on review to come back
+:END:
+*** Carolyn Jones changed her genetics self-study questions.  Let Janice know.
+** TODO Called Macy's to check on watch
+:LOGBOOK:
+- Note taken on [2019-08-08 Thu 14:07] \\
+  Gentleman at the watch repair desk was going to call his watch repair guy and find out what the status is.
+:END:
+[[bbdb:Macy's%20State%20Street%20Watch%20Repair][Macy's State Street Watch Repair]]
+** TODO dffm-ocjc-iclw-dimz
+** TODO [[Outlook:AAMkADczOTU3NzhlLTk3NTUtNDAxNi05MmMwLTRiNjQxNzdhMWQ2NQBGAAAAAABGaSRiAXpmRI5iV0qGSg5NBwDTcZOtHTjSSrKMvJifX15JAAAAAAFYAAB3XSrCPDTITpvPL20oqAErAAG3kAfzAAA=][test]]

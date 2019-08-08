@@ -36,5 +36,19 @@ SCHEDULED: <2019-06-19 Wed>
 :ID:       EF722448-DCD1-49F7-A7DA-8B6426FC9EB4
 :END:
 * *Ticklers*
+** FU on [[message://%3c12756d841057479990867c60fc095f5e@RUPW-EXCHMAIL02.rush.edu%3E][Kelsey Spencer: Review]] for Self-Study
+SCHEDULED: <2019-08-09 Fri>
+:PROPERTIES:
+:SYNCID:   3314CB8C-CEBD-431D-8A5D-44C3AE8BFCEA
+:ID:       3F59122D-8461-4E93-AFA0-6E8F8D2A004B
+:END:
+
 * *Meetings*
+** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
+:ID:       69AB112F-04A9-4B60-B4C6-B899026BC887
+:END:
+*** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
+*** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
 * *Notes*

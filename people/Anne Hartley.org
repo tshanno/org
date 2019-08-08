@@ -1,11 +1,12 @@
 #+FILETAGS: :Anne_Hartley:
 * *Tasks*
-** WAITING [#A] Get back to Anne and Syed on CHF self-study.  https://rmc-integrated.slack.com/archives/D6JP19H7H/p1563403914001700
+** DONE [#A] Get back to Anne and Syed on CHF self-study.  https://rmc-integrated.slack.com/archives/D6JP19H7H/p1563403914001700
 :PROPERTIES:
 :SYNCID:   955CCBDD-D6C6-48A6-BCCC-835528B01040
 :ID:       F628FE9A-ABDF-4F9B-B89E-669630AD9F11
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-07 Wed 10:10]
 - State "WAITING"    from "TODO"       [2019-07-26 Fri 09:45] \\
   [2019-07-25 Thu] Finished a preliminary version of this and notified Anne.    Waiting for feedback.
 :END:
@@ -13,7 +14,7 @@
 *** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       8BDD454D-4469-4824-858A-B215B27839FC
+:ID:       841D5D9C-17B4-4DB3-8A89-5C3B8A5D0AE0
 :END:
 * *Ticklers*
 * *Meetings*
@@ -57,6 +58,8 @@ Department of Pathology, RMC
 :ID:       603C0C09-02AB-4350-95D0-A39294AD64B5
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:27] \\
@@ -64,24 +67,35 @@ Department of Pathology, RMC
 - State "WAITING"    from              [2019-08-06 Tue 07:27]
 :END:
 
+*** DONE [#A] For Fetal Death, give columns 2 and 3 and match #1
 
+*** DONE [#A] For Fetal Death, Add note to CEs that USMLE questions are optional
 ***  Some general edits:
 
-**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+**** DONE [#A] Tom:  I still need to check the dates in the headers of all of these guides.
 
-**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+**** DONE [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
 
-**** TODO [#A] This is done.  Post AGB
+**** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
-**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
 **** WAITING [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
 We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
 
-**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+**** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
 **** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
+** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
+:PROPERTIES:
+:SYNCID:   1C22845C-DDFF-4FA3-8433-25212DB71021
+:ID:       6E55F75B-302E-422B-A1D5-BF30BC0D9935
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-06 Tue 13:33] \\
+  Did some minor edits.  This went well.
+:END:
 * *Notes*

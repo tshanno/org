@@ -3,6 +3,8 @@
 SCHEDULED: <2020-02-03 Mon>
 ** Change the room instructions for activity 2 in AUB after determining what the room characteristics will be
 SCHEDULED: <2019-08-09 Fri>
+** Make sure that packets re ready to go for AGB activity on 9/3
+SCHEDULED: <2019-08-27 Tue>
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
 :PROPERTIES:
@@ -90,6 +92,8 @@ SCHEDULED: <2019-08-09 Fri>
 :ID:       273B3081-B939-4B24-B38D-2C1019A6604E
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
+- State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
 - State "WAITING"    from              [2019-08-06 Tue 07:27] \\
@@ -97,23 +101,25 @@ SCHEDULED: <2019-08-09 Fri>
 - State "WAITING"    from              [2019-08-06 Tue 07:27]
 :END:
 
+*** DONE [#A] For Fetal Death, give columns 2 and 3 and match #1
 
+*** DONE [#A] For Fetal Death, Add note to CEs that USMLE questions are optional
 ***  Some general edits:
 
-**** TODO [#A] Tom:  I still need to check the dates in the headers of all of these guides.
+**** DONE [#A] Tom:  I still need to check the dates in the headers of all of these guides.
 
-**** TODO [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
+**** DONE [#A] We need to update the contact information for Microbiology.  Presumably this will be Nell and Paria but Paria hasn’t been officially hired.  I’ll put Nell’s info in.
 
-**** TODO [#A] This is done.  Post AGB
+**** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
-**** WAITING [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
+**** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
 **** WAITING [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
 We made a slight alteration to Jerry’s new path activity.  Students will now be given some of the differentials which we felt were diseases that the students haven’t had yet.  I’ve also added a note to the CEs to ask them to simply walk the students through part I of this exercise.  Jerry, are the last two images in part II supposed to be marked up in the student guide as well?  If not, we need non-marked up versions.
 
-**** WAITING Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
+**** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
 **** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
@@ -231,8 +237,26 @@ This is done.  I have a note to replace this with a Viagra mechanism of action c
 - State "DONE"       from "TODO"       [2019-08-05 Mon 07:23]
 :END:
 
-** TODO [#A] Post AUB [[message://%3cBN8PR01MB5556E4865D52E3271141E93FBCDA0@BN8PR01MB5556.prod.exchangelabs.com%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
+** DONE [#A] Post AUB [[message://%3cBN8PR01MB5556E4865D52E3271141E93FBCDA0@BN8PR01MB5556.prod.exchangelabs.com%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-07 Wed 10:12]
+:END:
 
+** DONE [#A] Review [[message://%3cee12a7b3773d4c0e9d3413a680f58608@RUPW-EXCHMAIL02.rush.edu%3E][case 1 final]]
+:PROPERTIES:
+:SYNCID:   4FEFBFC2-FE26-4117-A654-3E9D5D4E3DC4
+:ID:       BF0C2608-72D7-4F40-9BF9-85391F9EF8B9
+:END:
+:LOGBOOK:
+- State "WAITING"    from "DONE"       [2019-08-07 Wed 09:12] \\
+  Waiting on an answer from Mark Pool about removing some slides that don't have images and don't appear to be part of the videos.
+- State "DONE"       from "TODO"       [2019-08-07 Wed 09:12]
+:END:
+
+** DONE Fix Mark's slides and get back to Janice. [[message://%3c9d257447d75e4868afd08cb03a948a6b@RUPW-EXCHMAIL02.rush.edu%3E][RE: Pathology sides for Abnormal Genital Tract Bleeding]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-08 Thu 11:05]
+:END:
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
 - Note taken on [2019-06-03 Mon 08:54] \\

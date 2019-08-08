@@ -1,0 +1,16 @@
+* *Tasks*
+** DONE [#A] Review [[message://%3cee12a7b3773d4c0e9d3413a680f58608@RUPW-EXCHMAIL02.rush.edu%3E][case 1 final]]
+:PROPERTIES:
+:SYNCID:   4FEFBFC2-FE26-4117-A654-3E9D5D4E3DC4
+:ID:       779236F0-03F8-41FA-B563-F1BBD29A50B4
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-07 Wed 10:11]
+- State "WAITING"    from "DONE"       [2019-08-07 Wed 09:12] \\
+  Waiting on an answer from Mark Pool about removing some slides that don't have images and don't appear to be part of the videos.
+- State "DONE"       from "TODO"       [2019-08-07 Wed 09:12]
+:END:
+
+* *Ticklers*
+* *Meetings*
+* *Notes*

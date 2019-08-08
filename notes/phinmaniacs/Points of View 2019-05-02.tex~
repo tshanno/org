@@ -1,0 +1,113 @@
+% Created 2019-02-17 Sun 09:59
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Tom Shannon}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Tom Shannon},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\begin{itemize}
+\item Omar Kelly and Dave Hyde at the Sun-Sentinel  \href{https://www.sun-sentinel.com/sports/miami-dolphins/xs-and-omar/116466423-132.html}{discuss what they would need to see this year to be convinced that Josh Rosen is the quarterback of the future (at the 5:00 mark)}.
+
+Kelly's initial answer was ``7 wins''.  :eye roll:  Hyde's more reasonable response was ``You'll know it when you see it''.
+
+A couple things here:
+
+\begin{enumerate}
+\item In fairness, Kelly immediately started to back off his ridiculous response.  Seven wins on a team with more holes than answers is absurd.  But it does show you what his attitude towards this situation is.  Despite \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-kelly-column-20190430-story.html}{claiming otherwise}, he's determined not to like the Rosen experiment.
+
+  I'm not saying that I mind that.  Like every reporter, no matter who he is, Kelly is welcome to his opinion.  No reporters, no matter how hard they try, can completely suppress those opinions when they write their articles.  And Kelly isn't just acting as a beat reporter.  He's also a columnist where he is actually paid to express that opinion (whether beat reporters should also be allowed to be columnists is a topic for another day).
+
+  Nevertheless, this is something that needs to be born in mind when you read his articles.  They're going to be biased and an informed reader is going to have to compensate mentally for that.
+  
+\item Neither of these guys is right.  The truth is, with the Dolphins roster constructed the way it is, no one on the outside is really going to know whether Rosen is the answer.  It's not going to be a good year.  Peyton Manning won 1 game his rookie season.  I think we can all agree he wasn't a bad quarterback.
+
+  What people not directly associated with the team are going to have to do is have faith that the coaches know what they're dong and that they'll be able to properly evaluate Rosen from the inside.  They're the ones in the locker room.  They're watching the film.  They'll know how Rosen responds to coaching.  They'll know his strengths and weaknesses to some extent independent of the talent around him.
+
+  We'll be convinced that Rosen is the answer when we find out whether the Dolphins take a quarterback high in the 2020 draft.  Until then, keeping an open mind is really all you can do.
+
+  
+\item Hyde \href{https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html}{also noted how well the Dolphins are apparently set up for the 2020 NFL draft}:
+
+\begin{quote}
+The Dolphins pumped a lot of resources into the 2020 draft this offseason and now have 12 draft picks.
+
+1 — 1st round
+
+2 — 2nd round (theirs and New Orleans)
+
+2 — 3rd round (theirs and Ja’Wuan James compensatory pick)
+
+2 — 4th round (theirs and Tennessee’s from Ryan Tannehill trade)
+
+2 — 5th round (theirs and Cam Wake compensatory pick)
+
+2 — 6th round (theirs and Robert Quinn trade)
+
+2 — 7th round (Kansas City from Jordan Lucas trade)
+\end{quote}
+
+I noted the optimism with which Hyde anticipated getting the compensatory picks for James and Wake.  In particular, I'm not convinced that losing James is going to bring a third round compensatory pick but let's assume that he will.
+
+The list highlights one of the changes I think we can anticipate in the new NFL labor contract as the old deal expires in 2 years.
+
+The compensatory pick system was set up to help ameliorate the damage done when a player leaves via free agency.  they weren't meant to completely compensate for the loss, only to make it less disastrous for a team when they lose a particularly valuable asset.  But the system has developed far beyond that now.
+
+The compensatory picks that teams get for getting a free agent go are so valuable that teams are often motivated to game the system by purposely letting the player go and taking the pick instead.  Consider the case of James.  Does anyone think there's any chance that James would have brought a third round pick in a trade before he became a free agent?  Wold anyone have given a fifth round pick for a 37 year old Cam Wake?
+
+The pick system is currently being used for a purpose that it was not intended for -i.e. actually rewarding a team for not signing a player in free agency.  That's something the NFLPA cannot let stand and, given the justice of their case, I have to believe that the league won't fight too hard against changing the system.
+\item Hyde also \href{https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde10-dolphins-draft-thoughts-20190429-story.html}{gives some final thoughts on the Dolphins draft}:
+
+\begin{quote}
+  "The Dolphins trade for Josh Rosen was helped out by the awful management in Arizona. If Cardinals GM Steve Keim knew he was trading Rosen, why wait until after picking Kyler Murray? Every team was down the road to their top picks at that point. If he started trade talk a month before the draft, then perhaps the New York Giants, Washington Redskins, Dolphins and others would be involved. I was told before the draft San Diego and New England were interested, too. Instead, the Giants had decided on Daniel Jones at No. 6, Washington hoped they’d get Dwayne Haskins at No. 15 and any trade market for a top pick dried up. The Dolphins effectively got Rosen at a cheap price and for Arizona’s selections of Massachusetts receiver Andy Isabella (62nd pick) and Alabama safety Deionte Thompson underlines what a good deal this is for the Dolphins."
+\end{quote}
+
+This occurred to me as well.  
+
+The best explanation I could come up with was that the Cardinals were worried that is they tipped their hand on Murray before the draft, they might miss out on a "Godfather offer" for the first overall pick that they might have considered.  It was, for instance, rumored that Oakland liked Murray a lot.  Had they offered say, three first round picks to move up into the first position, I assume the Cardinals would have had to consider it.
+
+There is also the possibility that the Cardinals were in secret negotiations already with Murray's agent.  Once you commit to Murray, it gives them significant leverage.  I like this explanation less in the age of the rookie salary cap.
+
+In any case, Hyde as a point.  At bare minimum if you don't trade Murray before the draft, you trade him as soon as possible after you make the pick before other teams know if they are going to have the opportunity to get their guy.  As it turned out, the top end of the quarterback market was softer than expected with first round talent Drew Lock falling into the second round.  That meant everybody was happy with where they ended up and the Cardinals were stuck negotiating with the Dolphins.
+
+\item Colts owner Jim Irsay \href{https://profootballtalk.nbcsports.com/2019/04/28/jim-irsay-wants-the-draft-in-indianapolis/}{says he wants the draft in Indianapolis}.
+
+Indianapolis would be a good spot except for one thing. It’s far enough north to make weather a problem. 
+
+When Radio City Music Hall left the draft four years ago, Chicago lobbied hard to be the new permanent home. But anyone who looked out the window at the heavy snow coming down in Saturday, the last day of the draft, had to agree that the the NFL made the right decision when they started rotating cities instead. 
+
+Indianapolis isn't that far south of Chicago.
+
+\item Brad Biggs at the Chicago Tribune  \href{https://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-stephen-denmark-david-montgomery-biggs-20190501-story.html}{answers your questions}:
+
+\begin{quote}
+  ``The Bears are planning to sign 19 undrafted free agents. As you and others have documented, this has become an important part of the draft process as teams scramble and bid against one another to sign highly regarded prospects who slipped through the cracks. The draft was cut down to seven rounds in 1994. Do you think the NFL would consider adding more rounds given the importance of these undrafted players? — Tom S., Chicago
+
+``No. Adding an eighth round would only force teams to have to pay players more. Good teams do well with undrafted free agents (UDFAs) and bad teams struggle to find players who can stick. Plus, isn’t the final day of the draft long enough?''
+\end{quote}
+
+Yes, if you are a reporter.  Maybe not if you are a general manager.
+
+I actually didn't think this was a bad question.  Wisconsin guard Beau Benzschawel \href{https://twitter.com/RapSheet/status/1122584978724982784}{had offers from 20 teams} before signing with the Lions.  It's very evident that teams are leaving good players on the board at the end of seven rounds.
+\end{itemize}
+\end{document}

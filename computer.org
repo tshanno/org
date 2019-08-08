@@ -61,7 +61,28 @@ http://www.hcs.harvard.edu/%7Ejrus/site/cocoa-text.html
 
 This is amazing.  Describes how to set pretty much any key binding you want.  Its basically like writing in lisp with selectors.
 
-
+* *Meetings*
+** TODO Collaboration Tool Discussion (Updated location); Location: Office of Integrated Medical Education in AAC 403 <2019-08-07 Wed 15:30-16:00>
+:PROPERTIES:
+:SYNCID:   874CC32E-57AB-410D-932E-7BA2EF0F459A
+:ID:       7876A594-642D-4172-B85C-B16FDE31CBE1
+:END:
+*** Pre-meeting notes
+**** Where did the impetus for this came from? . Why me?
+**** Who she?
+**** Our current system-Google Does
+**** This wouldn't have been my choice but swithaig now might be more of a problem than isles worth
+**** We do have some educators that struggle with it-faculty develops meat?
+**** SharePoint?
+**** File share?
+**** Office 365 + One Drive?
+*** Meeting notes
+Carrie was very nice. Took copies notes. Wanted to koeourhat I use to collaborate. We talked a lot oelout Google Docs and Dropbox.
+Apparently I was asked to meet other because they were talking about it and 4 my nana came up".
+She wanted to know if I was interested in tooting something new-for document distribution and collaboration and I said ''yes." Don't know what they have
+in mind, though.
+   
+ 
 * *Ticklers*
 ** DONE [#A] FU Brenden
 	[[message://%3c4C53CBD5-DB6F-4474-B767-1EEE0E50E0FD@rush.edu%3E][Java to Javascript/JQuery conversion]]

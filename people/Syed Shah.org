@@ -1,4 +1,10 @@
 * *Tasks*
+** TODO FU: Syed [[message://%3cAB72CDE7-8224-4E99-999B-110DC96D40E7@rush.edu%3E][Two things]]
+:PROPERTIES:
+:SYNCID:   F178C2AA-B643-4AF1-85A2-38B5697FF7EE
+:ID:       3E2C4669-732E-490C-8C0D-28885BD8F1F9
+:END:
+
 * *Ticklers*
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
 SCHEDULED: <2019-07-02 Tue>
@@ -9,3 +15,9 @@ SCHEDULED: <2019-07-02 Tue>
 
 * *Meetings*
 * *Notes*
+** <2019-08-07 Wed> Talked to Syed.  He says his material will be in Friday.  He will add the introduction to the ECG to MI.  He will add cardiac tamponade to CHF.  The introduction to the ECG will be a new topic.
+:PROPERTIES:
+:SYNCID:   2136ED61-20A6-4940-95F4-B55F8CB5AD95
+:ID:       81A6BE72-07BC-4A80-93D7-B33DA2DE006A
+:END:
+

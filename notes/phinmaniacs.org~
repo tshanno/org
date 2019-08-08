@@ -2,6 +2,7 @@
 ** CANCELED FU on new phinmaniacs post
    SCHEDULED: <2019-05-09 Thu>
 	[[message://%3c45E7E5BD-4274-46FF-A1F5-7566A817FD51@me.com%3E][New article]]
+
 * *Tasks*
 ** DONE [#A] Dolphins points of view
 Long rebiuld
@@ -84,6 +85,7 @@ A couple things here:
 ** DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article229939589.html][Truths about Miami Dolphins draft and Josh Rosen trade | Miami Herald]]
    :PROPERTIES:
    :SYNCID:   1031E679-A016-47A0-AED4-1479B473B519
+   :ID:       F1B60E98-A393-46FA-AF82-10F188173FD9
    :END:
 #+BEGIN_EXPORT latex
 Armando Salguero \href{https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article229939589.html}{separates spin vs. fact about the Dolphins draft}:
@@ -115,6 +117,7 @@ Any other conclusion is just spin.
 ** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/sfl-star-nfl-qbs-whose-first-years-have-been-inferior-to-the-rest-of-their-careers-20190503-photogallery.html][Can Josh Rosen join these stalwart NFL QBs who didn't have much success to start their careers? - South Florida Sun-Sentinel]]
    :PROPERTIES:
    :SYNCID:   E8EE098A-396C-4B56-AE4D-95D5CDC0A071
+   :ID:       DEB7CDD7-33F7-4494-9386-519B55C1B4F1
    :END:
 
 #+BEGIN_EXPORT latex
@@ -156,6 +159,7 @@ So far it seems that Rosen has had the same benefits that Manning had in his fir
 ** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-sidebar-20190509-gpapecygtve4vnitzeveudpkne-story.html][Dolphins hope hybrid defense will create confusion - South Florida Sun-Sentinel]]
    :PROPERTIES:
    :SYNCID:   84EE2878-7332-4C45-A0E2-FDC06365C98F
+   :ID:       51FE0152-C9AE-4ECA-A609-E97D369AA19C
    :END:
 
 #+BEGIN_EXPORT latex
@@ -183,6 +187,7 @@ The problem comes in when you consider the talent of your players and whether th
 ** DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article230246299.html][Miami Dolphins want to extend Laremy Tunsil’s contract | Miami Herald]]
    :PROPERTIES:
    :SYNCID:   C2782AA4-C919-4E3D-8562-CDC490030C89
+   :ID:       E0C7445D-6D85-44A3-B42A-0A283100B481
    :END:
 
 #+BEGIN_EXPORT latex
@@ -215,6 +220,7 @@ On balance, I'd say its better to wait until the 2020 offseason to extend Tunsil
 ** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-qb-competition-20190510-dj3du7vsznaddn36ju64poo73m-story.html][Dolphins coach Brian Flores would be OK if Ryan Fitzpatrick wins QB competition - South Florida Sun-Sentinel]]
    :PROPERTIES:
    :SYNCID:   F5E47CCB-8543-442B-90FC-00E45038C721
+   :ID:       56A54922-1673-4C25-A11C-DDD8338845EA
    :END:
 
 #+BEGIN_EXPORT latex
@@ -235,6 +241,7 @@ So you do have to have a competant quarterback in order to develp and run the te
 ** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-mark-walton-20190510-jfe3ptmcx5dr7bbvorczt2bsve-story.html][Dolphins give tryout to embattled ormer Miami Hurricanes standout Mark Walton - South Florida Sun-Sentinel]]
    :PROPERTIES:
    :SYNCID:   DDB71683-6D14-4D85-B46B-026D7B42CD6E
+   :ID:       7F6A3974-E50C-4131-B9DB-C79F213C17DA
    :END:
 
 #+BEGIN_EXPORT latex
@@ -251,6 +258,7 @@ I don't have a problem with Walton getting a second chance.  But giving it to hi
 ** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-kelly-column-20190512-ud6r7pf2rjge5n54snql6or6z4-story.html][Kelly: Dolphins don’t have any proven defensive ends, can new scheme really overcome roster deficiencies? | Commentary - South Florida Sun-Sentinel]]
 :PROPERTIES:
 :SYNCID:   C724EE54-367E-41DA-B0FC-D468CFF7EB99
+:ID:       62BCA4BE-8082-4171-B1E8-DBAFF134A57A
 :END:
 
 #+BEGIN_EXPORT latex
@@ -270,6 +278,7 @@ The Dolphins have evidently made the decision to let this position slide in a re
 ** DONE [[https://www.miamiherald.com/sports/nfl/miami-dolphins/article230302419.html][Dolphins aim to be ‘tough, physical’ and drafted accordingly | Miami Herald]]
 :PROPERTIES:
 :SYNCID:   EB059BE9-3550-4230-A09B-EADC407BDBC4
+:ID:       CCDEC3C7-3C85-4556-AFD7-87BB7619B7AB
 :END:
 
 #+BEGIN_EXPORT latex
@@ -299,6 +308,7 @@ The Dolpins drafted Christian Wilkins, a defensive tackle, and Dieter, a guard, 
 ** DONE Dolphins quarterback competition takes center stage at OTAs
 :PROPERTIES:
 :SYNCID:   4E6FE866-812A-4E0D-8A04-E345E0F15C4B
+:ID:       7A282FC1-1BF6-4F6F-A5F8-12AD7BA85F9B
 :END:
 
 #+BEGIN_EXPORT latex
@@ -315,9 +325,10 @@ For instance, they've never developed the contacts in the league which can be ne
 Having veteran coaches like Jim Caldwell can help.  But that will only take you so far.  Flores and his staff have their work cut out for them in this respect.
 #+END_EXPORT
 
-** WAITING [[https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article230422099.html][Newsy Miami Dolphins observations on vet visits, Eric Rowe | Miami Herald]]
+** DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article230422099.html][Newsy Miami Dolphins observations on vet visits, Eric Rowe | Miami Herald]]
 :PROPERTIES:
 :SYNCID:   E35E6F38-86ED-4F1B-B147-1D27D5E0848B
+:ID:       533EDBCB-AE45-499C-8DF6-45B736135B5B
 :END:
 changed
 #+BEGIN_EXPORT latex
@@ -346,9 +357,429 @@ Similar to \href{https://www.phinmaniacs.com/news/running-back-mark-walton-gets-
 Every time Flores speaks to the team about ``putting the team first'', young eyes in that room will involuntarily turn to look at Jones (when he finally shows up).  I can't imagine the damage that will cause.
 
 #+END_EXPORT
+
+** DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article230468024.html][Miami Dolphins 2017 draft class not looking like good work | Miami Herald]]
+   :PROPERTIES:
+   :SYNCID:   2F1ED467-B05C-4C7B-A5A6-4D3504CD7F6E
+   :ID:       15D617EB-9244-4B4B-8FD7-81137119744E
+   :END:
+
+ #+BEGIN_EXPORT latex
+ Armando Salguero at the Miami Herald \href{https://www.miamiherald.com/sports/spt-columns-blogs/armando-salguero/article230468024.html}{on the release of 2017 fifth round pick Isaac Asiata}:  
+
+ \begin{quote}
+ ``[T]he frustrating thing about this pick is that Asiata was drafted out of Utah with the 164th selection. And with the 190th selection the Los Angeles Chargers selected Sam Tevi, who was on the same offensive line as Asiata at Utah.
+
+ ``And Tevi was a backup as a rookie. And last year he started 15 games and won the starting right tackle job for the Chargers ahead of Joe Barksdale, who opened the door for Tevi when he got injured and then was cut when he got healthy because Tevi won the job outright.
+
+ ``Somebody in the Dolphins’ personnel department studied the same Utah offensive line and picked the wrong guy.''
+ \end{quote}
+
+ In fairness, the Dolphins were still 2 years away from losing Ja'Wuan James to free agency.  They had just taken Laremy Tunsil in the first round in 2016 and they were just moving him to tackle.  They needed a guard.
+
+ Nevertheless, Salguero's point is excellent and well-taken.  Talent is talent and it isn't like the Dolphins couldn't have used a good developmental prospect that could serve as a back up in the meantime.
+
+ The situation highlights a fundamental problem.  The general manager can set the general direction of the franchise and help make some final decisions on the players.  But Chris Grier, even if he's the right guy for the job, can't be everywhere.  It takes a village to put together a good draft and if the scouts can't recognize talent when they see it, it results in an organizational failure.  The general manager is just the face of it.
+
+ This is an issue when you consider the fact that the Dolphins chose to stick with Grier rather than embrace big changes by hiring from the outside.  All the little indians underneath Grier stayed the same.  Here's hoping they improve their performance or it won't matter who the chief is.
+ #+END_EXPORT
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-separate-20190522-hh6hii6ucvcpzcqgdvt5u3phwy-story.html][Don’t ask Dolphins’ Kenyan Drake about his workload in new offense - South Florida Sun-Sentinel]]
+:PROPERTIES:
+:SYNCID:   79ADEBD3-864C-456E-A9F9-9CABBFC8D4E6
+:ID:       9B487EA9-4E48-40A4-96F5-E22B40108826
+:END:
+
+#+BEGIN_EXPORT latex
+David Furones at the South Florida Sun-Sentinal comments upon the situation of runningback Kenyan Drake:
+
+\begin{quote}
+  ``Under previous coach Adam Gase, Miami Dolphins running back Kenyan Drake’s workload would fluctuate from averaging 18 carries per game in the last five weeks of 2017 to having just 7.5 attempts per outing in 2018.''
+
+  ``'He has a lot of skill and he’s working hard and he’s doing a lot of the things we’re asking him to do,' [Dolphins head coach Brian] Flores said. 'I think he’s obviously athletic, good hands, fast, elusive. He’s a good player. Working with him has been good.'''
+\end{quote}
+
+Even as Drake flashed potential last year, not many people around the team were advocating more playing time for him.  No one said it out right but the suspicion is that his work ethic wasn't up to snuff.  Apparently working with the veteran Frank Gore didn't bring it out of him.
+
+It sounds like Drake is embracing his opportunity to work with the new staff and is looking at it as a fresh start.  Here's hoping it results in a more professional attitude and, as a results, benefits the Dolphins in a big way.  
+#+END_EXPORT
+** DONE [[https://theathletic.com/989614/2019/05/22/guard-might-not-be-a-glamour-position-but-dolphins-know-an-improvement-is-necessary/?redirected=1][Guard might not be a glamour position, but Dolphins know an improvement is necessary – The Athletic]] This article highlights the continued problem atguard. It probably won’t be solved on both sides this year. But guard is arguably more important than tackle. You can find them late in the draft. But they’re still more important. 
+:PROPERTIES:
+:SYNCID:   C9E70FFB-64AE-4186-8DAE-9F4D0D8DEA11
+:ID:       6F0095DC-8A88-4D01-A1BF-9C4865BA0D87
+:END:
+
+#+BEGIN_EXPORT latex
+Chris Perkins at The Athletic \href{https://theathletic.com/989614/2019/05/22/guard-might-not-be-a-glamour-position-but-dolphins-know-an-improvement-is-necessary/?redirected=1}{addresses the Dolphins guard situation}.
+
+\begin{quote}
+  ``There’s no doubt Miami must upgrade from last year’s starting duo of Davis and Ted Larsen, who is now with Chicago. Davis was the league’s 77th-rated guard last season according to ProFootballFocus, allowing seven sacks. Larsen, who started 14 games, was even worse, ranking 125th and allowing four sacks.''
+\end{quote}
+
+Amen.
+
+This article highlights the past problem at guard and the fact that Davis is currently still the leading candidate to play right guard is an indication that the Dolphins have a long way to go at this position.  And the fact that third round draft pick Michael Deiter will likely beat out current starting left guard Chris Reed doesn't make me feel a lot better.  The fact is that this problem probably won’t be solved this year, at least on both both sides.
+
+Many people have a habit of underestimating the importance of the guard position.  In fact, I used to be one of them.  But experience has taught me that this is the most important position on the offensive line.  Its easier to find guards like Deiter in the middle to late rounds of the draft.  But guard position, itself, is more important than tackle. Quarterbacks can step up in the pocket to escape defensive ends coming off the edge if the interior linemen do their job.  But no quarterback can throw with pressure in his face.
+
+This is a huge problem that will likely stunt the performance of both Josh Rosen and Ryan Fitzpatrick along with the performance of the rest of the offensive players, will have to be judged with this in mind.
+
+
+
+
+#+END_EXPORT
+** DONE [[https://www.si.com/nfl/2019/05/20/colts-2019-offseason-chris-ballard-chris-long-retirement-patrick-peterson-suspension-mmqb][How the Colts are quietly winning the offseason, more MMQB | SI.com]]
+:PROPERTIES:
+:SYNCID:   391BB6E3-1FD1-49BA-BD90-543FA383AD96
+:ID:       EC51EF56-7330-4BF1-9D56-C8171844B5A8
+:END:
+
+#+BEGIN_EXPORT latex
+Albert Breer at SI.com \href{https://www.si.com/nfl/2019/05/20/colts-2019-offseason-chris-ballard-chris-long-retirement-patrick-peterson-suspension-mmqb}{writes about how the Colts are gradually shrinking their draft board year to year}.
+
+\begin{quote}
+``I’d say this year we had 170 players on the board [for 2019], which is way down from where it was before,' [General Manager Chris] Ballard said. 'I think last year we were at 220, I can’t even remember the number from my first year. But yeah, it makes it easier to navigate when you have fewer names that you know fit what you want. I think when we really get it right, and we get it down to about 125, 150, that’s when we’ll have really honed down exactly what a Colt is for our schemes.'''
+\end{quote}
+
+What the Colts are doing is a lesson for us all.  I have found that being brutal about cutting things out of my life, from tossing things from storage to pruning task lists, makes it a lot easier to get better results in the end.
+
+Honestly, if you have something in your closet that you haven't touched for five years, are you really going to need it in the next 5?  Or the 5 after that?
+
+Anyway, this is a sign that the Colts really know what they are doing.  The bet here is that going into the draft, any general manager worth his salt probably knows deep in his heart that there are only 50 or so players they are really likely they'll end up with.  Maybe even less.  So why put 350 on your board?
+
+The ability to hone in on what's really important and trimming the rest seems to be one underrated key to success.
+#+END_EXPORT
+
+** DONE [[https://twitter.com/davebirkett/status/1130120949548949504?s=12][Dave Birkett on Twitter: "Washington and Oakland the favorites for Hard Knocks. Lions check in 4th on the list.… "]]
+:PROPERTIES:
+:SYNCID:   B256D3BB-B2F1-4BB9-9ED3-15CFA65EA22C
+:ID:       CE5D0FF2-1228-4BD4-920F-74D606F76601
+:END:
+
+#+BEGIN_EXPORT latex
+Dave Birkett at the Detroit Free Press \href{https://twitter.com/davebirkett/status/1130120949548949504?s=12}{checks in with the latest odds on who will be on HBO's Hard Knocks program}.
+
+\begin{tabular}{ll}
+  \multicolumn{2}{l}{\textbf{Hard Knocks 2019 - Team Featured}
+  Washington Redskins &5/4\\
+  Oakland Raiders &5/2\\
+  New York Giants &3/1\\
+  Detroit Lions &7/2\\
+  San Francisco 49ers &9/1\\ 
+\end{tabular}
+
+I understand why Daniel Snyder's Redskins might be the favorite.  Snyder seems like just the entrepreneur who would see this as an opportunity rather than a detriment.  Nevertheless my money's on the Raiders.
+
+Mark Davis has been adamantly against this team appearing in the past.  But getting permission to move his franchise to Vegas undoubtedly came with a lot of strings attached behind the scenes.  The bet here is that it's not coincidence that the Rams both appeared on Hard Knocks and went to London to play after permission to move to Line of scrimmage Angeles was given.
+
+Oakland plays a home game against the Bears in London this year and it would surprise no one if they ended up being forced to volunteer to be on Hard Knocks as well.
+
+#+END_EXPORT
+
+** CANCELED [[https://profootballtalk.nbcsports.com/2019/05/19/would-jets-trade-leveon-bell/][Would Jets trade Le’Veon Bell? – ProFootballTalk]]
+:PROPERTIES:
+:SYNCID:   B5780AEB-AB40-475A-8ACF-840F0053EBAE
+:ID:       01C81106-D213-4DDF-8C3F-ECD2307DD7A2
+:END:
+
+- Note taken on [2019-06-01 Sat 10:49] \\
+  Used this for Bearing the News but it was no longer really relevant by the time I put together an phinmainacs post
+#+BEGIN_EXPORT latex
+Mike Florio at profootballtalk.com \href{https://profootballtalk.nbcsports.com/2019/05/19/would-jets-trade-leveon-bell/}{speculates upon the possibility that Jet's head coach Adam Gase may be inclined to trade Le'Veon Bell} after rumors surfaced that he never wanted to sign the back.
+
+\begin{quote}
+``If Gase is inclined to do it, now’s the time given his current power and control over the team. And John Clayton, formerly of ESPN and now a radio host in Seattle, recently said just enough on 93.7 The Fan in Pittsburgh to get people thinking that a trade could happen: 'If there’s a suitor, I could absolutely see the Jets trading him before the start of the season.'''
+\end{quote}
+
+The thought that the Jets would trade Bell is ridiculous.  The Jets have already paid Bell \$12 million and \href{https://overthecap.com/player/leveon-bell/2258/}{the cap hit if they traded him would be extremely high}.
+
+Furthermore I have a hard time believing that anyone wouldn't want Le'Veon Bell, let alone an offensive coach like Gase.  I have little trouble believing that Gase thought they overpaid.  But the thought that Gase would trade him now that they've paid Bell is absurd.
+
+Personally I never felt that John Clayton added much in the way of reporting when he was with ESPN.  And I definitely don’t think he knows what he’s talking about now. 
+#+END_EXPORT
+
+** DONE [[https://theathletic.com/996911/2019/05/28/forget-continuity-heres-why-change-should-benefit-the-bears-defense/][Forget continuity, here’s why change should benefit the Bears’ defense – The Athletic]]
+:PROPERTIES:
+:SYNCID:   E80ACCAF-7CC4-457C-A538-BC00F906ADA1
+:ID:       A01195D0-81BE-445E-A243-5FD0CC6028A3
+:END:
+
+#+BEGIN_EXPORT latex
+Adam Jahns at The Athletic writes about \href{https://theathletic.com/996911/2019/05/28/forget-continuity-heres-why-change-should-benefit-the-bears-defense/}{the effect of change} upon an already very good Bears defense.  New defensive coordinator Chuck Pagano is overhauling the defense despite taking over a very successful unit from last years defensive coordinator Vic Fangio, who moved on to become the head coach in Denver.  The Dolphins are undergoing even more drastic changes under never head coach Brian Flores.
+
+\begin{quote}
+``Four different assistants — [outside linebackers coach Ted Monachino, [safeties coach Sean] coach Desai, [defensive line coach Jay] Rodgers and new linebackers coach Mark DeLeone — suggested that new voices should help combat complacency from players.
+
+``'At the end of the day, if you walk into a meeting room thinking that you know everything, you may miss some points,' Rodgers said. 'And if something comes in that’s maybe a little bit different, you’ve got to pay attention a little bit more, so when your turn is up, you’re able to execute the way we expect you to execute.
+
+``'There’s some things that from a language standpoint that may be a little bit different, but at the end of the day, the guys are focused in on what they need to do to be really good at what they do.'''
+\end{quote}
+
+This is why analysts who are \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-brian-flores-20190524-vsfblusmmbdnjgxu7xmn53k2ka-story.html}{predicting things like ridiculous 0-16 seasons} for the Dolphins are wrong.  Its because it takes more than lack of talent to result in historically bad teams.
+
+No first year head coach has ever gone 0-16.  Rod Marinelli was in his third with the Lions in 2008 and Hue Jackson was in his second with the Browns in 2017.
+
+The Dolphins do have holes all over the field with important positions on the offensive line, at pass rusher and at cornerback filled with mediocre to less than mediocre players.  But all of those players are, or should be, laser focused as new playbooks are installed and as relationships with new coaches are built.  And every job is wide open as new coaches without preconceptions watch practices with a neutral eye that may decide that a long time starter shouldn't be given his position and that maybe a relative unknown should be given a shot. 
+
+Dolphins coaches will naturally have an easier time getting the most out of their players this year.  And that could produce a pleasant surprise with a better than expected season.  But at worst, it won't produce anything historically bad.
+#+END_EXPORT
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-josh-rosen-ryan-fitzpatrick-20190529-shrdcbpzzzeatec4jujqtgsjby-story.html][Josh Rosen hopes to get ‘somewhere close’ to Tom Brady in learning new Miami Dolphins offense - South Florida Sun-Sentinel]]
+:PROPERTIES:
+:SYNCID:   0B51267F-E8DF-49D5-B642-0DB2802B6D5C
+:ID:       8383EB1D-A7B4-4647-B83D-6B18B732A324
+:END:
+
+#+BEGIN_EXPORT latex
+Safid Deen at the South Florida Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-josh-rosen-ryan-fitzpatrick-20190529-shrdcbpzzzeatec4jujqtgsjby-story.html}{breaks down the quarterback situation in OTAs}:
+
+\begin{quote}
+``Luckily for [Josh] Rosen, he has had some recent experience in a similar scheme.
+
+``Rosen revealed the new Dolphins offense has some basic similarities to the first of two offenses he ran last year as a rookie under former Arizona Cardinals coordinator Mike McCoy, who was fired after six games last season.
+
+``McCoy worked under current Patriots offensive coordinator Josh McDaniels when they were with the Denver Broncos in 2009-10, while O’Shea learned McDaniels’ scheme in New England since 2012.
+
+``Miami Dolphins quarterback Josh Rosen discusses the most difficult part of the offensive system.
+'That tree kinda falls here,' Rosen said of the coaching circle before describing the essence of his new offense.
+
+``It can take a lot of time to get to the point where you can simply concentrate on the opposing defense.''
+\end{quote}
+
+Exactly.
+
+Rosen is very lucky here and so are the Dolphins.  Young quarterbacks can sometimes take a full season with a new before they get to the point where they can stop concentrating on their own offense and start concentrating on the game plan for the upcoming opponent.
+
+What is more likely to hold Rosen back is how the other players on the field adjust to the new scheme rather than how he does.  Nevertheless, this is yet another reason why the Dolphins coaching staff should be able to get a good handle on Rosen over the course of just one season to make a judgment about whether he should be the franchise going forward.
+
+#+END_EXPORT
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-reshad-camp-20190604-oxzw7owh5ngjbfcdblyn5eat4y-story.html][Hyde: Reshad Jones is back Dolphins with but question of his future t go away | Commentary]] 
+:PROPERTIES:
+:SYNCID:   95C5F8EB-0B95-40F1-AB0D-3B5AFA7B93D9
+:ID:       88789F7D-0350-4289-9459-2FA7A243950F
+:END:
+[2019-06-05 Wed 05:44]
+
+#+BEGIN_EXPORT latex
+Dave Hyde at teh South  FLorida Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-reshad-camp-20190\
+604-oxzw7owh5ngjbfcdblyn5eat4y-story.html}{correctly evaluates the Dolphins situation with safety Reshad Jones} as he came into the facilit\
+y for mandatory mini-camp this week:                                                                                                        
+                                                                                                                                            
+\begin{quote}                                                                                                                               
+``This conversational dust-up over Jones of the past several weeks was ritual nonsense. It missed the real issue of this simply being a bad\
+ marriage between Jones and the Dolphins.''                                                                                                 
+                                                                                                                                            
+``Jones is a lot of what the Dolphins don't want right now. He's old (31). He's expensive (two years, \$23 million left on his deal). He's \
+injured (both shoulder labrums have been rebuilt). He's proud (he refused to play last season rather than rotate).                          
+                                                                                                                                            
+``Jones also is a freelancer in a disciplined system and safety a which is about the only stocked position on a teardown roster.            
+                                                                                                                                            
+``For that matter, the Dolphins are everything a veteran like Jones t want. They're torn down. They can't win. They're looking down the tim\
+eline to winning in two or three years. Why put a ravaged body on the line for a team that can't win?''                                     
+\end{quote}                                                                                                                                 
+                                                                                                                                            
+There are rumors that the Dolphins are tying to trade Jones but they can't get what they want.  They have evidently decided that they best \
+thing to do is wait the league out in the hopes that a desperate team on the cusp of winning will pay more if they lose a good safety in tr\
+aining camp.                                                                                                                                
+                                                                                                                                            
+If this is what they are doing, I do not agree with this decision.   Good strong safties are a dime a dozen this year and no one is going t\
+o give you much for an injured one, even one that is among the best in the league at it.                                                    
+                                                                                                                                            
+More importantly, every day that a player who put his pride ahead of the team and refused to play remains on this young, impressionable ros\
+ter does irreparable damage to the mentality of the other players.  Every time head coach Brian flores talks about putting the team first w\
+ith Jones in the room his credibiliity takes a hit.                                                                                         
+                                                                                                                                            
+Chris Perkins at The Athletic \href{https://theathletic.com/1010871/2019/06/04/reshad-jones-return-to-dolphins-was-interesting-but-wilkins-\
+deiter-minicamp-matchup-was-exciting/}{reported the Jones situation} in the proper perspective when he highlighted the matchup between firs\
+t round defensive tackle Christian Wilkins and third round guard Michael Deiter in the same article.                                                           
+                                                                                                                                            
+Perkins recognizes that this year is about developing the younger players both physically and mentally.  The Dolphins have to take what the\
+y can get for Jones, move on and do the same.
+#+END_EXPORT
+
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-qbs--20190606-p47uiimvcrd23bwerijibktbfq-story.html][Hyde: Here’s the good news of Josh Rosen not wowing Dolphins (or anyone) out the gates | Commentary - South Florida Sun-Sentinel]]
+:PROPERTIES:
+:SYNCID:   7F0B22CB-5508-4177-8E6E-DBFC6B4B074E
+:ID:       AC1774C9-926F-4963-B7F6-4095851BC385
+:END:
+
+#+BEGIN_EXPORT latex
+Chris Perkins at The Athletic \href{https://theathletic.com/1013085/2019/06/05/rosen-and-fitzpatrick-have-vastly-differing-thoughts-on-dolphins-qb-battle/}{declares Ryan Fitzpatrick to be way ahead in the quarterback competition} and has him as "the clear favorite right now".  He says that "Right now, Fitzpatrick is the man."
+
+I'm not entirely sure where this is coming from but many reporters around time seem convinced that this is a real competition.  Dave Hyde at the South Florida Sun-Sentinel is one of the few that seems to be taking it a step further to see the "competition" as a good thing for Rosen.  But at the same time, \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-hyde-dolphins-qbs--20190606-p47uiimvcrd23bwerijibktbfq-story.html}{he knows that its not exactly real}:
+
+\begin{quote}
+``The question the Dolphins will wrestle with until the opening game — and probably beyond — isn’t if Fitzpatrick gives them a better chance to win the next Sunday. It’s how Rosen would look by November with a couple of months of starts under him.
+
+``It’s whether you go with the 37-year-old you know or the 22-year-old you don’t know. It’s a philosophical one, you see, more than strictly a football one.
+
+``Bill Parcells always said the hardest decision for a coach wasn’t deciding if a proven veteran was better at that moment than a young player. It was looking two months down the line and deciding if that rookie would be better than the veteran by then if given the full chance to play.''
+\end{quote}
+
+Exactly.
+
+What few people in the media seem to be acknowledging right now is that what the Dolphins aren't actually deciding if Fitpatrick is better.  Of course he's better.  Rosen is in only his second year and probably has not had the best of coaching up to this point.  What the Dolphins have to decide over the next few months is if Rosen is the future.  And that's more difficult because it involves projecting his development through this year and beyond.
+
+One thing is certain.  The Dolphins don't have to show it externally but internally they have to totally commit to Rosen until they've made a decision on him.  He has to be nurtured and every opportunity to help him and evaluate him has to be taken.  And that means two things:
+
+\begin{enumerate}
+\item This isn't a competition.  Or more accurately, it isn't a
+  competition between Rosen and Fitzgerald.  Because Fitzgerald's
+  performance isn't relevant to the decision.  What Rosen has to do -
+  and his comments indicate that on some level he understand this - is
+  to prove to the Dolphins not that he's a franchise quarterback now
+  but that he will be at some time into the future.
+\item The Dolphins have to start Rosen until they've made up their
+  mind that he's never going to be at least part of the answer to
+  their quarterback problem, even if its just as a cheap, long-term
+  back up.  If Rosen isn't starting week 1, it means they've already
+  made up their mind.  And that will mean bad things for his future in
+  the league.
+\end{enumerate}
+#+END_EXPORT
+
+Exactly. Couple this with the Perkins quote about fitz being the favorite and say what you did yesterday on Twitter 
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-separate1-20190606-q3rtuhhmrbct5gueuj3cnxdlmu-story.html][Dolphins coach Brian Flores challenges TE Mike Gesicki, who knows he needs to improve in all phases - South Florida Sun-Sentinel]]
+:PROPERTIES:
+:SYNCID:   A7C7FF30-257D-4F11-A271-7AD0E0EECAB6
+:ID:       9ADD4B8E-5A3F-4D19-B301-7AF5C9BE76C4
+:END:
+
+#+BEGIN_EXPORT latex
+ David Furones at the South Florida Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-separate1-20190606-q3rtuhhmrbct5gueuj3cnxdlmu-story.html}{profiles tight end Mike Gesicki} as he looks to improve over his rookie performance in his second season:
+
+Already working to improve his production as a receiver, Gesicki also looks to shed the label of exclusively being a pass-catching tight end.
+
+\begin{quote}
+“I need to be able to contribute in all phases,” he said. “I need to be able to run block. I need to be able to pass block. I need to be able to run the routes, do everything. I can’t just go out and pass plays and sit out on run plays, so I got to be able to do it all.”
+\end{quote}
+
+I was almost disappointed to read this.  It means that Gesicki hasn't totally moved on from his year with former head coach Adam Gase.
+
+I'm not one of those guys who constantly bashes a coach or executive once they leave town.  But in my opinion, Gase did Gesicki no favors by expecting him to block too much as a tight end.  Gase came from the Mike Martz school of offense where tight ends are there to block and if you want to set up a mismatch, you go with the big wide receiver.
+
+The modern NFL works differently and Gesicki is a modern NFL tight end.  At 6'6'', 245 pounds he was drafted to catch passes, particularly as a red zone weapon, not block.  The Dolphins have Dwayne Allen to do that and he's pretty good at it when he's healthy.
+
+The good news is that this doesn’t necessarily mean that Geseki will continue to be misused. When asked about Gesicki, current head coach Brian Flores didn't mention Gesicki's blocking.
+
+\begin{quote}
+  ``'I talked to him about this [Wednesday] morning,' Flores said. 'One drop is one too many; one penalty is one too many; one missed assignment is one too many. That’s kind of the standard, the approach we’re taking.'''
+  ``'[Gesicki is] very talented. He’s working very, very hard. He’s catching the ball decently.'''
+\end{quote}
+
+I would say that's what he needs to hear.
+#+END_EXPORT
+
+** TODO [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-jerome-baker-20190609-2otqkpq2bfhaxiwdrxbh3rakji-story.html][Dolphins Q&A: Jerome Baker hopes teammates follow his lead during second season - South Florida Sun-Sentinel]]
+:PROPERTIES:
+:SYNCID:   8EF31BF2-26CF-49FB-AA22-14FB4C07F1BF
+:ID:       11C59E78-0EE7-4328-AB5E-2E198FF6D091
+:END:
+
+#+BEGIN_EXPORT latex
+
+Safid Deen at the South Florida Sun-Sentinel \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-jerome-baker-20190609-2otqkpq2bfhaxiwdrxbh3rakji-story.html}{interviewslinebacker Jerome Baker} 
+
+\begin{quote}
+Q: The point of the defense is to have multiple looks and be confusing, to throw people off. How hard is it to learn it if that’s the point of the whole scheme?
+
+A: “It’s really not that hard. It’s more just you learn the concepts, you can just start pluggin in guys. If you just learn the concept of where the defense is at, it don’t matter who you put there. That part is easy. But at first it was a little hard, understanding it’s not learning one job, it’s about learning the concept as a whole. After a while, once you get that, the rest is pretty simple.”
+
+Q: So it’s a different concept for the interior linemen, a different one for the outside linebackers, a different one if you’re a defensive back coming into the box?
+
+A: “We all have our different adjustments, and little concepts as a whole. Linebackers can help the D-line if they line up this way. Linebackers can help the safeties if we just show inside or something like that. Really, you just have to learn the defense, what’s your role in it, and help other guys.”
+\end{quote}
+
+This is a facinating quote that gives some insight into how this defense will run.  It appears that, at least at the moment, the Dolphins are expecting players to have more than the usual degree of global persepctive in terms of how the defense runs and how their position fits into it.  This will allow them to take on slightly different roles depending upon the situation not by memorizing specific duties but by looking at it from a mechanistic perspective so that what they need to do simply makes sense.
+
+It all sounds good in theory.  But let's remember that it really hasn't worked well to this point unless Bill Belichick was running the show in New England.  It will be interesting to see whether head coach Brian Flores has the right touch to bring it to Miami.
+#+END_EXPORT
+
+** DONE [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-miami-dolphins-10-things-we-learned-offseason-20190607-nstletyi5vfj5gj7qo63gb4jjq-photogallery.html][Ten things we learned about the rebuilding Dolphins after offseason workouts - South Florida Sun-Sentinel]]
+#+BEGIN_EXPORT latex
+Omar Kelly at the South Florida Sun-Sentinel gives us \href{https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-miami-dolphins-10-things-we-learned-offseason-20190607-nstletyi5vfj5gj7qo63gb4jjq-photogallery.html}{the ten things he learned about the Dolphins after offseason workouts}:
+
+\begin{quote}
+  ``Bobby McCain experiment at safety could stick
+
+``McCain has all the tools needed to excel at free safety -- he's physical, rangy and intelligent. That’s why it makes sense to experiment using him as the last line of defense in Brian Flores’ hybrid defense. McCain has primarily played nickel cornerback the past four seasons. Having him work the back-end of the secondary could allow Miami to play Minkah Fitzpatrick closer to the line of scrimmage, which is where he excelled last year.''
+\end{quote}
+
+Count me among those who were surprised by this move.  Its not that I don't think McCain can be a good free safety - he can.  But along with pass rusher, cornerback is probably the weakest position on the team this year.  Xavien Howard is, of course, a given starter.  But other than him, there isn't much.
+
+Now, in addition to the spot opposite Howard which the Dolphins are evidently counting on a relatively unproven Eric Rowe to fill, the Dolphins are creating another hole at nickel back.  At the same time they have an apparent glut at safety with Minkah Fitzpatrick, Reshad Jones, and T.J. McDonald and now McCain.
+
+The problem that Flores is evidently trying to solve has to do with the fact that Jones and McDonald, both paid like starters, are really best suited for strong safety.  Kelly elaborates later in the article:
+
+\begin{quote}
+``Can Reshad Jones and T.J. McDonald work together?
+
+``Jones and McDonald -- two safeties with similar in-the-box styles -- have struggled working together the past two seasons when they have worked together as starting safeties. McDonald doesn’t have the range to cover deep, and that role doesn’t fit Jones’ freelancing style because it requires him to be too disciplined. McDonald has lost 15 pounds this offseason, so maybe it will alter his game a bit. The coaches will have to get creative to use both strong safeties on the field together.``
+\end{quote}
+
+Hopefully the current coaching staff will do a better job of it than last year's staff did.  That's assuming Jones isn't traded, something I'd still bet will be the case.  In any case, the situation demonstrates once again how poorly the 2018 version of the team was built by former executive Mike Tannenbaum and current general manager Chris Grier.
+
+In any case, the bet here is that Fitzpatrick fills the hole at corner back that the move has left in its wake.  Reports indicate that Fitzpatrick will move around quite a bit week to week as required this year.  But Nick Saban, Fitzpatrick's coach at Alabama, claimed that Fitzpatrick's best position was nickel back and playing him there will likely put him in a good position to do that as the extra defensive back on the field.
+
+
+
+#+END_EXPORT
+** DONE [[https://www.miamiherald.com/sports/nfl/miami-dolphins/article231200548.html][Minkah Fitzpatrick: I have a better idea of my role in ’19 | Miami Herald]]
+
+#+BEGIN_EXPORT latex
+Adam Beasley at the Miami Herald \href{https://www.miamiherald.com/sports/nfl/miami-dolphins/article231200548.html}{got some interesting quotes from Mink Fitzpatrick} during mandatory mini-camp.
+
+\begin{quote}
+``So Dolphins coach Brian Flores wasn’t kidding when he told reporters a few weeks back, 'I’ll know what he’s doing. You guys probably won’t.'
+
+``The important thing is that Fitzpatrick knows what he’s doing.
+
+``And that wasn’t always the case in 2018 — at least on a day-to-day, and sometimes down-to-down, basis.''
+
+``Fitzpatrick told the Miami Herald at the end of last season that he wanted to know by February which position he would play in 2019 so he could prepare properly.
+
+``The answer he got back was, in essence, all of them.
+
+``And that’s OK, Fitzpatrick explained in a way Wednesday that wasn’t altogether flattering of the previous coaching staff.
+
+``'I wanted a position to focus on,” he said. “Last year, I couldn’t. I was playing multiple roles when I was at [Alabama], but I knew what I was going to be doing week to week. Last year, it was kind of all over the place. It was sporadic. It would change up halfway through the week. Some of it was because of injuries and some of it was because they didn’t know where to put me.'
+
+``He continued: 'This year, I know where I’m going to be at. I know exactly what positions I need to learn, what concepts I need to learn. And I’m just more comfortable. I wasn’t saying that I just wanted to learn just strong safety or corner. I wanted there to be a game plan so I could prepare the right way. Last year I couldn’t prepare the right way, because I didn’t know what I was doing. You could say I could study the whole defense, but you can’t do that.'''
+\end{quote}
+
+In a way this is encouraging.  And in a way it isn't.
+
+The odds are very good that, unlike the previous staff, the current staff will be able to decisively present Fitzpatrick with a game plan early in the week and in that respect he'll be able to better prepare.  They'll have learned how to do that and to communicate clearly to Fitzpatrick exactly what he needs to do from Bill Belichick when most of them were in New England.
+
+But playing in the NFL isn't like playing at Alabama.  Opponents surprise you more often on game day with what they are doing on offense and rapid adjustments are necessary.  The odds are good that no one will have to adjust more than Fitzpatrick who will likely be at the center of the changes not only game to game but play to play.
+
+Unlike in college, the odds are good that in his current role, Fitzpatrick is never actually going to be able to prepare the way he wants to because its going to be impossible to thoroughly prepare for everything over the course of the previous week.  Fitzpatrick is going to have to be flexible mentally in a way that he apparently wasn't last year.
+
+If we take Fitzpatrick at his word, it sounds like he's might struggle with what the Dolphins are going to be asking him to do this year.
+#+END_EXPORT
+** TODO [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-dolphins-kelly-column-20190618-xhrhabdclbhvbcocxwnzyt3whe-story.html][Kelly: Which newcomers are expected to help Dolphins in 2019? | Commentary - South Florida Sun-Sentinel]] Fullback Chandler Cox
+
+Cox, the Dolphins’ 2019 seventh-round pick, is a versatile H-back with fullback toughness and a tenacity that will instantly add a punch to Miami’s offense anytime he is on the field. Expect Cox, who is competing with Nick O’Leary for a roster spot, to add value to the Dolphins on special teams, and during short yardage, red zone and goal line situations.
+
+Look up information on the modern use of the full back. Article for Luis. 
 * *Notes*
 ** Can Watching Pro Sports on TV Prevent Crime, UC Davis Study Says, Yes https://www.prweb.com/releases/2018/06/prweb15562285.htm 
 ** [[message://%3c9B6A0526-3417-42E7-8256-490D057D835C@rush.edu%3E][Don’t forget to keep an eye on the kicker battle during the preseason.]] <2018-08-09 Thu>
   [2018-08-01 Wed]
 ** [[https://www.sun-sentinel.com/sports/miami-dolphins/fl-sp-miami-dolphins-depth-chart-2019-story.html][Miami Dolphins 2019 depth chart - Sun Sentinel]]
 
+* DONE [[https://www.miamiherald.com/sports/spt-columns-blogs/greg-cote/article231207363.html][Dolphins will surprise NFL, be better than expected in 2019 | Miami Herald]] 
+:PROPERTIES:
+:SYNCID:   A27C293D-8892-480E-B146-7C9EDA6CFCC8
+:ID:       93CE1289-3F5B-4A6E-A122-26C385F63207
+:END:
+
+#+BEGIN_EXPORT latex
+Greg Cote at the Miami Herald \href{https://www.miamiherald.com/sports/spt-columns-blogs/greg-cote/article231207363.html}{thinks the Dolphins will be better than people think}.
+
+\begin{quote}
+``There are too many positive pieces to this team heading into training camp, starting with Flores at the wheel, to not believe the Dolphins will a lot better than expected this season.''
+\end{quote}
+
+See my entry above where I pointed out that the Dolphins at short on talent at cornerback and pass rusher.  These are the corner stone positions of every defense.
+
+Sorry.  I'm not buying it.
+#+END_EXPORT
