@@ -2862,19 +2862,18 @@ SCHEDULED: <2020-02-14 Fri>
 ***** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       CE72A02E-5290-45F1-87DF-5E5356AC6F6F
+:ID:       96B73DC9-A42A-4363-9089-2C81D5F7EBBA
 :END:
 ***** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       B792ABC5-C537-4EE9-A1E4-AF87EBAA322F
+:ID:       EE3ED569-4E0D-44C5-BD20-294B18A15E1E
 :END:
 ***** DONE [#A] Make sure mike put anti-virals in Fetal Death
 ***** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
 ***** Gary is going to alter the PID exercise to make it clear what the students need to know.
 ***** Mark promised to re-write the pathology exercise in AGB.
-***** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
-SCHEDULED: <2019-08-09 Fri>
+***** CANCELED We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 *** 2019-07-20 Saturday
 *** 2019-07-21 Sunday
 **** [[https://shannonfamilygroup.slack.com/archives/C1KS68EDA/p1563714571000100][Anybody care for some yoga on a tour boat?]] :ATTACH:
@@ -3024,6 +3023,9 @@ There are several sessions that have no, or very few topics assigned to them. I�
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       C65D4860-6253-44A5-85A5-4D4D376F8CCD
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 10:51]
+:END:
 ***** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
 :LOGBOOK:
 - State "WAITING"    from              [2019-08-05 Mon 06:45]
@@ -3063,7 +3065,7 @@ Thanks to all for your help.
 Tom S.
 ***** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 SCHEDULED: <2019-09-09 Mon>
-***** TODO [#A] Change dates on faculty guides
+***** DONE [#A] Change dates on faculty guides
 ***** DONE [#A] Update contact info for immuno/micro
 
 **** [[message://%3c07c42a10-41e1-42b7-941d-71b8de105d2f@rush.edu%3E][Promtions in RMC, Office of Integrated Medical Education]]
@@ -3231,7 +3233,7 @@ Particularly given his large personality, Long's silence since camp has started 
 ****** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 ****** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-****** WAITING [#A] Keith - Infertility:  
+****** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
@@ -3322,3 +3324,85 @@ in mind, though.
 :END:
 
 *** 2019-08-08 Thursday
+**** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   0DFFD531-0E24-484D-82BD-287CF09BE9B0
+:ID:       30DF06EB-8E95-4431-9BD2-3FFAFDECE16A
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-08 Thu 13:15] \\
+  Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
+  
+  Students will not be told they are being evaluated.
+  
+  This won't affect the grade but can affect a Deans letter
+  
+  Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
+:END:
+                                 
+**** CCE Implementation Planning Meeting; Location: OIME, AAC 403, Medium Conference Room <2019-08-08 Thu 14:30-15:00>
+**** Called Macy's to check on watch
+:LOGBOOK:
+- Note taken on [2019-08-08 Thu 14:07] \\
+  Gentleman at the watch repair desk was going to call his watch repair guy and find out what the status is.
+:END:
+[[bbdb:Macy's%20State%20Street%20Watch%20Repair][Macy's State Street Watch Repair]]
+
+*** 2019-08-09 Friday
+**** DONE Bears David Montgomery Strength?  He's All Football Player.
+:PROPERTIES:
+:SYNCID:   6655FEF0-3708-430D-8E20-449E02A3E625
+:ID:       670185C8-81E3-4D3F-98D5-766304F16B7D
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-08-09 Fri 09:08]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-cb-bears-panthers-brad-biggs-10-thoughts-20190809-65kaonc3rvebvhidtj2cxiwgeq-story.html}{on the performance of Bears rookie running back \textbf{David Montgomery} last night}:
+
+\begin{quote}
+  ``Six touches for rookie running back David Montgomery was all that was needed to feel really good about him — and the role he’s going to play in this offense.
+
+``Montgomery already looked the part in training camp, running hard through tackles in some rare live action in Bourbonnais. But a chance to see him go against the Panthers,
+albeit a brief chance, was enough to confirm what was expected. Montgomery looked really good in the open field. He looked good in the low red zone, running to daylight after a
+jump-cut at the line of scrimmage on a 7-yard touchdown. He looked natural catching the ball. If you were seeking validation that general manager Ryan Pace made the right
+move in paying a pretty hefty price to trade up and select Montgomery, this was a heck of a start.''
+\end{quote}
+
+My first impression of Montgomery is similar to what my first impression of former Bears running back \textbf{Jordan Howard} was - he isn't going to be running away from guys very often. And unlike Howard, Montgomery isn't particularly big though his center of gravity is lower to the ground than I thought it was.  But, similar to what I eventually concluded about Howard, I can see why the Bears like him.  Montgomery is a football player.  And that's probably more important than superior physical talent.
+
+Don't get my wrong.  Talent is important and you have to have at least some of it to succeed.  But you don't have to be the fastest guy on the field.  In Howard's case, his ability to find small cracks in the line and to slip through to make gains was a huge strength for a big back.  It looks to me like Montgomery has some of that vision when he bounces the ball outside.  Defenses are going to have to play the run with discipline whenever Montgomery is on the field or he's going to burn them for big gains.
+
+You can also see where Montgomery could succeed in the passing game.  Get him into space and his quickness and ability to break tackles starts to show itself.  He's got instincts and he runs with effort.
+
+Yeah, the guy probably is going to get caught from behind a few times this year.  But overall, I like what I see and I think Montgomery's strengths could far out weight his weaknesses.  I see a guy who could quite possibly match the production of a \textbf{Matt Forte} as a very good running back that could provide yet another aspect to what is looking like its going to be a versatile offense.
+#+END_EXPORT
+  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-XUyjSnOmDnO2oWh8UeK1E7S23Qk@gwene.org][Email from Brad Biggs: Brad Biggs’ 10 thoughts on the]]
+*** 2019-08-10 Saturday
+**** DONE [[https://theathletic.com/1128225/2019/08/09/rising-and-falling-projecting-the-bears-53-man-roster-after-preseason-opener/?source=rss][Rising and falling: Projecting the Bears’ 53-man roster after preseason opener – The Athletic]]
+:PROPERTIES:
+:SYNCID:   4AB6DE57-D1D9-44A4-B1CA-F75D3907E271
+:ID:       648C8651-9FCB-4DA6-8C0F-58621B8549D3
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-10 Sat 09:21]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Adan Jahns} at \textit{The Athletic} comments upon \href{https://theathletic.com/1128225/2019/08/09/rising-and-falling-projecting-the-bears-53-man-roster-after-preseason-opener/?source=rss}{risers and fallers} on the Bears roster after the first preseason game.  In particular, he highlighted the situation of running back \textbf{David Montgomery}:
+
+\begin{quote}
+The Bears’ exhibition loss against the Panthers Thursday night produced a healthy dilemma for coach Matt Nagy.
+
+Do the Bears really need to see more of running back David Montgomery in the preseason?
+
+It wouldn’t be surprising if Nagy is now leaning toward “no” after his prized rookie totaled 46 yards on six touches and scored on an impressive 7-yard touchdown run in his NFL debut.
+\end{quote}
+
+Montgomery. like most rookie running backs, has to learn to pass protect if he wants to play.  Not that he did a bad job.  But all of these guys need work on it because they did it so rarely i college.  This is why \textbf{Jordan Howard} didn't start out of the gate.  They can't just roll these guys out there and get Trubisky killed, no matter how well they run.
+
+Montgomery will start out of the gate or at least get a lot of playing time.  That is clear.
+
+I think that makes it all the more important that he get as much practice protecting the quarterback before then as possible.  Yes, its a risk.  But its better to risk injury to Montgomery in the preseason than to risk losing your quarterback to a rookie mistake once the season begins.
+#+END_EXPORT

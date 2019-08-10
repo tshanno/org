@@ -31,3 +31,26 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       36CAC49D-9FEA-4E00-B360-3138AF012A90
 :END:
 
+** [[message://%3c9f033099c79d40c081f69590f6efdcd3@RUPW-EXCHMAIL02.rush.edu%3E][Med Ed Research Group]]
+:PROPERTIES:
+:SYNCID:   C1B7CAE3-CD06-4192-9C7E-D8003C96B63A
+:ID:       F898A7EB-B24B-4720-8083-E5E2B34DD05A
+:END:
+
+
+Schedule for Academic Year 2019-2020:
+Meeting Date	Presenter	Topic title
+August 22, 2019	Adam Wilson	A review of US Medical School’s Promotion Standards for Excellence in Education
+September 26, 2019	Bob Leven	Journal Article – TBA
+October 24, 2019	Gabby Cs-Szabo	Journal Article – TBA
+November 21, 2019	Mark Grichanik	Dissertation research or other
+December 19, 2019	Princess Currence	Dissertation research or other
+January 23, 2019	Kathryn Solka	Journal Article – TBA
+February 27, 2019	Jay Behel	Journal Article – TBA
+March 26, 2019	Tom Shannon	Journal Article – TBA
+April 23, 2019	Jamie Cvengros	Journal Article or ongoing research – TBA
+May 28, 2019	Kristin Al-Ghoul	Journal Article – TBA
+June 25, 2019	Beth Baker	Journal Article – TBA
+July 23, 2019	Anne Carroll	Dissertation research or other
+ 
+If a journal club article is being presented, it should be shared with the group 1 week in advance.

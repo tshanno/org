@@ -9,6 +9,16 @@
 - State "DONE"       from "TODO"       [2019-07-24 Wed 14:19]
 :END:
    [2018-11-16 Fri]
+** TODO [#A] Send James Parker self-study edits to Janice
+:PROPERTIES:
+:SYNCID:   7041BC1F-D541-4080-B078-6EF0EFDCAD8A
+:ID:       3E988E24-A172-4810-A658-2FA24C0442B8
+:END:
+*** WAITING There were a number of comments in James Parker about no materials on cardiac markers.  Make sure there is a note on the coverpage indicating to the students that there is text that they must read in addition to the videos.
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\
+  This hasn't been sent out for review yet.
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

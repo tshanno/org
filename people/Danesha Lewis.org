@@ -17,6 +17,19 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:13]
 :END:
+** TODO FU Danesha on BCS content and research content (did it get a shell, too?) [[message://%3ce2005c3e0eed4888aeaacbe86fe5e51e@RUPW-EXCHMAIL02.rush.edu%3E][FW: BCS shell created in Entrada]]
+
+
+Hi –
+ 
+I have created the shell for BCS in Entrada.   It is in its own “term” so it will span the year.
+ 
+Here is the link to it:  https://entrada.rush.edu/community/bcsm2
+ 
+I’m still working on the rubric and the gradebook.  If you want to start attacking the content, you should be able.   Let me know if you need help.
+ 
+Bill
+
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>

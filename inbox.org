@@ -1,28 +1,12 @@
 * Tasks
-** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
+** TODO FU with Syed and Anne if their material isn't in
+** TODO Invite Kiya to next Core Disciplines meeting
+** TODO Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+
+** WAITING [#A] Nice Pediatrics Self-study video.  Put this into the faculty guide for Tetralogy of Fallot and into the peds self-study [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]
 :LOGBOOK:
-- Note taken on [2019-08-08 Thu 13:15] \\
-  Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
-  
-  Students will not be told they are being evaluated.
-  
-  This won't affect the grade but can affect a Deans letter
-  
-  Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
+- State "WAITING"    from "TODO"       [2019-08-10 Sat 11:08] \\
+  Waiting on permission to do this from Kiya.
 :END:
-                                 
-** TODO CCE Implementation Planning Meeting; Location: OIME, AAC 403, Medium Conference Room <2019-08-08 Thu 14:30-15:00>
-** WAITING Send infertility edits to Janice and post self-study
-:LOGBOOK:
-- State "WAITING"    from "TODO"       [2019-08-08 Thu 13:06] \\
-  Waiting on review to come back
-:END:
-*** Carolyn Jones changed her genetics self-study questions.  Let Janice know.
-** TODO Called Macy's to check on watch
-:LOGBOOK:
-- Note taken on [2019-08-08 Thu 14:07] \\
-  Gentleman at the watch repair desk was going to call his watch repair guy and find out what the status is.
-:END:
-[[bbdb:Macy's%20State%20Street%20Watch%20Repair][Macy's State Street Watch Repair]]
-** TODO dffm-ocjc-iclw-dimz
-** TODO [[Outlook:AAMkADczOTU3NzhlLTk3NTUtNDAxNi05MmMwLTRiNjQxNzdhMWQ2NQBGAAAAAABGaSRiAXpmRI5iV0qGSg5NBwDTcZOtHTjSSrKMvJifX15JAAAAAAFYAAB3XSrCPDTITpvPL20oqAErAAG3kAfzAAA=][test]]
+
+** TODO Pediatric video on [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]

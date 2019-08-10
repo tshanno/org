@@ -16,8 +16,12 @@ SCHEDULED: <2019-06-17 Mon>
 :ID:       72241610-3A44-4223-A7BB-00AD2BE1BAC4
 :END:
 
-** Core Discipline Room Reservation ends after 8/16.
-SCHEDULED: <2019-08-09 Fri>
+** DONE Core Discipline Room Reservation ends after 8/16.
+:LOGBOOK:
+- Note taken on [2019-08-09 Fri 09:38] \\
+  I booked the large room at this time through January 31
+- State "DONE"       from              [2019-08-09 Fri 09:38]
+:END:
 ** DONE [#A] FU Najia on self-study.  Did it get in?  ::  [[message:%3C0858f8b2707f4b0bad41da16959cd931@RUPW-EXCHMAIL02.rush.edu%3E][RE: Deadline Today for Materials needed for Sexuality and Reproduction]]
 :LOGBOOK:
 - State "DONE"       from "WAITING"    [2019-07-24 Wed 08:40]
@@ -376,26 +380,22 @@ Abnormal Genital Tract Bleeding?
 *** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       3E3FC4E9-3433-4F87-A18F-F763E5D7A052
+:ID:       96B73DC9-A42A-4363-9089-2C81D5F7EBBA
 :END:
 *** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       71291648-5CA7-4ED6-A21C-E86978E46983
+:ID:       EE3ED569-4E0D-44C5-BD20-294B18A15E1E
 :END:
 *** DONE [#A] Make sure mike put anti-virals in Fetal Death
 *** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
 *** Gary is going to alter the PID exercise to make it clear what the students need to know.
 *** Mark promised to re-write the pathology exercise in AGB.
-*** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
-SCHEDULED: <2019-08-09 Fri>
+*** CANCELED We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-09-26 Fri 14:30-15:30>
 :PROPERTIES:
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       7F9A785B-1928-46F6-8718-C7DA8F4D4376
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2019-08-07 Wed 11:33]
 :END:
 *** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
 :LOGBOOK:
@@ -436,7 +436,7 @@ Thanks to all for your help.
 Tom S.
 *** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 SCHEDULED: <2019-09-09 Mon>
-*** TODO [#A] Change dates on faculty guides
+*** DONE [#A] Change dates on faculty guides
 *** DONE [#A] Update contact info for immuno/micro
 
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
@@ -521,7 +521,7 @@ Department of Pathology, RMC
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

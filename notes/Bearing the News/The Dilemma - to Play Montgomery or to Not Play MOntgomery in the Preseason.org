@@ -1,0 +1,20 @@
+* The Montgomery Dilemma:  To Play or Not o Play.  That is the Question.
+
+
+#+BEGIN_EXPORT latex
+\textbf{Adan Jahns} at \textit{The Athletic} comments upon \href{https://theathletic.com/1128225/2019/08/09/rising-and-falling-projecting-the-bears-53-man-roster-after-preseason-opener/?source=rss}{risers and fallers} on the Bears roster after the first preseason game.  In particular, he highlighted the situation of running back \textbf{David Montgomery}:
+
+\begin{quote}
+The Bears’ exhibition loss against the Panthers Thursday night produced a healthy dilemma for coach Matt Nagy.
+
+Do the Bears really need to see more of running back David Montgomery in the preseason?
+
+It wouldn’t be surprising if Nagy is now leaning toward “no” after his prized rookie totaled 46 yards on six touches and scored on an impressive 7-yard touchdown run in his NFL debut.
+\end{quote}
+
+Montgomery. like most rookie running backs, has to learn to pass protect if he wants to play.  Not that he did a bad job.  But all of these guys need work on it because they did it so rarely i college.  This is why \textbf{Jordan Howard} didn't start out of the gate.  They can't just roll these guys out there and get Trubisky killed, no matter how well they run.
+
+Montgomery will start out of the gate or at least get a lot of playing time.  That is clear.
+
+I think that makes it all the more important that he get as much practice protecting the quarterback before then as possible.  Yes, its a risk.  But its better to risk injury to Montgomery in the preseason than to risk losing your quarterback to a rookie mistake once the season begins.
+#+END_EXPORT

@@ -1,8 +1,11 @@
 * *Ticklers*
 ** Next year move the introduction to LH and FSH from the male reproductive lesson to the overview to the female lesson.
 SCHEDULED: <2020-02-03 Mon>
-** Change the room instructions for activity 2 in AUB after determining what the room characteristics will be
-SCHEDULED: <2019-08-09 Fri>
+** CANCELED Change the room instructions for activity 2 in AUB after determining what the room characteristics will be
+:LOGBOOK:
+- State "CANCELED"   from              [2019-08-09 Fri 09:26] \\
+  I just removed these.
+:END:
 ** Make sure that packets re ready to go for AGB activity on 9/3
 SCHEDULED: <2019-08-27 Tue>
 * *Meetings*
@@ -66,6 +69,8 @@ Abnormal Genital Tract Bleeding?
 :ID:       516D5D95-DA62-4A6A-924E-C77630B4B4F0
 :END:
 :LOGBOOK:
+- State "CANCELED"   from              [2019-08-09 Fri 09:27] \\
+  I simply removed these instructions.
 - State "DONE"       from "TODO"       [2019-07-22 Mon 08:35]
 - State "WAITING"    from "TODO"       [2019-07-22 Mon 08:32] \\
   Email sent.
@@ -84,8 +89,7 @@ Abnormal Genital Tract Bleeding?
 *** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
 *** Gary is going to alter the PID exercise to make it clear what the students need to know.
 *** Mark promised to re-write the pathology exercise in AGB.
-*** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
-SCHEDULED: <2019-08-09 Fri>
+*** CANCELED We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:
 :SYNCID:   10C22D8D-DD36-4EA9-B0EF-7B1E62F0EB7D
@@ -113,7 +117,7 @@ SCHEDULED: <2019-08-09 Fri>
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

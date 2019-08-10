@@ -257,7 +257,7 @@ Objectives now posted by week
 :SYNCID:   B2AFCC73-F0FD-4A15-9232-22729604816E
 :ID:       EF0FC1AA-53DF-4E3B-AC8A-9C7B3DC48CEB
 :END:
-*** WAITING [#A] Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+*** DONE [#A] Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
 :PROPERTIES:
 :SYNCID:   DB402237-22B1-429F-94C0-A292BCABE0A0
 :ID:       622BEB0C-CFEF-40C4-B124-2FB1938EBA3B
@@ -282,6 +282,25 @@ SCHEDULED: <2020-02-14 Fri>
   
   Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
 :END:
+** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   0DFFD531-0E24-484D-82BD-287CF09BE9B0
+:ID:       39366560-ECD7-4C28-9669-49288930E607
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-08 Thu 13:15] \\
+  Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
+  
+  Students will not be told they are being evaluated.
+  
+  This won't affect the grade but can affect a Deans letter
+  
+  Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
+:END:
+                                 
+** My turn at the Journal Club <2020-03-26 Thu>
+*** Send out journal club article
+DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -521,6 +540,42 @@ SCHEDULED: <2019-10-01 Tue>
 
 ** How to use Keynote to add text overlays in your iMovie projects
 https://www.macworld.com/article/3411925/how-to-use-keynote-to-add-text-overlays-in-your-imovie-projects.html#tk.rss_all
+** [[message://%3c9f033099c79d40c081f69590f6efdcd3@RUPW-EXCHMAIL02.rush.edu%3E][Med Ed Research Group]]
+:PROPERTIES:
+:SYNCID:   C1B7CAE3-CD06-4192-9C7E-D8003C96B63A
+:ID:       AB557166-1D79-4554-AC6F-E3617BD89B66
+:END:
+
+
+Schedule for Academic Year 2019-2020:
+Meeting Date	Presenter	Topic title
+August 22, 2019	Adam Wilson	A review of US Medical School’s Promotion Standards for Excellence in Education
+September 26, 2019	Bob Leven	Journal Article – TBA
+October 24, 2019	Gabby Cs-Szabo	Journal Article – TBA
+November 21, 2019	Mark Grichanik	Dissertation research or other
+December 19, 2019	Princess Currence	Dissertation research or other
+January 23, 2019	Kathryn Solka	Journal Article – TBA
+February 27, 2019	Jay Behel	Journal Article – TBA
+March 26, 2019	Tom Shannon	Journal Article – TBA
+April 23, 2019	Jamie Cvengros	Journal Article or ongoing research – TBA
+May 28, 2019	Kristin Al-Ghoul	Journal Article – TBA
+June 25, 2019	Beth Baker	Journal Article – TBA
+July 23, 2019	Anne Carroll	Dissertation research or other
+ 
+If a journal club article is being presented, it should be shared with the group 1 week in advance.
+** Laura Owczarzak is the student doing Osmosis for the class of 2022 [[message://%3c1565362895853.28583@rush.edu%3E][Reproductive]]
+
+
+Hi Dr. Shannon, 
+
+I just wanted to let you know that I'll be in charge of uploading course documents to Osmosis again for the upcoming Reproductive block. If students have any issues with Osmosis, you can send them my way. 
+
+Hope you're enjoying your summer!
+
+See you in a few weeks,
+
+Laura Owczarzak
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

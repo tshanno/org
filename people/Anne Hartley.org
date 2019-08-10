@@ -16,6 +16,21 @@
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
 :ID:       841D5D9C-17B4-4DB3-8A89-5C3B8A5D0AE0
 :END:
+** TODO [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
+:PROPERTIES:
+:SYNCID:   EC9F46B4-2721-48CA-8212-2CFA73054560
+:ID:       98C829B9-998E-46FC-BA24-AF38CE538D93
+:END:
+
+
+Hi Gary,
+
+Would you be available to meet next week to talk about the Fetal Death session?  ​We need to iron out some details and we're having trouble doing that without your input.
+
+What dates/times are good for you?
+
+Anne
+
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>
@@ -58,6 +73,7 @@ Department of Pathology, RMC
 :ID:       603C0C09-02AB-4350-95D0-A39294AD64B5
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-09 Fri 09:39]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
@@ -79,7 +95,7 @@ Department of Pathology, RMC
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

@@ -187,13 +187,15 @@ SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
 They want to present it at the next meeitng instead
 *** We need a written proposal
 *** Michelle Sweet needs to talk to the CD about the concerns which were raised in the meeting.
-** Add urinalysis topic to pathophys and path and delete from practitioner
+** CANCELED Add urinalysis topic to pathophys and path and delete from practitioner
 SCHEDULED: <2019-08-08 Thu>
 :PROPERTIES:
 :SYNCID:   FF13BFB5-B34E-47AC-BADA-A8BA9100CEB6
 :ID:       CADCFB95-3E7F-4842-84FD-F1EE311B0455
 :END:
 :LOGBOOK:
+- State "CANCELED"   from              [2019-08-09 Fri 09:15] \\
+  I think this is abotu to take care of itself as Jeffrey synchronizes the topics with the CE.
 - State "WAITING"    from "TODO"       [2019-07-26 Fri 09:48] \\
   Check for this after deadline on August 8
 :END:

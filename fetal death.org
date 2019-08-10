@@ -10,15 +10,39 @@
 :END:
 
 
-** TODO [#A] Get fetal death self-study edits to Janice
+** DONE [#A] Get fetal death self-study edits to Janice
 :PROPERTIES:
 :SYNCID:   D3793760-6CDB-45C5-A329-77E2B2B7666D
 :ID:       3CA3DA65-7327-4198-8DED-EDE156B7C24D
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 09:45]
+:END:
 *** Tell Janice to put a note on the genetics coverpage indicating that students must both read and watch.
 *** Move the genetics to just before the Pathology in Fetal Death Self-Study
 *** Add a note to the genetics cover page telling students that they both have to read and watch the content.
-*** TODO [#A] Edit the plan of study to put genetics next to path
+*** DONE [#A] Edit the plan of study to put genetics next to path
+** TODO [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
+:PROPERTIES:
+:SYNCID:   EC9F46B4-2721-48CA-8212-2CFA73054560
+:ID:       C52640C2-6A9C-4B91-8D4C-264A0ACE4731
+:END:
+
+
+Hi Gary,
+
+Would you be available to meet next week to talk about the Fetal Death session?  ​We need to iron out some details and we're having trouble doing that without your input.
+
+What dates/times are good for you?
+
+Anne
+
+** TODO FU Janice on [[message://%3c80C02FF9-6284-41E7-8778-8BB269BB4361@rush.edu%3E][Edits to case 5 (Andrea Brown/Fetal Death)]]
+:PROPERTIES:
+:SYNCID:   4B597D9E-CD20-47B8-A728-46AA6F304367
+:ID:       0E2AC8E3-684E-4C29-964F-E6A6FD1BA18E
+:END:
+
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
@@ -42,6 +66,8 @@
 
 ** Ask Carolyn to move teratogens from failure to thrive to fetal death for AY20/21
 SCHEDULED: <2020-02-15 Sat>
+** Talk to Carolyn Jones about moving teratogens into fetal death so that it will be with the pharm and path content
+SCHEDULED: <2020-02-14 Fri>
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:
@@ -49,7 +75,6 @@ SCHEDULED: <2020-02-15 Sat>
 :ID:       5B4AEFA6-15AE-4ADB-AC40-3EA8EB9E4401
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
@@ -71,7 +96,7 @@ SCHEDULED: <2020-02-15 Sat>
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

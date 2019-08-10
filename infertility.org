@@ -18,16 +18,55 @@
 :END:
 ** TODO [#A] Review [[message://%3c6640b57a24e2441895203f836242028d@RUPW-EXCHMAIL02.rush.edu%3E][Case 3- S&R]]
 
-** TODO [#A] Look over these changes and then get back to Jerry [[message://%3c2DA15B40-8931-4888-9587-6BB637B7A946@rush.edu%3E][Re: Update: Core Disciplines Meeting 7/26/19]]
+** DONE [#A] Look over these changes and then get back to Jerry [[message://%3c2DA15B40-8931-4888-9587-6BB637B7A946@rush.edu%3E][Re: Update: Core Disciplines Meeting 7/26/19]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 10:51]
+:END:
+
+** WAITING [#A] Send infertility edits to Janice and post self-study
+:PROPERTIES:
+:SYNCID:   5E79E7B6-E8BE-49DA-878A-B0FD170A2E60
+:ID:       214AB8B9-F204-44D8-8725-AD0833238BD9
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-08 Thu 13:06] \\
+  Waiting on review to come back
+:END:
+*** Carolyn Jones changed her genetics self-study questions.  Let Janice know.
+** DONE [#A] Make [[message://%3cBN8PR01MB5556CC4E62965058B8B81CAABCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Edits to Infertility Case]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 10:49]
+:END:
+
+
+The case is in “read only” for me, so here are a few suggestions to consider (otherwise I would have done these things myself and not bothered you).
+ 
+Make the whole guide one font
+Do spell check – there were a few punctuation errors
+Add page numbers
+At the bottom of page 5, add this to the instructions to the students: “Develop a diagnostic plan to test your DDX.”
+Page 6: Remove “Case continued”
+For the charts on page 8, clarify that these are to be reviewed by the faculty as part of the explanation of the answer.
+Bottom of Page 14: I would make the reference black. In other words, provide it in the student guide.
+Page 15: Clarify, in the title of the activity, that Mark’s activity is on male infertility
+Clarify, for the coordinator who finalizes the guide, that some of the images are for the faculty guide only.
+The answer for activity C’s section on “Peritubular fibrosis” needs to be in blue (it appears in black)
+Page 25: Faculty instructions for the Quiz should all be in blue.
+ 
+Feel free to let me know if you have any questions about this.
 
 * *Ticklers*
 
 
 ** FU on [[message://%3c12756d841057479990867c60fc095f5e@RUPW-EXCHMAIL02.rush.edu%3E][Kelsey Spencer: Review]] for Self-Study
-SCHEDULED: <2019-08-09 Fri>
+SCHEDULED: <2019-08-12 Mon>
 :PROPERTIES:
 :SYNCID:   3314CB8C-CEBD-431D-8A5D-44C3AE8BFCEA
 :ID:       CBE4331D-930E-419C-8F6B-51A100259FF7
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-09 Fri 09:25] \\
+  Melissa Rice has this one.  Jeffery just emailed her Tuesday (I was copied).  If it not in at the end of the weekend, bug her yourself.
 :END:
 
 ** Be sure to contact Neeral and add these topics to infertility [[message://%3c49242D53-C6D7-4DF4-8CCD-E4E183AB4493@rush.edu%3E][Re: Sexuality/Reproduction for AY 20/21]]
@@ -66,7 +105,7 @@ Neeral
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

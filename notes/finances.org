@@ -8,7 +8,7 @@
 * *Ticklers*
 ** DONE [#A] [[message://%3c22619210ddc645f7ab13d8e864d3f50e@RUDW-EXCHMAIL01.rush.edu%3E][Consider enrolling to get W2 online]] due 1/12
 ** $100 to fidelity
-SCHEDULED: <2019-08-09 Fri>
+SCHEDULED: <2019-08-16 Fri>
   [2018-10-12 Fri]
 ** Think about checking back in with Dylan at Fidelity.
 SCHEDULED: <2020-07-31 Fri>

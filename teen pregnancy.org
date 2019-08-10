@@ -14,6 +14,11 @@
 - State "DONE"       from "TODO"       [2019-08-07 Wed 10:18]
 :END:
 
+** TODO [#A]  FU Gary on this [[message://%3cBN8PR01MB555663F87070E68351842377BCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Activity #4 in Teen Pregnancy case]]
+:PROPERTIES:
+:SYNCID:   220DCBBD-8926-4585-BECF-E084D075C855
+:ID:       467BC03D-E540-499A-9FFD-D2FC644487F6
+:END:
 * *Ticklers*
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
@@ -49,7 +54,7 @@
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 

@@ -297,6 +297,11 @@ https://github.com/6502/JSLisp
 ** ON RADAR [[https://www.oreilly.com/library/view/writing-gnu-emacs/9781449395056/][Writing GNU Emacs Extensions (Book)]]
 ** [[https://www.reddit.com/r/emacs/comments/ce3zo0/how_to_make_emacs_keep_checking_a_system_variable/][How to make emacs keep checking a system variable? : emacs]]
 ** ON RADAR [[https://www.reddit.com/r/lisp/comments/ce3jth/pushing_pixels_with_lisp_episode_73_triplanar/][Pushing Pixels with Lisp - Episode 73 - Triplanar Mapping - Streaming on Twitch Wednesday 7pm UTC : lisp]]
+** ON RADAR Consider using this for trs/org-sync
+  [[gnus:gwene.com.reddit.orgmode#x1-XeuMLmnaQkDMYZWUp5nQ6h+o5/M@gwene.org][Email from u.: org-ql-block integrates org-ql]]
+
+** ON RADAR Use this code to make trs/org-sync better
+  [[gnus:gwene.com.reddit.emacs#x1-dVJrG6Pkl6y4eEyds4BIVv9LBsM@gwene.org][Email from u.: orgmode time dependencies -- h]]
 * *LaTeX*
 ** Keyboard shortcut to insert latex
 [[https://emacs.stackexchange.com/questions/18619/org-mode-any-keyboard-shortcut-for-latex-code][yasnippet - Org-mode: any keyboard shortcut for Latex code? - Emacs Stack Exchange]]
@@ -622,6 +627,10 @@ https://emacsconf.org/2019/cfp
  EmacsConf 2019!  November 2, 2019
 ** Set default font on Mac OS X Emacs.
 https://orangebsd.wordpress.com/
+** DONE Fix the cbff email script so that it works from the article buffer
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 09:06]
+:END:
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

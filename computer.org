@@ -61,6 +61,12 @@ http://www.hcs.harvard.edu/%7Ejrus/site/cocoa-text.html
 
 This is amazing.  Describes how to set pretty much any key binding you want.  Its basically like writing in lisp with selectors.
 
+** DONE [[https://apps.apple.com/us/app/open-in-webmail/id1451552749?mt=12][Safari Extension to open in web email]]
+:LOGBOOK:
+- Note taken on [2019-08-09 Fri 09:06] \\
+  Unfortunately this didn't work.  There were options to use Outlook online and office 365 but couldn't get it to work with Rush's Outlook Web Application.
+- State "DONE"       from "TODO"       [2019-08-09 Fri 09:06]
+:END:
 * *Meetings*
 ** TODO Collaboration Tool Discussion (Updated location); Location: Office of Integrated Medical Education in AAC 403 <2019-08-07 Wed 15:30-16:00>
 :PROPERTIES:

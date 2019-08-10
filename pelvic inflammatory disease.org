@@ -151,6 +151,21 @@ Tom S.
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-06 Tue 08:35]
 :END:
+** DONE [#A] Check [[message://%3c0da31b069207458f9b896c9943c3617e@RUPW-EXCHMAIL02.rush.edu%3E][Case 2 STUDENT guide]]
+:PROPERTIES:
+:SYNCID:   45AF1A48-B392-4DF6-B6A7-D6520EEE518A
+:ID:       4E2951EF-B5D2-408C-8CFC-4C270E93CAC0
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-09 Fri 10:32]
+:END:
+
+
+HI.  Faculty guide is done; please just verify I removed all answer material—thank you for your comments, they were very useful.
+ 
+ta
+Janice
+
 * *Ticklers*
 ** DONE [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
@@ -188,19 +203,18 @@ SCHEDULED: <2019-08-01 Thu>
 *** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       63994F1B-ECDD-49CE-A40A-4D1456443C3F
+:ID:       96B73DC9-A42A-4363-9089-2C81D5F7EBBA
 :END:
 *** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       6350885F-FFA3-4779-A8F8-AA455DDF0DFE
+:ID:       EE3ED569-4E0D-44C5-BD20-294B18A15E1E
 :END:
 *** DONE [#A] Make sure mike put anti-virals in Fetal Death
 *** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
 *** Gary is going to alter the PID exercise to make it clear what the students need to know.
 *** Mark promised to re-write the pathology exercise in AGB.
-*** We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
-SCHEDULED: <2019-08-09 Fri>
+*** CANCELED We need to alter the abnormal genital tract bleeding histology/physiology exercise to make the info about the rooms correct (marked with a comment in the file).  We are waiting until we get a good look at the room in its final state to plan out how this will be run.
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:
 :SYNCID:   10C22D8D-DD36-4EA9-B0EF-7B1E62F0EB7D
@@ -228,7 +242,7 @@ SCHEDULED: <2019-08-09 Fri>
 **** DONE [#A] This is done.  Post AGB
 Keith - Abnormal Uterine bleeding is very close.   Mark Pool still needs to find out how to create links to the virtual slides and embed them into the guide so that the students can get a good, high resolution look at them.  I believe he also still needs to embed images that are not marked up for the student guide.  Mark, can you please get this done ASAP?
 **** DONE [#A] Carl - Pelvic inflammatory disease is almost done as well.  Gary still has a minor edit for the women’s health activity where he’s going to make sure the students know what they need to take away from the tables in the answers.  Gary, can you please do this ASAP?
-**** WAITING [#A] Keith - Infertility:  
+**** DONE [#A] Keith - Infertility:  
 
 Anne is working a little bit on the clinical reasoning.  Gary, can you please see the note from Anne under the “testing” section of the clinical reasoning and work with her on finishing this up?
 
