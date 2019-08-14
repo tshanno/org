@@ -166,8 +166,7 @@ Tom S.
 - State "WAITING"    from "TODO"       [2019-08-06 Tue 07:58] \\
   Sent back to Princess with suggested edits.
 :END:
-** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
-SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
 :PROPERTIES:
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       E10069D7-19F8-4C12-ADA0-0F3480375143

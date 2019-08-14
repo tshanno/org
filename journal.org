@@ -1,4 +1,4 @@
-n
+
 * 2019
 ** 2019-04 April
 *** 2019-04-04 Thursday
@@ -2862,12 +2862,12 @@ SCHEDULED: <2020-02-14 Fri>
 ***** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       96B73DC9-A42A-4363-9089-2C81D5F7EBBA
+:ID:       722E08A3-CDFB-4737-830B-D1B915051ACF
 :END:
 ***** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       EE3ED569-4E0D-44C5-BD20-294B18A15E1E
+:ID:       B3C23DF4-306D-4D35-B814-78DF92910FF7
 :END:
 ***** DONE [#A] Make sure mike put anti-virals in Fetal Death
 ***** DONE [#A] Tell Denise that we made minor changes to the HSV self-study
@@ -3035,7 +3035,7 @@ There are several sessions that have no, or very few topics assigned to them. I�
 ***** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       D13EE913-14E7-49A7-9A80-9A27235C23A0
+:ID:       22B45D14-0CF9-4A11-A70E-58C1E5339EBB
 :END:
 ***** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 
@@ -3379,6 +3379,36 @@ You can also see where Montgomery could succeed in the passing game.  Get him in
 Yeah, the guy probably is going to get caught from behind a few times this year.  But overall, I like what I see and I think Montgomery's strengths could far out weight his weaknesses.  I see a guy who could quite possibly match the production of a \textbf{Matt Forte} as a very good running back that could provide yet another aspect to what is looking like its going to be a versatile offense.
 #+END_EXPORT
   [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-XUyjSnOmDnO2oWh8UeK1E7S23Qk@gwene.org][Email from Brad Biggs: Brad Biggs’ 10 thoughts on the]]
+**** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-09 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   63BF1B8E-E4E4-4244-8FA2-CC433A83FAEE
+:ID:       AB2B4B19-6991-434A-AC10-6115FA060F77
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-12 Mon 07:57] \\
+  [[message://%3c951DF225-0A81-4ACB-9BE4-9F50F199AE33@rush.edu%3E][Update: Core Disciplines Meeting 8/9/19]]
+  
+  
+  Just a quick note on where we are at with the faculty guides and the session activities. I’m combining both the Sexuality and Reproduction report with Vital Fluids because we’re now using the meetings for both blocks.  We’d like to get these faculty guides finalized ASAP.
+  
+  Sexuality and Reproduction
+  
+  1.  Abnormal Uterine Bleeding and Pelvic Inflammatory Disease is up.  Infertility is ready to roll and Janice is formatting it.  Thank you for your time and effort.
+  
+  2.  Teen pregnancy - we have one little hang up with one of the activities.  I think this is a minor problem where I hope it's just that one of the Women’s Health activities will have to be slightly rephrased.  Gary, Anne, Keith and I will meet early next week to solve this issue since Gary couldn’t make it to the meeting.
+  
+  3.  Fetal Death - we also have a hang up with Activity 2 in this case as well as the clinical reasoning.  Activity 2 may have to be redesigned depending upon how Gary feels about it.  We will also talk about these topics with Gary early in the week.
+  
+  These two faculty guides have to be finalized this week.
+  
+  Vital Fluids
+  
+  1.  We took a look at the Tetralogy of Fallot case (the first one).  We decided that we need to encourage the faculty to move quickly through this case and we definitely need to make sure that the students get through the team circles on time.  We will add a note to this effect in the guide and I will talk to the team circles students.
+  
+  2.  I had one or two small notes to address next week and we’d like to talk to Kiya about this case at the next meeting if possible and make sure she is OK with what she sees.
+  
+  Thanks to all for your help.
+:END:
 *** 2019-08-10 Saturday
 **** DONE [[https://theathletic.com/1128225/2019/08/09/rising-and-falling-projecting-the-bears-53-man-roster-after-preseason-opener/?source=rss][Rising and falling: Projecting the Bears’ 53-man roster after preseason opener – The Athletic]]
 :PROPERTIES:
@@ -3405,4 +3435,68 @@ Montgomery. like most rookie running backs, has to learn to pass protect if he w
 Montgomery will start out of the gate or at least get a lot of playing time.  That is clear.
 
 I think that makes it all the more important that he get as much practice protecting the quarterback before then as possible.  Yes, its a risk.  But its better to risk injury to Montgomery in the preseason than to risk losing your quarterback to a rookie mistake once the season begins.
+#+END_EXPORT
+*** 2019-08-12 Monday
+**** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
+:ID:       F839FA8E-86DA-4910-B173-5642D5FA5D4C
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:42] \\
+  Danesha didn't show.  Will track her down today.
+  
+  Went through ToF with Princess and we are on the same page with the topics.  Will go over more this afternoon.
+:END:
+***** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
+***** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+***** Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+***** FU:  Infertility Self-Study
+*** 2019-08-13 Tuesday
+**** DONE Look and see what this went for.  Currently $53, [[https://www.ebay.com/itm/Vintage-Mens-Bulova-Sea-King-23-Jewel-11AOACB-Automatic-Date-Wrist-Watch/143348877712][Vintage Men's Bulova Sea King 23 Jewel 11AOACB Automatic Date Wrist Watch | eBay]]
+:LOGBOOK:
+- Note taken on [2019-08-14 Wed 08:03] \\
+  $127.50.  I think the price almost doubled in the last 15 seconds.  :)
+- State "DONE"       from "TODO"       [2019-08-14 Wed 08:03]
+:END:
+**** Meeting to describe technology in new teaching space. <2019-08-13 Tue 9:00-10:00>
+:PROPERTIES:
+:SYNCID:   9B6C9D6B-FAE8-415E-A199-D67AAF043643
+:ID:       59882DC9-E49D-4723-B9B6-5D7887BC50E0
+:END:
+***** IT guy's name is Terrance J Lewis.  He encourages email for questions
+***** Some things to note:
+****** You have to check out tablets from METC
+****** Will probalby need at least 1 mic.  This also comes from the METC
+****** There is a keyboard and mouse with each cart.
+****** You can connect to each cart with you iPad but you can't use airplay (which Only connects to the whole room).  You have to use an alternative (name eacapres me).  You need to install software to do it.
+*** 2019-08-14 Wednesday
+**** DONE Aaron Rogers Undermines His Head Coach Every Time He Opens His Mouth.
+:PROPERTIES:
+:SYNCID:   F6DF5AA9-A606-4C28-B1A4-99812A383D4B
+:ID:       D610CEAB-F4B8-48C7-95CE-7B956F89FBAD
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-14 Wed 06:46]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Mike Florio} at \textit{profootballtalk.com} on Green Bay quarterback \textbf{Aaron Rogers} \href{https://profootballtalk.nbcsports.com/2019/08/13/aaron-rodgers-attributes-outside-noise-to-fake-news-and-clickbait/}{characterizing} critical comments that he's creating ``outside noise'' as ``click bait'':
+
+\begin{quote}
+  ``If Rodgers doesn’t want to be 'put in that news cycle,' he should quit saying things that naturally flow into that news cycle. When he complains to \textbf{Mike Silver} of the
+NFL that Rodgers wants more freedom at the line of scrimmage than the [head coach \textbf{Matt}] \textbf{LaFleur} offense gives him, Rodgers puts himself in that news cycle. When Rodgers
+complains to reporters about joint practices and, more surprisingly, specifically says it’s not 'smart' to have close-to-live kickoff drills that are sure to catch the attention
+of the NFL Players Association, Rodgers puts himself in that news cycle.
+\end{quote}
+
+It more than that.  Rogers is using the media as a weapon to undermine the head coach.
+
+He wants more freedom at the line of scrimmage?  He doesn't work it out with LaFleur internally.  Instead, he runs to the media and complains.  The next thing you know, Green Bay fans are saying, ``Yeah.  He's a veteran, he should be able to change the play.''
+
+That adds pressure on LaFleur to change his policy, even though he knows the way he runs his offense will work if given a chance.  In the mean time, the whole issue undermines his authority with both the fans and the media.
+
+Rogers is playing LaFleur and their fans like a fiddle.  And he's using the media to do it.
+
+Fortunately, the media knows when its being used though they didn't bother to try to point it out while former head coach \textbf{Mike McCarthy} was the victim, at least some are apparently trying to give LaFleur a little bit more of a chance.  For now.
 #+END_EXPORT

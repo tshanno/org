@@ -22,10 +22,16 @@
 *** Move the genetics to just before the Pathology in Fetal Death Self-Study
 *** Add a note to the genetics cover page telling students that they both have to read and watch the content.
 *** DONE [#A] Edit the plan of study to put genetics next to path
-** TODO [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
+** DONE [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
 :PROPERTIES:
 :SYNCID:   EC9F46B4-2721-48CA-8212-2CFA73054560
 :ID:       C52640C2-6A9C-4B91-8D4C-264A0ACE4731
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 13:24] \\
+  [2019-08-12 Mon] Proposed 3:30 tomorrow.
+- Note taken on [2019-08-12 Mon 11:24] \\
+  Emailed [2019-08-12 Mon 11:20 AM]
 :END:
 
 
@@ -37,10 +43,16 @@ What dates/times are good for you?
 
 Anne
 
-** TODO FU Janice on [[message://%3c80C02FF9-6284-41E7-8778-8BB269BB4361@rush.edu%3E][Edits to case 5 (Andrea Brown/Fetal Death)]]
+** WAITING FU Janice on [[message://%3c80C02FF9-6284-41E7-8778-8BB269BB4361@rush.edu%3E][Edits to case 5 (Andrea Brown/Fetal Death)]]
 :PROPERTIES:
 :SYNCID:   4B597D9E-CD20-47B8-A728-46AA6F304367
 :ID:       0E2AC8E3-684E-4C29-964F-E6A6FD1BA18E
+:END:
+
+** TODO [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
+:PROPERTIES:
+:SYNCID:   721879A4-B8AB-4EBD-95F7-6640DBFCE4F7
+:ID:       9FEDA53C-A0AA-47F3-9D12-B9CE2BC2DB43
 :END:
 
 * *Ticklers*
@@ -59,6 +71,7 @@ Anne
 - State "DONE"       from              [2019-07-29 Mon 08:03]
 :END:
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+SCHEDULED: <2019-08-26 Mon>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       02AC500F-DFC2-486A-A2F9-309BDCB27F86
@@ -68,6 +81,13 @@ Anne
 SCHEDULED: <2020-02-15 Sat>
 ** Talk to Carolyn Jones about moving teratogens into fetal death so that it will be with the pharm and path content
 SCHEDULED: <2020-02-14 Fri>
+** Make sure that Mike re-records the teratogens video so that this note won't be necessary this year. [[message://%3cc60eb6b541354a7da0d49a1fa62703db@RUPW-EXCHMAIL02.rush.edu%3E][RE: Fetal Death Self-Study Guide]]
+SCHEDULED: <2020-02-15 Sat>
+:PROPERTIES:
+:SYNCID:   48CA181E-1F59-4BCC-87E6-134B6ECB2490
+:ID:       7F15767E-900F-4BA8-847C-39FFC7FE5587
+:END:
+
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

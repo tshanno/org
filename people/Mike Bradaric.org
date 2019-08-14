@@ -1,4 +1,12 @@
 * *Tasks*
+** DONE FU:  Mike [[message://%3c1DDD6656-C7CA-4A55-A054-A57D6D751A57@rush.edu%3E][Vital Fluids Material]]
+:PROPERTIES:
+:SYNCID:   6F58ED04-9275-463F-B36E-82A5FA982891
+:ID:       74029333-BAAF-42A3-99B7-5EE79868E0C2
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-08-14 Wed 08:13]
+:END:
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
@@ -8,14 +16,22 @@
 :LOGBOOK:
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
-** WAITING [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
+** DONE [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9
 :ID:       282C2E1F-3BB7-476D-8D50-09BA775BE215
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-13 Tue 13:34]
 - State "WAITING"    from              [2019-08-02 Fri 09:32] \\
   Mike said he would work on this.  He was having a hard time matching this objective with his content.  He needs to figure out where he was teaching it.
+:END:
+
+** Make sure that Mike re-records the teratogens video so that this note won't be necessary this year. [[message://%3cc60eb6b541354a7da0d49a1fa62703db@RUPW-EXCHMAIL02.rush.edu%3E][RE: Fetal Death Self-Study Guide]]
+SCHEDULED: <2020-02-15 Sat>
+:PROPERTIES:
+:SYNCID:   48CA181E-1F59-4BCC-87E6-134B6ECB2490
+:ID:       73F9FBB1-625B-4021-8584-83D853596979
 :END:
 
 * *Meetings*

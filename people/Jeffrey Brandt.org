@@ -37,12 +37,14 @@ SCHEDULED: <2019-06-19 Wed>
 :END:
 * *Ticklers*
 ** FU on [[message://%3c12756d841057479990867c60fc095f5e@RUPW-EXCHMAIL02.rush.edu%3E][Kelsey Spencer: Review]] for Self-Study
-SCHEDULED: <2019-08-12 Mon>
+SCHEDULED: <2019-08-16 Fri>
 :PROPERTIES:
 :SYNCID:   3314CB8C-CEBD-431D-8A5D-44C3AE8BFCEA
 :ID:       3F59122D-8461-4E93-AFA0-6E8F8D2A004B
 :END:
 :LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:27] \\
+  Jeffery said he would email her.  Apparently she owes reviews for HDHR as well.  I told Janice not to wait.  I need it up on time with or without the review.
 - Note taken on [2019-08-09 Fri 09:25] \\
   Melissa Rice has this one.  Jeffery just emailed her Tuesday (I was copied).  If it not in at the end of the weekend, bug her yourself.
 :END:
@@ -53,6 +55,14 @@ SCHEDULED: <2019-08-12 Mon>
 :SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
 :ID:       69AB112F-04A9-4B60-B4C6-B899026BC887
 :END:
+:LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:42] \\
+  Danesha didn't show.  Will track her down today.
+  
+  Went through ToF with Princess and we are on the same page with the topics.  Will go over more this afternoon.
+:END:
 *** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
 *** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+*** Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+*** FU:  Infertility Self-Study
 * *Notes*

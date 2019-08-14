@@ -1,12 +1,5 @@
 * Tasks
-** TODO FU with Syed and Anne if their material isn't in
-** TODO Invite Kiya to next Core Disciplines meeting
-** TODO Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
-
-** WAITING [#A] Nice Pediatrics Self-study video.  Put this into the faculty guide for Tetralogy of Fallot and into the peds self-study [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]
-:LOGBOOK:
-- State "WAITING"    from "TODO"       [2019-08-10 Sat 11:08] \\
-  Waiting on permission to do this from Kiya.
-:END:
-
-** TODO Pediatric video on [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]
+** TODO Contact Carolyn about her quesitons on Formative 
+** TODO Write a question for S&R formative
+** TODO  Ask Adam if S&R practical has enough questons
+** TODO Get back to kelly on summative

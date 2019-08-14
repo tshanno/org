@@ -62,10 +62,18 @@ SCHEDULED: <2019-07-08 Mon>
 :SYNCID:   12498D3A-3C32-4F58-8658-D3780F43D0E2
 :ID:       F5A6B7E1-2ED2-4CC5-A23D-E0501981C18A
 :END:
-** Send a ppt with data to Ken
-SCHEDULED: <2019-08-12 Mon>
-** Ask Ken if he wants to use appear.in
-SCHEDULED: <2019-08-12 Mon>
+** DONE [#A] Send a ppt with data to Ken :ATTACH:
+:PROPERTIES:
+:Attachments: Figures%20for%20Don%20and%20Ken%202019-08-13.pptx
+:ID:       A858812D-618F-4864-BD35-517663B93FDC
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
+:END:
+** DONE Ask Ken if he wants to use appear.in
+:LOGBOOK:
+- State "DONE"       from              [2019-08-12 Mon 13:19]
+:END:
 
 * *Meetings*
 ** Phone call with Sabine Van Dijk

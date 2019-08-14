@@ -18,10 +18,25 @@
 :END:
 ** TODO FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 
+** DONE Invite Kiya to next Core Disciplines meeting
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-12 Mon 07:52]
+:END:
+** DONE [#A] Nice Pediatrics Self-study video.  Put this into the faculty guide for Tetralogy of Fallot and into the peds self-study [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-12 Mon 13:27]
+- State "WAITING"    from "TODO"       [2019-08-10 Sat 11:08] \\
+  Waiting on permission to do this from Kiya.
+:END:
+** DONE [#A] Embed this link into peds self-study and faculty guide for ToF [[message://%3c8F2DAF1D-8EF4-4289-8E8F-B98E763F4F7E@rush.edu%3E][Nice Congenital Defects video]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-12 Mon 13:27]
+:END:
+
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>
-** WAITING [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
+** DONE [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9
 :ID:       B3F7929A-5FCE-4621-8FF3-570FDF0BE86F

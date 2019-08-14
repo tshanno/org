@@ -69,6 +69,15 @@ SCHEDULED: <2020-06-11 Thu>
 :END:
 
 
+** [[https://www.ebay.com/itm/Vintage-BULOVA-Mens-Gold-Plated-l-Manual-Wind-Watch-runs/254327911058][Vintage BULOVA Men's Gold Plated l Manual Wind Watch runs. | eBay]]  Bidding ends <2019-08-16 Fri 16:00>
+SCHEDULED: <2019-08-16 Fri>
+
+** [[https://www.ebay.com/itm/CARAVELLE-BY-BULOVA-MENS-GOLD-TONE-WATCH-WATER-RESISTANT-STAINLESS-42A57/233308461025][CARAVELLE BY BULOVA MEN'S GOLD TONE WATCH WATER RESISTANT STAINLESS 42A57 | eBay]] Bidding ends: <2019-08-15 Thu 8:15>
+SCHEDULED: <2019-08-15 Thu>
+
+** TODO [#A] [[message://%3c0A16D976-AFF8B244E30-016C63D71FDF-00000000011DC2D5@starship%3E][You've submitted an offer: $25.00 for Mathey Tissot Quartz... (113846376709)]] Expires <2019-08-14 Wed 19:23>
+SCHEDULED: <2019-08-14 Wed>
+
 * *Task*
 
 
@@ -143,9 +152,18 @@ SCHEDULED: <2019-07-12 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-29 Mon 08:05]
 :END:
-** TODO [#A] Sponsor Glenda [[message://%3c1564675559204.90129@rush.edu%3E][American Heart Association Walk, September 20, 2019]]
+** CANCELED [#A] Sponsor Glenda [[message://%3c1564675559204.90129@rush.edu%3E][American Heart Association Walk, September 20, 2019]]
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-08-13 Tue 14:29] \\
+  Will probably sponsor OIME (if I don't participate).
+:END:
 
 ** TODO [#A] [[message://%3c032e0a191c454ed797f95b0537f7a9ad@RUPW-EXCHMAIL02.rush.edu%3E][A small favor: Help needed to pilot a survey]]
+
+** DONE [#A] [[https://www.ebay.com/itm/Bulova-Mens-Classic-Quartz-Gold-Tone-Case-Brown-Leather-Band-Watch-31mm-97B162/303247034268?epid=3011383378&hash=item469aee879c:g:QIIAAOSwwvtbNpJp][Bulova Men's Classic Quartz Gold-Tone Case Brown Leather Band Watch 31mm 97B162 42429547940 | eBay]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-13 Tue 13:51]
+:END:
 
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>

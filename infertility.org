@@ -16,7 +16,11 @@
 - Note taken on [2019-07-19 Fri 07:58] \\
   Move the bladder drugs off of this
 :END:
-** TODO [#A] Review [[message://%3c6640b57a24e2441895203f836242028d@RUPW-EXCHMAIL02.rush.edu%3E][Case 3- S&R]]
+** CANCELED [#A] Review [[message://%3c6640b57a24e2441895203f836242028d@RUPW-EXCHMAIL02.rush.edu%3E][Case 3- S&R]]
+:LOGBOOK:
+- State "CANCELED"   from "DONE"       [2019-08-13 Tue 13:46]
+- State "DONE"       from "TODO"       [2019-08-13 Tue 13:46]
+:END:
 
 ** DONE [#A] Look over these changes and then get back to Jerry [[message://%3c2DA15B40-8931-4888-9587-6BB637B7A946@rush.edu%3E][Re: Update: Core Disciplines Meeting 7/26/19]]
 :LOGBOOK:
@@ -59,12 +63,14 @@ Feel free to let me know if you have any questions about this.
 
 
 ** FU on [[message://%3c12756d841057479990867c60fc095f5e@RUPW-EXCHMAIL02.rush.edu%3E][Kelsey Spencer: Review]] for Self-Study
-SCHEDULED: <2019-08-12 Mon>
+SCHEDULED: <2019-08-16 Fri>
 :PROPERTIES:
 :SYNCID:   3314CB8C-CEBD-431D-8A5D-44C3AE8BFCEA
 :ID:       CBE4331D-930E-419C-8F6B-51A100259FF7
 :END:
 :LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:27] \\
+  Jeffery said he would email her.  Apparently she owes reviews for HDHR as well.  I told Janice not to wait.  I need it up on time with or without the review.
 - Note taken on [2019-08-09 Fri 09:25] \\
   Melissa Rice has this one.  Jeffery just emailed her Tuesday (I was copied).  If it not in at the end of the weekend, bug her yourself.
 :END:

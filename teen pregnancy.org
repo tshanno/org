@@ -14,18 +14,34 @@
 - State "DONE"       from "TODO"       [2019-08-07 Wed 10:18]
 :END:
 
-** TODO [#A]  FU Gary on this [[message://%3cBN8PR01MB555663F87070E68351842377BCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Activity #4 in Teen Pregnancy case]]
+** DONE [#A]  FU Gary on this [[message://%3cBN8PR01MB555663F87070E68351842377BCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Activity #4 in Teen Pregnancy case]]
 :PROPERTIES:
 :SYNCID:   220DCBBD-8926-4585-BECF-E084D075C855
 :ID:       467BC03D-E540-499A-9FFD-D2FC644487F6
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 13:25] \\
+  Proposed meeting 3:30 tomorrow.
+:END:
+** DONE [#A] FU:  Gary [[message://%3cF286707E-6E16-43F9-9C45-B8783FEBB34C@rush.edu%3E][Re: Activity #4 in Teen Pregnancy case]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
+:END:
+
 * *Ticklers*
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+SCHEDULED: <2019-08-26 Mon>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       2A4FBFAD-C8AF-4420-9105-EE8310C3719F
 :END:
 
+** FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
+SCHEDULED: <2019-08-15 Thu>
+:PROPERTIES:
+:SYNCID:   4340B2F7-8B77-470D-9A82-B12540A26B6E
+:ID:       0D7112C3-908B-49DE-A3E5-B9EC1CA181CE
+:END:
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

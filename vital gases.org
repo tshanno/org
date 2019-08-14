@@ -7,8 +7,7 @@
 	[[message://%3c13025FAB-B5C2-4790-A9B8-67FBB0C89541@rush.edu%3E][Re: 574 and 575 reassessment blueprints]]
 
 ** ON RADAR Go back and split oveview of female reproduction and first respiratory video
-** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
-SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
 :PROPERTIES:
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       A1A7D993-7981-43FF-9E90-3693AF4AF16F

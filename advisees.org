@@ -164,10 +164,14 @@ Jay
 ** DONE FU Christine on advisees
    SCHEDULED: <2019-03-13 Wed>
 	[[message://%3cE896DD60-5D9A-4C33-9F1A-E701C617A600@rush.edu%3E][Re: IMPORTANT information from the Committee on Student Evaluations and Promotion (COSEP)]]
-** TODO [#A]  Reach out to [[message://%3cfdbe6b714bd646679ee57535c5e08fe4@RUDW-EXCHMAIL01.rush.edu%3E][M4s]] :ATTACH:
+** CANCELED [#A]  Reach out to [[message://%3cfdbe6b714bd646679ee57535c5e08fe4@RUDW-EXCHMAIL01.rush.edu%3E][M4s]] :ATTACH:
 :PROPERTIES:
 :Attachments: Photos-%20class%20of%202020-%20Hedger%202019-07-24.docx
 :ID:       0C0A6235-FBA1-40FF-814D-3D6BB720A2AB
+:END:
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-08-12 Mon 13:27] \\
+  Never got around to this.
 :END:
 
 

@@ -17,7 +17,8 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:13]
 :END:
-** TODO FU Danesha on BCS content and research content (did it get a shell, too?) [[message://%3ce2005c3e0eed4888aeaacbe86fe5e51e@RUPW-EXCHMAIL02.rush.edu%3E][FW: BCS shell created in Entrada]]
+** FU Danesha on BCS content and research content (did it get a shell, too?) [[message://%3ce2005c3e0eed4888aeaacbe86fe5e51e@RUPW-EXCHMAIL02.rush.edu%3E][FW: BCS shell created in Entrada]]
+SCHEDULED: <2019-08-20 Tue>
 
 
 Hi –
@@ -30,6 +31,12 @@ I’m still working on the rubric and the gradebook.  If you want to start attac
  
 Bill
 
+** Track down Danesha and find out what's going on with the roles sessions for S&R.
+SCHEDULED: <2019-08-20 Tue>
+:PROPERTIES:
+:SYNCID:   6B3CD169-8A98-4099-AA17-5F4F4EBD5153
+:ID:       C3781EBD-75D7-4FD8-ABB1-DE79B703249B
+:END:
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>
@@ -99,8 +106,16 @@ Bill
 ** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
 :PROPERTIES:
 :SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
-:ID:       F839FA8E-86DA-4910-B173-5642D5FA5D4C
+:ID:       74F47F21-79DC-4968-BEA2-C5E9E4BEFAD2
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:42] \\
+  Danesha didn't show.  Will track her down today.
+  
+  Went through ToF with Princess and we are on the same page with the topics.  Will go over more this afternoon.
 :END:
 *** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
 *** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+*** Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+*** FU:  Infertility Self-Study
 * *Notes*

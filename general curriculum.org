@@ -6,7 +6,7 @@
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
 ** Organize pizza lunch
-   SCHEDULED: <2019-08-12 Mon>
+   SCHEDULED: <2019-08-19 Mon>
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
@@ -301,6 +301,17 @@ SCHEDULED: <2020-02-14 Fri>
 ** My turn at the Journal Club <2020-03-26 Thu>
 *** Send out journal club article
 DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
+** Meeting to describe technology in new teaching space. <2019-08-13 Tue 9:00-10:00>
+:PROPERTIES:
+:SYNCID:   9B6C9D6B-FAE8-415E-A199-D67AAF043643
+:ID:       44B2E6BC-84DF-437F-9A99-926D938C6576
+:END:
+*** IT guy's name is Terrance J Lewis.  He encourages email for questions
+*** Some things to note:
+**** You have to check out tablets from METC
+**** Will probalby need at least 1 mic.  This also comes from the METC
+**** There is a keyboard and mouse with each cart.
+**** You can connect to each cart with you iPad but you can't use airplay (which Only connects to the whole room).  You have to use an alternative (name eacapres me).  You need to install software to do it.
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -576,6 +587,12 @@ See you in a few weeks,
 
 Laura Owczarzak
 
+** [[https://docs.google.com/spreadsheets/d/1fvANoEDAdWRJYfdzHZ1bCIzIQqK8Ag1vIRdWQL7_uPU/edit#gid=1754225448][19/20 Curriculum Maps (Schedule of Topics by Block) - Google Sheets]] [2019-08-12 Mon]
+** Link to BCS on Entrada [[message://%3cC10E50CD-8200-4C81-AC4C-28891240ABFA@rush.edu%3E][Re: BCS shell created in Entrada]]
+
+** [[https://docs.google.com/spreadsheets/d/1fvANoEDAdWRJYfdzHZ1bCIzIQqK8Ag1vIRdWQL7_uPU/edit#gid=1754225448][19/20 Curriculum Maps (Schedule of Topics by Block) - Google Sheets]]
+** [[https://rushedu-auvic.formstack.com/forms/active_learning_training_registration][Active Learning Training Registration - Formstack]]
+** IT guy's name is Terrance J Lewis.  He encourages email for questions
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -731,9 +748,9 @@ SCHEDULED: <2019-06-17 Mon>
   Talk to Angela about this.  She said the end of August.
 :END:
 
-** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
-SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
 :PROPERTIES:
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       EE5D0660-D3C1-43B2-A037-82DEE8B4E220
 :END:
+** TODO [#A] Air media

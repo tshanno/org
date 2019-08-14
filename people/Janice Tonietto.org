@@ -44,12 +44,18 @@ HI.  Faculty guide is done; please just verify I removed all answer material—t
 ta
 Janice
 
-** TODO FU Janice on [[message://%3c733CA7B7-5442-45EE-AD58-57DBF60EA380@rush.edu%3E][Infertility Faculty Guide is ready to go]]
+** WAITING FU Janice on [[message://%3c733CA7B7-5442-45EE-AD58-57DBF60EA380@rush.edu%3E][Infertility Faculty Guide is ready to go]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 11:25]
+:END:
 
-** TODO FU Janice on [[message://%3c80C02FF9-6284-41E7-8778-8BB269BB4361@rush.edu%3E][Edits to case 5 (Andrea Brown/Fetal Death)]]
+** WAITING FU Janice on [[message://%3c80C02FF9-6284-41E7-8778-8BB269BB4361@rush.edu%3E][Edits to case 5 (Andrea Brown/Fetal Death)]]
 :PROPERTIES:
 :SYNCID:   4B597D9E-CD20-47B8-A728-46AA6F304367
 :ID:       E64C66ED-7971-4E4D-B628-4F3A20295D04
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 11:25]
 :END:
 
 ** TODO [#A] Send James Parker self-study edits to Janice
@@ -62,7 +68,19 @@ Janice
 - State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\
   This hasn't been sent out for review yet.
 :END:
+** TODO [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
+:PROPERTIES:
+:SYNCID:   721879A4-B8AB-4EBD-95F7-6640DBFCE4F7
+:ID:       83E18A46-2560-4D1E-8E60-F4E68255BE28
+:END:
+
 * *Ticklers*
+** FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
+SCHEDULED: <2019-08-15 Thu>
+:PROPERTIES:
+:SYNCID:   4340B2F7-8B77-470D-9A82-B12540A26B6E
+:ID:       07F4F7C1-4A53-443A-A2AF-716CB791C4F2
+:END:
 * *Meetings*
 ** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
 :PROPERTIES:
@@ -112,6 +130,14 @@ Janice
 :SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
 :ID:       8606C758-3427-4E55-9900-F96BE7AA3BBE
 :END:
+:LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:42] \\
+  Danesha didn't show.  Will track her down today.
+  
+  Went through ToF with Princess and we are on the same page with the topics.  Will go over more this afternoon.
+:END:
 *** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
 *** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+*** Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+*** FU:  Infertility Self-Study
 * *Notes*

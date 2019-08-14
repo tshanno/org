@@ -81,6 +81,36 @@ Regarding the student comment about jokes
 :END:
 *** From Paola [[message://%3c321c4e227f254d43ac9bd20c0c187926@RUPW-EXCHMAIL01.rush.edu%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
 For Fetal death are we talking about prenatal test? What about T21? Or we could do  GTT. Not sure if that is the idea
+** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-09 Fri 14:30-15:30>
+:PROPERTIES:
+:SYNCID:   63BF1B8E-E4E4-4244-8FA2-CC433A83FAEE
+:ID:       3920E4A5-EC0E-47C8-A0D3-A0891E5533EB
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-12 Mon 07:57] \\
+  [[message://%3c951DF225-0A81-4ACB-9BE4-9F50F199AE33@rush.edu%3E][Update: Core Disciplines Meeting 8/9/19]]
+  
+  
+  Just a quick note on where we are at with the faculty guides and the session activities. I’m combining both the Sexuality and Reproduction report with Vital Fluids because we’re now using the meetings for both blocks.  We’d like to get these faculty guides finalized ASAP.
+  
+  Sexuality and Reproduction
+  
+  1.  Abnormal Uterine Bleeding and Pelvic Inflammatory Disease is up.  Infertility is ready to roll and Janice is formatting it.  Thank you for your time and effort.
+  
+  2.  Teen pregnancy - we have one little hang up with one of the activities.  I think this is a minor problem where I hope it's just that one of the Women’s Health activities will have to be slightly rephrased.  Gary, Anne, Keith and I will meet early next week to solve this issue since Gary couldn’t make it to the meeting.
+  
+  3.  Fetal Death - we also have a hang up with Activity 2 in this case as well as the clinical reasoning.  Activity 2 may have to be redesigned depending upon how Gary feels about it.  We will also talk about these topics with Gary early in the week.
+  
+  These two faculty guides have to be finalized this week.
+  
+  Vital Fluids
+  
+  1.  We took a look at the Tetralogy of Fallot case (the first one).  We decided that we need to encourage the faculty to move quickly through this case and we definitely need to make sure that the students get through the team circles on time.  We will add a note to this effect in the guide and I will talk to the team circles students.
+  
+  2.  I had one or two small notes to address next week and we’d like to talk to Kiya about this case at the next meeting if possible and make sure she is OK with what she sees.
+  
+  Thanks to all for your help.
+:END:
 * *Notes*
 ** [[message://%3c9C86D54B-94C8-405D-AE61-E8CFA90A2BDA@rush.edu%3E][Assessment Challenge Link]]
   [2018-09-28 Fri]
@@ -517,12 +547,12 @@ SCHEDULED: <2019-06-27 Thu>
 :ID:       4CD3B0E6-C90B-4F01-853C-4535C27F96FE
 :END:
 
-** TODO [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
-SCHEDULED: <2019-08-12 Mon> DEADLINE: <2019-08-14 Wed>
+** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
 :PROPERTIES:
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       11877ED8-F8D3-4777-98F1-05667A15B80A
 :END:
+** TODO [#A] Complete renal topics rearrangement
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>
@@ -1018,3 +1048,7 @@ SCHEDULED: <2018-12-06 Thu>
 * DONE [#A] [[message://%3c2A44B8CB-52DA-4367-A89E-3105D0E14A1C@rush.edu%3E][Review formative 2]]
    [2018-11-27 Tue]
 * DONE [#A] Invite Joanna to Assadi meeting
+* DONE [#A] FU with Syed and Anne if their material isn't in
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
+:END:

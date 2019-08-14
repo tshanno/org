@@ -14,6 +14,18 @@
 - State "WAITING"    from "TODO"       [2019-08-06 Tue 07:58] \\
   Sent back to Princess with suggested edits.
 :END:
+** DONE [#A] Send Objectives for Intro to the ECG to Princess
+:PROPERTIES:
+:SYNCID:   6F475D49-CB04-4948-8D83-F8B1696C62FF
+:ID:       369F599A-2033-4487-9AF4-FC2AA114FEAA
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-13 Tue 13:45]
+- Note taken on [2019-08-13 Tue 13:45] \\
+  1.  Explain how the cardiac action depolarization and repolarization propagates through the heart.
+  2.  Explain how the EKG is measured from the electrical potentials generated outside the cardiac cells.
+  3.  Explain how the propagation of the cardiac action potential correlates with the wave-form of the EKG e.g. p-wave (atrial depolarization), PQ interval (AV nodal delay), QRS wave (ventricular depolarization) and T-wave (ventricular repolarization).
+:END:
 * *Ticklers*
 ** DONE FU Princess on workload assessment
 SCHEDULED: <2019-07-29 Mon>
@@ -32,6 +44,14 @@ SCHEDULED: <2019-07-29 Mon>
 :SYNCID:   B7812A3E-A828-4A05-ABAC-3FC1400DFFAB
 :ID:       ACCA3ED1-C59D-48BC-A027-A61624C7C55E
 :END:
+:LOGBOOK:
+- Note taken on [2019-08-13 Tue 07:42] \\
+  Danesha didn't show.  Will track her down today.
+  
+  Went through ToF with Princess and we are on the same page with the topics.  Will go over more this afternoon.
+:END:
 *** Find out from Danesha what's happening with BCS.  FU on Oral Presentaion workshop and whether that mateiral is ready to post.
 *** How was the research course handled last year?  We're doing it the same?  Bill has tlalked about setting up an Entrada shell for it.
+*** Ask Princess and Jeffrey about imaging topics for MI.  Is this actually practitioner or anatomy?  The folder is empty and I don't know who, if anyone, to bug.
+*** FU:  Infertility Self-Study
 * *Notes*

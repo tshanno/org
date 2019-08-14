@@ -3,6 +3,12 @@
 * *Ticklers*
 ** The COPD Review video will have to be redone next year because you talked about the mistake you made in RS6 with the coma problem.
    SCHEDULED: <2019-12-20 Fri>
+** Make sure Sarah's content for COPD gets posted to the proper folder.  It didn't exist as of [2019-08-13] [[message://%3c289F6D9E-1055-45A0-B3A1-1C6413A60A2B@rush.edu%3E][Re: Vital Fluids Material]]
+SCHEDULED: <2019-09-25 Wed>
+
+
+I uploaded Sarah’s AKI and CKD content and copied over the CHF file.  However, I was unable to upload the COPD document.  The link in the nutrition content outline doesn’t work and there’s no nutrition folder under COPD.
+
 * *Tasks*
 ** DONE [#A] [[message://%3c6337f8a2b8e542adb5441cfbb6df1563@RUPW-EXCHMAIL02.rush.edu%3E][Review COPD self-study]]
 ** DONE [#A] self-study posted

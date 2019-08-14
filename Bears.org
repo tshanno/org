@@ -936,6 +936,58 @@ Montgomery will start out of the gate or at least get a lot of playing time.  Th
 
 I think that makes it all the more important that he get as much practice protecting the quarterback before then as possible.  Yes, its a risk.  But its better to risk injury to Montgomery in the preseason than to risk losing your quarterback to a rookie mistake once the season begins.
 #+END_EXPORT
+** DONE Aaron Rogers Undermines His Head Coach Every Time He Opens His Mouth.
+:PROPERTIES:
+:SYNCID:   F6DF5AA9-A606-4C28-B1A4-99812A383D4B
+:ID:       044B221A-FE61-4AD1-AEE0-9CB706094C44
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-14 Wed 06:46]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Mike Florio} at \textit{profootballtalk.com} on Green Bay quarterback \textbf{Aaron Rogers} \href{https://profootballtalk.nbcsports.com/2019/08/13/aaron-rodgers-attributes-outside-noise-to-fake-news-and-clickbait/}{characterizing} critical comments that he's creating ``outside noise'' as ``click bait'':
+
+\begin{quote}
+  ``If Rodgers doesn’t want to be 'put in that news cycle,' he should quit saying things that naturally flow into that news cycle. When he complains to \textbf{Mike Silver} of the
+NFL that Rodgers wants more freedom at the line of scrimmage than the [head coach \textbf{Matt}] \textbf{LaFleur} offense gives him, Rodgers puts himself in that news cycle. When Rodgers
+complains to reporters about joint practices and, more surprisingly, specifically says it’s not 'smart' to have close-to-live kickoff drills that are sure to catch the attention
+of the NFL Players Association, Rodgers puts himself in that news cycle.
+\end{quote}
+
+It more than that.  Rogers is using the media as a weapon to undermine the head coach.
+
+He wants more freedom at the line of scrimmage?  He doesn't work it out with LaFleur internally.  Instead, he runs to the media and complains.  The next thing you know, Green Bay fans are saying, ``Yeah.  He's a veteran, he should be able to change the play.''
+
+That adds pressure on LaFleur to change his policy, even though he knows the way he runs his offense will work if given a chance.  In the mean time, the whole issue undermines his authority with both the fans and the media.
+
+Rogers is playing LaFleur and their fans like a fiddle.  And he's using the media to do it.
+
+Fortunately, the media knows when its being used though they didn't bother to try to point it out while former head coach \textbf{Mike McCarthy} was the victim, at least some are apparently trying to give LaFleur a little bit more of a chance.  For now.
+#+END_EXPORT
+** ON RADAR ‘It’s kind of like just hanging out in the woods’: Bears are back at Halas Hall – The Athletic
+[2019-08-14 Wed 02:13]
+https://theathletic.com/1136108/2019/08/13/its-kind-of-like-just-hanging-out-in-the-woods-bears-are-back-at-halas-hall/
+
+No kicker in America has a better grasp of how tense it’ll be at Soldier Field on Sept. 5 for the first field-goal attempt than Fry and Piñeiro. Those two have been inundated by questions from the media, every field goal charted and tweeted, while knowing all about the reason the Bears need a kicker.
+
+But is it a benefit or a detriment?
+
+I’m wondering if it’s the latter. Wouldn’t it be better, from a psychological perspective, to claim someone off waivers four days before the game, a kicker who would barely have any time to learn about the pressure that will come with the first field goals at Soldier Field?
+
+Just a thought.
+
+No. Need time to work with holder and snapper. Need time to kick in Soldier Field conditions.
+** ON RADAR Hyde5: Here’s why Dolphins’ shot at No. 1 pick has taken some hits - South Florida Sun-Sentinel
+[2019-08-14 Wed 02:32]
+https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde5-dolphins-bottom-5-20190813-s3ozb6744fejlljzmcmofnbsry-story.html
+
+5. Arizona. A rookie NFL coach. A rookie NFL quarterback. A division with the Los Angeles Rams, Seattle and San Francisco. A league-worst 3-13 record last year. There’s only so much you can do there. No. 1 pick odds: 12 percent.
+
+Time for your rant moderation in all things.
+
+*** TODO /Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Scripts/Applications/Safari/Copy Safari URL for Emacs.scpt:550:581: execution error: Error on line 19: Error: Can't get object. (-1728)
+
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 

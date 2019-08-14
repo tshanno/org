@@ -19,6 +19,18 @@
 - State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\
   This hasn't been sent out for review yet.
 :END:
+** DONE [#A] Send Objectives for Intro to the ECG to Princess
+:PROPERTIES:
+:SYNCID:   6F475D49-CB04-4948-8D83-F8B1696C62FF
+:ID:       DBFD4FE6-69C6-4F95-8D52-526558B9D86A
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-13 Tue 13:45]
+- Note taken on [2019-08-13 Tue 13:45] \\
+  1.  Explain how the cardiac action depolarization and repolarization propagates through the heart.
+  2.  Explain how the EKG is measured from the electrical potentials generated outside the cardiac cells.
+  3.  Explain how the propagation of the cardiac action potential correlates with the wave-form of the EKG e.g. p-wave (atrial depolarization), PQ interval (AV nodal delay), QRS wave (ventricular depolarization) and T-wave (ventricular repolarization).
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

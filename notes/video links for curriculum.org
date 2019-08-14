@@ -496,6 +496,7 @@ https://youtu.be/8Vfx-xX8EXE CV15 Introduction to Arrhythmias and Anti-Arrhythmi
 *** https://youtu.be/lK8xiowWU1s R71 Introduction and Renal Handling of Bicarbonate 2018-05-29 (15:40)
 *** https://youtu.be/f_H5My9eCb8 R72 Renal Handling of Excess Acid 2018-05-29 (10:04)
 *** https://youtu.be/KA5UlXzBEjU R73 The Kidney's Role in Acid_Base Regulation 2018-05-29 (20:31)
+** Pediatric video on [[https://www.youtube.com/watch?v=8yE0gR8z1Yo][Congenital Heart Lesions - YouTube]]
 ** https://youtu.be/RLRLOR9WuRg Eli Whitney Physiology Review Part 1 2018-11-02
 ** https://youtu.be/dk8ycz6YK0M Eli Whitney Review Part 2 2018-11-02
 ** https://www.youtube.com/watch?v=8yE0gR8z1Yo Congenital Heart Lesions (Joanna Kupy and Amanda Ellis-Pelletier)
@@ -512,6 +513,8 @@ https://youtu.be/8Vfx-xX8EXE CV15 Introduction to Arrhythmias and Anti-Arrhythmi
 ** https://youtu.be/2_wKzKHWafA Dehydration Review Part 1 (19:22)
 ** https://youtu.be/Isb96SqVi_Y Dehydration Review Part 2 (19:13)
 ** https://youtu.be/aSU8gPZqRMI AKI and CKD Review Video 
+** Links to Biochemistry Videos for Vital Fluids 2019
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Word/2019%20RMD%20574%20VF%20video%20links%202019-08-13.docx][file:~/Library/Mobile Documents/com~apple~CloudDocs/Word/2019 RMD 574 VF video links 2019-08-13.docx]]
 * Consolidation
 ** https://youtu.be/QNsPpj57qpE C11 Congestive Heart Failure and the Heart as a Pump (20:06)
 ** https://youtu.be/uEZwe8TmlMI C12 Congestive Heart Failure, the Vascular Function Curve and the Operating Point (14:15)

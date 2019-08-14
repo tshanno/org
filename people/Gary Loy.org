@@ -1,13 +1,24 @@
 * *Tasks*
-** TODO [#A]  FU Gary on this [[message://%3cBN8PR01MB555663F87070E68351842377BCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Activity #4 in Teen Pregnancy case]]
+** DONE [#A]  FU Gary on this [[message://%3cBN8PR01MB555663F87070E68351842377BCD70@BN8PR01MB5556.prod.exchangelabs.com%3E][Activity #4 in Teen Pregnancy case]]
 :PROPERTIES:
 :SYNCID:   220DCBBD-8926-4585-BECF-E084D075C855
 :ID:       7D212EDB-647E-4F90-AB48-4090E82AAECE
 :END:
-** TODO [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-14 Wed 08:16]
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 13:25] \\
+  Proposed meeting 3:30 tomorrow.
+:END:
+** DONE [#A] FU:  Gary [[message://%3c1565379969113.22907@rush.edu%3E][meet next week?]]
 :PROPERTIES:
 :SYNCID:   EC9F46B4-2721-48CA-8212-2CFA73054560
 :ID:       9FE19256-CA86-4ED7-B356-BBE9F8D9B965
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-12 Mon 13:24] \\
+  [2019-08-12 Mon] Proposed 3:30 tomorrow.
+- Note taken on [2019-08-12 Mon 11:24] \\
+  Emailed [2019-08-12 Mon 11:20 AM]
 :END:
 
 

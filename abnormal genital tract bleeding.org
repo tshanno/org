@@ -78,12 +78,12 @@ Abnormal Genital Tract Bleeding?
 *** You'll need to alter the PID activities to accomodate for the loss of atrophic vaginitis. [[message://%3cE765CD7C-7DCC-48E4-AFB5-75B42D658758@rush.edu%3E][Re: Bacterial Vaginosis, teach it or not?]]
 :PROPERTIES:
 :SYNCID:   43E34783-F7C6-41B4-A810-53636E77F78F
-:ID:       96B73DC9-A42A-4363-9089-2C81D5F7EBBA
+:ID:       49AA1F84-940E-43B2-B56E-8F3642FB5F24
 :END:
 *** Talk about Gary's AUB activity.
 :PROPERTIES:
 :SYNCID:   8FD31F9A-8F4C-4CC4-8E39-4F0F60218982
-:ID:       EE3ED569-4E0D-44C5-BD20-294B18A15E1E
+:ID:       69BABCEC-3DEE-4ED9-A078-CC97724761D2
 :END:
 *** DONE [#A] Make sure mike put anti-virals in Fetal Death
 *** DONE [#A] Tell Denise that we made minor changes to the HSV self-study

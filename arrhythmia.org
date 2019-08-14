@@ -11,7 +11,12 @@
 - State "DONE"       from "TODO"       [2019-08-05 Mon 12:57]
 :END:
    [2018-11-28 Wed]
-** TODO [#A] Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
+** Edit notes to elaborate on resting inactivation and get rid of those hyperkalemia questions.
+SCHEDULED: <2020-02-15 Sat>
+:LOGBOOK:
+- Note taken on [2019-08-12 Mon 13:28] \\
+  This did not get done for 2019.  DO it for 2020.
+:END:
    [2018-12-04 Tue]
 ** DONE [#A] Send arrhythmia objectives to Princess if necessary
 ** DONE [#A] Remake the arrhythmia lesson video as you did it before collaborating with Mike
