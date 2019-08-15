@@ -68,18 +68,31 @@ Janice
 - State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\
   This hasn't been sent out for review yet.
 :END:
-** TODO [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
+** DONE [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
 :PROPERTIES:
 :SYNCID:   721879A4-B8AB-4EBD-95F7-6640DBFCE4F7
 :ID:       83E18A46-2560-4D1E-8E60-F4E68255BE28
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:24]
+:END:
 
+** DONE [#A] Help Janice with Genetics [[message://%3c692b8b3d6fe946b59153d620c5cb09b0@RUPW-EXCHMAIL02.rush.edu%3E][really need to meet]]
+:PROPERTIES:
+:SYNCID:   0E09908C-955A-4FB2-B19F-3E31BF236C30
+:ID:       D96EE2FD-2C00-4F60-9F51-8CFDB8271BE1
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:25]
+:END:
 * *Ticklers*
-** FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
-SCHEDULED: <2019-08-15 Thu>
+** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
 :PROPERTIES:
 :SYNCID:   4340B2F7-8B77-470D-9A82-B12540A26B6E
 :ID:       07F4F7C1-4A53-443A-A2AF-716CB791C4F2
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-08-15 Thu 08:34]
 :END:
 * *Meetings*
 ** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>

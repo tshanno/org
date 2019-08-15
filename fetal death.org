@@ -49,10 +49,13 @@ Anne
 :ID:       0E2AC8E3-684E-4C29-964F-E6A6FD1BA18E
 :END:
 
-** TODO [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
+** DONE [#A] Talk to Janice about Fetal Death self-study [[message://%3cc99478f3da75471bbed2dd3697945c25@RUPW-EXCHMAIL02.rush.edu%3E][tomorrow morning]]
 :PROPERTIES:
 :SYNCID:   721879A4-B8AB-4EBD-95F7-6640DBFCE4F7
 :ID:       9FEDA53C-A0AA-47F3-9D12-B9CE2BC2DB43
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:24]
 :END:
 
 * *Ticklers*

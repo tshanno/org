@@ -25,7 +25,7 @@ SCHEDULED: <2019-06-20 Thu>
 :END:
 * *Ticklers*
 ** See if the review session for Formative got moved from 9/12 to 9/17
-SCHEDULED: <2019-08-15 Thu>
+SCHEDULED: <2019-08-22 Thu>
 :PROPERTIES:
 :SYNCID:   18A1CCA9-4C49-4E00-8A71-4B1CDD394AAD
 :ID:       5986B895-DDAC-4917-BFC1-B25B4F0C1C00

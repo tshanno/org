@@ -44,7 +44,7 @@ SCHEDULED: <2019-07-08 Mon>
 :END:
 ** Contact Keith and update him on AGB, infertility and teen preganancy
 ** See if the review session for Formative got moved from 9/12 to 9/17
-SCHEDULED: <2019-08-15 Thu>
+SCHEDULED: <2019-08-22 Thu>
 :PROPERTIES:
 :SYNCID:   18A1CCA9-4C49-4E00-8A71-4B1CDD394AAD
 :ID:       36CDE2C1-817A-44A8-8960-7C988A92ABCB
@@ -72,8 +72,7 @@ There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  It
 ** Make sure you add Neeral's content in the proper spot [[message://%3c1565051923008.29249@rush.edu%3E][Sexuality/Reproduction for AY 20/21]]
 SCHEDULED: <2020-02-01 Sat>
 
-** Make an introductory video for S&R
-SCHEDULED: <2019-08-15 Thu>
+** TODO [#A] Make an introductory video for S&R
 *** Be sure to explain that the S&R block and the life cycle blocks are outr attempt to be forward thinking and to get ahead of the curve.  Some of the content might not be in First Aid.
 *** Narrative feedback
 *** Add comment about women's health being forward thinking
@@ -86,9 +85,9 @@ SCHEDULED: <2019-08-15 Thu>
   
   Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
 
-** FU: Nell [[message://%3cA82AA070-8209-41B6-A690-D6C436DE1DFD@rush.edu%3E][Re: RMD 566 Assessment Blueprint AY19/20]]
-SCHEDULED: <2019-08-15 Thu>
+** DONE FU: Nell [[message://%3cA82AA070-8209-41B6-A690-D6C436DE1DFD@rush.edu%3E][Re: RMD 566 Assessment Blueprint AY19/20]]
 :LOGBOOK:
+- State "DONE"       from              [2019-08-15 Thu 08:37]
 - Note taken on [2019-08-13 Tue 07:31] \\
   Nell had one dropped question that she didn't replace.  I emailed her and asked her to do it.
 :END:
@@ -688,6 +687,7 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       47EA6AD2-5AFB-47FE-9273-5ECA841EF080
 :END:
 
+** [[https://docs.google.com/spreadsheets/d/1tML3uMmuiegkqghYKa8X8LF9hdG-WuazrqUMnpl2a4o/edit#gid=754097701][RMD 566 Assessment Blueprint AY19/20 - Google Sheets]]
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -913,6 +913,33 @@ SCHEDULED: <2019-08-20 Tue>
 :PROPERTIES:
 :SYNCID:   6B3CD169-8A98-4099-AA17-5F4F4EBD5153
 :ID:       C2AB21D2-03BF-41C7-8F0B-7C61B5A11112
+:END:
+** DONE [#A] Help Janice with Genetics [[message://%3c692b8b3d6fe946b59153d620c5cb09b0@RUPW-EXCHMAIL02.rush.edu%3E][really need to meet]]
+:PROPERTIES:
+:SYNCID:   0E09908C-955A-4FB2-B19F-3E31BF236C30
+:ID:       E52DF7B5-2371-4994-8D50-6CAF721FF0E0
+:END:
+** WAITING [#A] Contact Carolyn about her quesitons on Formative and Summative
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-15 Thu 09:07] \\
+  She's done the formative but not the summative.
+:END:
+** DONE Write a question for S&R formative
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:21]
+:END:
+** DONE Ask Adam if S&R practical has enough questons
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:21]
+:END:
+** WAITING [#A] Get back to Kelly on summative
+:PROPERTIES:
+:SYNCID:   D13B9334-4389-4D3F-8E3F-0EA544C0D860
+:ID:       78748225-FD5C-4AD7-92AA-025DF999E885
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-15 Thu 09:21] \\
+  Waiting on Maria to give me the final number of questions.
 :END:
 * Archive
 ** DONE PROJECT Finalize schedule

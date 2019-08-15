@@ -36,11 +36,13 @@ SCHEDULED: <2019-08-26 Mon>
 :ID:       2A4FBFAD-C8AF-4420-9105-EE8310C3719F
 :END:
 
-** FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
-SCHEDULED: <2019-08-15 Thu>
+** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
 :PROPERTIES:
 :SYNCID:   4340B2F7-8B77-470D-9A82-B12540A26B6E
 :ID:       0D7112C3-908B-49DE-A3E5-B9EC1CA181CE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-08-15 Thu 08:34]
 :END:
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]

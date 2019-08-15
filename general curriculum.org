@@ -14,7 +14,7 @@ SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd566:discussion_board?section=view-forum&id=35][Check Discussion Board]]
 SCHEDULED: <2019-08-21 Wed>
 ** Check to make sure you have rooms on Saturdays and reserve more.
-   SCHEDULED: <2019-08-15 Thu>
+   SCHEDULED: <2019-08-19 Mon>
    - Note taken on [2019-06-03 Mon 09:50] \\
      You have rooms through the end of August
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]

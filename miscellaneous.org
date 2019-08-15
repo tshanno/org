@@ -75,8 +75,12 @@ SCHEDULED: <2019-08-16 Fri>
 ** [[https://www.ebay.com/itm/CARAVELLE-BY-BULOVA-MENS-GOLD-TONE-WATCH-WATER-RESISTANT-STAINLESS-42A57/233308461025][CARAVELLE BY BULOVA MEN'S GOLD TONE WATCH WATER RESISTANT STAINLESS 42A57 | eBay]] Bidding ends: <2019-08-15 Thu 8:15>
 SCHEDULED: <2019-08-15 Thu>
 
-** TODO [#A] [[message://%3c0A16D976-AFF8B244E30-016C63D71FDF-00000000011DC2D5@starship%3E][You've submitted an offer: $25.00 for Mathey Tissot Quartz... (113846376709)]] Expires <2019-08-14 Wed 19:23>
-SCHEDULED: <2019-08-14 Wed>
+** DONE [#A] [[message://%3c0A16D976-AFF8B244E30-016C63D71FDF-00000000011DC2D5@starship%3E][You've submitted an offer: $25.00 for Mathey Tissot Quartz... (113846376709)]] Expires <2019-08-14 Wed 19:23>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 08:33]
+- Note taken on [2019-08-15 Thu 08:33] \\
+  Declined
+:END:
 
 * *Task*
 

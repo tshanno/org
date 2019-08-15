@@ -988,6 +988,36 @@ Time for your rant moderation in all things.
 
 *** TODO /Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Scripts/Applications/Safari/Copy Safari URL for Emacs.scpt:550:581: execution error: Error on line 19: Error: Can't get object. (-1728)
 
+** DONE An Assessment of the Competition for the Third and Fourth Tight End Spots
+:PROPERTIES:
+:SYNCID:   1AC639DB-6140-473F-860C-37B1B1645D0B
+:ID:       7764B83E-2E34-4253-BFF2-17609994B1CF
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-15 Thu 09:23]
+:END:
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-bears-mailbag-emanuel-hall-taylor-gabriel-biggs-20190814-iylm6lzbyfeqbpju2dt2ugeqti-story.html#top}{answers your questions}:
+
+\begin{quote}
+  ``How many tight ends do you see the Bears carrying to the 53-man roster? Is \textbf{Bradley Sowell} a roster lock
+since the Bears have pretty much asked him to alter his entire career to match their need for a Y tight end?
+— @gumm006
+
+My best guess is four tight ends will make the 53-man roster with Sowell having an edge over undrafted rookie \textbf{Ian
+Bunting} for the final spot behind \textbf{Trey Burton}, \textbf{Adam Shaheen} and \textbf{Ben Braunecker}. I would not describe Sowell as a
+“lock,” and his contract certainly doesn’t give him any kind of protection because of guaranteed money. The Bears
+would not promise him anything in asking him to change positions either.
+\end{quote}
+
+I think Bradley Sowell is a virtual lock to make the roster on this team. Head coach \textbf{Matt Nagy} used a third offensive tackle to block last year in a variety of short yardage situations, especially near the goal line.  I think he wants to do that again this year with Sowell but in situations where he's more versatile as a receiving threat rather than the target on a one time gadget play.
+
+The guy I'm wondering about is Braunecker.  He's a four phase special teamer but based upon his performance in last week's preseason game against the Carolina Panthers, Bunting looks like he has a lot more to offer the offense.
+
+Bunting had big highs and big lows over the course of the game and he needs to show more consistency.  That might make him a practice squad candidate.  But I wouldn't rule out the possibility that Braunecker will be a surprise cut if the Bears think Bunting has improved enough and/or they don't think they can get him through waivers to the practice squad.
+#+END_EXPORT
+
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 
@@ -1014,6 +1044,7 @@ https://www.chicagotribune.com/sports/bears/ct-bears-training-camp-mitch-trubisk
 
 According to Football Outsiders, only seven quarterbacks had a worse adjusted interceptions rate last season than Trubisky’s 3.7. The stat accounts for picks the defense dropped, interceptions made possible by receiver drops and other plays that might warp a quarterback’s actual interceptions total.
 
+**** Nice article with lots of advance 2018 stats [[https://theathletic.com/1134908/2019/08/14/an-analytical-deep-dive-into-what-exactly-the-bears-have-in-qb-mitch-trubisky/?source=rss][An analytical deep dive into what exactly the Bears have in QB Mitch Trubisky – The Athletic]]
 *** *Daniel*
 **** [[https://theathletic.com/1089517/2019/07/23/meet-the-90-bears-heading-to-bourbonnais-for-training-camp/?source=rss][Meet the 90 Bears heading to Bourbonnais for training camp – The Athletic]]
  Daniel is in the final year of a two-year, $10 million contract. 
