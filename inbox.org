@@ -3,3 +3,25 @@
 ** TODO Write a question for S&R formative
 ** TODO  Ask Adam if S&R practical has enough questons
 ** TODO Get back to kelly on summative
+** TODO An Assessment of the Competition for the Third and Fourth Tight End Spots
+
+#+BEGIN_EXPORT latex
+\textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-bears-mailbag-emanuel-hall-taylor-gabriel-biggs-20190814-iylm6lzbyfeqbpju2dt2ugeqti-story.html#top}{answers your questions}:
+
+\begin{quote}
+  ``How many tight ends do you see the Bears carrying to the 53-man roster? Is \textbf{Bradley Sowell} a roster lock
+since the Bears have pretty much asked him to alter his entire career to match their need for a Y tight end?
+— @gumm006
+
+My best guess is four tight ends will make the 53-man roster with Sowell having an edge over undrafted rookie \textbf{Ian
+Bunting} for the final spot behind \textbf{Trey Burton}, \textbf{Adam Shaheen} and \textbf{Ben Braunecker}. I would not describe Sowell as a
+“lock,” and his contract certainly doesn’t give him any kind of protection because of guaranteed money. The Bears
+would not promise him anything in asking him to change positions either.
+\end{quote}
+
+I think Bradley Sowell is a virtual lock to make the roster on this team. Head coach \textbf{Matt Nagy} used a third offensive tackle to block last year in a variety of short yardage situations, especially near the goal line.  I think he wants to do that again this year with Sowell but in situations where he's more versatile as a receiving threat rather than the target on a one time gadget play.
+
+The guy I'm wondering about is Braunecker.  He's a four phase special teamer but based upon his performance in last week's preseason game against the Carolina Panthers, Bunting looks like he has a lot more to offer the offense.
+
+Bunting had big highs and big lows over the course of the game and he needs to show more consistency.  That might make him a practice squad candidate.  But I wouldn't rule out the possibility that Braunecker will be a surprise cut if the Bears think Bunting has improved enough and/or they don't think they can get him through waivers to the practice squad.
+#+END_EXPORT
