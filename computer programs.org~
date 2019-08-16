@@ -7,12 +7,11 @@
 *** DONE Give better hints on calculation questions in osmolarity program
 ** DONE [#A] Add got for hemodynamics and renal calculation
 
-** DONE [#A] [[message://%3CF7615B7D-9D3B-4340-8AA1-3F307FB2A49D@rush.edu%3E][Correct Renal Calculations Program]]
+** TODO [#A] [[message://%3CF7615B7D-9D3B-4340-8AA1-3F307FB2A49D@rush.edu%3E][Correct Renal Calculations Program]]
 :PROPERTIES:
 :SYNCID:   69A1A32B-7B87-4EBA-8878-8C29E49EF85B
-:ID:       04868A4F-8303-41D8-ACF3-00F83F9A7604
 :END:
-[2018-09-07 Fri]
+  [2018-09-07 Fri]
 * *Meetings*
 * *Ticklers*
 * *Notes*
@@ -26,10 +25,6 @@ This describes how to make objects in javascript.  Could come in handy one day.
 Describes how to use Javascript as an object-oriented language.
 ** [[https://binarynights.com/][ForkLift 3 - most advanced file manager and FTP client for macOS]] 
 I evidently have version 1.  Apparently this version isn't availabel in the app store.  I don't see anything here I can't live without but you might consider it in the future.  I use version 1 as an ftp client a lot, especially for uploading the web programs as I'm programing.
-** [[https://dzone.com/articles/validating-arguments-in-javascript-like-a-boss?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][Validating Arguments in JavaScript Like a Boss - DZone Web Dev]] 
-** [[https://dzone.com/articles/javascript-object-in-depth-part-1fundamental?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][JavaScript Objects in Depth, Part 1: The Fundamentals - DZone Web Dev]] 
-** [[https://dzone.com/articles/javascript-objects-in-depth-part-2-inheritance?utm_campaign=Feed:%20dzone%2Fwebdev&utm_medium=feed&utm_source=feedpress.me][JavaScript Objects in Depth, Part 2: Inheritance - DZone Web Dev]]
-
 * DONE [[message://%3cE4E925AF-0DA3-45E0-B157-D9B86F540C7C@rush.edu%3E][Call help desk to ask about getting programs installed on students desktops]]
 * DONE Answers to GASP are not appearing correctly.
 * DONE [#C] [[message://%3cb1dcf58b51bf49dd899a616166d9c095@646005169%3E][Upgrade Matlab]]
