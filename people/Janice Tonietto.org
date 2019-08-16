@@ -22,12 +22,13 @@
 *** Move the genetics to just before the Pathology in Fetal Death Self-Study
 *** Add a note to the genetics cover page telling students that they both have to read and watch the content.
 *** DONE [#A] Edit the plan of study to put genetics next to path
-** WAITING [#A] Send infertility edits to Janice and post self-study
+** DONE [#A]  Send infertility edits to Janice and post self-study
 :PROPERTIES:
 :SYNCID:   5E79E7B6-E8BE-49DA-878A-B0FD170A2E60
 :ID:       2767A55E-2D07-4F36-AD15-FEF397019B03
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-16 Fri 10:18]
 - State "WAITING"    from "TODO"       [2019-08-08 Thu 13:06] \\
   Waiting on review to come back
 :END:
@@ -44,8 +45,9 @@ HI.  Faculty guide is done; please just verify I removed all answer material—t
 ta
 Janice
 
-** WAITING FU Janice on [[message://%3c733CA7B7-5442-45EE-AD58-57DBF60EA380@rush.edu%3E][Infertility Faculty Guide is ready to go]]
+** DONE FU Janice on [[message://%3c733CA7B7-5442-45EE-AD58-57DBF60EA380@rush.edu%3E][Infertility Faculty Guide is ready to go]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-16 Fri 10:21]
 - State "WAITING"    from "TODO"       [2019-08-12 Mon 11:25]
 :END:
 
@@ -84,6 +86,16 @@ Janice
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-15 Thu 09:25]
+:END:
+** DONE Module 2 Lecture 2 Clinical Sex chromosome aneuploidies and microdeletions (TO-1467) - (TO-0174) - (TO-0173) is missing slides
+:PROPERTIES:
+:SYNCID:   BB10D0A1-9B48-4B1C-BA4C-6EC4895A061B
+:ID:       DF453E80-AF7E-48DF-9F29-024559456CB6
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-16 Fri 10:21]
+- State "WAITING"    from "TODO"       [2019-08-16 Fri 09:53] \\
+  Contacted Carolyn.  We'll see if she can get this to us before she leaves.  She's not coming back until Wednesday so if not, up it goes.  We'll post a correction later.
 :END:
 * *Ticklers*
 ** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]

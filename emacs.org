@@ -164,6 +164,8 @@ https://github.com/mjago/worg-dev/blob/master/code/awk/ical2org.awk
 *** Set up capture template
 
 *** Set up functon that either copies in region, page or link only
+** TODO [#A] org-web - org mode on the web
+https://github.com/DanielDe/org-web/
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -313,6 +315,7 @@ https://github.com/6502/JSLisp
 
 ** ON RADAR Use this code to make trs/org-sync better
   [[gnus:gwene.com.reddit.emacs#x1-dVJrG6Pkl6y4eEyds4BIVv9LBsM@gwene.org][Email from u.: orgmode time dependencies -- h]]
+** [[https://magit.vc/manual/magit/Resolving-Conflicts.html][Magit User Manual: Resolving Conflicts]]
 * *LaTeX*
 ** Keyboard shortcut to insert latex
 [[https://emacs.stackexchange.com/questions/18619/org-mode-any-keyboard-shortcut-for-latex-code][yasnippet - Org-mode: any keyboard shortcut for Latex code? - Emacs Stack Exchange]]

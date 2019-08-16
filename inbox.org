@@ -1,6 +1,1 @@
 * Tasks
-** TODO Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
-** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
-** TODO Advisory Orientation; Location: AAC 985 <2019-08-15 Thu 17:00-18:30>
-** TODO org-web - org mode on the web
-https://github.com/DanielDe/org-web/

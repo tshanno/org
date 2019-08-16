@@ -189,6 +189,8 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       78AD87D4-3309-4B41-BA8C-713AE613C031
 :END:
 
+** [[https://docs.google.com/spreadsheets/d/1cLhrYJKP8YEdLnDiyvSJUE_N6GKDdlygganoIj2gCSw/edit#gid=1377346749][RMD 574 Assessment Blueprint AY19/20 - Google Sheets]]
+
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -552,7 +554,17 @@ SCHEDULED: <2019-06-27 Thu>
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       11877ED8-F8D3-4777-98F1-05667A15B80A
 :END:
-** TODO [#A] Complete renal topics rearrangement
+** DONE [#A] Complete renal topics rearrangement
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-16 Fri 10:21]
+:END:
+** TODO [#A] Prepare VF blueprint and send out to DDs. [[message://%3c99CC3C60-7381-4689-A81D-77C38F19A7BF@rush.edu%3E][Re: RMD 574 Vital Fluids - Assessment Blueprint Blueprint ]]
+:PROPERTIES:
+:SYNCID:   4B768741-1775-4200-9C63-314A25BBBC22
+:ID:       2581CCA3-9C97-4139-94A1-1BECB6F12451
+:END:
+- [ ] Prepare blueprint
+- [ ] Send to DDs
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

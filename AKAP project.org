@@ -153,6 +153,15 @@ What?:            February 22 registration, scientific program, storytelling, di
 
 February 23: informal get together, golf outing
 
+** TODO Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   876EA022-B477-4590-9800-DA2E43DD9AEB
+:ID:       9DCC2D4B-08E5-4D3B-AEA1-A014CAF5005A
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-16 Fri 09:30] \\
+  Don was not present.  We went over the details of our collection methods for the most part.
+:END:
 * *Notes*
 ** You were having trouble with 2019-06=19-12.  You were just about to reanalyze with new parameters for 25 micron band.  Try these.
 ** Ideas for Dan

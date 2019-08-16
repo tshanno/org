@@ -3211,6 +3211,7 @@ Particularly given his large personality, Long's silence since camp has started 
 :ID:       29106ADE-ED9C-4351-998A-B6335F86956D
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-09 Fri 09:39]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:32]
 - State "DONE"       from "TODO"       [2019-08-07 Wed 11:25]
 - State "WAITING"    from              [2019-08-06 Tue 07:28]
@@ -3240,7 +3241,7 @@ We made a slight alteration to Jerry’s new path activity.  Students will now b
 
 ****** DONE Keith - Teen pregnancy:  Anne is altering the clinical reasoning.  Students will be asked to interpret the urinalysis and give next steps.
 
-****** WAITING Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
+****** DONE Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
 *** 2019-08-06 Tuesday
 **** Tom Shannon - Anne Hartley about CHF Self-study; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 11:30-12:30>
@@ -3530,3 +3531,22 @@ The guy I'm wondering about is Braunecker.  He's a four phase special teamer but
 Bunting had big highs and big lows over the course of the game and he needs to show more consistency.  That might make him a practice squad candidate.  But I wouldn't rule out the possibility that Braunecker will be a surprise cut if the Bears think Bunting has improved enough and/or they don't think they can get him through waivers to the practice squad.
 #+END_EXPORT
 
+**** TODO Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   876EA022-B477-4590-9800-DA2E43DD9AEB
+:ID:       B0F75A72-AE94-465E-BC34-9539F0F094FB
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-16 Fri 09:30] \\
+  Don was not present.  We went over the details of our collection methods for the most part.
+:END:
+**** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   0178B251-1095-4B57-83A0-40AA1E5261B0
+:ID:       1BDC1463-BEBC-4D16-8F59-B6E6D650CE2F
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-16 Fri 09:31] \\
+  I wasn't happy with how this went.  It turned into a bitch session basically about how we are being cut out of the process when decisions are being made.  I need to take the bull by the horns and talk to Rahul directly about some of this.
+:END:
+*** 2019-08-16 Friday

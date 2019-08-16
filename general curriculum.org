@@ -312,6 +312,15 @@ DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 **** Will probalby need at least 1 mic.  This also comes from the METC
 **** There is a keyboard and mouse with each cart.
 **** You can connect to each cart with you iPad but you can't use airplay (which Only connects to the whole room).  You have to use an alternative (name eacapres me).  You need to install software to do it.
+** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   0178B251-1095-4B57-83A0-40AA1E5261B0
+:ID:       28FBA82F-E906-463E-9EE2-FB4C56D22391
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-16 Fri 09:31] \\
+  I wasn't happy with how this went.  It turned into a bitch session basically about how we are being cut out of the process when decisions are being made.  I need to take the bull by the horns and talk to Rahul directly about some of this.
+:END:
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -754,3 +763,13 @@ SCHEDULED: <2019-06-17 Mon>
 :ID:       EE5D0660-D3C1-43B2-A037-82DEE8B4E220
 :END:
 ** TODO [#A] Air media
+** TODO [#A] Talk to Rahul
+:PROPERTIES:
+:SYNCID:   93F05CF3-0923-441F-A231-9E9CABD5B7C3
+:ID:       9576CBDF-0E9C-4A04-B7F7-559A9189FEDE
+:END:
+- I want to meet with SS  reviewers
+- I may need help with Carlynn Jones.  I don't think the genetics content has improved.
+- Make deadlines earlier
+**** Add two weeks this year
+**** Make them earlier next year if you wnat reasonably big changes.
