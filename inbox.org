@@ -1,2 +1,4 @@
 * Tasks
+** TODO Research Literature Management with Emacs
+https://www.anand-iyer.com/blog/2017/research-literature-management-with-emacs.html
 * TODO Upload blob slides
