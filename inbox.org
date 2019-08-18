@@ -2,3 +2,8 @@
 ** TODO Research Literature Management with Emacs
 https://www.anand-iyer.com/blog/2017/research-literature-management-with-emacs.html
 * TODO Upload blob slides
+
+** TODO [[https://www.mybulova.com/bulova-date-codes][Bulova Date Codes | myBulova.com]]
+
+
+** TODO [[https://www.mybulova.com/search-bulova-watches][Vintage Bulova Watch Search | myBulova.com]]
