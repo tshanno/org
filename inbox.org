@@ -1,9 +1,30 @@
 * Tasks
 ** TODO Research Literature Management with Emacs
 https://www.anand-iyer.com/blog/2017/research-literature-management-with-emacs.html
-* TODO Upload blob slides
-
+** TODO Upload blob slides
 ** TODO [[https://www.mybulova.com/bulova-date-codes][Bulova Date Codes | myBulova.com]]
-
-
 ** TODO [[https://www.mybulova.com/search-bulova-watches][Vintage Bulova Watch Search | myBulova.com]]
+** TODO [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
+** TODO [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
+** TODO Brad Biggs’ 10 thoughts on the Bears’ 32-13 preseason loss to the Giants - Chicago Tribune
+https://www.chicagotribune.com/sports/bears/ct-cb-bears-giants-brad-biggs-10-thoughts-20190817-tzbqru64obbnlipypkyqq2eagm-story.html
+
+10a. Inside linebacker Nick Kwiatkowski sure looked like he was just about everywhere in the first half. Press box
+statistics credited him with eight tackles. Josh Woods, also an inside linebacker, made a bunch of plays again this
+week as well. I’m not sure the team can keep five inside linebackers, though, and I am pretty confident Joel
+Iyiegbuniwe will have a role.
+** TODO [[https://dzone.com/articles/a-brief-introduction-to-closures-and-lexical-scopi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][A Brief Introduction to Closures and Lexical Scoping in JavaScript - DZone Web Dev]]
+** TODO Salvation Army
+https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,%20United%20States&auid=10653552741926904546&ll=41.881722,-87.665252&lsp=9902&q=Salvation%20Army&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhAWCgQIChAAEiYpX6nTF0nwREAxrGC7U/bqVcA53X75c2/xREBByOzWpDDqVcBQBA%3D%3D&t=m
+
+1 N Ogden Ave
+Chicago, IL  60607
+United States
+** TODO [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
+** TODO [[http://seiko.orgfree.com/][SEIKO - Serial Number to Manufacture Date Decoder]]
+** TODO directory local variables - sounds potentially useful
+** TODO Bulova watches - all prices for Bulova watches on Chrono24
+[2019-08-19 Mon 02:08]
+https://www.chrono24.com/bulova/index.htm
+
+** TODO [[http://www.thewatchguy.com/pages/repair.html][HOW TO CLEAN AND OIL A VINTAGE MECHANICAL WRIST WATCH OR POCKET WATCH REPAIR]]
