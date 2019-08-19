@@ -5,7 +5,7 @@
 ** DONE [#A] Invite students to lunch
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
-** Organize pizza lunch
+** TODO [#A] Organize pizza lunch
    SCHEDULED: <2019-08-19 Mon>
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
@@ -13,7 +13,7 @@ SCHEDULED: <2019-04-08 Mon>
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd566:discussion_board?section=view-forum&id=35][Check Discussion Board]]
 SCHEDULED: <2019-08-21 Wed>
-** Check to make sure you have rooms on Saturdays and reserve more.
+** TODO [#A] Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-08-19 Mon>
    - Note taken on [2019-06-03 Mon 09:50] \\
      You have rooms through the end of August

@@ -33,6 +33,7 @@ SCHEDULED: <2020-02-15 Sat>
   He's on top of it.  Looks like he's going to cut it down to one self-study on substance use including alcohol for Keith Simmons.
 :END:
 
+** TODO [#A] Upload blob slides
 * *Ticklers*
 * *Meetings*
 * *Miscellaneous Notes*

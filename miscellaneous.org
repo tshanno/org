@@ -69,8 +69,10 @@ SCHEDULED: <2020-06-11 Thu>
 :END:
 
 
-** [[https://www.ebay.com/itm/Vintage-BULOVA-Mens-Gold-Plated-l-Manual-Wind-Watch-runs/254327911058][Vintage BULOVA Men's Gold Plated l Manual Wind Watch runs. | eBay]]  Bidding ends <2019-08-16 Fri 16:00>
-SCHEDULED: <2019-08-16 Fri>
+** DONE [[https://www.ebay.com/itm/Vintage-BULOVA-Mens-Gold-Plated-l-Manual-Wind-Watch-runs/254327911058][Vintage BULOVA Men's Gold Plated l Manual Wind Watch runs. | eBay]]  Bidding ends <2019-08-16 Fri 16:00>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-19 Mon 06:56]
+:END:
 
 ** [[https://www.ebay.com/itm/CARAVELLE-BY-BULOVA-MENS-GOLD-TONE-WATCH-WATER-RESISTANT-STAINLESS-42A57/233308461025][CARAVELLE BY BULOVA MEN'S GOLD TONE WATCH WATER RESISTANT STAINLESS 42A57 | eBay]] Bidding ends: <2019-08-15 Thu 8:15>
 :LOGBOOK:

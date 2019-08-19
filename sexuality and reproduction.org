@@ -57,12 +57,12 @@ SCHEDULED: <2019-08-26 Mon>
 :END:
 
 ** DONE FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
-SCHEDULED: <2019-08-19 Mon>
 :PROPERTIES:
 :SYNCID:   9D669076-C877-4F75-95D1-E70803E57B24
 :ID:       D569CC8C-F8A8-4053-A8DD-638871B4440C
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-12 Mon 11:18]
 - State "WAITING"    from              [2019-08-02 Fri 09:31] \\
   Emailed Bob about this.
 :END:

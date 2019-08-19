@@ -196,6 +196,7 @@ https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired-and-Find.html
 SCHEDULED: <2019-07-08 Mon>
 [2019-07-06 Sat 07:32]
 https://github.com/DerBeutlin/filetags.el
+** directory local variables - sounds potentially useful
 * *Development*
 ** [[https://spin.atomicobject.com/2016/05/27/write-emacs-package/][Take Your Emacs to the Next Level by Writing Custom Packages]]  Includes instrucitons on how to push to MELPA.
 ** [[message://%3c53DBB187-0C25-4BAB-895B-4C73C609AB38@rush.edu%3E][Configureing Emacs for Python]]
