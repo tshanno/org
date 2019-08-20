@@ -8,17 +8,51 @@ United States
 ** Tech Training in CLUB (new teaching space) rooms; Location: AAC450 <2019-08-19 Mon 11:30-13:30>
 ** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-23 Fri 14:30-15:30>
 *** Talk about renal vignettes at core discpoines
-
 ** TODO [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
-
 ** TODO [[https://en.wikipedia.org/wiki/Wittnauer][Wittnauer - Wikipedia]]
 
 
 In 1995 Swatch broke the 125-year collaboration between Longines and Wittnauer and took over the Longines distribution.[3] The Wittnauer Company retained its reputation for most of the 20th century. After some budget problems, it was eventually bought by Bulova for $11.6 million in September 2001.[3]
 Bulova launched a new 'Nightlife' range of fashion watches under the Wittnauer brand.
 ** TODO Get S&R Syllabus Up
-** TODO [[http://www.mybulova.com/sites/default/files/vintage_ads/55-bulova-ad-1955-32.jpg][1955 Ad that appears to have your Jeffereson watch]]
+** TODO [[http://elginwatches.org/cgi-bin/elgin_sn?sn=I755604&action=search][ELGIN Online Elgin Database]]
+** TODO [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Pt96B4][Get the serial number off of the movement of the Elgin that you bought Circa 1950]]
+** TODO [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Ji64PH][Take a good look at that logo on your new "1945" Elgin watch]]
+:LOGBOOK:
+- Note taken on [2019-08-20 Tue 07:50] \\
+  If its a shockmaster logo and not a durapower logo, the dial may have been repleacd.
+:END:
+** TODO Tell Carl how to use air media
+** TODO Get the list of clinician educators for the first session
+SCHEDULED: <2019-08-20 Tue>
+* Testing PE homework
+* Email Princess about the topics
+* TODO Testin
+* Testing
+* Testing
 
-** TODO [[https://www.mybulova.com/watches/1963-senator-7497][Bulova 1963 Senator | myBulova.com]]  This looks like you other newly purchased watch
+** TODO [[https://www.gnu.org/software/emacs/manual/html_node/gnus/Summary-Mail-Commands.html][Summary Mail Commands - Gnus Manual]]
 
-** TODO [[http://elginwatches.org/cgi-bin/elgin_sn?sn=I755604&action=search][[ELGIN] Online Elgin Database]]
+** TODO [[http://www.pocketwatchrepair.com/histories/elgin.html][Elgin National Watch Company: History, Serial Numbers, Production Dates]]
+
+** TODO  [[http://www.elginnumbers.com/][Elgin Watches Serial Numbers | Elgin National Watch Company Serial Number, Elgin pocket watch]]
+:LOGBOOK:
+- Note taken on [2019-08-20 Tue 07:19] \\
+  This appears to be the database to use.
+:END:
+
+** TODO [[http://www.elginnumbers.com/elgin_glossary/][Glossary | Elgin Watches Serial Numbers]]
+:LOGBOOK:
+- Note taken on [2019-08-20 Tue 07:19] \\
+  Useful definition of terms, especially those specific to Elgins
+:END:
+
+** TODO [[https://duckduckgo.com/?q=elgin+Shockmaster+logo&t=osx&ia=images][elgin Shockmaster logo at DuckDuckGo]]
+
+** TODO [[https://duckduckgo.com/?q=elgin+durapower+logo&t=osx&iar=images&ia=images][elgin durapower logo at DuckDuckGo]]
+
+** TODO [[http://cf.collectorsweekly.com/stories/OOeK8UwpnJ3ob8UIKd4c6g-small.jpg][OOeK8UwpnJ3ob8UIKd4c6g-small.jpg 350×350 pixels]]
+
+** TODO [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit?ts=5d5c1e61#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+
+** TODO [[https://docs.google.com/spreadsheets/d/1hcboK2i-BaiAQ-X5dT5atribwcXZdlo_eWlQuAT5z70/edit#gid=247385148][AY19/20 Calendars_Official View Version - Google Sheets]]

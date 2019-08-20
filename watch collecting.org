@@ -3,16 +3,18 @@
 * *Ticklers*
 * *Meetings*
 * *Notes*
-** 3 Ways to Pry off a Watch Backing Without Proper Tools - wikiHow
-https://www.wikihow.com/Pry-off-a-Watch-Backing-Without-Proper-Tools
-
-** [[https://www.mybulova.com/bulova-date-codes][Bulova Date Codes | myBulova.com]]
-** [[https://www.mybulova.com/search-bulova-watches][Vintage Bulova Watch Search | myBulova.com]]
-** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
-** [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
-** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
-** [[http://seiko.orgfree.com/][SEIKO - Serial Number to Manufacture Date Decoder]]
-** Bulova watches - all prices for Bulova watches on Chrono24
+** *Bulova*
+*** [[https://www.mybulova.com/bulova-date-codes][Bulova Date Codes | myBulova.com]]
+*** [[https://www.mybulova.com/search-bulova-watches][Vintage Bulova Watch Search | myBulova.com]]
+*** Bulova watches - all prices for Bulova watches on Chrono24
 [2019-08-19 Mon 02:08]
 https://www.chrono24.com/bulova/index.htm
+** *Elgin*
+*** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
+*** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
+** *Seiko*
+*** [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
+*** [[http://seiko.orgfree.com/][SEIKO - Serial Number to Manufacture Date Decoder]]
+** 3 Ways to Pry off a Watch Backing Without Proper Tools - wikiHow
+https://www.wikihow.com/Pry-off-a-Watch-Backing-Without-Proper-Tools
 
