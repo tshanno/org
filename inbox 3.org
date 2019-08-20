@@ -1,0 +1,20 @@
+* Tasks
+** TODO Research Literature Management with Emacs
+https://www.anand-iyer.com/blog/2017/research-literature-management-with-emacs.html
+** TODO Upload blob slides
+** TODO [[https://www.mybulova.com/bulova-date-codes][Bulova Date Codes | myBulova.com]]
+** TODO [[https://www.mybulova.com/search-bulova-watches][Vintage Bulova Watch Search | myBulova.com]]
+** TODO [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
+** TODO [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
+** TODO Brad Biggs’ 10 thoughts on the Bears’ 32-13 preseason loss to the Giants - Chicago Tribune
+https://www.chicagotribune.com/sports/bears/ct-cb-bears-giants-brad-biggs-10-thoughts-20190817-tzbqru64obbnlipypkyqq2eagm-story.html
+
+10a. Inside linebacker Nick Kwiatkowski sure looked like he was just about everywhere in the first half. Press box
+statistics credited him with eight tackles. Josh Woods, also an inside linebacker, made a bunch of plays again this
+week as well. I’m not sure the team can keep five inside linebackers, though, and I am pretty confident Joel
+Iyiegbuniwe will have a role.
+** TODO [[https://dzone.com/articles/a-brief-introduction-to-closures-and-lexical-scopi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][A Brief Introduction to Closures and Lexical Scoping in JavaScript - DZone Web Dev]]
+* TODO Bulova - Authenticate & Identify Your Bulova Watch | Watchophilia.com
+http://www.watchophilia.com/general-information/determining-the-model-name-of-a-watch/
+* TODO Bulova - Date Symbols, Codes, Serial Numbers | Watchophilia.com
+http://www.watchophilia.com/general-information/determining-the-date-of-a-watch/
