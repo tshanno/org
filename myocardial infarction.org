@@ -31,6 +31,11 @@
   2.  Explain how the EKG is measured from the electrical potentials generated outside the cardiac cells.
   3.  Explain how the propagation of the cardiac action potential correlates with the wave-form of the EKG e.g. p-wave (atrial depolarization), PQ interval (AV nodal delay), QRS wave (ventricular depolarization) and T-wave (ventricular repolarization).
 :END:
+** TODO [#A] Plan of Study for Myocardial Infarction
+:PROPERTIES:
+:SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
+:ID:       CAD9D793-8F88-4983-B362-3F10E1667C78
+:END:
 * *Ticklers*
 * *Meetings*
 * *Notes*

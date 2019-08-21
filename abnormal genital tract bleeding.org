@@ -8,6 +8,10 @@ SCHEDULED: <2020-02-03 Mon>
 :END:
 ** Make sure that packets re ready to go for AGB activity on 9/3
 SCHEDULED: <2019-08-27 Tue>
+** Email the clinican educators for the session on 9/3.
+SCHEDULED: <2019-08-26 Mon>
+*** Point to powerpoint.
+*** Suggest watching last year's review video for the physiology.
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
 :PROPERTIES:
@@ -261,6 +265,11 @@ This is done.  I have a note to replace this with a Viagra mechanism of action c
 ** DONE Fix Mark's slides and get back to Janice. [[message://%3c9d257447d75e4868afd08cb03a948a6b@RUPW-EXCHMAIL02.rush.edu%3E][RE: Pathology sides for Abnormal Genital Tract Bleeding]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-08 Thu 11:05]
+:END:
+** DONE Get the list of clinician educators for the first session
+SCHEDULED: <2019-08-20 Tue>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-21 Wed 08:22]
 :END:
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]

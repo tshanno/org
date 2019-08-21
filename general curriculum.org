@@ -5,16 +5,16 @@
 ** DONE [#A] Invite students to lunch
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
-** TODO [#A] Organize pizza lunch
-   SCHEDULED: <2019-08-19 Mon>
+** Organize pizza lunch
+   SCHEDULED: <2019-08-26 Mon>
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd566:discussion_board?section=view-forum&id=35][Check Discussion Board]]
 SCHEDULED: <2019-08-21 Wed>
-** TODO [#A] Check to make sure you have rooms on Saturdays and reserve more.
-   SCHEDULED: <2019-08-19 Mon>
+** Check to make sure you have rooms on Saturdays and reserve more.
+   SCHEDULED: <2019-08-26 Mon>
    - Note taken on [2019-06-03 Mon 09:50] \\
      You have rooms through the end of August
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]
@@ -38,6 +38,12 @@ SCHEDULED: <2019-09-01 Sun>
 I will not be in Chicago next week on Thursday or Friday.  Feel free to meet without me.
 Bob
 
+** Email the clinican educators and fill them in on how the big room will work.
+SCHEDULED: <2019-08-24 Sat>
+:LOGBOOK:
+- Note taken on [2019-08-21 Wed 08:22] \\
+  Wait until after the meeting Thursday the 22nd.  This may be addressed there.
+:END:
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -321,6 +327,11 @@ DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 - Note taken on [2019-08-16 Fri 09:31] \\
   I wasn't happy with how this went.  It turned into a bitch session basically about how we are being cut out of the process when decisions are being made.  I need to take the bull by the horns and talk to Rahul directly about some of this.
 :END:
+** Tech Training in CLUB (new teaching space) rooms; Location: AAC450 <2019-08-19 Mon 11:30-13:30>
+:LOGBOOK:
+- Note taken on [2019-08-21 Wed 08:54] \\
+  Adam, Amrjit and I got to mess around a little.  The iPads connect fine thorugh airmedia but ou need to to to a tablet of a wall and set the computer to accept it.
+:END:
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -602,6 +613,17 @@ Laura Owczarzak
 ** [[https://docs.google.com/spreadsheets/d/1fvANoEDAdWRJYfdzHZ1bCIzIQqK8Ag1vIRdWQL7_uPU/edit#gid=1754225448][19/20 Curriculum Maps (Schedule of Topics by Block) - Google Sheets]]
 ** [[https://rushedu-auvic.formstack.com/forms/active_learning_training_registration][Active Learning Training Registration - Formstack]]
 ** IT guy's name is Terrance J Lewis.  He encourages email for questions
+** [[https://docs.google.com/spreadsheets/d/1hcboK2i-BaiAQ-X5dT5atribwcXZdlo_eWlQuAT5z70/edit#gid=1556858314][AY19/20 Calendars_Official View Version - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   311BBAF1-6EDB-4806-AD29-AE352BDCC55D
+:ID:       CAE2B8E2-ADE4-42A1-A3A6-F175A7B7C667
+:END:
+** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit?ts=5d5c1e61#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
+:ID:       3B9F2659-1E21-4EED-92DD-2AD46CF4C15E
+:END:
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -763,7 +785,7 @@ SCHEDULED: <2019-06-17 Mon>
 :ID:       EE5D0660-D3C1-43B2-A037-82DEE8B4E220
 :END:
 ** TODO [#A] Air media
-** TODO [#A] Talk to Rahul
+** DONE [#A] Talk to Rahul
 :PROPERTIES:
 :SYNCID:   93F05CF3-0923-441F-A231-9E9CABD5B7C3
 :ID:       9576CBDF-0E9C-4A04-B7F7-559A9189FEDE
@@ -773,3 +795,4 @@ SCHEDULED: <2019-06-17 Mon>
 - Make deadlines earlier
 **** Add two weeks this year
 **** Make them earlier next year if you wnat reasonably big changes.
+** TODO [#A] Tell Carl how to use air media

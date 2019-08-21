@@ -184,5 +184,25 @@ pic 1.png                      RMC.png                 pic 3.png
 ** OIME Phone List 2019-08-09
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Excel/OMSP%20Phone%20list%202019-08-09.xlsx][file:~/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list 2019-08-09.xlsx]]
 
+** [[message://%3c0101016cb0b4e5ae-b3f398fe-210c-43eb-a368-e259f41e2d08-000000@us-west-2.amazonses.com%3E][Finalize FY19 Faculty Performance Evaluation]]
+
+
+Dear Dr. Shannon,
+
+Your Supervisor(s) have added their comments to your Annual Performance Review and approved your goals for next year.
+
+No further steps are required, but if you wish to review your Supervisors' comments or add comments of your own, please follow the instructions below.  If you take no action your Annual Performance Review will be marked complete one month from today.
+
+Annual Performance Review Link
+
+1.) Please click on the link above and login using your Rush credentials to be routed to the Status page.
+
+2.) Review your Supervisors' comments by clicking on Primary Supervisor Comments or Secondary Supervisor Comments in the left navigation menu.
+
+3.) Click Faculty Comments in the left navigation menu to enter your comments.  Click Save and Continue.
+
+4.) On the Review and Submit page, click Submit to complete your Annual Performance Review.
+
+Should you require additional assistance, please contact the Office of Faculty Affairs at Faculty_Affairs@rush.edu. Do not reply to this email.
 * DONE [#A] Review Grad School Material
 	[[message://%3c6C327739-1022-4D25-867B-7BAA4FFD660A@rush.edu%3E][FW: Tom_Shannon@rush.edu]]

@@ -54,6 +54,17 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       9E37C1B2-806D-4323-A15E-393554245587
 :END:
 
+** [[https://docs.google.com/spreadsheets/d/1hcboK2i-BaiAQ-X5dT5atribwcXZdlo_eWlQuAT5z70/edit#gid=1556858314][AY19/20 Calendars_Official View Version - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   311BBAF1-6EDB-4806-AD29-AE352BDCC55D
+:ID:       D82857F4-1F5D-4D5F-9CC3-4595CF19D05B
+:END:
+** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit?ts=5d5c1e61#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
+:ID:       00655701-36FC-476A-B4D0-6BD60604E797
+:END:
+
 * *Links*
 ** [[http://www.differencebetween.net/science/health/difference-between-forced-vital-capacity-and-vital-capacity/][Difference Between Forced Vital Capacity and Vital Capacity | Difference Between | Forced Vital Capacity vs Vital Capacity]]
 

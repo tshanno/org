@@ -1,0 +1,10 @@
+* *Tasks*
+** TODO [#A] Plan of Study for Renal Vignetes
+:PROPERTIES:
+:SYNCID:   1DFA3EE8-058F-4F03-AF5A-FC1D8E0DAA71
+:ID:       2CC05E2B-39D6-445A-9FF8-5798771BD46D
+:END:
+
+* *Ticklers*
+* *Meetings*
+* *Notes*

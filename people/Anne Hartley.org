@@ -37,6 +37,11 @@ What dates/times are good for you?
 
 Anne
 
+** TODO [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
+:PROPERTIES:
+:SYNCID:   AAE958EC-361F-49FE-AAF4-40990A1877D8
+:ID:       C280A1B7-DB09-476E-B62D-C1AD6A5BF301
+:END:
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>

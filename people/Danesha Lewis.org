@@ -17,8 +17,10 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:13]
 :END:
-** FU Danesha on BCS content and research content (did it get a shell, too?) [[message://%3ce2005c3e0eed4888aeaacbe86fe5e51e@RUPW-EXCHMAIL02.rush.edu%3E][FW: BCS shell created in Entrada]]
-SCHEDULED: <2019-08-20 Tue>
+** DONE FU Danesha on BCS content and research content (did it get a shell, too?) [[message://%3ce2005c3e0eed4888aeaacbe86fe5e51e@RUPW-EXCHMAIL02.rush.edu%3E][FW: BCS shell created in Entrada]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-21 Wed 09:01]
+:END:
 
 
 Hi –
@@ -31,11 +33,13 @@ I’m still working on the rubric and the gradebook.  If you want to start attac
  
 Bill
 
-** Track down Danesha and find out what's going on with the roles sessions for S&R.
-SCHEDULED: <2019-08-20 Tue>
+** DONE Track down Danesha and find out what's going on with the roles sessions for S&R.
 :PROPERTIES:
 :SYNCID:   6B3CD169-8A98-4099-AA17-5F4F4EBD5153
 :ID:       C3781EBD-75D7-4FD8-ABB1-DE79B703249B
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2019-08-21 Wed 09:01]
 :END:
 * *Ticklers*
 * *Meetings*

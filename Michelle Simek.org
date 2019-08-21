@@ -1,11 +1,14 @@
 * *Tasks*
-** TODO [#A] Prepare VF blueprint and send out to DDs. [[message://%3c99CC3C60-7381-4689-A81D-77C38F19A7BF@rush.edu%3E][Re: RMD 574 Vital Fluids - Assessment Blueprint Blueprint ]]
+** DONE [#A] Prepare VF blueprint and send out to DDs. [[message://%3c99CC3C60-7381-4689-A81D-77C38F19A7BF@rush.edu%3E][Re: RMD 574 Vital Fluids - Assessment Blueprint Blueprint ]]
 :PROPERTIES:
 :SYNCID:   4B768741-1775-4200-9C63-314A25BBBC22
 :ID:       CC1850D9-052F-4181-9A66-2DB3269F6F14
 :END:
-- [ ] Prepare blueprint
-- [ ] Send to DDs
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-21 Wed 14:42]
+:END:
+- [X] Prepare blueprint
+- [X] Send to DDs
 * *Ticklers*
 * *Meetings*
 * *Notes*

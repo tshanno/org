@@ -13,6 +13,10 @@ SCHEDULED: <2019-08-23 Fri>
 ** Think about checking back in with Dylan at Fidelity.
 SCHEDULED: <2020-07-31 Fri>
 [[*%5B%5Bmessage://%253c0WVJAAAW74HNT578@fmr.com%253E%5D%5BFidelity Financial Planning%5D%5D; Location: 1 N LaSalle downtown in the Loop][Fidelity Financial Planning Meeting 2019]]
+** You owe 1,608.02 to Fidelity credit card.  You get paid on the 30th.  You neeed to mae sure you can cover expenses.  If you have to, take money out of savings (Ugh!).  Balance is due 9/15
+SCHEDULED: <2019-08-31 Sat>
+
+
 * *Tasks*
 ** DONE [#A] [[message://%3c2048249476.30625.1542450956204.JavaMail.WASFARMCCCPRD@VMAKSA69901ASW%3E][Pay Fidelity]]
    [2018-11-17 Sat]

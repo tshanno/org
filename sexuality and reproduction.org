@@ -92,6 +92,8 @@ SCHEDULED: <2020-02-01 Sat>
   Nell had one dropped question that she didn't replace.  I emailed her and asked her to do it.
 :END:
 
+** FU: Carolyn [[message://%3c4BCC6823-C56B-471B-8899-555756D08BDC@rush.edu%3E][Questions for the formative]]
+SCHEDULED: <2019-08-23 Fri>
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -598,6 +600,9 @@ We made a slight alteration to Jerry’s new path activity.  Students will now b
 :END:
 *** From Paola [[message://%3c321c4e227f254d43ac9bd20c0c187926@RUPW-EXCHMAIL01.rush.edu%3E][RE: Update: Core Disciplines Meeting 7/26/19]]
 For Fetal death are we talking about prenatal test? What about T21? Or we could do  GTT. Not sure if that is the idea
+** Sexuality and Reproduction/Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-08-23 Fri 14:30-15:30>
+*** Talk about renal vignettes at core discplines
+*** Talk about moving the S&R meetings to Wednesday
 * *Information:*
 ** Project planner's name is Jeffery
   [2018-06-14 Thu]
@@ -689,6 +694,50 @@ SCHEDULED: <2019-10-01 Tue>
 :END:
 
 ** [[https://docs.google.com/spreadsheets/d/1tML3uMmuiegkqghYKa8X8LF9hdG-WuazrqUMnpl2a4o/edit#gid=754097701][RMD 566 Assessment Blueprint AY19/20 - Google Sheets]]
+** [[https://docs.google.com/spreadsheets/d/1hcboK2i-BaiAQ-X5dT5atribwcXZdlo_eWlQuAT5z70/edit#gid=1556858314][AY19/20 Calendars_Official View Version - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   311BBAF1-6EDB-4806-AD29-AE352BDCC55D
+:ID:       FC0C469F-0FA4-486B-8840-DAADAE6D3828
+:END:
+** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit?ts=5d5c1e61#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
+:ID:       67D99949-31E7-4921-A29B-22119537694B
+:END:
+
+** [[https://docs.google.com/document/d/15QF8L6nGjqHqTbSURqxit32brUyDXZ4xtwadnzjhlPc/edit][Grading Rubric for RMD 566 Sexuality and Reproduction (2019-2020)_Traditional - Google Docs]]
+** [[message://%3c619C9704-68AA-4CCD-951C-0AD6EDD47750@rush.edu%3E][Welcome to the Sexuality and Reproduction Block!]]
+:PROPERTIES:
+:SYNCID:   35A33864-1445-4DEC-80FB-4401C45CC940
+:ID:       562F4B64-2AC5-47DD-9651-0F7EFDACA694
+:END:
+
+
+Hi, guys.
+
+Welcome back!  I wanted to send this out to give you guys a little heads up in terms of preparation for our sessions next week and there after.
+
+There are a few things that will be different this year so I made a video both to highlight them and to introduce you to the block as a whole.  I think this block is a little unique as medical school courses go.  In a good way.  :) Please feel free to double time your way through the video:
+
+https://youtu.be/yLrVNzNcL3Y
+
+Slides:  
+
+Powerpoint https://www.dropbox.com/s/d3eyvh8am8bffxf/S%26R%20Introductory%20Video%202019-08-19.pptx?dl=0
+PDF https://www.dropbox.com/s/wc2oht324y65uux/S%26R%20Introductory%20Video%202019-08-19.pdf?dl=0
+
+The plan of study for this block starts on 8/26.  The content for the first case is up and ready and we hope to get all content for the entire block posted by the end of the day Wednesday 8/21.  The first case is a double case and the BSci session is the day after Labor Day.  Feel free to get started on it early if you wish.
+
+See you soon.
+
+Thomas Shannon
+Department of Physiology & Biophysics
+Rush University
+1750 W. Harrison St.
+Chicago, IL 60612
+
+Office: 312-942-6754
+tom_shannon@rush.edu
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -913,8 +962,7 @@ Tom S.1
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       8FD31F9A-487B-477B-A4B2-42651068D123
 :END:
-** Track down Danesha and find out what's going on with the roles sessions for S&R.
-SCHEDULED: <2019-08-20 Tue>
+** DONE Track down Danesha and find out what's going on with the roles sessions for S&R.
 :PROPERTIES:
 :SYNCID:   6B3CD169-8A98-4099-AA17-5F4F4EBD5153
 :ID:       C2AB21D2-03BF-41C7-8F0B-7C61B5A11112
@@ -947,7 +995,7 @@ SCHEDULED: <2019-08-20 Tue>
 - State "WAITING"    from "TODO"       [2019-08-15 Thu 09:21] \\
   Waiting on Maria to give me the final number of questions.
 :END:
-** TODO [#A] Talk to Rahul
+** DONE [#A] Talk to Rahul
 :PROPERTIES:
 :SYNCID:   93F05CF3-0923-441F-A231-9E9CABD5B7C3
 :ID:       D5408CBD-0634-4977-9962-4D55EE481806
@@ -957,6 +1005,7 @@ SCHEDULED: <2019-08-20 Tue>
 - Make deadlines earlier
 **** Add two weeks this year
 **** Make them earlier next year if you wnat reasonably big changes.
+** TODO [#A] Get S&R Syllabus Up
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

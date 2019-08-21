@@ -52,6 +52,14 @@ SCHEDULED: <2019-08-12 Mon>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-22 Mon 08:25]
 :END:
+** TODO [#A] [[message://%3c1566228636257.20914@rush.edu%3E][Paper of Interest?]]
+Hi Tom,
+
+I was perusing the literature in an effort to find some general review on the Ca+ dynamics in the cardiomyocyte so that I might gain a better understanding of what we are seeing in our data. Unfortunately, I didn't find much that really helped with my general ignorance on this topic but I came across this fairly recent paper relating to the ISO effect and the dose difference relating to Action potential vs Calcium transients changes (see attached).  I know that you are an expert on this topic and keep up on things so, no insult intended but just in case you missed it.  I think it is relevant given that we are in this "unknown" realm of ISO concentration hitting the cell and surely there is a gradient moving down the cell.  I hope it is of some relevance. 
+
+Dan
+
+
 * *Ticklers*
 ** DONE [#A] Consider re-uping mantenance agreement for IDL [[message://%3c0625ed0fbf874548891800b852e2a7f5@MLBXCH15.cs.myharris.net%3E][Quote No. QTO-042209]]
 SCHEDULED: <2019-07-08 Mon>

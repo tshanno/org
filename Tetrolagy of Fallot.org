@@ -33,6 +33,17 @@
 - State "DONE"       from "TODO"       [2019-08-12 Mon 13:27]
 :END:
 
+** TODO [#A] Plan of Study for Tetralogy of Fallot
+:PROPERTIES:
+:SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
+:ID:       F120E038-19E3-450A-939D-C3FAB64C6017
+:END:
+** TODO [#A] Peds clinicians for ToF
+[[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
+
+-Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
+-Taemyn Hollis and I will be joining practitioner session 10/22 8-10am :: at pracitioner session
+
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>
@@ -45,6 +56,11 @@ SCHEDULED: <2019-10-01 Tue>
 - State "WAITING"    from              [2019-08-02 Fri 09:32] \\
   Mike said he would work on this.  He was having a hard time matching this objective with his content.  He needs to figure out where he was teaching it.
 :END:
+
+** Go over these comments from Kiya at VF Core Disciplines [[message://%3cpsYYGiaXyU7CBYzQ8HGZEA.0@notifications.google.com%3E][Eli Whitney Facul... - A small note, but I think important s...]]
+SCHEDULED: <2019-08-23 Fri>
+*** [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
+
 
 * *Meetings*
 * *Sesson Notes*

@@ -1,6 +1,41 @@
 * *Tasks*
 ** TODO [[http://www.thewatchguy.com/pages/repair.html][HOW TO CLEAN AND OIL A VINTAGE MECHANICAL WRIST WATCH OR POCKET WATCH REPAIR]]
+** TODO [#A] [[https://forums.watchuseek.com/f295/tips-buying-vintage-watch-122415.html][Tips on buying a vintage watch]]
+
+
+Read Ray MacDonald's Sticky: "7 Rules to Determine the Value of Your Vintage Watch."
+** TODO Bulova 1942 Dean
+SCHEDULED: <2019-08-21 Wed>
+** TODO Bulova 1959 Craftsman
+SCHEDULED: <2019-08-21 Wed>
+** TODO [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Ji64PH][Take a good look at that logo on your new "1945" Elgin watch]]
+:LOGBOOK:
+- Note taken on [2019-08-20 Tue 07:50] \\
+  If its a shockmaster logo and not a durapower logo, the dial may have been repleacd.
+:END:
+** TODO [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Pt96B4][Get the serial number off of the movement of the Elgin that you bought Circa 1950]]
+** TODO [#A] [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
+** TODO Salvation Army
+https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,%20United%20States&auid=10653552741926904546&ll=41.881722,-87.665252&lsp=9902&q=Salvation%20Army&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhAWCgQIChAAEiYpX6nTF0nwREAxrGC7U/bqVcA53X75c2/xREBByOzWpDDqVcBQBA%3D%3D&t=m
+
+1 N Ogden Ave
+Chicago, IL  60607
+United States
 * *Ticklers*
+** Bulova 1955 Bulova 23
+SCHEDULED: <2019-08-23 Fri>
+** Bulova 2T Bracelet Quartz Watch
+SCHEDULED: <2019-08-22 Thu>
+** Bulova 1955 Bulova 23
+SCHEDULED: <2019-08-23 Fri>
+** Bulova 1928 Breton
+SCHEDULED: <2019-11-01 Fri>
+** Bulova 1934 Senator
+SCHEDULED: <2019-08-25 Sun>
+** Bulova 1952 Director
+SCHEDULED: <2019-08-25 Sun>
+** Bulova 1953 President
+SCHEDULED: <2019-08-25 Sun>
 * *Meetings*
 * *Notes*
 ** *Bulova*
@@ -9,12 +44,29 @@
 *** Bulova watches - all prices for Bulova watches on Chrono24
 [2019-08-19 Mon 02:08]
 https://www.chrono24.com/bulova/index.htm
+*** TODO Bulova - Authenticate & Identify Your Bulova Watch | Watchophilia.com
+http://www.watchophilia.com/general-information/determining-the-model-name-of-a-watch/
+*** TODO Bulova - Date Symbols, Codes, Serial Numbers | Watchophilia.com
+http://www.watchophilia.com/general-information/determining-the-date-of-a-watch/
 ** *Elgin*
 *** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
 *** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
+*** [[http://elginwatches.org/cgi-bin/elgin_sn?sn=I755604&action=search][ELGIN Online Elgin Database]]
 ** *Seiko*
 *** [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
 *** [[http://seiko.orgfree.com/][SEIKO - Serial Number to Manufacture Date Decoder]]
 ** 3 Ways to Pry off a Watch Backing Without Proper Tools - wikiHow
 https://www.wikihow.com/Pry-off-a-Watch-Backing-Without-Proper-Tools
 
+** [[https://forums.watchuseek.com/f295/serial-number-lookups-158751.html][Serial number lookups]]
+
+:LOGBOOK:
+- Note taken on [2019-08-21 Wed 05:34] \\
+  This has a bunch of serial number lookup sites for a bunch of different companies.
+:END:
+
+** [[https://en.wikipedia.org/wiki/Wittnauer][Wittnauer - Wikipedia]]
+
+
+In 1995 Swatch broke the 125-year collaboration between Longines and Wittnauer and took over the Longines distribution.[3] The Wittnauer Company retained its reputation for most of the 20th century. After some budget problems, it was eventually bought by Bulova for $11.6 million in September 2001.[3]
+Bulova launched a new 'Nightlife' range of fashion watches under the Wittnauer brand.

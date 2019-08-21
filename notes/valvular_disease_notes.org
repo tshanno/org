@@ -1,3 +1,6 @@
+* Notes on valvular disease
+
+#+BEGIN_EXPORT latex
 \section{Aortic Stenosis}
 \label{sec:AorticStenosis}
 
@@ -94,3 +97,5 @@
 \includegraphics[width=0.45\textwidth]{images/characteristics_of_mitral_insufficiency.png}
 
 \end{itemize}
+
+#+END_EXPORT

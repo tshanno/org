@@ -191,6 +191,51 @@ SCHEDULED: <2019-10-01 Tue>
 
 ** [[https://docs.google.com/spreadsheets/d/1cLhrYJKP8YEdLnDiyvSJUE_N6GKDdlygganoIj2gCSw/edit#gid=1377346749][RMD 574 Assessment Blueprint AY19/20 - Google Sheets]]
 
+** [[https://docs.google.com/spreadsheets/d/1hcboK2i-BaiAQ-X5dT5atribwcXZdlo_eWlQuAT5z70/edit#gid=1556858314][AY19/20 Calendars_Official View Version - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   311BBAF1-6EDB-4806-AD29-AE352BDCC55D
+:ID:       1ABD6482-345F-4342-BFF5-6DC0CDC11E4D
+:END:
+** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit?ts=5d5c1e61#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+:PROPERTIES:
+:SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
+:ID:       4376ACAB-1AC7-4D3C-9224-6B05CAB5A34E
+:END:
+
+** [[message://%3cD3008F13-4A4E-41C1-8648-C90B1BD2CC3A@rush.edu%3E][Vital Fluids Exam Breakdown]]
+:PROPERTIES:
+:SYNCID:   46002477-0E07-407A-A3EC-D2036AA2F1FA
+:ID:       B14148A1-5393-4293-A0D3-506924996DBC
+:END:
+
+
+Hi, guys
+
+As most of you know, we completely tore apart the Vital Fluids exams this year in order to create a midterm along with a non-comprehensive final.  The midterm covers all of the cases through dehydration (Mark Ryfield).  We have finally gotten the blue print together for these exams:
+
+https://docs.google.com/spreadsheets/d/1cLhrYJKP8YEdLnDiyvSJUE_N6GKDdlygganoIj2gCSw/edit#gid=0
+
+A few things to note:
+
+1.  I intend to promise the students to go lightly on the Mark Ryfield case on the midterm because it is the only case that will be directly re-tested on the final exam.  It is the first and only renal case on the exam and it is the last case before the midterm so they won’t have much time to digest this material.  Please design your questions accordingly.
+
+2.  Please note that the tab for the midterm replaces the second formative exam from last year for this block.  Michelle went ahead and left the questions from the midterm from last year on the sheet.  You are welcome to keep as many as you like as long as they are relevant (they should be).
+
+3.  Please note that there are TWO SUMMATIVE TABS.  The one that we need to fill out is “Summative (19/20)".  The other one is from last year.  Please feel free to copy over any questions from last year’s exam to either the midterm or the summative as appropriate.
+
+4.  We’d like to have this done by Monday the 26th.
+
+Thanks,
+Tom S.
+
+Thomas Shannon
+Department of Physiology & Biophysics
+Rush University
+1750 W. Harrison St.
+Chicago, IL 60612
+
+Office: 312-942-6754
+tom_shannon@rush.edu
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -270,9 +315,7 @@ SCHEDULED: <2019-07-02 Tue>
 :END:
 [2019-07-11 Thu 12:44]
 ** Deadline to get Self-Study guides to review team for Vital Fluids <2019-08-21 Wed>
-SCHEDULED: <2019-08-14 Wed>
 ** Deadline to transfer faculty guides to case folders <2019-08-21 Wed>
-SCHEDULED: <2019-08-14 Wed>
 ** Due date to have final faculty guides in place for Vital Fluids <2019-09-18 Wed>
 SCHEDULED: <2019-09-11 Wed>
 ** TODO Talk to Princess about VF topics and see if we're good.
@@ -558,13 +601,73 @@ SCHEDULED: <2019-06-27 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-16 Fri 10:21]
 :END:
-** TODO [#A] Prepare VF blueprint and send out to DDs. [[message://%3c99CC3C60-7381-4689-A81D-77C38F19A7BF@rush.edu%3E][Re: RMD 574 Vital Fluids - Assessment Blueprint Blueprint ]]
+** DONE [#A] Prepare VF blueprint and send out to DDs. [[message://%3c99CC3C60-7381-4689-A81D-77C38F19A7BF@rush.edu%3E][Re: RMD 574 Vital Fluids - Assessment Blueprint Blueprint ]]
 :PROPERTIES:
 :SYNCID:   4B768741-1775-4200-9C63-314A25BBBC22
 :ID:       2581CCA3-9C97-4139-94A1-1BECB6F12451
 :END:
-- [ ] Prepare blueprint
-- [ ] Send to DDs
+- [X] Prepare blueprint
+- [X] Send to DDs
+** TODO [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
+:PROPERTIES:
+:SYNCID:   AAE958EC-361F-49FE-AAF4-40990A1877D8
+:ID:       9D75E01F-793F-47C6-8A07-E012A2162948
+:END:
+** DONE [#A] Ask Mike about Adrenergic agonsits (TO-0712), adrenergic antagonists (TO-0730) and cholinergic agonists (TO-0719).  Do these go with HFs, renal vignettes of life cycle block?
+:PROPERTIES:
+:SYNCID:   F4882AB9-ABDA-4213-8851-D6DE637EAB09
+:ID:       40C833B3-B9D6-4540-B97E-C55CD00CE4A4
+:END:
+** TODO Plans of Study for Vital Fluids
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO [#A] Plan of Study for Tetralogy of Fallot
+:PROPERTIES:
+:SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
+:ID:       1D631DC6-A56E-441B-9E3E-13E1DD51E29D
+:END:
+*** TODO [#A] Plan of Study for Myocardial Infarction
+:PROPERTIES:
+:SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
+:ID:       8703C9B5-2D84-4AA4-8D44-C28EC43C7E77
+:END:
+*** TODO [#A] Plan of Study for Heart Failure
+:PROPERTIES:
+:SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
+:ID:       1CCE6650-DF51-4699-A0C6-4ED5BDB22973
+:END:
+*** TODO [#A] Plan of Study for Valvular Heart Disease
+:PROPERTIES:
+:SYNCID:   E940B77A-F184-43D6-8022-5FBB72338E7B
+:ID:       B6738B3D-249F-413B-814D-49FFAE6F2887
+:END:
+*** TODO [#A] Plan of Study for Arrhythmia
+:PROPERTIES:
+:SYNCID:   FB502B30-4B85-417F-90F8-E99D7014FCB3
+:ID:       E8BE723F-FB1E-4782-9042-FE9751F1226C
+:END:
+*** TODO [#A] Plan of Study for Pre-renal Dehydration
+:PROPERTIES:
+:SYNCID:   1949C877-02E9-41B1-BB02-9353235E51E8
+:ID:       6F73F4CB-7AE0-44A2-9213-93DA093A1FDA
+:END:
+*** TODO [#A] Plan of Study for AKI
+:PROPERTIES:
+:SYNCID:   70FC1082-CB53-4353-8D82-40486BD2CF04
+:ID:       F5B0EEC7-5801-443A-9720-D08142D2B9B0
+:END:
+*** TODO [#A] Plan of Study for CKD
+:PROPERTIES:
+:SYNCID:   A3E9B0CC-243C-4D2C-93ED-72FC2B22B240
+:ID:       AAEE1C97-43CE-4E06-9E32-14C8CE9B174B
+:END:
+*** TODO [#A] Plan of Study for Renal Vignetes
+:PROPERTIES:
+:SYNCID:   1DFA3EE8-058F-4F03-AF5A-FC1D8E0DAA71
+:ID:       BC392D9A-6176-4D08-835F-B662AE9FD1D8
+:END:
+
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>
@@ -585,66 +688,69 @@ Location: AAC 1094
 *** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/RMD 574 VF Summative Assessment (2018-2019)_IA_Raw_Annotated Preliminary 2018-12-20.pdf][RMD 574 VF Summative Assessment (2018-2019)_IA_Raw_Annotated Preliminary 2018-12-20.pdf]]
 *** 15.  A is angina bu tnot unstable angina.  Correct answer is B.  D. is wrong becasue history of coronary heart disease.  C. is a heart attack.  GAve credit fo A becuase its specifies narrowing.  B. is deceptively worded as implying complee blockage but is transient.
 *** 17.  Two are tachycardias which is obviously incorrect.
-* Urgent: Walkthrough of RMD 562 Calendar <2017-10-23 Mon 17:00-18:00>
+
+* Archive
+
+** Urgent: Walkthrough of RMD 562 Calendar <2017-10-23 Mon 17:00-18:00>
 Scheduled: Oct 23, 2017 at 5:00 PM to 6:00 PM
 Location: OMSP Large Conference Room
 
 
-* DONE Add old exam questions to the end of readings for Keith Simmons Session 1 :congestive_heart_failure:course_notes_volumes:vital_fluids_and_gases:
+** DONE Add old exam questions to the end of readings for Keith Simmons Session 1 :congestive_heart_failure:course_notes_volumes:vital_fluids_and_gases:
 
-* DONE Add old exam questions to the end of Matthew Jones :course_notes_volumes:pneumothorax:vital_fluids_and_gases:
+** DONE Add old exam questions to the end of Matthew Jones :course_notes_volumes:pneumothorax:vital_fluids_and_gases:
 
-* DONE Send Susan Glick the COPD and cystic fibrosis cases :cystic_fibrosis:pneumothorax:
+** DONE Send Susan Glick the COPD and cystic fibrosis cases :cystic_fibrosis:pneumothorax:
 [2017-10-25 Wed 09:04]
 
-* DONE Move content out of Dropbox and back to GD :tetralogy_of_fallot:vital_fluids_and_gases:
-* DONE Alter topic from objectives list
+** DONE Move content out of Dropbox and back to GD :tetralogy_of_fallot:vital_fluids_and_gases:
+** DONE Alter topic from objectives list
 [2017-10-28 Sat 05:47]
 
-* DONE Put together the syllabus for the course
-* DONE Course introduction video
-** https://www.youtube.com/watch?v=Ij4dO_cfnFo&feature=youtu.be
-** Introduction
-*** don't get frstrated if you can't answer session questions
-*** email me
-*** this is a packed block.  Dont' take too much time off
-*** grading rubric
-*** Discussion board
-*** EBM?  Appear.in
-*** Weekly lunches
+** DONE Put together the syllabus for the course
+** DONE Course introduction video
+*** https://www.youtube.com/watch?v=Ij4dO_cfnFo&feature=youtu.be
+*** Introduction
+**** don't get frstrated if you can't answer session questions
+**** email me
+**** this is a packed block.  Dont' take too much time off
+**** grading rubric
+**** Discussion board
+**** EBM?  Appear.in
+**** Weekly lunches
 [2017-10-30 Mon 00:56]
-** Saturday’s
+*** Saturday’s
 [2017-10-30 Mon 03:07]
 
-* Meeting with Lisa <2017-10-30 Mon 09:00-10:00>
-** Tetralogy STudy Guide
-** Where does syllabus go?
-** Course objectives sent.   Please upload.
-* DONE Where are the CS objectives housed
-* DONE FU Lisa all case folders 		     :vital_fluids_and_gases:
-* DONE FU Lisa Discussion board 		     :vital_fluids_and_gases:
-* DONE Send Robert cases ready to share :vital_fluids_and_gases:clinical_skills:
+** Meeting with Lisa <2017-10-30 Mon 09:00-10:00>
+*** Tetralogy STudy Guide
+*** Where does syllabus go?
+*** Course objectives sent.   Please upload.
+** DONE Where are the CS objectives housed
+** DONE FU Lisa all case folders                    :vital_fluids_and_gases:
+** DONE FU Lisa Discussion board                    :vital_fluids_and_gases:
+** DONE Send Robert cases ready to share :clinical_skills:vital_fluids_and_gases:
 [2017-11-01 Wed 16:24]
 
 
-* DONE Contact Jamie about Paul	     :vital_fluids_and_gases:clinical_skills:
+** DONE Contact Jamie about Paul    :clinical_skills:vital_fluids_and_gases:
 [2017-11-01 Wed 23:08]
 
 
-* DONE Get back to Maria on RAs		       :exams:vital_fluids_and_gases:
-** message://%3C0DB3702E-80F7-45BC-BB12-5D706C07E9C9@rush.edu%3E
-* DONE James Parker Leader objectives :clinical_skills:myocardial_infarction:vital_fluids_and_gases:
-* Acid-Base Book <2017-11-06 Mon>
-** message://%3Ced2cfc2f5c734a3bb7d222f07476600f@RUPW-EXCHMAIL02.rush.edu%3E
-* DONE when are the Q&A sessions?
-** [[message://%3C051da6d1e53c435581b1e52be18c1b29@RUPW-EXCHMAIL02.rush.edu%3E][Sessions on 11/15, 12/6 and 12/19]]
-* Office hours
+** DONE Get back to Maria on RAs              :exams:vital_fluids_and_gases:
+*** message://%3C0DB3702E-80F7-45BC-BB12-5D706C07E9C9@rush.edu%3E
+** DONE James Parker Leader objectives :clinical_skills:myocardial_infarction:vital_fluids_and_gases:
+** Acid-Base Book <2017-11-06 Mon>
+*** message://%3Ced2cfc2f5c734a3bb7d222f07476600f@RUPW-EXCHMAIL02.rush.edu%3E
+** DONE when are the Q&A sessions?
+*** [[message://%3C051da6d1e53c435581b1e52be18c1b29@RUPW-EXCHMAIL02.rush.edu%3E][Sessions on 11/15, 12/6 and 12/19]]
+** Office hours
 - Note taken on [2017-11-06 Mon 08:08] \\
   message://%3C2966FE3B-FF1B-42B1-98DA-913AFF0970C2@rush.edu%3E
 
 
 
-* Paul outline for VFG sessions
+** Paul outline for VFG sessions
 - Note taken on [2017-11-08 Wed 07:25] \\
   ADVOCACY / EDUCATOR in Fluids/ gases: Introduction to Social Determinants of Health
   Roles and cases: https://docs.google.com/spreadsheets/d/1h_L31LZa4iyKZ-EBYfFdZcGjVMLoiXPa3bJQ3-9scKY/edit#gid=227917241
@@ -703,151 +809,151 @@ Location: OMSP Large Conference Room
   - 10 min: Wrap-up
   - 5 min: Evaluations
 
-** message://%3C1510086301788.48851@rush.edu%3E
-* Schedule to get cases up   :calendars_and_schedules:vital_fluids_and_gases:
-** Keith Simmons - Nov. 16
-** George Papadakis - Nov. 27
-** Ruth Barzcic - Nov. 30
-** Matthew Jones - Dec. 4
-** Ricky Garcia Dec. 14
-** No Name (Cystic Fibrosis, I think) - Dec. 18
-** Norman Brenner - Dec.21
+*** message://%3C1510086301788.48851@rush.edu%3E
+** Schedule to get cases up :calendars_and_schedules:vital_fluids_and_gases:
+*** Keith Simmons - Nov. 16
+*** George Papadakis - Nov. 27
+*** Ruth Barzcic - Nov. 30
+*** Matthew Jones - Dec. 4
+*** Ricky Garcia Dec. 14
+*** No Name (Cystic Fibrosis, I think) - Dec. 18
+*** Norman Brenner - Dec.21
 
-* DONE [#A] Send Invites to lunch to M1s
+** DONE [#A] Send Invites to lunch to M1s
 
 
-* DONE Try without self contained to see if Dropbox Links are OK
+** DONE Try without self contained to see if Dropbox Links are OK
 [2017-11-13 Mon 21:37]
 
-* DONE Try htlatex
+** DONE Try htlatex
 
-** THis worked
+*** THis worked
 
-* DONE Try colorlinks package / part of xcolor?
-* DONE Try \url
+** DONE Try colorlinks package / part of xcolor?
+** DONE Try \url
 
 
-* DONE Email bill about recording tomorrow’s session
+** DONE Email bill about recording tomorrow’s session
 [2017-11-14 Tue 00:59]
 
-*  [[message://%3CB122946C-CA85-48A1-9CDE-129321694470@rush.edu%3E][For students to fill out if they are going to be absent]]
+**  [[message://%3CB122946C-CA85-48A1-9CDE-129321694470@rush.edu%3E][For students to fill out if they are going to be absent]]
 
-* DONE [[message://%3C4241976.613.1510851371482.JavaMail.Appserver@RackDB%3E][submit Connie's receipt]]
-** DONE [[message://%3c27040972.747.1513272142209.JavaMail.Appserver@RackDB%3E][This one, too]]
-*** DONE [[message://%3c12e437d9743a405ba6acf35245258a27@RUDW-EXCHMAIL02.rush.edu%3E][Go down and sign request]]
+** DONE [[message://%3C4241976.613.1510851371482.JavaMail.Appserver@RackDB%3E][submit Connie's receipt]]
+*** DONE [[message://%3c27040972.747.1513272142209.JavaMail.Appserver@RackDB%3E][This one, too]]
+**** DONE [[message://%3c12e437d9743a405ba6acf35245258a27@RUDW-EXCHMAIL02.rush.edu%3E][Go down and sign request]]
 
-* DONE Schedule volunteer lunches
+** DONE Schedule volunteer lunches
 [2017-11-15 Wed 03:13]
 
-*  [[http://rmc.challengeform.sgizmo.com/s3/][Question challenge link]]
+**  [[http://rmc.challengeform.sgizmo.com/s3/][Question challenge link]]
 
-* DONE Send out the EBM Announcement
+** DONE Send out the EBM Announcement
 
-* DONE Email anne to see if she preferes 11AM tomorrow
-* [[message://%3cd2a8bf7a29754d728cc1e2ab078b4bc4@RUPW-EXCHMAIL02.rush.edu%3E][Deadlines]]
+** DONE Email anne to see if she preferes 11AM tomorrow
+** [[message://%3cd2a8bf7a29754d728cc1e2ab078b4bc4@RUPW-EXCHMAIL02.rush.edu%3E][Deadlines]]
 
-* List for Lisa:
-** List of documents:
-*** Immediate Release
-**** 01 Case Descripton
-**** 02 Student CBCL self-study
-**** 04 CS Student Self-Study
-*** Release 7:30 AM morning of CBCL
-**** 03 Student Guide
-**** 04a CS Student Self-Study with answers for Mastery Labs if one is scheduled
-*** Released 5:00 PM day of CBCL
-**** 03a Faculty Guide
-**** CBCL Mastery Questions & Answers
-*** Released 7:30 AM morining of CS session
-**** 05 Student Guide
-*** Released 5:00 PM day of CS Session
-**** 05a Faculty Guide
-**** Full Case Description
-**** CS Mastery Questons with Answers (sometimes labeled as 04a CS Student Self-Study with Answers)
+** List for Lisa:
+*** List of documents:
+**** Immediate Release
+***** 01 Case Descripton
+***** 02 Student CBCL self-study
+***** 04 CS Student Self-Study
+**** Release 7:30 AM morning of CBCL
+***** 03 Student Guide
+***** 04a CS Student Self-Study with answers for Mastery Labs if one is scheduled
+**** Released 5:00 PM day of CBCL
+***** 03a Faculty Guide
+***** CBCL Mastery Questions & Answers
+**** Released 7:30 AM morining of CS session
+***** 05 Student Guide
+**** Released 5:00 PM day of CS Session
+***** 05a Faculty Guide
+***** Full Case Description
+***** CS Mastery Questons with Answers (sometimes labeled as 04a CS Student Self-Study with Answers)
 
-** Please make sure that:
-*** All links operate as expected
-*** Formatting is correct
-**** Google Docs sometimes messes things up - especially images
-**** It doesn't have to be perfect but it does have to be readable
-*** All release dates are correct
-*** All videos are as they should be:
-**** Case Interview in 02, 03 and 03a
-**** Guide to the Self-Study in 02
-**** Guide to the Faculty Guide in 03a
-*** All videos have sound
-*** Mastery questions and answers make sense and there are no obvious errors.
-*** There is contact information for Discpline Directors at the top of and for every activity in 03a
-*** There are 10 RA questons with answers in 03a and in 05a if there is an assessment that day.
+*** Please make sure that:
+**** All links operate as expected
+**** Formatting is correct
+***** Google Docs sometimes messes things up - especially images
+***** It doesn't have to be perfect but it does have to be readable
+**** All release dates are correct
+**** All videos are as they should be:
+***** Case Interview in 02, 03 and 03a
+***** Guide to the Self-Study in 02
+***** Guide to the Faculty Guide in 03a
+**** All videos have sound
+**** Mastery questions and answers make sense and there are no obvious errors.
+**** There is contact information for Discpline Directors at the top of and for every activity in 03a
+**** There are 10 RA questons with answers in 03a and in 05a if there is an assessment that day.
 
 
-* DONE [[message://%3c1512508491059.14518@rush.edu%3E][FU on this grading inquiry - formwarded to Jamie]]
-* DONE [[message://%3c0ABA39C0-8856-4FE2-833F-78A40080A98F@rush.edu%3E][Get a room in AAC for meeting with Bitz Tuesday 2:00]]
-* DONE [#A] [[message://%3c2656F9B3-65D9-476D-9E7F-10EDD61FAC1F@rush.edu%3E][Get back to Coralie!]]
-* DONE [[message://%3cBD063540-AB33-4476-948D-39139BD0E2F0@rush.edu%3E][Look over evals]]
-* [[message://%3cec6417463792452bb704ff6a05388fe9@RUPW-EXCHMAIL02.rush.edu%3E][Use this file as a template and do course Review]]
+** DONE [[message://%3c1512508491059.14518@rush.edu%3E][FU on this grading inquiry - formwarded to Jamie]]
+** DONE [[message://%3c0ABA39C0-8856-4FE2-833F-78A40080A98F@rush.edu%3E][Get a room in AAC for meeting with Bitz Tuesday 2:00]]
+** DONE [#A] [[message://%3c2656F9B3-65D9-476D-9E7F-10EDD61FAC1F@rush.edu%3E][Get back to Coralie!]]
+** DONE [[message://%3cBD063540-AB33-4476-948D-39139BD0E2F0@rush.edu%3E][Look over evals]]
+** [[message://%3cec6417463792452bb704ff6a05388fe9@RUPW-EXCHMAIL02.rush.edu%3E][Use this file as a template and do course Review]]
 
-* Ask Maureen to fire this up - Blue fire reader
+** Ask Maureen to fire this up - Blue fire reader
 http://www.bluefirereader.com/
 
-* DONE [#A] Tell students about review sessions
-* [[message://%3c8978FECC-9A8F-4A18-BAC3-5DBDD8E1586C@rush.edu%3E][QBank Login info]]
-* Things to discuss with Bob                                      :Bob_Leven:
-** Schedule computer labs
-** ultrasonic anatomy
-** Students shouldn't be under the impression that they never have to come into schoool to study.
-** Make 2 courses - anatomy practical only in VF not VG.
-** Mastery questions
-** Long-shot but any way we lengthen this block, add renal back and add a midterm?  How about moving sexuality and reproduction?
-** Pathophysiology/Psychology
-** Can't we put embryology and genetics into growth and development?
-* DONE [[message://%3c0C71C0D2-C0FD-46FC-9DB2-13D98F5B47B1@rush.edu%3E][Make an appointment with Mark about Midterm]]
-* DONE Make an appontment with Bob to talk about VFG
-* DONE [[message://%3ccd73bb06202d49e2a641a3795fd25773@RUPW-EXCHMAIL02.rush.edu%3E][FW: Scholar Rx Curriculum project]]
-* DONE Correct Ion channels Table in Heart 2 lecture
+** DONE [#A] Tell students about review sessions
+** [[message://%3c8978FECC-9A8F-4A18-BAC3-5DBDD8E1586C@rush.edu%3E][QBank Login info]]
+** Things to discuss with Bob                                    :Bob_Leven:
+*** Schedule computer labs
+*** ultrasonic anatomy
+*** Students shouldn't be under the impression that they never have to come into schoool to study.
+*** Make 2 courses - anatomy practical only in VF not VG.
+*** Mastery questions
+*** Long-shot but any way we lengthen this block, add renal back and add a midterm?  How about moving sexuality and reproduction?
+*** Pathophysiology/Psychology
+*** Can't we put embryology and genetics into growth and development?
+** DONE [[message://%3c0C71C0D2-C0FD-46FC-9DB2-13D98F5B47B1@rush.edu%3E][Make an appointment with Mark about Midterm]]
+** DONE Make an appontment with Bob to talk about VFG
+** DONE [[message://%3ccd73bb06202d49e2a641a3795fd25773@RUPW-EXCHMAIL02.rush.edu%3E][FW: Scholar Rx Curriculum project]]
+** DONE Correct Ion channels Table in Heart 2 lecture
  message://%3C62E7AA44-F95F-4599-8109-E451D2E97188@rush.edu%3E
-* DONE [#A] Required textbook to Jill
-* DONE [[message://%3c0000000000007d8f8c0567c82c51@google.com%3E][Edit objectives?]]
+** DONE [#A] Required textbook to Jill
+** DONE [[message://%3c0000000000007d8f8c0567c82c51@google.com%3E][Edit objectives?]]
 
-* DONE [#A] Rahul's spreadsheet
-* [[message://%3c5bf99a60328347b98e2c98f4b31e6123@RUPW-EXCHMAIL02.rush.edu%3E][Correct course review]]
-* DONE [#A] Call Peter about METC programs 2-8558
+** DONE [#A] Rahul's spreadsheet
+** [[message://%3c5bf99a60328347b98e2c98f4b31e6123@RUPW-EXCHMAIL02.rush.edu%3E][Correct course review]]
+** DONE [#A] Call Peter about METC programs 2-8558
 SCHEDULED: <2018-06-18 Mon>
-** Ask about distribution to students desktops
-* DONE Email Carl Oder about program distribution to first year students desktops
+*** Ask about distribution to students desktops
+** DONE Email Carl Oder about program distribution to first year students desktops
 SCHEDULED: <2018-06-19 Tue>
-** Did not need to do this.  Peter said its happening.
-* DONE Remove the "Review" tag on the Ca and PO4 renal overview for the M1's before posting for Vital Fluids
+*** Did not need to do this.  Peter said its happening.
+** DONE Remove the "Review" tag on the Ca and PO4 renal overview for the M1's before posting for Vital Fluids
   [2018-06-15 Fri]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/zFiled%20By%20Folder/LaTeX/Renal/Renal%20Handling%20of%20K-Ca-Phos/Renal%20Handling%20of%20K-Ca-Phos%202018-05-21.tex::%25%20REMOVE%20THE%20REVIEW%20TAG%20FOR%20M1s]]
 
-* DONE [[message://%3c000000000000200ecd056f1600d9@google.com%3E][Edit objectives for Rahul]]
+** DONE [[message://%3c000000000000200ecd056f1600d9@google.com%3E][Edit objectives for Rahul]]
   <2018-06-27 Thu>
-** [[message://%3c0000000000001f8594056f15f92c@google.com%3E][The other sheet]]
-* DONE [[message://%3c0013A202-4D5E-4478-93F9-E59820A796E8@rush.edu%3E][Talk to Maria about how muc overlap this can have with the exam we gave at the end of the block]]  Can it be the same?
+*** [[message://%3c0000000000001f8594056f15f92c@google.com%3E][The other sheet]]
+** DONE [[message://%3c0013A202-4D5E-4478-93F9-E59820A796E8@rush.edu%3E][Talk to Maria about how muc overlap this can have with the exam we gave at the end of the block]]  Can it be the same?
 SCHEDULED: <2018-06-22 Fri>
   [2018-06-22 Fri]
-* DONE [[message://%3c0013A202-4D5E-4478-93F9-E59820A796E8@rush.edu%3E][Prepare remediation exam]]
+** DONE [[message://%3c0013A202-4D5E-4478-93F9-E59820A796E8@rush.edu%3E][Prepare remediation exam]]
 DEADLINE: <2018-07-09 Mon>
   [2018-06-22 Fri]
   message://%3cddedebd326574bb3aa27f7dfbf79d326@RUPW-EXCHMAIL02.rush.edu%3E
-* Contact scholar when you send out list of topics.
+** Contact scholar when you send out list of topics.
 <2018-09-04 Tue>
-* [[message://%3c1531489158576.72946@rush.edu%3E][check up on the progress of vital fluids assessments]] <2018-08-15 Wed>
+** [[message://%3c1531489158576.72946@rush.edu%3E][check up on the progress of vital fluids assessments]] <2018-08-15 Wed>
   [2018-07-13 Fri]
-* DONE [#A] VF Introductory Video
-** Be sure to talk about EBM in the VF introductory video
+** DONE [#A] VF Introductory Video
+*** Be sure to talk about EBM in the VF introductory video
   [2018-08-01 Wed]
-* DONE [[message://%3cA5E72181-7894-47C0-B4D3-6996EB1AD0A5@rush.edu%3E][Email the blue print for VF to Jeffery and Princess on Monday]] <2018-08-13 Mon>
+** DONE [[message://%3cA5E72181-7894-47C0-B4D3-6996EB1AD0A5@rush.edu%3E][Email the blue print for VF to Jeffery and Princess on Monday]] <2018-08-13 Mon>
   [2018-08-09 Thu]
-* DONE Export and upload the ANS videos
-* CANCELED Videos for HaaP and IHC
+** DONE Export and upload the ANS videos
+** CANCELED Videos for HaaP and IHC
 :LOGBOOK:
 - Note taken on [2019-07-15 Mon 08:02] \\
   No idea what I meant by this.  What was I thinking?
 :END:
-* DONE [#A] Add Roles to Rainbow document
-* DONE Post CV12 material
+** DONE [#A] Add Roles to Rainbow document
+** DONE Post CV12 material
 - [X] insert introduction slide if necessary
 - [X] export videos
 - [X] Upload videos to youtube
@@ -863,7 +969,7 @@ DEADLINE: <2018-07-09 Mon>
 - [X] Figure numbering correct?
 - [X] Spell check
 - [X] Post pdfs and slides to entrada
-* DONE Post CV13 material
+** DONE Post CV13 material
 - [X] insert introduction slide if necessary
 - [X] export videos
 - [X] Upload videos to youtube
@@ -879,188 +985,188 @@ DEADLINE: <2018-07-09 Mon>
 - [X] Figure numbering correct?
 - [X] Spell check
 - [X] Post pdfs and slides to entrada
-* [[message://%3c4a499e041d3c49b79e55d29b2521f177@RUPW-EXCHMAIL02.rush.edu%3E][Adam's idea for an exercise]]
-* DONE put VF session dates into your calendar <2018-10-05 Fri>
-* DONE [#A] [[message://%3C2e9287854476467d8dcff7ec652c5c86@RUPW-EXCHMAIL02.rush.edu%3E][Review VF Case Completion Checklist]]
+** [[message://%3c4a499e041d3c49b79e55d29b2521f177@RUPW-EXCHMAIL02.rush.edu%3E][Adam's idea for an exercise]]
+** DONE put VF session dates into your calendar <2018-10-05 Fri>
+** DONE [#A] [[message://%3C2e9287854476467d8dcff7ec652c5c86@RUPW-EXCHMAIL02.rush.edu%3E][Review VF Case Completion Checklist]]
 [2018-08-31 Fri]
-* DONE [#A] [[message://%3cTA7_Oc9GaOolR-voevWslg.0@notifications.google.com%3E][add formative and summative breakdowns to case completion checklist for VF]]
-* CANCELED [[message://%3C51602F11-4F7D-4AAE-907F-010A763E2AE2@rush.edu%3E][Brand GASP]]
+** DONE [#A] [[message://%3cTA7_Oc9GaOolR-voevWslg.0@notifications.google.com%3E][add formative and summative breakdowns to case completion checklist for VF]]
+** CANCELED [[message://%3C51602F11-4F7D-4AAE-907F-010A763E2AE2@rush.edu%3E][Brand GASP]]
 [2018-09-07 Fri]
-* DONE [#A] [[message://%3CF7615B7D-9D3B-4340-8AA1-3F307FB2A49D@rush.edu%3E][Correct Renal Calculations Program]]
+** DONE [#A] [[message://%3CF7615B7D-9D3B-4340-8AA1-3F307FB2A49D@rush.edu%3E][Correct Renal Calculations Program]]
 :PROPERTIES:
 :SYNCID:   69A1A32B-7B87-4EBA-8878-8C29E49EF85B
 :ID:       3D65133D-8FB1-43F7-B826-EF72EB5805D9
 :END:
 [2018-09-07 Fri]
-* add make up dates tot he vital fluids syllabus <2018-10-08>
+** add make up dates tot he vital fluids syllabus <2018-10-08>
   [2018-09-12 Wed]
   [[file:/ssh:bearin8@bearingthenews.com#2222:/home/bearin8/Org/sexuality%20and%20reproduction.org::*%5B%5Bmessage://%253CF127DC5D-7959-425B-99B0-F1707605594F@rush.edu%253E%5D%5BWhen%20you%20post%20the%20BCS%20announcement,%20mention%20the%20live%20study%20plan%20link%20as%20well%5D%5D][When you post the BCS announcement, mention the live study plan link as well]]
-* DONE Upload VF materials
+** DONE Upload VF materials
   [2018-09-14 Fri]
-* DONE [#A] Remove the review tag for the overview of Ca homeostasis before generating this file for the M1s.
+** DONE [#A] Remove the review tag for the overview of Ca homeostasis before generating this file for the M1s.
  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/zFiled%20By%20Folder/LaTeX/Renal%20Handling%20of%20K-Ca-Phos/Renal%20Handling%20of%20K-Ca-Phos%202018-05-21.tex::%25%20REMOVE%20THE%20REVIEW%20TAG%20FOR%20M1s][file:~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/LaTeX/Renal Handling of K-Ca-Phos/Renal Handling of K-Ca-Phos 2018-05-21.tex::% REMOVE THE REVIEW TAG FOR M1s]]
   [2018-09-14 Fri]
-* DONE [#A] [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/zFiled%20By%20Folder/LaTeX/Renal%20Handling%20of%20K-Ca-Phos/Renal%20Handling%20of%20K-Ca-Phos%202018-05-21.tex::%25%20REMOVE%20THE%20REVIEW%20TAG%20FOR%20M1s][file:~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/LaTeX/Renal Handling of K-Ca-Phos/Renal Handling of K-Ca-Phos 2018-05-21.tex::% REMOVE THE REVIEW TAG FOR M1s]]
+** DONE [#A] [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/zFiled%20By%20Folder/LaTeX/Renal%20Handling%20of%20K-Ca-Phos/Renal%20Handling%20of%20K-Ca-Phos%202018-05-21.tex::%25%20REMOVE%20THE%20REVIEW%20TAG%20FOR%20M1s][file:~/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/LaTeX/Renal Handling of K-Ca-Phos/Renal Handling of K-Ca-Phos 2018-05-21.tex::% REMOVE THE REVIEW TAG FOR M1s]]
   [2018-09-14 Fri]
   [[file:/ssh:bearin8@bearingthenews.com#2222:/home/bearin8/diary::Jun%204,%202018%2012:00%20WWDC%20Keynote]]
-* DONE [[message://%3c2BB57C1E-FE19-46BA-9802-88079C515ED1@rush.edu%3E][Bob about assessments in back to back 2 hours sessions]]     :Bob_Leven:
+** DONE [[message://%3c2BB57C1E-FE19-46BA-9802-88079C515ED1@rush.edu%3E][Bob about assessments in back to back 2 hours sessions]]   :Bob_Leven:
   [2018-09-17 Mon]
-* DONE [#A] Talk to Maria about dates for Make ups and insert these nto the syllabus <2018-10-08 Fri>
-* DONE Send out comments for vital fluids cases - the emails are flagged
+** DONE [#A] Talk to Maria about dates for Make ups and insert these nto the syllabus <2018-10-08 Fri>
+** DONE Send out comments for vital fluids cases - the emails are flagged
   [2018-09-19 Wed]
-* DONE [#A] [[message://%3c8jyfSBOw_aPYDdUxSB01rg.0@notifications.google.com%3E][Finalize breakdown for fromatives and final exam for VF]]
+** DONE [#A] [[message://%3c8jyfSBOw_aPYDdUxSB01rg.0@notifications.google.com%3E][Finalize breakdown for fromatives and final exam for VF]]
   [2018-09-27 Thu]
-* FU: Added Practitioner Sessions:  <2018-10-05 Fri>
-** 1/18/19 ABP
-** 12/11 - thoracic imaging
-** 11/27 - EKG
-** 10/30 - Cong. heart
+** FU: Added Practitioner Sessions:  <2018-10-05 Fri>
+*** 1/18/19 ABP
+*** 12/11 - thoracic imaging
+*** 11/27 - EKG
+*** 10/30 - Cong. heart
   [2018-09-27 Thu]
-* FU: Added Practitioner Sessions:  <2018-10-05 Fri>
-** 1/18/19 ABP
-** 12/11 - thoracic imaging
-** 11/27 - EKG
-** 10/30 - Cong. heart
+** FU: Added Practitioner Sessions:  <2018-10-05 Fri>
+*** 1/18/19 ABP
+*** 12/11 - thoracic imaging
+*** 11/27 - EKG
+*** 10/30 - Cong. heart
   [2018-09-27 Thu]
-* FU: Added Practitioner Sessions:  <2018-10-05 Fri>
-** 1/18/19 ABP
-** 12/11 - thoracic imaging
-** 11/27 - EKG
-** 10/30 - Cong. heart
+** FU: Added Practitioner Sessions:  <2018-10-05 Fri>
+*** 1/18/19 ABP
+*** 12/11 - thoracic imaging
+*** 11/27 - EKG
+*** 10/30 - Cong. heart
   [2018-09-27 Thu]
-* DONE [[message://%3c0D7637AA-0999-40C9-AC98-17D040F01066@rush.edu%3E][Look at Entrada and see if the "required session problem" was fixed]] <2018-10-22 Mon> 
+** DONE [[message://%3c0D7637AA-0999-40C9-AC98-17D040F01066@rush.edu%3E][Look at Entrada and see if the "required session problem" was fixed]] <2018-10-22 Mon> 
   [2018-09-28 Fri]
-* DONE [#A] FU Bob and Christina on added practitioner sessions <2018-11-19 Mon>
+** DONE [#A] FU Bob and Christina on added practitioner sessions <2018-11-19 Mon>
   [2018-09-28 Fri]
-* [[https://www.rush.edu/news/press-releases/alternative-blood-thinners-available-patients-atrial-fibrillation?utm_source=twitter&utm_medium=social&utm_campaign=news&linkId=100000002365439][Add this to atrial fibrilation treatment?]]
-* DONE [#A] Reserve room for tutorial sessons
+** [[https://www.rush.edu/news/press-releases/alternative-blood-thinners-available-patients-atrial-fibrillation?utm_source=twitter&utm_medium=social&utm_campaign=news&linkId=100000002365439][Add this to atrial fibrilation treatment?]]
+** DONE [#A] Reserve room for tutorial sessons
   [2018-09-15 Sat]
-* DONE [#A] [[message://%3cfyLnKu2TyAg_Kl5KggtbDQ.0@notifications.google.com%3E][Review Pharmacology]]
+** DONE [#A] [[message://%3cfyLnKu2TyAg_Kl5KggtbDQ.0@notifications.google.com%3E][Review Pharmacology]]
   [2018-10-02 Tue]
-* DONE [[message://%3c1538443705896.72930@rush.edu%3E][FU BLS]] <2018-10-03 Wed>
+** DONE [[message://%3c1538443705896.72930@rush.edu%3E][FU BLS]] <2018-10-03 Wed>
   [2018-10-02 Tue]
-* DONE [#A] [[message://%3c8DE4BAE0-F624-4CC1-9708-A113EBAAC4A9@rush.edu%3E][Post Joanna's announcement]] <2018-10-05 Fri>
+** DONE [#A] [[message://%3c8DE4BAE0-F624-4CC1-9708-A113EBAAC4A9@rush.edu%3E][Post Joanna's announcement]] <2018-10-05 Fri>
   [2018-10-02 Tue]
-* DONE [#A] Plan of study for VF through MI2
+** DONE [#A] Plan of study for VF through MI2
   [2018-10-02 Tue]
-* DONE Write Melissa and talk about the material for the block
+** DONE Write Melissa and talk about the material for the block
   [2018-10-04 Thu]
-* DONE FU Mark about spreadsheet - see what Shay is doing.  Then get the reuest out for questions. <2018-10-12 Fri>
+** DONE FU Mark about spreadsheet - see what Shay is doing.  Then get the reuest out for questions. <2018-10-12 Fri>
   [2018-10-05 Fri]
-* DONE Get Melissa's materials to her
+** DONE Get Melissa's materials to her
   [2018-10-05 Fri]
-* DONE [#A] Move stuff from iMoive on Hard drive to portable drive.  Same with mp4s in QT directory.
+** DONE [#A] Move stuff from iMoive on Hard drive to portable drive.  Same with mp4s in QT directory.
   [2018-10-06 Sat]
-* DONE Post CV15 material
+** DONE Post CV15 material
   [2018-10-09 Tue]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/vital%20fluids.org::*Post%20CV13%20material][Post CV13 material]]
-* DONE Introductory video for VF
+** DONE Introductory video for VF
   [2018-10-09 Tue]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/vital%20fluids.org::*add%20make%20up%20dates%20tot%20he%20vital%20fluids%20syllabus%20<2018-10-08>][add make up dates tot he vital fluids syllabus <2018-10-08>]]
-* DONE Murmurs on Wednesday 11/28/18 <2018-11-05 Mon>
+** DONE Murmurs on Wednesday 11/28/18 <2018-11-05 Mon>
   [2018-10-09 Tue]
-* DONE [#A] [[message://%3ce5bc59cbdb6d4ec19ef3d3fbeb6616e2@RUPW-EXCHMAIL02.rush.edu%3E][Review Eli self-study]]
+** DONE [#A] [[message://%3ce5bc59cbdb6d4ec19ef3d3fbeb6616e2@RUPW-EXCHMAIL02.rush.edu%3E][Review Eli self-study]]
   [2018-10-10 Wed]
-* DONE [#A] Post Melissa's materials
-* DONE [[message://%3ce7aba52d467c4745a74a2edba0e5d58e@RUPW-EXCHMAIL02.rush.edu%3E][Get the dates of all physiology events and make them optional]]
+** DONE [#A] Post Melissa's materials
+** DONE [[message://%3ce7aba52d467c4745a74a2edba0e5d58e@RUPW-EXCHMAIL02.rush.edu%3E][Get the dates of all physiology events and make them optional]]
   [2018-10-11 Thu]
 
 
-* DONE Pick a date for the next student lunch <2018-11-01 Thu>
+** DONE Pick a date for the next student lunch <2018-11-01 Thu>
 
-* DONE [#A] Invite students to lunch <2018-11-15 Thu>
-* DONE [[message://%3c9B726C3D-216F-49E0-BA5E-2E7B3CEA35BB@rush.edu%3E][Blue print spreadsheet]] <2018-10-29 Mon>
+** DONE [#A] Invite students to lunch <2018-11-15 Thu>
+** DONE [[message://%3c9B726C3D-216F-49E0-BA5E-2E7B3CEA35BB@rush.edu%3E][Blue print spreadsheet]] <2018-10-29 Mon>
   [2018-10-12 Fri]
-* DONE [#A] syllabus for VF
+** DONE [#A] syllabus for VF
   [2018-10-13 Sat]
-* DONE [#A] review committee has Advocate?
+** DONE [#A] review committee has Advocate?
   [2018-10-15 Mon]
-* DONE Bug Paul
+** DONE Bug Paul
   [2018-10-15 Mon]
-* DONE Email Nina
+** DONE Email Nina
   [2018-10-15 Mon]
-* DONE [#A] Send a reminder about the meeting
-* DONE [#A] [[message://%3cf4582c1c6e34407b8aab6b469a5948af@RUPW-EXCHMAIL02.rush.edu%3E][Try to visit with Jeffery on this]]
+** DONE [#A] Send a reminder about the meeting
+** DONE [#A] [[message://%3cf4582c1c6e34407b8aab6b469a5948af@RUPW-EXCHMAIL02.rush.edu%3E][Try to visit with Jeffery on this]]
   [2018-10-17 Wed]
-* DONE [#A] Email students about VF introductory video <2018-10-19 Fri>
+** DONE [#A] Email students about VF introductory video <2018-10-19 Fri>
   [2018-10-16 Tue]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/notes/video%20links%20for%20curriculum.org::*https://youtu.be/ze36Zu7hfnY%20Introduction%20to%20the%20Vital%20Fluids%20Block%202018%202018-10-16%20(47:19)][https://youtu.be/ze36Zu7hfnY Introduction to the Vital Fluids Block 2018 2018-10-16 (47:19)]]
-* DONE [#A] [[message://%3c5c78c4eeee3049c58d6649fb405edb6e@RUPW-EXCHMAIL02.rush.edu%3E][Review Keith Simmons 1 self-study]]
+** DONE [#A] [[message://%3c5c78c4eeee3049c58d6649fb405edb6e@RUPW-EXCHMAIL02.rush.edu%3E][Review Keith Simmons 1 self-study]]
   [2018-10-18 Thu]
-* DONE [#A] [[message://%3c6cb264f2325a41f0b4dfa71b08fc14d8@RUPW-EXCHMAIL02.rush.edu%3E][Create James Parker sStudent Version]]
+** DONE [#A] [[message://%3c6cb264f2325a41f0b4dfa71b08fc14d8@RUPW-EXCHMAIL02.rush.edu%3E][Create James Parker sStudent Version]]
   [2018-10-18 Thu]
-* DONE [#A] Add assessment info to faculty guides
-* DONE [#A] Remind students about EBM
+** DONE [#A] Add assessment info to faculty guides
+** DONE [#A] Remind students about EBM
 SCHEDULED: <2018-12-06 Thu>
    [2018-10-22 Mon]
-* DONE [[message://%3c1540409091710.95005@rush.edu%3E][Think about what to do about Paul's "2 point" quesiton for formative]]
+** DONE [[message://%3c1540409091710.95005@rush.edu%3E][Think about what to do about Paul's "2 point" quesiton for formative]]
    [2018-10-25 Thu]
-* DONE [[message://%3c1540473682257.95004@rush.edu%3E][Schedule students for next week as soon as CE gets back to you with the OK]] <2018-11-20 Tue>
-* DONE [#A] Set core DD meetings
+** DONE [[message://%3c1540473682257.95004@rush.edu%3E][Schedule students for next week as soon as CE gets back to you with the OK]] <2018-11-20 Tue>
+** DONE [#A] Set core DD meetings
    [2018-10-26 Fri]
-* DONE [[message://%3cB7B2D64D-A245-4910-B00D-06AEAB710E7C@rush.edu%3E][Did MArk get back to this student?]] <2018-10-27 Sat>
+** DONE [[message://%3cB7B2D64D-A245-4910-B00D-06AEAB710E7C@rush.edu%3E][Did MArk get back to this student?]] <2018-10-27 Sat>
    [2018-10-26 Fri]
-* DONE [#A] Do more work on the plan of study
+** DONE [#A] Do more work on the plan of study
    [2018-10-26 Fri]
-* DONE [#A] [[message://%3cD5FD81CE-6C8A-4606-B534-B9033C554C77@rush.edu%3E][FU this student who wanted to look at his quiz]]
+** DONE [#A] [[message://%3cD5FD81CE-6C8A-4606-B534-B9033C554C77@rush.edu%3E][FU this student who wanted to look at his quiz]]
    [2018-10-27 Sat]
-* DONE Set core DD meetings
-* DONE [#B] Practice questions from both you and the others <2018-11-02 Fri>
-* DONE Make sure you have rooms for the core disciplines meetings
+** DONE Set core DD meetings
+** DONE [#B] Practice questions from both you and the others <2018-11-02 Fri>
+** DONE Make sure you have rooms for the core disciplines meetings
 [2018-10-29 Mon 03:43]
-* DONE [[message://%3c0115861F-9BDD-4848-BD3B-04340D5DDD6A@rush.edu%3E][Get back to this student after Adam gets back to you]]
+** DONE [[message://%3c0115861F-9BDD-4848-BD3B-04340D5DDD6A@rush.edu%3E][Get back to this student after Adam gets back to you]]
    [2018-10-30 Tue]
-* DONE [#A] [[message://%3c544E7AEE-DE83-4D76-94CD-1488819F1FD4@rush.edu%3E][Make sure these dates for the roles sessions get into Entrada]] <2018-11-05 Mon>
+** DONE [#A] [[message://%3c544E7AEE-DE83-4D76-94CD-1488819F1FD4@rush.edu%3E][Make sure these dates for the roles sessions get into Entrada]] <2018-11-05 Mon>
    [2018-10-30 Tue]
-* DONE Post an announcement about where you are now for office hours
+** DONE Post an announcement about where you are now for office hours
    [2018-10-30 Tue]
-* DONE email about core disciplines meeting 
+** DONE email about core disciplines meeting 
    [2018-10-30 Tue]
-* DONE [#A] [[message://%3c4F2F394B-40BB-4FD8-A7AE-7CBF9F509F4C@rush.edu%3E][FU Melissa on evals]] <2018-11-01 Thu>
+** DONE [#A] [[message://%3c4F2F394B-40BB-4FD8-A7AE-7CBF9F509F4C@rush.edu%3E][FU Melissa on evals]] <2018-11-01 Thu>
    [2018-10-31 Wed]
-* DONE [[message://%3cDE279C6A-1C6F-4987-8B1D-51FBE4F52DFC@rush.edu%3E][Get back to Joanna on formative quewstoins.  DO this NOW]] <2018-11-01 Thu>
+** DONE [[message://%3cDE279C6A-1C6F-4987-8B1D-51FBE4F52DFC@rush.edu%3E][Get back to Joanna on formative quewstoins.  DO this NOW]] <2018-11-01 Thu>
    [2018-11-01 Thu]
-* DONE Invite students to lunch on Nov. 16 <2018-11-16 Fri>
+** DONE Invite students to lunch on Nov. 16 <2018-11-16 Fri>
    [2018-10-31 Wed]
-* DONE [[message://%3cECFEB746-D152-4641-9286-0259C43D912F@rush.edu%3E][FU Mark on this]]
+** DONE [[message://%3cECFEB746-D152-4641-9286-0259C43D912F@rush.edu%3E][FU Mark on this]]
    [2018-11-01 Thu]
-* DONE [#A] [[message://%3cC22E82AE-C0C0-453B-BCE5-06F7142BAA42@rush.edu%3E][Add a rationale for this item]]
+** DONE [#A] [[message://%3cC22E82AE-C0C0-453B-BCE5-06F7142BAA42@rush.edu%3E][Add a rationale for this item]]
    [2018-11-01 Thu]
-* DONE [#A] [[message://%3c0EE597A7-B4E5-4ADF-9EBD-80E4695CA455@rush.edu%3E][Respond to Jesse]]
+** DONE [#A] [[message://%3c0EE597A7-B4E5-4ADF-9EBD-80E4695CA455@rush.edu%3E][Respond to Jesse]]
    [2018-11-01 Thu]
-* DONE Check programs in 903
-* DONE [#A] Post Joanna's video
+** DONE Check programs in 903
+** DONE [#A] Post Joanna's video
    [2018-11-01 Thu]
-* DONE [[message://%3c706532D1-2FFA-4CF8-A014-565ABAD9843C@rush.edu%3E][FU Peter Tubbs on programs]] <2018-11-15 Thu>
+** DONE [[message://%3c706532D1-2FFA-4CF8-A014-565ABAD9843C@rush.edu%3E][FU Peter Tubbs on programs]] <2018-11-15 Thu>
    [2018-11-02 Fri]
-* DONE [#A] [[message://%3cF3B26E88-CAB6-450A-8628-BDCB4B0BC025@rush.edu%3E][FU on Bitz's questions]]
+** DONE [#A] [[message://%3cF3B26E88-CAB6-450A-8628-BDCB4B0BC025@rush.edu%3E][FU on Bitz's questions]]
    [2018-11-03 Sat]
-* DONE [#A] Ask Janice to put formative reviews on Entrada
+** DONE [#A] Ask Janice to put formative reviews on Entrada
    [2018-11-03 Sat]
-* DONE [#A] Post the practice quesitons and email the class
+** DONE [#A] Post the practice quesitons and email the class
    [2018-11-05 Mon]
-* DONE [#A] [[message://%3c43221B88-86CD-42E3-8EC6-B6D1B3D01303@rush.edu%3E][Check to see if all of the added sessions, including the review sessions, are in]]
+** DONE [#A] [[message://%3c43221B88-86CD-42E3-8EC6-B6D1B3D01303@rush.edu%3E][Check to see if all of the added sessions, including the review sessions, are in]]
    [2018-11-06 Tue]
-* DONE [#A] Blue print formative 2
+** DONE [#A] Blue print formative 2
    [2018-11-06 Tue]
-* DONE [#A] Review videos
-* DONE [#A] [[message://%3c1542203363294.63310@rush.edu%3E][Get back to Nikki]]
+** DONE [#A] Review videos
+** DONE [#A] [[message://%3c1542203363294.63310@rush.edu%3E][Get back to Nikki]]
   [2018-11-15 Thu]
-* DONE From Maureen:  Next time you make an announcement to the M1's would you let them know I uploaded the document of my micro talking points from yesterday's session in the Course Review Tab? Post this with formative info.
+** DONE From Maureen:  Next time you make an announcement to the M1's would you let them know I uploaded the document of my micro talking points from yesterday's session in the Course Review Tab? Post this with formative info.
    SCHEDULED: <2018-11-28 Wed>
   [2018-11-20 Tue]
-* DONE [#A] [[message://%3c2AFBCD3C-7132-40DA-93D6-9C5689D67F65@rush.edu%3E][Prompt Paul for formative questions if he doesnt' statrt getting back to Michelle.]]
+** DONE [#A] [[message://%3c2AFBCD3C-7132-40DA-93D6-9C5689D67F65@rush.edu%3E][Prompt Paul for formative questions if he doesnt' statrt getting back to Michelle.]]
   [2018-11-21 Wed]
-* DONE [#A] [[message://%3c17C57E90-B495-409A-BD2A-49B67C4BD484@rush.edu%3E][Prompt Sarah for formative questions if she doesn't start getting back to Michelle.]]
+** DONE [#A] [[message://%3c17C57E90-B495-409A-BD2A-49B67C4BD484@rush.edu%3E][Prompt Sarah for formative questions if she doesn't start getting back to Michelle.]]
   [2018-11-21 Wed]
-* DONE [#A] [[message://%3cc06f4d9db14d4f5ca320f3233ba194cc@RUPW-EXCHMAIL01.rush.edu%3E][Post thoracic imaging as soon as it is done]]             :Danesha:
+** DONE [#A] [[message://%3cc06f4d9db14d4f5ca320f3233ba194cc@RUPW-EXCHMAIL01.rush.edu%3E][Post thoracic imaging as soon as it is done]]           :Danesha:
   [2018-11-21 Wed]
-* DONE [[message://%3cA6D645FD-30DD-41C4-8CF7-E0F456825337@rush.edu%3E][FU Bitz after Syed's comments]]
+** DONE [[message://%3cA6D645FD-30DD-41C4-8CF7-E0F456825337@rush.edu%3E][FU Bitz after Syed's comments]]
    [2018-11-23 Fri]
-* DONE [#A] [[message://%3c2A44B8CB-52DA-4367-A89E-3105D0E14A1C@rush.edu%3E][Review formative 2]]
+** DONE [#A] [[message://%3c2A44B8CB-52DA-4367-A89E-3105D0E14A1C@rush.edu%3E][Review formative 2]]
    [2018-11-27 Tue]
-* DONE [#A] Invite Joanna to Assadi meeting
-* DONE [#A] FU with Syed and Anne if their material isn't in
+** DONE [#A] Invite Joanna to Assadi meeting
+** DONE [#A] FU with Syed and Anne if their material isn't in
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
 :END:
