@@ -1,11 +1,6 @@
 * Tasks
-
-
-
 ** TODO [[https://www.mybulova.com/bulova-case-numbers][Bulova Case Serial Numbers | myBulova.com]]
-
 ** TODO [[https://dealsngadgets.com/bulova-watch-serial-numbers/][Bulova Watch Serial Numbers Lookup – Don’t Get Faked Out Again Complete Guide]]  A good history site
-
 ** TODO [[http://www.thewatchguy.com/pages/BulovaSerial.html][The Watch Guy: Bulova Serial Number Table & Manufacture Dates]] :: This site says tht there are watches out ther ewith A8 and A9 for 1948 and 1949.  I actually found one with an A0 that is supposedly a 1950 Excellency
 https://www.ebay.com/itm/VINTAGE-BULOVA-EXCELLENCY-MEN-S-WRIST-WATCH-7AA-MOVEMENT-21-JEWELS-RUNS/283577689663?hash=item42068c263f%3Ag%3A-skAAOSwiu1dG460&LH_ItemCondition=2000%7C3000
 ** TODO Complete the VF blueprint for physiology
@@ -13,3 +8,6 @@ https://www.ebay.com/itm/VINTAGE-BULOVA-EXCELLENCY-MEN-S-WRIST-WATCH-7AA-MOVEMEN
 - Note taken on [2019-08-21 Wed 14:43] \\
   Almost there.  Just run through the session quizes.
 :END:
+* TODO Bulova 1940 Conrad | myBulova.com
+[2019-08-21 Wed 22:37]
+https://www.mybulova.com/watches/1941-conrad-3366
