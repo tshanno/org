@@ -784,7 +784,10 @@ SCHEDULED: <2019-06-17 Mon>
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       EE5D0660-D3C1-43B2-A037-82DEE8B4E220
 :END:
-** TODO [#A] Air media
+** DONE [#A] Air media
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 10:51]
+:END:
 ** DONE [#A] Talk to Rahul
 :PROPERTIES:
 :SYNCID:   93F05CF3-0923-441F-A231-9E9CABD5B7C3
@@ -795,4 +798,8 @@ SCHEDULED: <2019-06-17 Mon>
 - Make deadlines earlier
 **** Add two weeks this year
 **** Make them earlier next year if you wnat reasonably big changes.
-** TODO [#A] Tell Carl how to use air media
+** CANCELED [#A] Tell Carl how to use air media
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-08-22 Thu 10:52] \\
+  Looks like he's working mostly with the M1s
+:END:

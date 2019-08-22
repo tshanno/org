@@ -38,12 +38,20 @@
 :SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
 :ID:       F120E038-19E3-450A-939D-C3FAB64C6017
 :END:
-** TODO [#A] Peds clinicians for ToF
+** These are the Peds clinicians for ToF
+SCHEDULED: <2019-10-01 Tue>
 [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 -Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
 -Taemyn Hollis and I will be joining practitioner session 10/22 8-10am :: at pracitioner session
 
+** WAITING [#A] Contact the AT memeber in charge of ToF and ask them to look at the faculty guide before posting.
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-22 Thu 10:48] \\
+  <2019-08-22 Thu> Contacted Paola Susan and asked her to look it over.
+- Note taken on [2019-08-22 Thu 09:06] \\
+  Tell them we will encourage faculty and students to move more quickly through this.
+:END:
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>

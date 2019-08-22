@@ -326,6 +326,14 @@ SCHEDULED: <2019-08-08 Thu>
 - State "DONE"       from              [2019-08-09 Fri 09:16]
 :END:
 
+** [[message://%3cAE86C7F6-1999-4228-87EE-BDA30A12C0F3@rush.edu%3E][Core Discipline Directors Meetings]]
+SCHEDULED: <2019-08-24 Sat>
+:LOGBOOK:
+- Note taken on [2019-08-22 Thu 09:21] \\
+  Cancel future meetings and schedule new ones on Wednesdays.
+:END:
+** Remind everyone that the VF and S&R blueprints need to be done by Monday.
+SCHEDULED: <2019-08-23 Fri>
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -608,10 +616,13 @@ SCHEDULED: <2019-06-27 Thu>
 :END:
 - [X] Prepare blueprint
 - [X] Send to DDs
-** TODO [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
+** DONE [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
 :PROPERTIES:
 :SYNCID:   AAE958EC-361F-49FE-AAF4-40990A1877D8
 :ID:       9D75E01F-793F-47C6-8A07-E012A2162948
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 10:36]
 :END:
 ** DONE [#A] Ask Mike about Adrenergic agonsits (TO-0712), adrenergic antagonists (TO-0730) and cholinergic agonists (TO-0719).  Do these go with HFs, renal vignettes of life cycle block?
 :PROPERTIES:
@@ -668,6 +679,12 @@ SCHEDULED: <2019-06-27 Thu>
 :ID:       BC392D9A-6176-4D08-835F-B662AE9FD1D8
 :END:
 
+** DONE [#A] Complete the VF blueprint for physiology
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 11:33]
+- Note taken on [2019-08-21 Wed 14:43] \\
+  Almost there.  Just run through the session quizes.
+:END:
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

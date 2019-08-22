@@ -23,6 +23,15 @@ SCHEDULED: <2019-06-20 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-13 Tue 13:33]
 :END:
+** WAITING [#A] Email the CEs and DDs about use of new space
+:PROPERTIES:
+:SYNCID:   FF56E38E-C367-4D53-8E55-123A392BFD28
+:ID:       0E7CD396-DBA6-48F1-A741-A9078998A28E
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
+  Emailed a draft to Bob
+:END:
 * *Ticklers*
 ** See if the review session for Formative got moved from 9/12 to 9/17
 SCHEDULED: <2019-08-22 Thu>

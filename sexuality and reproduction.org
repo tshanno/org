@@ -72,7 +72,10 @@ There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  It
 ** Make sure you add Neeral's content in the proper spot [[message://%3c1565051923008.29249@rush.edu%3E][Sexuality/Reproduction for AY 20/21]]
 SCHEDULED: <2020-02-01 Sat>
 
-** TODO [#A] Make an introductory video for S&R
+** DONE [#A] Make an introductory video for S&R
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 10:52]
+:END:
 *** Be sure to explain that the S&R block and the life cycle blocks are outr attempt to be forward thinking and to get ahead of the curve.  Some of the content might not be in First Aid.
 *** Narrative feedback
 *** Add comment about women's health being forward thinking
@@ -1005,7 +1008,23 @@ Tom S.1
 - Make deadlines earlier
 **** Add two weeks this year
 **** Make them earlier next year if you wnat reasonably big changes.
-** TODO [#A] Get S&R Syllabus Up
+** DONE [#A] Get S&R Syllabus Up
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 10:52]
+:END:
+** DONE [#A] Send draft of email to CEs and DDs to Bob.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 11:27]
+:END:
+** WAITING [#A] Email the CEs and DDs about use of new space
+:PROPERTIES:
+:SYNCID:   FF56E38E-C367-4D53-8E55-123A392BFD28
+:ID:       A1B98200-AB74-4387-96A6-2BEFFBB2DACD
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
+  Emailed a draft to Bob
+:END:
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

@@ -37,10 +37,15 @@ What dates/times are good for you?
 
 Anne
 
-** TODO [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
+** DONE [#A] Email Kiya and Anne about what to do with hemolytic uremic syndrome.  Does this belong in renal vignettes or in AKI?
 :PROPERTIES:
 :SYNCID:   AAE958EC-361F-49FE-AAF4-40990A1877D8
 :ID:       C280A1B7-DB09-476E-B62D-C1AD6A5BF301
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-22 Thu 10:36] \\
+  Kiya said to move it to AKI.
+- State "DONE"       from "TODO"       [2019-08-22 Thu 10:36]
 :END:
 * *Ticklers*
 * *Meetings*

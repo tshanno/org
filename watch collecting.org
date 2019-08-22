@@ -1,20 +1,27 @@
 * *Tasks*
 ** TODO [[http://www.thewatchguy.com/pages/repair.html][HOW TO CLEAN AND OIL A VINTAGE MECHANICAL WRIST WATCH OR POCKET WATCH REPAIR]]
-** TODO [#A] [[https://forums.watchuseek.com/f295/tips-buying-vintage-watch-122415.html][Tips on buying a vintage watch]]
+** TODO [[https://forums.watchuseek.com/f295/tips-buying-vintage-watch-122415.html][Tips on buying a vintage watch]]
 
 
 Read Ray MacDonald's Sticky: "7 Rules to Determine the Value of Your Vintage Watch."
-** TODO Bulova 1942 Dean
+** DONE Bulova 1942 Dean
 SCHEDULED: <2019-08-21 Wed>
-** TODO Bulova 1959 Craftsman
-SCHEDULED: <2019-08-21 Wed>
-** TODO [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Ji64PH][Take a good look at that logo on your new "1945" Elgin watch]]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 09:49]
+:END:
+** DONE Bulova 1959 Craftsman
+SCHEDULED: <2019-08-21 Wed>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-22 Thu 09:49]
+:END:
+** DONE [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Ji64PH][Take a good look at that logo on your new "1945" Elgin watch]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-22 Thu 10:54]
 - Note taken on [2019-08-20 Tue 07:50] \\
   If its a shockmaster logo and not a durapower logo, the dial may have been repleacd.
 :END:
 ** TODO [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Pt96B4][Get the serial number off of the movement of the Elgin that you bought Circa 1950]]
-** TODO [#A] [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
+** TODO [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
 ** TODO Salvation Army
 https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,%20United%20States&auid=10653552741926904546&ll=41.881722,-87.665252&lsp=9902&q=Salvation%20Army&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhAWCgQIChAAEiYpX6nTF0nwREAxrGC7U/bqVcA53X75c2/xREBByOzWpDDqVcBQBA%3D%3D&t=m
 
@@ -48,6 +55,10 @@ https://www.chrono24.com/bulova/index.htm
 http://www.watchophilia.com/general-information/determining-the-model-name-of-a-watch/
 *** TODO Bulova - Date Symbols, Codes, Serial Numbers | Watchophilia.com
 http://www.watchophilia.com/general-information/determining-the-date-of-a-watch/
+*** [[https://www.mybulova.com/bulova-case-numbers][Bulova Case Serial Numbers | myBulova.com]]
+*** [[https://dealsngadgets.com/bulova-watch-serial-numbers/][Bulova Watch Serial Numbers Lookup – Don’t Get Faked Out Again Complete Guide]]  A good history site
+*** [[http://www.thewatchguy.com/pages/BulovaSerial.html][The Watch Guy: Bulova Serial Number Table & Manufacture Dates]] :: This site says tht there are watches out ther ewith A8 and A9 for 1948 and 1949.  I actually found one with an A0 that is supposedly a 1950 Excellency
+https://www.ebay.com/itm/VINTAGE-BULOVA-EXCELLENCY-MEN-S-WRIST-WATCH-7AA-MOVEMENT-21-JEWELS-RUNS/283577689663?hash=item42068c263f%3Ag%3A-skAAOSwiu1dG460&LH_ItemCondition=2000%7C3000
 ** *Elgin*
 *** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
 *** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
