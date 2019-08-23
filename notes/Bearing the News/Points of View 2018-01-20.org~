@@ -1,0 +1,105 @@
+% Created 2017-11-13 Mon 14:23
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+\tolerance=1000
+
+\begin{document}
+\begin{itemize}
+\item \textbf{Brad Biggs} at the \textit{Chicago Tribune} \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-matt-nagy-vic-fangio-20180116-story.html}{answers your questions}:
+
+  What do \textbf{Ryan Pace} and the coaching staff do during these playoff weeks? Are they still hiring coaches or staff? — @wiesnoski
+
+  \textbf{Matt Nagy} is working to complete his staff, and the next step, especially for the new coaches, is to completely review the 2017 season. The new coaches need to have a thorough understanding of what they are inheriting so they can contribute in meetings, hatch a plan for free agency and plan for the draft. It’s a time-consuming process. Coaches who remain from last season will be completing their player assessments as they prepare for meetings that will chart the course of the offseason. Pace said something that made a lot of sense when Nagy was introduced: It will be nice to have a fresh voice and opinion about the roster. What’s good? What’s not good? What works? What doesn’t work? It’s not just Nagy’s voice — all of the new coaches will have input in the process, which is significant because the most difficult process any team has is evaluating its own roster. Former general manager \textbf{Jerry Angelo} used to drive that point home, and it’s true. It’s easy to look at another team and determine its weaknesses. It’s more difficult to self-scout and be completely honest.
+
+ I find this to be easy to believe.  However, there are disadvantages to offset it.
+
+ One of the problems that anyone who has tried to make an evaluation of anyone from video has run into is that they don't know the plays and, therefore, don't know who's responsibility it was to do what.  It is possible to infer this given the playbook but I doubt anyone can be 100\% sure.
+\item  Biggs \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-matt-nagy-vic-fangio-20180116-story.html}{answers another}:
+
+  What approach do you see Pace taking to improve the offensive line this offseason? Is the highest priority on stabilizing the interior or increasing talent at tackles? — @carl9730
+
+As I’ve written, the biggest decision the Bears have to make on the offensive line is what to do with 31-year-old guard Josh Sitton. The Bears hold a 2018 option that must be executed between Feb. 9 — five days after Super Bowl LII — and March 9 — five days before the start of the new league year. The option is for \$8 million — \$7.4 million in base salary with a \$500,000 roster bonus and a \$100,000 workout bonus. That’s the first domino for the line this offseason. If the Bears move forward with Sitton, you’re probably looking at a lineman being added during the draft, and then the team determining a path for a swing tackle. If the Bears don’t bring Sitton back, they need to determine if they want to keep Cody Whitehair at center and get a guard or consider Whitehair at guard and get a center.
+
+I agree with all of this but the lost man here seems to be 2017 fifth round pick \textbf{Jordan Morgan}.  Morgan was placed on injured reserve before the regular season started.  No indication was given as to what the scource of the injury was.
+
+Morgan is a big guy
+\href{http://www.chicagobears.com/multimedia/videos/Scout-on-drafting-Jordan-Morgan/722fe309-9a6c-46d8-8357-7345ee5fa185}{with
+  a reputation for having some ``nastiness'' in his make up}.  Morgan
+played at Kutztown and hasn't seen a lot of high level competition.
+How much he was able to develop this season probably depends upon the
+nature of his injury.  Nevertheless, as a fifth round guard, I have to
+believe that they drafted him with the idea that he would develop into
+a starter.
+\item Biggs \href{{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-mailbag-matt-nagy-vic-fangio-20180116-story.html}}{with yet another one}:
+
+  Do you think the Bears promised Fangio they would use the No. 8 pick on a defensive playmaker as a way of luring him back? — Corey S., Chicago
+
+  No way. Pace would never make a promise like that, and the Bears have no way of knowing who will be on the board when they pick. Further, they have a lot of ground to cover before they complete draft evaluations, and what they do in free agency will likely shape the direction of the draft. I think you’re overthinking this one.
+
+  Totally agree.
+
+  I like Fangio as much as anyone and I'm glad the Bears resigned him.  The continuity is valuable and it helps.  But it isn't like good defensive coordinators with vast experience running their units aren't out there.  I'm not saying their a dime a dozen but they aren't hard to find in the current climate where good offensive coaches who can coach quarterbacks seem to be the ones that are at a premium.
+
+  Keeping Fangio was prefereable but far from essential for success.
+\item \textbf{Rob Demovsky} at \textit{ESPN.com} \href{http://www.espn.com/blog/green-bay-packers/post/_/id/43429/eagles-vikings-show-packers-how-they-couldve-won-without-aaron-rodgers}{describes} why the Packers fell apart when their starting quarterback went down and the Eagles and the Vikings didn't:
+
+  ``When [Minnesota quarterback \textbf{Case}] \textbf{Keenum} replaced \textbf{Sam Bradford} (who had replaced \textbf{Teddy Bridgewater}), he had 24 career starts under his belt. When [Eagles quarterback \textbf{Nick} \textbf{Foles} replaced \textbf{Carson Wentz}, he had 36 starts.
+
+  When \textbf{Brett Hundley} took over for \textbf{Aaron Rodgers}, who broke his collarbone in Week 6, the Packers were going with a first-time starter.''
+
+  ``But it runs much deeper than just the fill-in quarterbacks.
+
+  The top-seeded Eagles ranked fourth in the NFL in total defense and were No. 1 against the run. The Vikings ranked first in total defense and were second against both the run and the pass.''
+
+  The bottom line is that the Packers either lacked talent or didnt' develop it and once Roger went down, they were exposed.
+
+  My gut feeling is that the Packers identified the problem correctly in that former general manager \textbf{Ted Thompson} paid the price and was kicked upstairs.  Although he was let go, I don't think defensive coordinator \textbf{Dom Capers} failed to develop it nor do I think the rest of the staff was responsible. There was flat out a lack of talent on the roster and everyone with eyes knew it.
+  
+\item The Bears \href{http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-jason-george-strength-coach-20180116-story.html}{have fired strength coach \textbf{Jason George}}.
+
+    George is apparently taking at least part of the fall for the Bears tendency to sustain a lot injuries, particularly soft tissue injuries.    Though I have heard fans and media claim that George likely has little to do with it, I'm not so sure.
+
+    The Bears had a marvelous record for remaining healthy when \textbf{Rusty Jones} was the strength coach under former head coach \textbf{Lovie Smith}.  When Jones \href{http://articles.chicagotribune.com/2013-02-07/sports/ct-spt-0208-bears-pompei-rusty-jones-chicago--20130208_1_rusty-jones-strength-coach-phil-emery}{retired in 2013} the Bears consciously decided to leave his training regime largely behind in an effort \href{http://articles.chicagotribune.com/2013-06-01/sports/ct-spt-0602-bears-pompei-chicago-20130602_1_strength-coach-mike-clark-strength-program}{to become ``more powerful and explosive''} with new coach \textbf{Mike Clark}.  My interpretation was that meant, ``bigger, more finely tuned muscle mass''.  Going along with that, you would expect more stress on tendons and, to a lesser extent, ligaments.  I think the Bears injury record since that time has borne that out.
+
+    It will be interesting to see where the Bears go from here and what his background looks like.  I wouldn't be at all surprised if he was a Jones disciple or if he ran a system that was similar.
+
+  \end{itemize}
+  \subsection{One Final Thought}
+  \textbf{Alden Gonzalez} at \textit{ESPN.com} \href{http://www.espn.com/blog/los-angeles-rams/post/_/id/37490/jeff-fisher-not-surprised-at-all-by-success-of-case-keenum-nick-foles}{points out} that three of the four quarterbacks in the NFL conference champoinships this weekend played for - and didn't play well for - former Rams head caoch \textbf{Jeff Fisher}.
+
+  Fisher is a former Bear and he undoubtedly did fine work in the lockerroom - something that is arguably more important than the in game coaching that so many fans tend to emphasie because that's what they see.
+
+  But above in game coaching and above relationships in the lockerroom, a coach is still a coach first.  Fisher is a defensive mind that never found the right offensive coaches and never provided the envirnment needed to coach up and nurture a quarterback.
+
+  Many will claim that the Bears have never had the talent to succeed
+  because they've never had the talent at quarterback.  That may be
+  part of the problem but the truth is they've never had the tools to
+  properly develop one either.  They have now provided \textbf{Mitch
+    Trubisky} with three quarterback coaches, Nagy, new offensive
+  coordinator \textbf{ Mark Helfrich} and whoever the quarterback
+  coach will be, probably \textbf{Dave Ragone}.  Here's hoping they
+  have provided him with the right ones.
+  \end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
