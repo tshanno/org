@@ -5,6 +5,12 @@
 ** TODO Make sure there are markers for th ewhite boards for each of the eight groups.
 ** TODO PICTURES [[https://www.watchophilia.com/photogallery/bulovas-1940-1949/][Bulova - Vintage Watches 1940s | Watchophilia.com]]
 ** TODO 3 more physiology questions and 4 more pathology quesitons for S&R final exam
-* Make a plan to have everyone join Slack
+** Make a plan to have everyone join Slack
 Start by asking mark if we have a paying account.
-* Put a preview
+** Put a preview
+** TODO This looks simple and might be a good solution for getting away from Outlook [[http://davmail.sourceforge.net/index.html][DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway]]
+** TODO 3 more quesiotns for the S&R summative exam
+** TODO FU with Dan on this [[message://%3c825401453.771566561629724.JavaMail.RUDWV-KEYAPP001$@RUDWV-KEYAPP001%3E][IACUC Protocol expiration notice: 17-040, SHANNON, THOMAS  on July 17, 2020]]
+** TODO Review and post Tetralogy of Fallot
+* TODO Pizza lunch
+* TODO 9/27

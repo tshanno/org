@@ -1,0 +1,18 @@
+#+OPTIONS: d:RESULTS
+
+* Examples
+
+The HTML source
+#+name: eg-1
+#+begin_src org :results replace drawer :exports both :post wrap-html(text=*this*)
+  A <b>bold</b> statement.
+#+end_src
+
+Results in the output
+#+results: eg-1
+
+* Utils                                                           :noexport:
+#+name: wrap-html
+#+begin_src emacs-lisp :var text="" :results raw
+(concat "#+BEGIN_HTML\n<div class=\"html-output\">\n" text "\n</div>\n#+END_HTML")
+#+end_src
