@@ -15,9 +15,10 @@ Start by asking mark if we have a paying account.
 ** TODO Add comment option to safari/mail/reminder/calendar functions
 * TODO Pizza lunch
 * TODO 9/27
-
 ** TODO [[https://www.amazon.com/Eve-Degree-Connected-temperature-resistance/dp/B07L8P6BQR/ref=as_li_ss_tl?keywords=eve+weather&qid=1566330413&s=gateway&sr=8-5&linkCode=sl1&tag=n003f1-20&linkId=ef06db8ac988b2f962a1d1d30c48c175&language=en_US][Amazon.com: Eve Degree - Connected Weather Station for tracking temperature, humidity & air pressure, IPX3 water resistance, LCD display, Bluetooth Low Energy, black (Apple HomeKit) (Renewed): Gateway]]
 :LOGBOOK:
 - Note taken on [2019-08-24 Sat 04:57] \\
   I'd like to get thi snow but I can't.  Finances are too tight.  Check later in the year.
 :END:
+* Email clinician educators about PowerPoint
+* Reserve rooms for Saturday) for the studio
