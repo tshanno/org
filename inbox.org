@@ -13,12 +13,19 @@ Start by asking mark if we have a paying account.
 ** TODO FU with Dan on this [[message://%3c825401453.771566561629724.JavaMail.RUDWV-KEYAPP001$@RUDWV-KEYAPP001%3E][IACUC Protocol expiration notice: 17-040, SHANNON, THOMAS  on July 17, 2020]]
 ** TODO Review and post Tetralogy of Fallot
 ** TODO Add comment option to safari/mail/reminder/calendar functions
-* TODO Pizza lunch
-* TODO 9/27
+** TODO Make corections to MI2 concenpt map
+** TODO Change core discplines meetings
+** TODO Reserve rooms for Saturdays and for student lunch
+** TODO Looks like I have the room for the core disciplines meetings on Wednesday now indefinitely.
+** TODO Saturday Rooms scheduled through Sept. 29
+** TODO Request rom for faculty-student lunch 9/27/19
 ** TODO [[https://www.amazon.com/Eve-Degree-Connected-temperature-resistance/dp/B07L8P6BQR/ref=as_li_ss_tl?keywords=eve+weather&qid=1566330413&s=gateway&sr=8-5&linkCode=sl1&tag=n003f1-20&linkId=ef06db8ac988b2f962a1d1d30c48c175&language=en_US][Amazon.com: Eve Degree - Connected Weather Station for tracking temperature, humidity & air pressure, IPX3 water resistance, LCD display, Bluetooth Low Energy, black (Apple HomeKit) (Renewed): Gateway]]
 :LOGBOOK:
 - Note taken on [2019-08-24 Sat 04:57] \\
   I'd like to get thi snow but I can't.  Finances are too tight.  Check later in the year.
 :END:
-* Email clinician educators about PowerPoint
-* Reserve rooms for Saturday) for the studio
+** Email clinician educators about PowerPoint
+** Reserve rooms for Saturday for the studio
+** TODO clean up notes
+** TODO Send out minutes from Core Disciplines
+** TODO [[http://www.elginnumbers.com/][Elgin Watches Serial Numbers | Elgin National Watch Company Serial Number, Elgin pocket watch]]
