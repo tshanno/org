@@ -33,7 +33,7 @@
 - State "DONE"       from "TODO"       [2019-08-12 Mon 13:27]
 :END:
 
-** TODO [#A] Plan of Study for Tetralogy of Fallot
+** DONE [#A] Plan of Study for Tetralogy of Fallot
 :PROPERTIES:
 :SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
 :ID:       F120E038-19E3-450A-939D-C3FAB64C6017
@@ -52,6 +52,10 @@ SCHEDULED: <2019-10-01 Tue>
 - Note taken on [2019-08-22 Thu 09:06] \\
   Tell them we will encourage faculty and students to move more quickly through this.
 :END:
+** TODO [#A] Review and post Tetralogy of Fallot
+** TODO [#A] Post Tetralogy of Fallot
+** TODO [#A] Put together Tralogy of Fallot self-study
+
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>
@@ -65,8 +69,10 @@ SCHEDULED: <2019-10-01 Tue>
   Mike said he would work on this.  He was having a hard time matching this objective with his content.  He needs to figure out where he was teaching it.
 :END:
 
-** Go over these comments from Kiya at VF Core Disciplines [[message://%3cpsYYGiaXyU7CBYzQ8HGZEA.0@notifications.google.com%3E][Eli Whitney Facul... - A small note, but I think important s...]]
-SCHEDULED: <2019-08-23 Fri>
+** DONE Go over these comments from Kiya at VF Core Disciplines [[message://%3cpsYYGiaXyU7CBYzQ8HGZEA.0@notifications.google.com%3E][Eli Whitney Facul... - A small note, but I think important s...]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:44]
+:END:
 *** [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 

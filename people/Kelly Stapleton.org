@@ -1,10 +1,11 @@
 * *Tasks*
-** WAITING [#A] Get back to Kelly on summative
+** DONE [#A] Get back to Kelly on summative
 :PROPERTIES:
 :SYNCID:   D13B9334-4389-4D3F-8E3F-0EA544C0D860
 :ID:       40C90692-1195-46A3-B5A8-FE3703264E8F
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-26 Mon 08:36]
 - State "WAITING"    from "TODO"       [2019-08-15 Thu 09:21] \\
   Waiting on Maria to give me the final number of questions.
 :END:

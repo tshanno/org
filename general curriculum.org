@@ -5,16 +5,26 @@
 ** DONE [#A] Invite students to lunch
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
-** Organize pizza lunch
-   SCHEDULED: <2019-08-26 Mon>
+** TODO [#A] Organize pizza lunch for 9/27
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO Get the M1 student roster to invite to faculty-student lunch
+*** TODO Invite students and faculty to faculty-student lunch
+SCHEDULED: <2019-09-20 Fri>
+*** TODO Order pizza for faculty-student lunch
 ** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
-** [[https://entrada.rush.edu/community/rmd566:discussion_board?section=view-forum&id=35][Check Discussion Board]]
-SCHEDULED: <2019-08-21 Wed>
+** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
+SCHEDULED: <2019-08-27 Tue>
 ** Check to make sure you have rooms on Saturdays and reserve more.
-   SCHEDULED: <2019-08-26 Mon>
+   SCHEDULED: <2019-09-13 Fri>
+   :LOGBOOK:
+   - Note taken on [2019-08-26 Mon 07:55] \\
+     This is done through 9/28
+   :END:
    - Note taken on [2019-06-03 Mon 09:50] \\
      You have rooms through the end of August
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]
@@ -38,9 +48,10 @@ SCHEDULED: <2019-09-01 Sun>
 I will not be in Chicago next week on Thursday or Friday.  Feel free to meet without me.
 Bob
 
-** Email the clinican educators and fill them in on how the big room will work.
+** DONE Email the clinican educators and fill them in on how the big room will work.
 SCHEDULED: <2019-08-24 Sat>
 :LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:45]
 - Note taken on [2019-08-21 Wed 08:22] \\
   Wait until after the meeting Thursday the 22nd.  This may be addressed there.
 :END:
@@ -331,6 +342,16 @@ DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 :LOGBOOK:
 - Note taken on [2019-08-21 Wed 08:54] \\
   Adam, Amrjit and I got to mess around a little.  The iPads connect fine thorugh airmedia but ou need to to to a tablet of a wall and set the computer to accept it.
+:END:
+** Cameo at M1 Orientation; Location: 540 AAC <2019-08-22 Thu 10:15-10:45>
+:PROPERTIES:
+:SYNCID:   4E642768-5449-46BA-B0EF-27448F5F9890
+:ID:       51182D6F-46AC-4DA3-9FF5-F9016AFCE62B
+:END:
+** Request - RMC Faculty Dinner and Curriculum Prep meeting; Location: AAC 1096 - https://zoom.us/j/153650743 <2019-08-22 Thu 17:00-18:30>
+:PROPERTIES:
+:SYNCID:   09835B32-966A-4979-8989-6B465519EBB4
+:ID:       2C0ADB9D-21F3-45F9-B44E-17EA481ED7E1
 :END:
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
@@ -623,6 +644,14 @@ Laura Owczarzak
 :SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
 :ID:       3B9F2659-1E21-4EED-92DD-2AD46CF4C15E
 :END:
+
+** Looks like I have the room for the core disciplines meetings on Wednesday now indefinitely.
+** How to use conference call feature on phones [[message://%3cD3299161-139E-465C-A54C-B5618FA4FFF1@rush.edu%3E][Re: Conference call today]]
+
+
+Hi Tom,
+The OMSP conference call feature works really well. If everyone calls this number, (877) 978-5853 , ID 11134# and then you do as well from the conference room phone, the audio is of much better quality. People can then use appear.in and mute as you suggest.
+Thanks, K
 
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
