@@ -236,6 +236,11 @@ Chicago, IL 60612
 
 Office: 312-942-6754
 tom_shannon@rush.edu
+** Saturday Rooms scheduled through Sept. 29
+:PROPERTIES:
+:SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
+:ID:       B0025FAA-D231-4C0D-9ECB-44B780222F29
+:END:
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -326,14 +331,18 @@ SCHEDULED: <2019-08-08 Thu>
 - State "DONE"       from              [2019-08-09 Fri 09:16]
 :END:
 
-** [[message://%3cAE86C7F6-1999-4228-87EE-BDA30A12C0F3@rush.edu%3E][Core Discipline Directors Meetings]]
-SCHEDULED: <2019-08-24 Sat>
+** DONE [[message://%3cAE86C7F6-1999-4228-87EE-BDA30A12C0F3@rush.edu%3E][Core Discipline Directors Meetings]]
 :LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:46]
 - Note taken on [2019-08-22 Thu 09:21] \\
   Cancel future meetings and schedule new ones on Wednesdays.
 :END:
-** Remind everyone that the VF and S&R blueprints need to be done by Monday.
-SCHEDULED: <2019-08-23 Fri>
+** DONE Remind everyone that the VF and S&R blueprints need to be done by Monday.
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:45]
+:END:
+** FU:  Kiya on Congenital Cardiac Defestcs self-study [[message://%3c0000000000001473b60590fc4c94@google.com%3E][RMD 574 Pediatric Nephrology Self-Study2019/2020 - DRAFT - Invitation to edit]]
+SCHEDULED: <2019-08-28 Wed>
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -633,10 +642,13 @@ SCHEDULED: <2019-06-27 Thu>
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO [#A] Plan of Study for Tetralogy of Fallot
+*** DONE [#A] Plan of Study for Tetralogy of Fallot
 :PROPERTIES:
 :SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
 :ID:       1D631DC6-A56E-441B-9E3E-13E1DD51E29D
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 13:44]
 :END:
 *** TODO [#A] Plan of Study for Myocardial Infarction
 :PROPERTIES:
@@ -685,6 +697,33 @@ SCHEDULED: <2019-06-27 Thu>
 - Note taken on [2019-08-21 Wed 14:43] \\
   Almost there.  Just run through the session quizes.
 :END:
+** DONE Change core discplines meetings
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 08:19]
+:END:
+** WAITING [#A] Request room for faculty-student lunch 9/27/19
+:PROPERTIES:
+:SYNCID:   1288D75E-FC58-49AB-B522-12CDF8C56310
+:ID:       6496D3E9-896A-4784-A46C-10209216084F
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 08:21] \\
+  Sent in request
+:END:
+** TODO [#A] Send out minutes from Core Disciplines
+** DONE FU: Joanna [[message://%3c730355A8-003B-4A71-BD46-5EECB61B682B@rush.edu%3E][Vital Fluids Wellness Skills and Informed Consent Sessions on 10/17]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 07:11]
+:END:
+** TODO [#A] Minutes fro Caore Discp;lines
+** DONE [#A]  FU Kat Tehaney on Final exam date [[message://%3cD8FFB5C1-35E0-474D-B667-A90D6CCDED21@rush.edu%3E][Vital Fluids Summative Date]]
+SCHEDULED: <2019-08-27 Tue>
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-26 Mon 11:04]
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 08:27] \\
+  Wating on Bob to get back to me on summative date
+:END:
+
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

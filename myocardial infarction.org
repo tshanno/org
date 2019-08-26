@@ -36,6 +36,11 @@
 :SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
 :ID:       CAD9D793-8F88-4983-B362-3F10E1667C78
 :END:
+** TODO [#A] Make corections to MI2 concenpt map
+** TODO [#A] Correct [[message://%3cZ8rSfAlfxNxDoy-pTha8JQ.0@notifications.google.com%3E][James Parker Facu... - +tshanno@me.com Assigned to you]]
+and here [[message://%3cVpZUpou3QufhhpX211vvXQ.0@notifications.google.com%3E][James Parker Faculty Guide Session 2 2019-10-28]]
+and here [[message://%3clVdraY04RXNVVNPIFcwqbw.0@notifications.google.com%3E][James Parker Facu... - +tshanno@gmail.com Ask Mark about the...]]
+and here [[message://%3cc02a9737887549cea97d4df3736a1517@RUDW-EXCHMAIL01.rush.edu%3E][VF MI Part 2 Bchm Activity]]
 * *Ticklers*
 * *Meetings*
 * *Notes*

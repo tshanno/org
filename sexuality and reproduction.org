@@ -43,14 +43,17 @@ SCHEDULED: <2019-07-08 Mon>
 - State "DONE"       from              [2019-07-26 Fri 08:58]
 :END:
 ** Contact Keith and update him on AGB, infertility and teen preganancy
-** See if the review session for Formative got moved from 9/12 to 9/17
-SCHEDULED: <2019-08-22 Thu>
+** CANCELED [#A] Move this yourself to somewhere it makes sense.  See if the review session for Formative got moved from 9/12 to 9/17
 :PROPERTIES:
 :SYNCID:   18A1CCA9-4C49-4E00-8A71-4B1CDD394AAD
 :ID:       36CDE2C1-817A-44A8-8960-7C988A92ABCB
 :END:
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-08-26 Mon 10:57] \\
+  Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
+:END:
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-26 Mon>
+SCHEDULED: <2019-08-27 Tue>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
@@ -95,8 +98,19 @@ SCHEDULED: <2020-02-01 Sat>
   Nell had one dropped question that she didn't replace.  I emailed her and asked her to do it.
 :END:
 
-** FU: Carolyn [[message://%3c4BCC6823-C56B-471B-8899-555756D08BDC@rush.edu%3E][Questions for the formative]]
-SCHEDULED: <2019-08-23 Fri>
+** WAITING [#A] FU: Carolyn [[message://%3c4BCC6823-C56B-471B-8899-555756D08BDC@rush.edu%3E][Questions for the formative]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 11:00] \\
+  Kelly emailed here
+:END:
+** FU: delinquent questions [[message://%3c370C66A1-6776-44CE-BD46-7A1496A34A80@rush.edu%3E][Re: Sexuality and Reproduction Summative Breakdown]]
+SCHEDULED: <2019-08-27 Tue>
+** FU S&R rescheduling for TP and FD cases [[message://%3cB675A642-0C56-490A-AD03-40DBD5BBB35B@rush.edu%3E][FW: GU exam dates]]
+SCHEDULED: <2019-08-27 Tue>
+
+** FU: Michelle Sweet about M4s when the case dates are worked out [[message://%3c1566584397765.77206@rush.edu%3E][Re: M2 Block]]
+SCHEDULED: <2019-08-28 Wed>
+
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -741,6 +755,11 @@ Chicago, IL 60612
 
 Office: 312-942-6754
 tom_shannon@rush.edu
+** Saturday Rooms scheduled through Sept. 29
+:PROPERTIES:
+:SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
+:ID:       BBC08327-B1BA-48E0-9DD9-5F8A006E0C46
+:END:
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -989,7 +1008,7 @@ Tom S.1
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-15 Thu 09:21]
 :END:
-** WAITING [#A] Get back to Kelly on summative
+** DONE [#A] Get back to Kelly on summative
 :PROPERTIES:
 :SYNCID:   D13B9334-4389-4D3F-8E3F-0EA544C0D860
 :ID:       78748225-FD5C-4AD7-92AA-025DF999E885
@@ -1016,7 +1035,7 @@ Tom S.1
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-22 Thu 11:27]
 :END:
-** WAITING [#A] Email the CEs and DDs about use of new space
+** DONE [#A] Email the CEs and DDs about use of new space
 :PROPERTIES:
 :SYNCID:   FF56E38E-C367-4D53-8E55-123A392BFD28
 :ID:       A1B98200-AB74-4387-96A6-2BEFFBB2DACD
@@ -1025,6 +1044,36 @@ Tom S.1
 - State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
   Emailed a draft to Bob
 :END:
+** [#A] Make sure there are markers for th ewhite boards for each of the eight groups.
+SCHEDULED: <2019-08-30 Fri>
+** DONE [#A] 3 more physiology questions and 4 more pathology quesitons for S&R final exam
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 11:00]
+:END:
+** TODO [#A] Make a plan to have everyone join Slack
+Start by asking mark if we have a paying account.
+** DONE [#A] 3 more quesiotns for the S&R summative exam
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 11:01]
+:END:
+** WAITING Reserve rooms for Saturdays and for student lunch
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 08:19] \\
+  Sent in request.
+:END:
+** Email clinician educators about PowerPoint
+SCHEDULED: <2019-09-03 Tue>
+**  Markers for whiteboards? [[message://%3c49EE3D57-6301-49D6-9D0A-7472F789725E@rush.edu%3E][Re: Draft of an Email to the CEs (with DDs copied)]]
+SCHEDULED: <2019-08-30 Fri>
+
+** DONE [#A] Correct the S&R summative exam [[message://%3cC91E7777-6F39-4E53-8176-F74B89ED5027@rush.edu%3E][Items 1081 and 1091]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 08:36]
+:END:
+
+** Invite CEs to sessions
+SCHEDULED: <2019-09-03 Tue>
+
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

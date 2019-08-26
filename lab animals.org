@@ -1,4 +1,8 @@
 * *Tasks*
+** DONE FU with Dan on this [[message://%3c825401453.771566561629724.JavaMail.RUDWV-KEYAPP001$@RUDWV-KEYAPP001%3E][IACUC Protocol expiration notice: 17-040, SHANNON, THOMAS  on July 17, 2020]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 08:18]
+:END:
 * *Ticklers*
 * *Notes*
 ** [[~/Library/Mobile Documents/com~apple~Preview/Documents/IACUC Investigator User Guide RUSH_V1.pdf][IACUC Investigator User Guide RUSH_V1.pdf]]

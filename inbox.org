@@ -1,35 +1,54 @@
 * Tasks
-** Cameo at M1 Orientation; Location: 540 AAC <2019-08-22 Thu 10:15-10:45>
-** Med Ed Research Group; Location: OIME Large Conference Room <2019-08-22 Thu 12:00-13:00>
-** Request - RMC Faculty Dinner and Curriculum Prep meeting; Location: AAC 1096 - https://zoom.us/j/153650743 <2019-08-22 Thu 17:00-18:30>
-** TODO Make sure there are markers for th ewhite boards for each of the eight groups.
-** TODO PICTURES [[https://www.watchophilia.com/photogallery/bulovas-1940-1949/][Bulova - Vintage Watches 1940s | Watchophilia.com]]
-** TODO 3 more physiology questions and 4 more pathology quesitons for S&R final exam
-** Make a plan to have everyone join Slack
-Start by asking mark if we have a paying account.
-** Put a preview
-** TODO This looks simple and might be a good solution for getting away from Outlook [[http://davmail.sourceforge.net/index.html][DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway]]
-** TODO 3 more quesiotns for the S&R summative exam
-** TODO FU with Dan on this [[message://%3c825401453.771566561629724.JavaMail.RUDWV-KEYAPP001$@RUDWV-KEYAPP001%3E][IACUC Protocol expiration notice: 17-040, SHANNON, THOMAS  on July 17, 2020]]
-** TODO Review and post Tetralogy of Fallot
-** TODO Add comment option to safari/mail/reminder/calendar functions
-** TODO Make corections to MI2 concenpt map
-** TODO Change core discplines meetings
-** TODO Reserve rooms for Saturdays and for student lunch
-** TODO Looks like I have the room for the core disciplines meetings on Wednesday now indefinitely.
-** TODO Saturday Rooms scheduled through Sept. 29
-** TODO Request rom for faculty-student lunch 9/27/19
-** TODO [[https://www.amazon.com/Eve-Degree-Connected-temperature-resistance/dp/B07L8P6BQR/ref=as_li_ss_tl?keywords=eve+weather&qid=1566330413&s=gateway&sr=8-5&linkCode=sl1&tag=n003f1-20&linkId=ef06db8ac988b2f962a1d1d30c48c175&language=en_US][Amazon.com: Eve Degree - Connected Weather Station for tracking temperature, humidity & air pressure, IPX3 water resistance, LCD display, Bluetooth Low Energy, black (Apple HomeKit) (Renewed): Gateway]]
-:LOGBOOK:
-- Note taken on [2019-08-24 Sat 04:57] \\
-  I'd like to get thi snow but I can't.  Finances are too tight.  Check later in the year.
+** TODO Send out invites to CEs for next week
+** TODO Student Self-Studies for Vital Fluids
+:PROPERTIES:
+:ORDERED:  t
 :END:
-** Email clinician educators about PowerPoint
-** Reserve rooms for Saturday for the studio
-** TODO clean up notes
-** TODO Send out minutes from Core Disciplines
-** TODO [[http://www.elginnumbers.com/][Elgin Watches Serial Numbers | Elgin National Watch Company Serial Number, Elgin pocket watch]]
-
-** TODO [[http://texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf][‎texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf]]
-
-** TODO [[https://bulletjournal.com/pages/learn][Learn - Bullet Journal]]
+*** TODO [#A] Student Self-Study for Tetralogy of Fallot
+*** TODO Student Self-Study for Myocardial Infarction Session 1
+*** TODO Student Self-Study for Myocardial Infarction Session 2
+*** TODO Student Self-Study for CHF Session 1
+*** TODO Student self-study for CHF Session 2
+*** TODO Student self-study for valvular heart disease
+*** TODO Student self-study for arrhythmia
+*** TODO Student self-study for dehydration
+*** TODO Student self-study for AKI
+*** TODO Student self-study for CKD
+*** TODO Student self-study for renal vignettes
+** WAITING [#A] Talk to Alyssa about numbering tables
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:25] \\
+  Bernadette is going to ask about the signs they used for the orientation of the M1s.  They sound perfect.
+:END:
+** WAITING [#A] Re-assign 3 practitioner quesitons on summaitve exam
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-26 Mon 13:08] \\
+  ASked Mark Pool to do it
+:END:
+** WAITING [#A] Email Syed about 3 more EKG quesitons
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
+  Emailed Syed
+:END:
+** TODO [#A] Re-assign the thoracic imaging quesitons
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** DONE Check and make sure this thoracic imagin session is schediuled after Thanksgiving
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 13:06]
+- Note taken on [2019-08-26 Mon 13:06] \\
+  Its not.  Its before the midterm.
+:END:
+*** DONE Find out who co-wrote the thoracic imaging session with Adam
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 13:06]
+- Note taken on [2019-08-26 Mon 13:06] \\
+  Basically its Adam
+:END:
+*** WAITING Re-aasign the thoracic imaging questions to hwoever co-authored the session with Adam
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
+  Emailed Adam to ask if he'd do it.
+:END:
+** TODO Pick up gloves for watch repair

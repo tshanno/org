@@ -20,7 +20,10 @@ SCHEDULED: <2019-08-21 Wed>
 - Note taken on [2019-08-20 Tue 07:50] \\
   If its a shockmaster logo and not a durapower logo, the dial may have been repleacd.
 :END:
-** TODO [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Pt96B4][Get the serial number off of the movement of the Elgin that you bought Circa 1950]]
+** DONE [#A] [[https://rush-my.sharepoint.com/:o:/r/personal/tom_shannon_rush_edu/Documents/THOMAS%20@%20rush.edu?d=w0e52b8117e8d4f199da56f70ceb33cba&csf=1&e=Pt96B4][Get the serial number off of the movement of the Elgin that you bought Circa 1950]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 08:13]
+:END:
 ** TODO [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
 ** TODO Salvation Army
 https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,%20United%20States&auid=10653552741926904546&ll=41.881722,-87.665252&lsp=9902&q=Salvation%20Army&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhAWCgQIChAAEiYpX6nTF0nwREAxrGC7U/bqVcA53X75c2/xREBByOzWpDDqVcBQBA%3D%3D&t=m
@@ -29,20 +32,31 @@ https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,
 Chicago, IL  60607
 United States
 * *Ticklers*
-** Bulova 1955 Bulova 23
+** DONE Bulova 1955 Bulova 23
 SCHEDULED: <2019-08-23 Fri>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:45]
+:END:
 ** Bulova 2T Bracelet Quartz Watch
-SCHEDULED: <2019-08-22 Thu>
-** Bulova 1955 Bulova 23
+** DONE Bulova 1955 Bulova 23
 SCHEDULED: <2019-08-23 Fri>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:45]
+:END:
 ** Bulova 1928 Breton
 SCHEDULED: <2019-11-01 Fri>
-** Bulova 1934 Senator
-SCHEDULED: <2019-08-25 Sun>
-** Bulova 1952 Director
-SCHEDULED: <2019-08-25 Sun>
-** Bulova 1953 President
-SCHEDULED: <2019-08-25 Sun>
+** DONE Bulova 1934 Senator
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:46]
+:END:
+** DONE Bulova 1952 Director
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:46]
+:END:
+** DONE Bulova 1953 President
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:46]
+:END:
 * *Meetings*
 * *Notes*
 ** *Bulova*
@@ -59,10 +73,13 @@ http://www.watchophilia.com/general-information/determining-the-date-of-a-watch/
 *** [[https://dealsngadgets.com/bulova-watch-serial-numbers/][Bulova Watch Serial Numbers Lookup – Don’t Get Faked Out Again Complete Guide]]  A good history site
 *** [[http://www.thewatchguy.com/pages/BulovaSerial.html][The Watch Guy: Bulova Serial Number Table & Manufacture Dates]] :: This site says tht there are watches out ther ewith A8 and A9 for 1948 and 1949.  I actually found one with an A0 that is supposedly a 1950 Excellency
 https://www.ebay.com/itm/VINTAGE-BULOVA-EXCELLENCY-MEN-S-WRIST-WATCH-7AA-MOVEMENT-21-JEWELS-RUNS/283577689663?hash=item42068c263f%3Ag%3A-skAAOSwiu1dG460&LH_ItemCondition=2000%7C3000
+*** PICTURES [[https://www.watchophilia.com/photogallery/bulovas-1940-1949/][Bulova - Vintage Watches 1940s | Watchophilia.com]]
 ** *Elgin*
 *** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
 *** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
 *** [[http://elginwatches.org/cgi-bin/elgin_sn?sn=I755604&action=search][ELGIN Online Elgin Database]]
+*** [[http://www.elginnumbers.com/][Elgin Watches Serial Numbers | Elgin National Watch Company Serial Number, Elgin pocket watch]]
+
 ** *Seiko*
 *** [[http://www.watchsleuth.com/seikodatefinder/][WatchSleuth - Seiko Date Finder]]
 *** [[http://seiko.orgfree.com/][SEIKO - Serial Number to Manufacture Date Decoder]]
@@ -81,3 +98,5 @@ https://www.wikihow.com/Pry-off-a-Watch-Backing-Without-Proper-Tools
 
 In 1995 Swatch broke the 125-year collaboration between Longines and Wittnauer and took over the Longines distribution.[3] The Wittnauer Company retained its reputation for most of the 20th century. After some budget problems, it was eventually bought by Bulova for $11.6 million in September 2001.[3]
 Bulova launched a new 'Nightlife' range of fashion watches under the Wittnauer brand.
+** About service on my 1928 Bulova Breton [[message://%3cf2c179b4-3ee3-4711-a601-7b244bacf5f5@starship%3E][Re: thomashanno36 sent a message about Vintage Bulova Art Deco Men's Wrist Watch, Recently Serviced! #202759637787]]
+

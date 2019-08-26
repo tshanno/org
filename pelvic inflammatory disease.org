@@ -189,6 +189,13 @@ SCHEDULED: <2019-08-01 Thu>
 :LOGBOOK:
 - State "DONE"       from              [2019-08-05 Mon 06:48]
 :END:
+** Email the clinican educators for the session on 9/10.
+SCHEDULED: <2019-09-03 Tue>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-26 Mon 07:49]
+:END:
+*** Point to powerpoint.
+*** Suggest watching last year's review video for the physiology.
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:

@@ -166,6 +166,9 @@ https://github.com/mjago/worg-dev/blob/master/code/awk/ical2org.awk
 *** Set up functon that either copies in region, page or link only
 ** TODO [#A] org-web - org mode on the web
 https://github.com/DanielDe/org-web/
+** TODO Add comment option to safari/mail/reminder/calendar functions
+** TODO [[https://bulletjournal.com/pages/learn][Learn - Bullet Journal]]
+
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired
@@ -391,6 +394,8 @@ https://www.reddit.com/r/LaTeX/comments/cdjp62/piecewise_functions/?utm_source=s
 Exam document class?
 
 
+
+** TODO [[http://texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf][‎texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf]]
 
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
@@ -652,6 +657,7 @@ https://orangebsd.wordpress.com/
   Upon further consideration, my gut tells me I don't need this.
 :END:
 
+** TODO This looks simple and might be a good solution for getting away from Outlook [[http://davmail.sourceforge.net/index.html][DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway]]
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

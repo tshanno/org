@@ -3618,3 +3618,17 @@ Chicago, IL 60612
 Office: 312-942-6754
 tom_shannon@rush.edu
 *** 2019-08-21 Wednesday
+*** 2019-08-22 Thursday
+**** Cameo at M1 Orientation; Location: 540 AAC <2019-08-22 Thu 10:15-10:45>
+:PROPERTIES:
+:SYNCID:   4E642768-5449-46BA-B0EF-27448F5F9890
+:ID:       0A41FC77-C5F0-4E07-A6E9-09935C57F8BC
+:END:
+**** Med Ed Research Group; Location: OIME Large Conference Room <2019-08-22 Thu 12:00-13:00>
+**** Request - RMC Faculty Dinner and Curriculum Prep meeting; Location: AAC 1096 - https://zoom.us/j/153650743 <2019-08-22 Thu 17:00-18:30>
+:PROPERTIES:
+:SYNCID:   09835B32-966A-4979-8989-6B465519EBB4
+:ID:       743430A3-AB1E-429B-A02F-522240EE6072
+:END:
+*** 2019-08-23 Friday
+*** 2019-08-26 Monday

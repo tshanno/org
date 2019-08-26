@@ -65,3 +65,8 @@ If a journal club article is being presented, it should be shared with the group
 :ID:       80930223-953F-49E6-B614-226C11034161
 :END:
 
+** Saturday Rooms scheduled through Sept. 29
+:PROPERTIES:
+:SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
+:ID:       C6322610-09FF-405B-8194-793B5B2871C0
+:END:
