@@ -29,3 +29,7 @@ Start by asking mark if we have a paying account.
 ** TODO clean up notes
 ** TODO Send out minutes from Core Disciplines
 ** TODO [[http://www.elginnumbers.com/][Elgin Watches Serial Numbers | Elgin National Watch Company Serial Number, Elgin pocket watch]]
+
+** TODO [[http://texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf][‎texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf]]
+
+** TODO [[https://bulletjournal.com/pages/learn][Learn - Bullet Journal]]
