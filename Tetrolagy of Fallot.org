@@ -45,8 +45,9 @@ SCHEDULED: <2019-10-01 Tue>
 -Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
 -Taemyn Hollis and I will be joining practitioner session 10/22 8-10am :: at pracitioner session
 
-** WAITING [#A] Contact the AT memeber in charge of ToF and ask them to look at the faculty guide before posting.
+** DONE [#A] Contact the AT memeber in charge of ToF and ask them to look at the faculty guide before posting.
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-27 Tue 08:29]
 - State "WAITING"    from "TODO"       [2019-08-22 Thu 10:48] \\
   <2019-08-22 Thu> Contacted Paola Susan and asked her to look it over.
 - Note taken on [2019-08-22 Thu 09:06] \\

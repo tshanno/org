@@ -1,6 +1,8 @@
 * *Tasks*
-** TODO Documents for UCC. [[message://%3c53b715e12de14e13b18ef81c3796fc6a@RUDW-EXCHMAIL01.rush.edu%3E][Reminder - UCC Meeting - Monday, August 26, 2019]]
-SCHEDULED: <2019-08-26 Mon>
+** DONE Documents for UCC. [[message://%3c53b715e12de14e13b18ef81c3796fc6a@RUDW-EXCHMAIL01.rush.edu%3E][Reminder - UCC Meeting - Monday, August 26, 2019]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-27 Tue 08:23]
+:END:
 ** DONE Prepare for UCC
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:26]

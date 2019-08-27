@@ -20,7 +20,7 @@
    [2018-12-10 Mon]
 ** DONE [#A] [[message://%3c1544497364326.95546@rush.edu%3E][Post and announcement and emailthe class about pharm link.]]
    [2018-12-11 Tue]
-** TODO [#A] Plan of Study for AKI
+** TODO Plan of Study for AKI
 :PROPERTIES:
 :SYNCID:   70FC1082-CB53-4353-8D82-40486BD2CF04
 :ID:       43684E34-7035-4E09-B860-AF4037C0C828

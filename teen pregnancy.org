@@ -30,10 +30,14 @@
 
 * *Ticklers*
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-27 Tue>
+SCHEDULED: <2019-08-28 Wed>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       2A4FBFAD-C8AF-4420-9105-EE8310C3719F
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-27 Tue 08:23] \\
+  Talked to Bob this morning.  He will press them on the issue today.
 :END:
 
 ** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]

@@ -41,7 +41,7 @@ Tom S.
 :END:
    [2018-12-20 Thu]
  [[https://www.annualreviews.org/doi/full/10.1146/annurev.physiol.70.113006.100614#][Annual review with good info on this (and much more)]]
-** TODO [#A] Plan of Study for Pre-renal Dehydration
+** TODO Plan of Study for Pre-renal Dehydration
 :PROPERTIES:
 :SYNCID:   1949C877-02E9-41B1-BB02-9353235E51E8
 :ID:       354A0C2E-6DF7-41F3-94B7-E3478A41DA3A

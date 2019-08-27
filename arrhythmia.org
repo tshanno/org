@@ -37,7 +37,7 @@ SCHEDULED: <2020-02-15 Sat>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-22 Thu 10:51]
 :END:
-** TODO [#A] Plan of Study for Arrhythmia
+** TODO Plan of Study for Arrhythmia
 :PROPERTIES:
 :SYNCID:   FB502B30-4B85-417F-90F8-E99D7014FCB3
 :ID:       A0F2FF45-F935-4028-B9A5-02DEA7598CA8

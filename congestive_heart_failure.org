@@ -28,7 +28,7 @@
   He's on top of it.  Looks like he's going to cut it down to one self-study on substance use including alcohol for Keith Simmons.
 :END:
 
-** TODO [#A] Plan of Study for Heart Failure
+** TODO Plan of Study for Heart Failure
 :PROPERTIES:
 :SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
 :ID:       DF2DF2C7-F5CE-480B-9ADD-73F9AB4D5D97

@@ -1,5 +1,5 @@
 * *Tasks*
-** TODO [#A] Plan of Study for Valvular Heart Disease
+** TODO Plan of Study for Valvular Heart Disease
 :PROPERTIES:
 :SYNCID:   E940B77A-F184-43D6-8022-5FBB72338E7B
 :ID:       AA4CC2D9-115D-4D75-BB8A-8C064F8876B9

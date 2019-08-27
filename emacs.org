@@ -54,6 +54,12 @@ In dired call date2name-dired-add-date-to-name to add the modification date of t
 Unfortunately right now this format should not be changed as it must match a corresponding regexp to remove potential timestamps already in the filename.
 ** ON RADAR Write something that eith takes a reminder and transforms it into org-mode or vice-versa
 ** ON RADAR [[https://github.com/skeeto/emacs-web-server][GitHub - skeeto/emacs-web-server: Extensible Emacs HTTP 1.1 server]] 
+** TODO [#A] [[message://%3c66DC67E2-BBC5-4BAC-9A89-4DBB084538A6@rush.edu%3E][macos - How do I set a task to run every so often? - Stack Overflow]]
+** TODO Search pubmed from within emacs : emacs
+https://www.reddit.com/r/emacs/comments/cvps0w/search_pubmed_from_within_emacs/
+
+Search pubmed from within emacs
+
 * *Org*
 ** [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/org%20manual%202019-01-13.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/org manual 2019-01-13.pdf]]
 ** \C-cam to match tag or property
@@ -658,6 +664,8 @@ https://orangebsd.wordpress.com/
 :END:
 
 ** TODO This looks simple and might be a good solution for getting away from Outlook [[http://davmail.sourceforge.net/index.html][DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway]]
+** This creates a menu of commands.  Could be very useful one day. [[https://github.com/abo-abo/hydra][GitHub - abo-abo/hydra: make Emacs bindings that stick around]]
+
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

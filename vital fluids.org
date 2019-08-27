@@ -343,6 +343,8 @@ SCHEDULED: <2019-08-08 Thu>
 :END:
 ** FU:  Kiya on Congenital Cardiac Defestcs self-study [[message://%3c0000000000001473b60590fc4c94@google.com%3E][RMD 574 Pediatric Nephrology Self-Study2019/2020 - DRAFT - Invitation to edit]]
 SCHEDULED: <2019-08-28 Wed>
+** FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
+SCHEDULED: <2019-08-28 Wed>
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -638,7 +640,7 @@ SCHEDULED: <2019-06-27 Thu>
 :SYNCID:   F4882AB9-ABDA-4213-8851-D6DE637EAB09
 :ID:       40C833B3-B9D6-4540-B97E-C55CD00CE4A4
 :END:
-** TODO Plans of Study for Vital Fluids
+** TODO [#A] Plans of Study for Vital Fluids
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -655,37 +657,37 @@ SCHEDULED: <2019-06-27 Thu>
 :SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
 :ID:       8703C9B5-2D84-4AA4-8D44-C28EC43C7E77
 :END:
-*** TODO [#A] Plan of Study for Heart Failure
+*** TODO Plan of Study for Heart Failure
 :PROPERTIES:
 :SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
 :ID:       1CCE6650-DF51-4699-A0C6-4ED5BDB22973
 :END:
-*** TODO [#A] Plan of Study for Valvular Heart Disease
+*** TODO Plan of Study for Valvular Heart Disease
 :PROPERTIES:
 :SYNCID:   E940B77A-F184-43D6-8022-5FBB72338E7B
 :ID:       B6738B3D-249F-413B-814D-49FFAE6F2887
 :END:
-*** TODO [#A] Plan of Study for Arrhythmia
+*** TODO Plan of Study for Arrhythmia
 :PROPERTIES:
 :SYNCID:   FB502B30-4B85-417F-90F8-E99D7014FCB3
 :ID:       E8BE723F-FB1E-4782-9042-FE9751F1226C
 :END:
-*** TODO [#A] Plan of Study for Pre-renal Dehydration
+*** TODO Plan of Study for Pre-renal Dehydration
 :PROPERTIES:
 :SYNCID:   1949C877-02E9-41B1-BB02-9353235E51E8
 :ID:       6F73F4CB-7AE0-44A2-9213-93DA093A1FDA
 :END:
-*** TODO [#A] Plan of Study for AKI
+*** TODO Plan of Study for AKI
 :PROPERTIES:
 :SYNCID:   70FC1082-CB53-4353-8D82-40486BD2CF04
 :ID:       F5B0EEC7-5801-443A-9720-D08142D2B9B0
 :END:
-*** TODO [#A] Plan of Study for CKD
+*** TODO Plan of Study for CKD
 :PROPERTIES:
 :SYNCID:   A3E9B0CC-243C-4D2C-93ED-72FC2B22B240
 :ID:       AAEE1C97-43CE-4E06-9E32-14C8CE9B174B
 :END:
-*** TODO [#A] Plan of Study for Renal Vignetes
+*** TODO Plan of Study for Renal Vignetes
 :PROPERTIES:
 :SYNCID:   1DFA3EE8-058F-4F03-AF5A-FC1D8E0DAA71
 :ID:       BC392D9A-6176-4D08-835F-B662AE9FD1D8
@@ -701,12 +703,13 @@ SCHEDULED: <2019-06-27 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:19]
 :END:
-** WAITING [#A] Request room for faculty-student lunch 9/27/19
+** DONE [#A] Request room for faculty-student lunch 9/27/19
 :PROPERTIES:
 :SYNCID:   1288D75E-FC58-49AB-B522-12CDF8C56310
 :ID:       6496D3E9-896A-4784-A46C-10209216084F
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-27 Tue 09:15]
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:21] \\
   Sent in request
 :END:
@@ -717,13 +720,45 @@ SCHEDULED: <2019-06-27 Thu>
 :END:
 ** TODO [#A] Minutes fro Caore Discp;lines
 ** DONE [#A]  FU Kat Tehaney on Final exam date [[message://%3cD8FFB5C1-35E0-474D-B667-A90D6CCDED21@rush.edu%3E][Vital Fluids Summative Date]]
-SCHEDULED: <2019-08-27 Tue>
 :LOGBOOK:
 - State "DONE"       from "WAITING"    [2019-08-26 Mon 11:04]
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:27] \\
   Wating on Bob to get back to me on summative date
 :END:
 
+** WAITING [#A] Email Syed about 3 more EKG questions
+:PROPERTIES:
+:SYNCID:   E7716AE7-59DC-4B76-89C6-E1D6D8A0A76D
+:ID:       A2AE20CA-C878-4A93-8BCB-B664E86E18FB
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
+  Emailed Syed
+:END:
+** WAITING [#A] Re-assign 3 practitioner quesitons on summaitve exam
+:PROPERTIES:
+:SYNCID:   805C6A5E-384B-4122-AB67-28C339A7EA59
+:ID:       43A93E63-CBC0-4EA8-9FD0-706ABFDE514B
+:END:
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-26 Mon 13:08] \\
+  ASked Mark Pool to do it
+:END:
+** TODO Student Self-Studies for Vital Fluids
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO [#A] Student Self-Study for Tetralogy of Fallot
+*** TODO Student Self-Study for Myocardial Infarction Session 1
+*** TODO Student Self-Study for Myocardial Infarction Session 2
+*** TODO Student Self-Study for CHF Session 1
+*** TODO Student self-study for CHF Session 2
+*** TODO Student self-study for valvular heart disease
+*** TODO Student self-study for arrhythmia
+*** TODO Student self-study for dehydration
+*** TODO Student self-study for AKI
+*** TODO Student self-study for CKD
+*** TODO Student self-study for renal vignettes
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>
@@ -1225,4 +1260,29 @@ SCHEDULED: <2018-12-06 Thu>
 ** DONE [#A] FU with Syed and Anne if their material isn't in
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
+:END:
+* DONE [#A] Re-assign the thoracic imaging questions
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-27 Tue 08:42]
+:END:
+** DONE Check and make sure this thoracic imagin session is schediuled after Thanksgiving
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 13:06]
+- Note taken on [2019-08-26 Mon 13:06] \\
+  Its not.  Its before the midterm.
+:END:
+** DONE Find out who co-wrote the thoracic imaging session with Adam
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-26 Mon 13:06]
+- Note taken on [2019-08-26 Mon 13:06] \\
+  Basically its Adam
+:END:
+** DONE Re-aasign the thoracic imaging questions to whoever co-authored the session with Adam
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-27 Tue 08:42]
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
+  Emailed Adam to ask if he'd do it.
 :END:

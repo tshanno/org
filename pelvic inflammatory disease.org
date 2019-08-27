@@ -58,7 +58,7 @@
 :SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
 :ID:       81B451FE-93C7-4A98-BE48-A17CB05E39B7
 :END:
-** TODO [#A] PowerPOint for PID
+** TODO [#A] PowerPoint for PID
 ** DONE [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
 - State "DONE"       from "WAITING"    [2019-07-31 Wed 15:09]

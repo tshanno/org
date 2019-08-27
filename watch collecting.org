@@ -31,6 +31,8 @@ https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,
 1 N Ogden Ave
 Chicago, IL  60607
 United States
+** TODO [#A] Pick up gloves for watch repair
+
 * *Ticklers*
 ** DONE Bulova 1955 Bulova 23
 SCHEDULED: <2019-08-23 Fri>

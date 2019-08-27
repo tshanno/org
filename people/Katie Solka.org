@@ -1,0 +1,14 @@
+* *Tasks*
+** WAITING [#A] Talk to Katie about MI activity [[message://%3c3ae0b91b31fe44eba80c0ba69b3b9ede@RUDW-EXCHMAIL01.rush.edu%3E][VF MI Part 2 biochemistry activity]]
+:PROPERTIES:
+:SYNCID:   A1963132-90E0-438E-A58B-76ACE6290292
+:ID:       7A2402DB-4386-48FA-A957-0529B6614595
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-27 Tue 09:49] \\
+  Told Katie to come see me.
+:END:
+
+* *Ticklers*
+* *Meetings*
+* *Notes*

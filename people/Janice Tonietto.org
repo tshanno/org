@@ -97,6 +97,12 @@ Janice
 - State "WAITING"    from "TODO"       [2019-08-16 Fri 09:53] \\
   Contacted Carolyn.  We'll see if she can get this to us before she leaves.  She's not coming back until Wednesday so if not, up it goes.  We'll post a correction later.
 :END:
+** TODO [#A] FU Janice on your stupid omisson [[message://%3cA8B14DE5-B206-47F5-A3A8-71044562BA69@rush.edu%3E][Fluids and Electrolytes Lesson Coverage]]
+:PROPERTIES:
+:SYNCID:   59FEE8A5-246F-409D-878E-980C64AB7631
+:ID:       B83A74C7-C003-4209-910D-62D4169F1F78
+:END:
+
 * *Ticklers*
 ** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
 :PROPERTIES:

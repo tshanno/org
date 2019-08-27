@@ -53,10 +53,14 @@ SCHEDULED: <2019-07-08 Mon>
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
 ** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-27 Tue>
+SCHEDULED: <2019-08-28 Wed>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
+:END:
+:LOGBOOK:
+- Note taken on [2019-08-27 Tue 08:23] \\
+  Talked to Bob this morning.  He will press them on the issue today.
 :END:
 
 ** DONE FU Bob [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
@@ -104,13 +108,21 @@ SCHEDULED: <2020-02-01 Sat>
   Kelly emailed here
 :END:
 ** FU: delinquent questions [[message://%3c370C66A1-6776-44CE-BD46-7A1496A34A80@rush.edu%3E][Re: Sexuality and Reproduction Summative Breakdown]]
-SCHEDULED: <2019-08-27 Tue>
+SCHEDULED: <2019-08-28 Wed>
 ** FU S&R rescheduling for TP and FD cases [[message://%3cB675A642-0C56-490A-AD03-40DBD5BBB35B@rush.edu%3E][FW: GU exam dates]]
-SCHEDULED: <2019-08-27 Tue>
+SCHEDULED: <2019-08-28 Wed>
 
 ** FU: Michelle Sweet about M4s when the case dates are worked out [[message://%3c1566584397765.77206@rush.edu%3E][Re: M2 Block]]
 SCHEDULED: <2019-08-28 Wed>
 
+** Get table signs from Bob for afternoon session
+SCHEDULED: <2019-08-28 Wed>
+:PROPERTIES:
+:SYNCID:   9368B297-CDD3-47C6-A711-3B4CA5673CE1
+:ID:       54873C97-B74A-4C14-9E82-F47DF1AC97BE
+:END:
+** Send out invites to CEs for next week
+SCHEDULED: <2019-09-03 Tue>
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -1074,6 +1086,49 @@ SCHEDULED: <2019-08-30 Fri>
 ** Invite CEs to sessions
 SCHEDULED: <2019-09-03 Tue>
 
+** TODO [#A] FU Princess on posting objectives and get back to Mira [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
+:PROPERTIES:
+:SYNCID:   FC24C8F8-7E51-4FF1-8D93-909573C779BA
+:ID:       A8D23D2B-F283-43E2-AF3D-776F3FCC25D7
+:END:
+
+** TODO [#A] Check in with the urologists for the Intro to the GU exam
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** WAITING [#A] Find out where the Sim Center is for the Intro to the GU exam and find out who I should conact for rooms from Bob
+SCHEDULED: <2019-08-28 Wed>
+:PROPERTIES:
+:SYNCID:   98F922FD-57B8-40CE-87B1-2D07EE3FF777
+:ID:       9E167F46-20A7-4F50-B9A4-1ABCE6174F88
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-27 Tue 08:26] \\
+  Waiting on Bob to change Entrada.
+- Note taken on [2019-08-27 Tue 08:25] \\
+  This should have been in the lecture hall.  Bob will change Entrada.
+:END:
+*** TODO [#A] Find out which rooms in the Sim Center are assigned for the intro to the GU exam, possible from Rebecca
+*** TODO [#A] Contact Michael R. Farrell and Edward M. Capoccia about the intro to the GU exam session  Copy John Butos.
+:LOGBOOK:
+- Note taken on [2019-08-27 Tue 07:07] \\
+  Confusingly, Michael goes by "Ryan" and Edward goes by "Ted".
+:END:
+
+** WAITING [#A] FU: Bill on Melissa's conflict [[message://%3c1566827556309.61760@rush.edu%3E][Re: scheduling conflict 9/6]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-27 Tue 08:38] \\
+  Emailed Bill.  Waiting on a response indicating that this got solved.
+:END:
+
+** DONE [#A] Talk to Alyssa about numbering tables
+:LOGBOOK:
+- Note taken on [2019-08-27 Tue 08:44] \\
+  Bob has them.
+- State "DONE"       from "WAITING"    [2019-08-27 Tue 08:44]
+- State "WAITING"    from "TODO"       [2019-08-26 Mon 13:25] \\
+  Bernadette is going to ask about the signs they used for the orientation of the M1s.  They sound perfect.
+:END:
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

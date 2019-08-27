@@ -10,7 +10,7 @@
    [2018-12-11 Tue]
 ** DONE [#A] [[message://%3cAA6A991F-1942-4000-A3E7-DA6D00A19AFC@rush.edu%3E][Post explanation of lasix Ca excretion]]
    [2018-12-14 Fri]
-** TODO [#A] Plan of Study for CKD
+** TODO Plan of Study for CKD
 :PROPERTIES:
 :SYNCID:   A3E9B0CC-243C-4D2C-93ED-72FC2B22B240
 :ID:       5095FD88-5BC3-4F6B-9D68-0946C1658729

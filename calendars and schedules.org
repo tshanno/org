@@ -70,3 +70,15 @@ If a journal club article is being presented, it should be shared with the group
 :SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
 :ID:       C6322610-09FF-405B-8194-793B5B2871C0
 :END:
+** TODO [[message://%3ce0c6c7a22aa0498b8da479d9b33f01e4@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00004: Student Tutorial Sessons (U) - Requested event has been approved]] :ATTACH:
+:PROPERTIES:
+:Attachments: Tutorial%20Session%20Notification%20of%20Event%20Request%20Approved%20with%20Summary_2019-08-26-08_31_00%202019-08-26.pdf
+:ID:       075BA82C-30D4-4675-8F1F-96EF7D071D2A
+:END:
+
+** TODO [[message://%3ce337472f244043a483864af2ac480a05@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00005: M1M2 Faculty Student Lunch (U) - Requested event has been approved]] :ATTACH:
+:PROPERTIES:
+:Attachments: Student%20Lunch%20Notification%20of%20Event%20Request%20Approved%20with%20Summary_2019-08-26-08_29_30%202019-08-26.pdf
+:ID:       E4962EC2-4B6F-478C-9503-90271F96500A
+:END:
+

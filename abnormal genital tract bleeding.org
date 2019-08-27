@@ -7,7 +7,7 @@ SCHEDULED: <2020-02-03 Mon>
   I just removed these.
 :END:
 ** Make sure that packets re ready to go for AGB activity on 9/3
-SCHEDULED: <2019-08-27 Tue>
+SCHEDULED: <2019-08-29 Thu>
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
 :PROPERTIES:
