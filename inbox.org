@@ -52,3 +52,10 @@
   Emailed Adam to ask if he'd do it.
 :END:
 ** TODO Pick up gloves for watch repair
+
+** TODO This creates a menu of commands.  Could be very useful one day. [[https://github.com/abo-abo/hydra][GitHub - abo-abo/hydra: make Emacs bindings that stick around]]
+
+** TODO Search pubmed from within emacs : emacs
+https://www.reddit.com/r/emacs/comments/cvps0w/search_pubmed_from_within_emacs/
+
+Search pubmed from within emacs
