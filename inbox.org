@@ -1,2 +1,5 @@
 * Tasks
 ** TODO Review S&R exams
+
+** TODO Things You Didn't Know About GNU Readline
+https://twobithistory.org/2019/08/22/readline.html
