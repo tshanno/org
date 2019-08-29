@@ -14,6 +14,12 @@
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
   Emailed Syed
 :END:
+** TODO [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
+SCHEDULED: <2019-08-28 Wed>
+:PROPERTIES:
+:SYNCID:   D28FD19F-ED4A-4CF8-AF20-8FB1C376A894
+:ID:       E49B4F5D-1547-4014-AABB-C8B091C54D4E
+:END:
 * *Ticklers*
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
 SCHEDULED: <2019-07-02 Tue>

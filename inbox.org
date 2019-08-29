@@ -1,5 +1,5 @@
 * Tasks
-** TODO Review S&R exams
-
-** TODO Things You Didn't Know About GNU Readline
-https://twobithistory.org/2019/08/22/readline.html
+** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
+*** FU:  Mark [[message://%3cDF79DF07-4EF0-49B9-9A85-5E60B23117D4@rush.edu%3E][MI session 1 USMLE questions]]
+*** HF2 activity dropped
+** TODO RU:  Princess on slack

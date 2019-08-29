@@ -9,7 +9,11 @@ SCHEDULED: <2019-04-08 Mon>
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO [#A] Get the M1 student roster to invite to faculty-student lunch
+*** WAITING [#A] Get the M1 student roster to invite to faculty-student lunch
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-28 Wed 09:18] \\
+  Emailed Bob.
+:END:
 *** TODO Invite students and faculty to faculty-student lunch
 SCHEDULED: <2019-09-20 Fri>
 *** TODO Order pizza for faculty-student lunch
@@ -18,7 +22,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-08-28 Wed>
+SCHEDULED: <2019-08-29 Thu>
 ** Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-09-13 Fri>
    :LOGBOOK:

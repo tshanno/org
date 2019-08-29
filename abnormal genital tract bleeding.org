@@ -270,6 +270,9 @@ SCHEDULED: <2019-08-20 Tue>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-21 Wed 08:22]
 :END:
+** TODO [#A] Make slides for debrief on Tuesday
+
+** TODO [#A] FU Kristin on how to handle Histo activity [[message://%3c67e1d6bed34f4e3bb783700fa771047e@RUPW-EXCHMAIL02.rush.edu%3E][FW: Debrief on Tuesday]]
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
 - Note taken on [2019-06-03 Mon 08:54] \\

@@ -48,7 +48,7 @@
 and here [[message://%3cVpZUpou3QufhhpX211vvXQ.0@notifications.google.com%3E][James Parker Faculty Guide Session 2 2019-10-28]]
 and here [[message://%3clVdraY04RXNVVNPIFcwqbw.0@notifications.google.com%3E][James Parker Facu... - +tshanno@gmail.com Ask Mark about the...]]
 and here [[message://%3cc02a9737887549cea97d4df3736a1517@RUDW-EXCHMAIL01.rush.edu%3E][VF MI Part 2 Bchm Activity]]
-** WAITING [#A] Talk to Katie about MI activity [[message://%3c3ae0b91b31fe44eba80c0ba69b3b9ede@RUDW-EXCHMAIL01.rush.edu%3E][VF MI Part 2 biochemistry activity]]
+** DONE [#A] Talk to Katie about MI activity [[message://%3c3ae0b91b31fe44eba80c0ba69b3b9ede@RUDW-EXCHMAIL01.rush.edu%3E][VF MI Part 2 biochemistry activity]]
 :PROPERTIES:
 :SYNCID:   A1963132-90E0-438E-A58B-76ACE6290292
 :ID:       5E10D9AB-CFCF-46C6-A4B8-E3D43826B237

@@ -33,12 +33,14 @@ SCHEDULED: <2019-06-20 Thu>
 - State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
   Emailed a draft to Bob
 :END:
-** WAITING [#A] Find out where the Sim Center is for the Intro to the GU exam and find out who I should conact for rooms from Bob
+** DONE [#A] Find out where the Sim Center is for the Intro to the GU exam and find out who I should conact for rooms from Bob
 :PROPERTIES:
 :SYNCID:   98F922FD-57B8-40CE-87B1-2D07EE3FF777
 :ID:       BD934B20-AB8C-4F5D-96B2-28BDD499242C
 :END:
 :LOGBOOK:
+- Note taken on [2019-08-28 Wed 09:08] \\
+  It in 539
 - State "WAITING"    from "TODO"       [2019-08-27 Tue 08:26] \\
   Waiting on Bob to change Entrada.
 - Note taken on [2019-08-27 Tue 08:25] \\
@@ -54,7 +56,7 @@ SCHEDULED: <2019-06-20 Thu>
 - State "CANCELED"   from "TODO"       [2019-08-26 Mon 10:57] \\
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
-** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 SCHEDULED: <2019-08-28 Wed>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
@@ -78,8 +80,7 @@ SCHEDULED: <2019-08-28 Wed>
 
 There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
 
-** Get table signs from Bob for afternoon session
-SCHEDULED: <2019-08-28 Wed>
+** DONE Get table signs from Bob for afternoon session
 :PROPERTIES:
 :SYNCID:   9368B297-CDD3-47C6-A711-3B4CA5673CE1
 :ID:       79BA986E-4C21-4BA2-A388-59DBA73D39EF

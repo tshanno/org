@@ -10,7 +10,7 @@
 - State "DONE"       from "TODO"       [2019-08-07 Wed 08:43]
 :END:
 
-** TODO [#A] FU Janice on your stupid omisson [[message://%3cA8B14DE5-B206-47F5-A3A8-71044562BA69@rush.edu%3E][Fluids and Electrolytes Lesson Coverage]]
+** DONE [#A] FU Janice on your stupid omisson [[message://%3cA8B14DE5-B206-47F5-A3A8-71044562BA69@rush.edu%3E][Fluids and Electrolytes Lesson Coverage]]
 :PROPERTIES:
 :SYNCID:   59FEE8A5-246F-409D-878E-980C64AB7631
 :ID:       F3C4A21A-BCDF-4996-B99D-7FF856B35EF4

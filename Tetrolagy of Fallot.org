@@ -55,7 +55,10 @@ SCHEDULED: <2019-10-01 Tue>
 :END:
 ** TODO [#A] Review and post Tetralogy of Fallot
 ** TODO [#A] Post Tetralogy of Fallot
-** TODO [#A] Put together Tralogy of Fallot self-study
+** DONE [#A] Put together Tralogy of Fallot self-study
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-28 Wed 09:15]
+:END:
 
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.

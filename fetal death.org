@@ -73,7 +73,7 @@ Anne
 :LOGBOOK:
 - State "DONE"       from              [2019-07-29 Mon 08:03]
 :END:
-** FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
+** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 SCHEDULED: <2019-08-28 Wed>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167

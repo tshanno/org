@@ -341,10 +341,16 @@ SCHEDULED: <2019-08-08 Thu>
 :LOGBOOK:
 - State "DONE"       from              [2019-08-26 Mon 07:45]
 :END:
-** FU:  Kiya on Congenital Cardiac Defestcs self-study [[message://%3c0000000000001473b60590fc4c94@google.com%3E][RMD 574 Pediatric Nephrology Self-Study2019/2020 - DRAFT - Invitation to edit]]
+** DONE FU:  Kiya on Congenital Cardiac Defestcs self-study [[message://%3c0000000000001473b60590fc4c94@google.com%3E][RMD 574 Pediatric Nephrology Self-Study2019/2020 - DRAFT - Invitation to edit]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-28 Wed 09:12]
+:END:
+** TODO [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
 SCHEDULED: <2019-08-28 Wed>
-** FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
-SCHEDULED: <2019-08-28 Wed>
+:PROPERTIES:
+:SYNCID:   D28FD19F-ED4A-4CF8-AF20-8FB1C376A894
+:ID:       52B2349B-03A4-4401-8F7D-2093DC4BE233
+:END:
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -748,8 +754,11 @@ SCHEDULED: <2019-06-27 Thu>
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO [#A] Student Self-Study for Tetralogy of Fallot
-*** TODO Student Self-Study for Myocardial Infarction Session 1
+*** DONE [#A] Student Self-Study for Tetralogy of Fallot
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-28 Wed 09:23]
+:END:
+*** TODO [#A] Student Self-Study for Myocardial Infarction Session 1
 *** TODO Student Self-Study for Myocardial Infarction Session 2
 *** TODO Student Self-Study for CHF Session 1
 *** TODO Student self-study for CHF Session 2
