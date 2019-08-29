@@ -11,12 +11,13 @@
 - State "DONE"       from "TODO"       [2019-08-07 Wed 09:12]
 :END:
 
-** WAITING [#A] Re-assign 3 practitioner quesitons on summaitve exam
+** DONE [#A] Re-assign 3 practitioner quesitons on summaitve exam
 :PROPERTIES:
 :SYNCID:   805C6A5E-384B-4122-AB67-28C339A7EA59
 :ID:       7B8B68D0-E8B6-4E90-A874-1656C16B6ED1
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-29 Thu 11:15]
 - State "WAITING"    from              [2019-08-26 Mon 13:08] \\
   ASked Mark Pool to do it
 :END:

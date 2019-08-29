@@ -53,7 +53,7 @@ SCHEDULED: <2019-07-08 Mon>
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
 ** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-28 Wed>
+SCHEDULED: <2019-08-30 Fri>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
@@ -102,18 +102,22 @@ SCHEDULED: <2020-02-01 Sat>
   Nell had one dropped question that she didn't replace.  I emailed her and asked her to do it.
 :END:
 
-** WAITING [#A] FU: Carolyn [[message://%3c4BCC6823-C56B-471B-8899-555756D08BDC@rush.edu%3E][Questions for the formative]]
+** DONE [#A] FU: Carolyn [[message://%3c4BCC6823-C56B-471B-8899-555756D08BDC@rush.edu%3E][Questions for the formative]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-29 Thu 11:18]
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 11:00] \\
   Kelly emailed here
 :END:
-** FU: delinquent questions [[message://%3c370C66A1-6776-44CE-BD46-7A1496A34A80@rush.edu%3E][Re: Sexuality and Reproduction Summative Breakdown]]
+** DONE FU: delinquent questions [[message://%3c370C66A1-6776-44CE-BD46-7A1496A34A80@rush.edu%3E][Re: Sexuality and Reproduction Summative Breakdown]]
 SCHEDULED: <2019-08-29 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-08-29 Thu 11:14]
+:END:
 ** FU S&R rescheduling for TP and FD cases [[message://%3cB675A642-0C56-490A-AD03-40DBD5BBB35B@rush.edu%3E][FW: GU exam dates]]
-SCHEDULED: <2019-08-29 Thu>
+SCHEDULED: <2019-08-30 Fri>
 
 ** FU: Michelle Sweet about M4s when the case dates are worked out [[message://%3c1566584397765.77206@rush.edu%3E][Re: M2 Block]]
-SCHEDULED: <2019-08-29 Thu>
+SCHEDULED: <2019-08-30 Fri>
 
 ** DONE Get table signs from Bob for afternoon session
 :PROPERTIES:
@@ -122,6 +126,9 @@ SCHEDULED: <2019-08-29 Thu>
 :END:
 ** Send out invites to CEs for next week
 SCHEDULED: <2019-09-03 Tue>
+** FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
+SCHEDULED: <2019-08-30 Fri>
+
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -1089,7 +1096,7 @@ SCHEDULED: <2019-08-30 Fri>
 ** Invite CEs to sessions
 SCHEDULED: <2019-09-03 Tue>
 
-** TODO [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
+** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
 :SYNCID:   FC24C8F8-7E51-4FF1-8D93-909573C779BA
 :ID:       A8D23D2B-F283-43E2-AF3D-776F3FCC25D7
@@ -1144,12 +1151,21 @@ SCHEDULED: <2019-09-03 Tue>
 :END:
 
 ** TODO FU: Melissa [[message://%3cB2C6F750-A494-4EC0-A2C2-F108B8616894@rush.edu%3E][Re: scheduling conflict 9/6]]
-SCHEDULED: <2019-08-29 Thu>
+SCHEDULED: <2019-08-30 Fri>
 
 ** DONE [#A] Change reproductive question
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:23]
 :END:
+** DONE Email students and tell them about Saturdays
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 10:49]
+:END:
+** DONE [#A] Rationale for 2824 [[message://%3c115DA2CE-1C62-4764-B53E-8D37F17C84C5@rush.edu%3E][Rationale Needed- RMD 566 S&R Formative Item]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 11:25]
+:END:
+
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

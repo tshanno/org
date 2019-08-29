@@ -26,10 +26,13 @@
   2.  Explain how the EKG is measured from the electrical potentials generated outside the cardiac cells.
   3.  Explain how the propagation of the cardiac action potential correlates with the wave-form of the EKG e.g. p-wave (atrial depolarization), PQ interval (AV nodal delay), QRS wave (ventricular depolarization) and T-wave (ventricular repolarization).
 :END:
-** TODO [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
+** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
 :SYNCID:   FC24C8F8-7E51-4FF1-8D93-909573C779BA
 :ID:       AE73884D-D8B9-4E5B-9A76-A42A77AABC6D
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 11:15]
 :END:
 
 * *Ticklers*
@@ -44,6 +47,13 @@ SCHEDULED: <2019-07-29 Mon>
 - Note taken on [2019-07-24 Wed 08:10] \\
   [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
+** TODO FU:  Princess on slack
+SCHEDULED: <2019-08-30 Fri>
+:PROPERTIES:
+:SYNCID:   7B169153-D4B6-4A92-B39E-0293A8FF940F
+:ID:       4D6FAA3F-AF16-4ECC-85BA-86C5C90C1228
+:END:
+
 * *Meetings*
 ** Sexuality and Reproduction/Vital Fluids Administration Team Meeting; Location: AAC 403, Large Conference Room <2019-08-12 Mon 14:30-15:00>
 :PROPERTIES:

@@ -5,21 +5,42 @@
 :ID:       3E2C4669-732E-490C-8C0D-28885BD8F1F9
 :END:
 
-** WAITING [#A] Email Syed about 3 more EKG questions
+** DONE [#A] Email Syed about 3 more EKG questions
 :PROPERTIES:
 :SYNCID:   E7716AE7-59DC-4B76-89C6-E1D6D8A0A76D
 :ID:       B8600E7E-C4E5-456C-A466-F9896DA87E34
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-29 Thu 11:15]
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 13:07] \\
   Emailed Syed
 :END:
-** TODO [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
-SCHEDULED: <2019-08-28 Wed>
+** DONE [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
+SCHEDULED: <2019-08-30 Fri>
 :PROPERTIES:
 :SYNCID:   D28FD19F-ED4A-4CF8-AF20-8FB1C376A894
 :ID:       E49B4F5D-1547-4014-AABB-C8B091C54D4E
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 11:16]
+:END:
+** WAITING Email Syed about AGB debrief
+:PROPERTIES:
+:SYNCID:   D5E8382B-A743-4BF4-AC0A-EE6016A9BAAD
+:ID:       5AD6405B-6A28-47CF-BE86-D8A231666294
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 10:49]
+:END:
+** DONE Bug Syed about peripheral artery disease
+:PROPERTIES:
+:SYNCID:   A27FDD25-F6B3-41BF-9E34-8F9F2E58B4C6
+:ID:       A77AF5F4-62EA-4D3E-9BAD-AD93EF48EF19
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 10:51]
+:END:
+
 * *Ticklers*
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]
 SCHEDULED: <2019-07-02 Tue>

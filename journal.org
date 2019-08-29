@@ -3656,3 +3656,23 @@ Office: 312-942-6754
 tom_shannon@rush.edu
 
 *** 2019-08-27 Tuesday
+*** 2019-08-28 Wednesday
+**** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   8FECEC18-D7EE-41A8-96C0-19FCD613DE1A
+:ID:       BF42C0C8-597E-4075-95A3-CAFC2FCE265E
+:END:
+***** Pre-session notes
+****** FU:  Mark [[message://%3cDF79DF07-4EF0-49B9-9A85-5E60B23117D4@rush.edu%3E][MI session 1 USMLE questions]]
+****** HF2 activity dropped
+***** We review MI 2.
+****** Last week's coorections were made.
+****** Although Christine has aready done work on this, Anne will look it over as well
+****** Mark Pool reviewed the pathology USMLE-type quesitons and these are good to go.
+***** We reviewed HF 1
+****** Anne is working on clinical reasoning
+****** We changed "diastolic " HF to HFPEF and "systolic" HF to HFrEF
+****** Anne wants to work on the wording of how the types of HF are descibed
+****** Ane and Tom will work on the Pathophys activity to convert it from a table to a series of MC questions that compare and contrast the types of HF
+***** [[message://%3c058B56B7-FCF9-49E2-B94A-F93004489F30@rush.edu%3E][Update: Core Disciplines Meeting 8/28/19]]
+*** 2019-08-29 Thursday

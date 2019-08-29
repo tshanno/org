@@ -403,6 +403,12 @@ Exam document class?
 
 ** TODO [[http://texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf][‎texdoc.net/texmf-dist/doc/latex/attachfile/attachfile.pdf]]
 
+** Converting XeLaTeX to DOCX Consistently : LaTeX
+https://www.reddit.com/r/LaTeX/comments/cwp62o/converting_xelatex_to_docx_consistently/
+
+I use the online Adobe PDF converter to convert my thesis from PDF to DOCX. I tried different solutions and this
+works the best for me.
+
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 

@@ -40,8 +40,9 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-27 Tue 09:53]
 :END:
-** WAITING [#A] Correct [[message://%3cZ8rSfAlfxNxDoy-pTha8JQ.0@notifications.google.com%3E][James Parker Facu... - +tshanno@me.com Assigned to you]]
+** DONE [#A] Correct [[message://%3cZ8rSfAlfxNxDoy-pTha8JQ.0@notifications.google.com%3E][James Parker Facu... - +tshanno@me.com Assigned to you]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-29 Thu 11:17]
 - State "WAITING"    from "TODO"       [2019-08-27 Tue 09:50] \\
   Waiting on Mark Pool to get back to me on USMLE-type questions.
 :END:
@@ -58,6 +59,24 @@ and here [[message://%3cc02a9737887549cea97d4df3736a1517@RUDW-EXCHMAIL01.rush.ed
   Told Katie to come see me.
 :END:
 
+** DONE Bug Syed about peripheral artery disease
+:PROPERTIES:
+:SYNCID:   A27FDD25-F6B3-41BF-9E34-8F9F2E58B4C6
+:ID:       6DE88804-C104-46CD-B548-81C6CDA9BD9A
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 10:51]
+:END:
+
+** TODO [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
+:PROPERTIES:
+:SYNCID:   339DF046-A733-4B5D-A2C5-A043E670AE33
+:ID:       A2701681-6E26-46B4-B38F-A76ADA2FF3C4
+:END:
+Video Links:
+https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
+https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
+https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
 * *Ticklers*
 * *Meetings*
 * *Notes*

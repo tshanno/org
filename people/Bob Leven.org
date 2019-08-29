@@ -57,7 +57,7 @@ SCHEDULED: <2019-06-20 Thu>
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
 ** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-28 Wed>
+SCHEDULED: <2019-08-30 Fri>
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       005118BD-0F7E-4846-ADD4-791B6AA47AB5

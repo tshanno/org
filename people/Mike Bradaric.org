@@ -15,6 +15,15 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-21 Wed 14:42]
 :END:
+** TODO [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
+:PROPERTIES:
+:SYNCID:   339DF046-A733-4B5D-A2C5-A043E670AE33
+:ID:       A6C0F4E4-E335-4668-83E0-1EEF9F1F2032
+:END:
+Video Links:
+https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
+https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
+https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:

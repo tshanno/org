@@ -1,24 +1,31 @@
 * Tasks
-** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
-*** FU:  Mark [[message://%3cDF79DF07-4EF0-49B9-9A85-5E60B23117D4@rush.edu%3E][MI session 1 USMLE questions]]
-*** HF2 activity dropped
-** TODO RU:  Princess on slack
+** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-11-01 Fri 07:32>
 
-** TODO Converting XeLaTeX to DOCX Consistently : LaTeX
-https://www.reddit.com/r/LaTeX/comments/cwp62o/converting_xelatex_to_docx_consistently/
-
-I use the online Adobe PDF converter to convert my thesis from PDF to DOCX. I tried different solutions and this
-works the best for me.
-
-** TODO For pandoc? [[https://zwischenzugs.com/2019/08/25/seven-god-like-bash-history-shortcuts-you-will-actually-use/][Seven God-Like Bash History Shortcuts You Will Actually Use – zwischenzugs]]
+*** [[message://%3c1b3cf48d9e8f41388187b701ba66a4ff@RUPW-EXCHMAIL02.rush.edu%3E][Discussion points for CD meeting tomorrow]]
 
 
-6) !#:1 – The ‘The Current Line’ One
+Dear All,
+ 
+I’m observing the case session (on blood type) in the new space and have made a few observations that would be worth some discussion as a group:
+ 
+-          No one (i.e., CEs nor students) currently know how to reach a DD for help. Given the maze of the room configuration and the inability to see across the room, an electronic solution (like Slack) seems to be the only feasible solution. We should reach consensus on this and active a plan as soon as possible
+-          Many on the small groups are now larger at 6 students per table instead of 4 due to table size and availability.
+-          Regarding the room being a “maze” to get through…we should plan a better configuration including where tables, chairs, and dividers not in use should be placed. The placement of furniture seems a bit haphazard making it hard to get around right now.
+-          Hearing the CEs is still very challenging, especially if you’re a student at a table furthest from the CE. I sat in as part of a group and could not hear questions students were posing. Student frustration regarding this must be high. This does not make for a good learning environment. Tables that can’t hear are completely checked out.
+ 
+Adam
 
-I spent years occasionally wondering if I could reference an argument on the current line before finally looking it up and learning it. I wish I’d done so well before.
-
-I most commonly use it to make backup files
-
-$ cp /path/to/some/file !#:1.bak
-cp /path/to/some/file /path/to/some/file.bak
-but once under the fingers it can be a very quick alternative
+**** Need to decide what to do if a CE doesn't show up.
+**** Slack update - Microsoft teams?
+**** iPads for faculty?
+*** Notes from session
+**** Lots of reluctance about adding more echnology.  Email Princess and put the brakes on Teams
+**** Spread the students out amongst all the the tables individually if a CE doesn't show.
+**** Triangle or U-shaped table arrangement with CEs in the center to better allow students to hear them.
+*** Need to discuss review form
+ 
+* Email CEs about Tuesday
+** Team Building Circles.
+** Quiz at 11:15
+** Tables in a U-shpae or a triangle
+** how to handle histo activity

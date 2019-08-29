@@ -178,3 +178,15 @@ The Harris Geospatial Solutions Team
 :ID:       10DACA23-1E2C-4C85-AEC8-F48C2C48BFDB
 :END:
 ** ON RADAR [[https://dzone.com/articles/introduction-jupyter-notebook-for-python-programmi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][Introduction Jupyter Notebook for Python Programming - DZone Big Data]]
+** For pandoc? [[https://zwischenzugs.com/2019/08/25/seven-god-like-bash-history-shortcuts-you-will-actually-use/][Seven God-Like Bash History Shortcuts You Will Actually Use – zwischenzugs]]
+
+
+6) !#:1 – The ‘The Current Line’ One
+
+I spent years occasionally wondering if I could reference an argument on the current line before finally looking it up and learning it. I wish I’d done so well before.
+
+I most commonly use it to make backup files
+
+$ cp /path/to/some/file !#:1.bak
+cp /path/to/some/file /path/to/some/file.bak
+but once under the fingers it can be a very quick alternative

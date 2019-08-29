@@ -22,7 +22,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-08-29 Thu>
+SCHEDULED: <2019-08-30 Fri>
 ** Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-09-13 Fri>
    :LOGBOOK:
@@ -59,6 +59,13 @@ SCHEDULED: <2019-08-24 Sat>
 - Note taken on [2019-08-21 Wed 08:22] \\
   Wait until after the meeting Thursday the 22nd.  This may be addressed there.
 :END:
+** TODO FU:  Princess on slack
+SCHEDULED: <2019-08-30 Fri>
+:PROPERTIES:
+:SYNCID:   7B169153-D4B6-4A92-B39E-0293A8FF940F
+:ID:       A3F4C235-9D4C-4836-965C-2EDBFD54F178
+:END:
+
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
