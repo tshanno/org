@@ -3,3 +3,22 @@
 *** FU:  Mark [[message://%3cDF79DF07-4EF0-49B9-9A85-5E60B23117D4@rush.edu%3E][MI session 1 USMLE questions]]
 *** HF2 activity dropped
 ** TODO RU:  Princess on slack
+
+** TODO Converting XeLaTeX to DOCX Consistently : LaTeX
+https://www.reddit.com/r/LaTeX/comments/cwp62o/converting_xelatex_to_docx_consistently/
+
+I use the online Adobe PDF converter to convert my thesis from PDF to DOCX. I tried different solutions and this
+works the best for me.
+
+** TODO For pandoc? [[https://zwischenzugs.com/2019/08/25/seven-god-like-bash-history-shortcuts-you-will-actually-use/][Seven God-Like Bash History Shortcuts You Will Actually Use – zwischenzugs]]
+
+
+6) !#:1 – The ‘The Current Line’ One
+
+I spent years occasionally wondering if I could reference an argument on the current line before finally looking it up and learning it. I wish I’d done so well before.
+
+I most commonly use it to make backup files
+
+$ cp /path/to/some/file !#:1.bak
+cp /path/to/some/file /path/to/some/file.bak
+but once under the fingers it can be a very quick alternative
