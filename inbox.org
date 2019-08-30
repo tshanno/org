@@ -21,6 +21,7 @@ Adam
 **** Spread the students out amongst all the the tables individually if a CE doesn't show.
 **** Triangle or U-shaped table arrangement with CEs in the center to better allow students to hear them.
 *** Need to discuss review form
+** TODO Email DDs and give a general description of what you expect Tuesday
 * Email CEs about Tuesday
 ** Team Building Circles.
 ** Quiz at 11:15
@@ -28,3 +29,5 @@ Adam
 ** how to handle histo activity
 * TODO Email mark about cardiomyopathy. CHf 2 or the complex cases case multiple myeloma?
 * TODO You apparently used one question twice once on midterm and once on final
+
+** TODO 
