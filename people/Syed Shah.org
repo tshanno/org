@@ -16,7 +16,6 @@
   Emailed Syed
 :END:
 ** DONE [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
-SCHEDULED: <2019-08-30 Fri>
 :PROPERTIES:
 :SYNCID:   D28FD19F-ED4A-4CF8-AF20-8FB1C376A894
 :ID:       E49B4F5D-1547-4014-AABB-C8B091C54D4E
@@ -24,12 +23,13 @@ SCHEDULED: <2019-08-30 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:16]
 :END:
-** WAITING Email Syed about AGB debrief
+** DONE Email Syed about AGB debrief
 :PROPERTIES:
 :SYNCID:   D5E8382B-A743-4BF4-AC0A-EE6016A9BAAD
 :ID:       5AD6405B-6A28-47CF-BE86-D8A231666294
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-08-30 Fri 08:29]
 - State "DONE"       from "TODO"       [2019-08-29 Thu 10:49]
 :END:
 ** DONE Bug Syed about peripheral artery disease

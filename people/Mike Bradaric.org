@@ -15,10 +15,13 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-21 Wed 14:42]
 :END:
-** TODO [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
+** DONE [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
 :PROPERTIES:
 :SYNCID:   339DF046-A733-4B5D-A2C5-A043E670AE33
 :ID:       A6C0F4E4-E335-4668-83E0-1EEF9F1F2032
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-30 Fri 08:26]
 :END:
 Video Links:
 https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
@@ -49,6 +52,13 @@ SCHEDULED: <2020-02-15 Sat>
 :PROPERTIES:
 :SYNCID:   48CA181E-1F59-4BCC-87E6-134B6ECB2490
 :ID:       73F9FBB1-625B-4021-8584-83D853596979
+:END:
+
+** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
+SCHEDULED: <2020-03-02 Mon>
+:PROPERTIES:
+:SYNCID:   152E6B22-3D73-49C2-B0FE-72B8C2BCA96A
+:ID:       D970251C-6387-4F9C-9C06-A75A2B3D38E2
 :END:
 
 * *Meetings*

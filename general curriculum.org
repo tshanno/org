@@ -22,7 +22,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-08-30 Fri>
+SCHEDULED: <2019-08-31 Sat>
 ** Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-09-13 Fri>
    :LOGBOOK:
@@ -59,8 +59,7 @@ SCHEDULED: <2019-08-24 Sat>
 - Note taken on [2019-08-21 Wed 08:22] \\
   Wait until after the meeting Thursday the 22nd.  This may be addressed there.
 :END:
-** TODO FU:  Princess on slack
-SCHEDULED: <2019-08-30 Fri>
+** DONE FU:  Princess on slack
 :PROPERTIES:
 :SYNCID:   7B169153-D4B6-4A92-B39E-0293A8FF940F
 :ID:       A3F4C235-9D4C-4836-965C-2EDBFD54F178
@@ -364,6 +363,32 @@ DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 :SYNCID:   09835B32-966A-4979-8989-6B465519EBB4
 :ID:       2C0ADB9D-21F3-45F9-B44E-17EA481ED7E1
 :END:
+** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-11-01 Fri 07:32>
+:PROPERTIES:
+:SYNCID:   10734585-EB6C-4A51-8C85-7615A148731D
+:ID:       CEE56239-925C-4E16-9CBC-A2A3152D98F0
+:END:
+*** [[message://%3c1b3cf48d9e8f41388187b701ba66a4ff@RUPW-EXCHMAIL02.rush.edu%3E][Discussion points for CD meeting tomorrow]]
+
+
+Dear All,
+
+I’m observing the case session (on blood type) in the new space and have made a few observations that would be worth some discussion as a group:
+
+-          No one (i.e., CEs nor students) currently know how to reach a DD for help. Given the maze of the room configuration and the inability to see across the room, an electronic solution (like Slack) seems to be the only feasible solution. We should reach consensus on this and active a plan as soon as possible
+-          Many on the small groups are now larger at 6 students per table instead of 4 due to table size and availability.
+-          Regarding the room being a “maze” to get through…we should plan a better configuration including where tables, chairs, and dividers not in use should be placed. The placement of furniture seems a bit haphazard making it hard to get around right now.
+-          Hearing the CEs is still very challenging, especially if you’re a student at a table furthest from the CE. I sat in as part of a group and could not hear questions students were posing. Student frustration regarding this must be high. This does not make for a good learning environment. Tables that can’t hear are completely checked out.
+
+Adam
+**** Need to decide what to do if a CE doesn't show up.
+**** Slack update - Microsoft teams?
+**** iPads for faculty?
+*** Notes from session
+**** Lots of reluctance about adding more echnology.  Email Princess and put the brakes on Teams
+**** Spread the students out amongst all the the tables individually if a CE doesn't show.
+**** Triangle or U-shaped table arrangement with CEs in the center to better allow students to hear them.
+*** Need to discuss review form
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -571,12 +596,12 @@ CTEI@rush.edu – CTEI1234!
 Students are not able to be added to CourseArc. If you would like for them to do the activities you create in CourseArc, you would need to add a link to the CourseArc course that you created within your Blackboard course OR create a free Canvas course for students to access the material in CourseArc. My suggestion is to use Blackboard since this is the learning management system Rush currently uses and the registrar’s office creates the course and enrolls students. You can easily embed a link to your CourseArc course in Blackboard.  You wouldn’t need to enroll any students as you will for Canvas. Also, if you link CourseArc to Blackboard, any graded activities you create in CourseArc will integrate into the Blackboard Grade Center.
  
 If you need any help with this or have any questions, please let me know and I would be more than happy to help. 
-** [[https://docs.google.com/spreadsheets/d/1QJsELxU6JDczacguMrNoYrOYd7qAnA5mICM1_WJRCcM/edit?usp=sharing][Activity Team Assignments to M2 Cases 2018-2019]]
+** [[https://docs.google.com/spreadsheets/d/1QJsELxU6JDczacguMrNoYrOYd7qAnA5mICM1_WJRCcM/edit?usp=sharing][Activity Design Team Assignments to M2 Cases 2018-2019]]
 :PROPERTIES:
 :SYNCID:   1CE30209-09D0-4D4C-BC1E-978C048F8753
 :ID:       584CBA72-5999-486C-8ACC-2160BDD5221D
 :END:
-** [[https://docs.google.com/spreadsheets/d/1_VMfu7Fnq4PhGPqMDAKH7mbvZbPvaLps3IijSZTclQE/edit?usp=sharing][Activity Team Assignments to M1 Cases 2018-2019]]
+** [[https://docs.google.com/spreadsheets/d/1_VMfu7Fnq4PhGPqMDAKH7mbvZbPvaLps3IijSZTclQE/edit?usp=sharing][Activity Design Team Assignments to M1 Cases 2018-2019]]
 :PROPERTIES:
 :SYNCID:   09F400CB-2136-4F0E-9248-52629D085F6B
 :ID:       D97A5C8B-52B1-45F1-967B-1CDB9918D5B7

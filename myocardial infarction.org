@@ -14,7 +14,7 @@
 :SYNCID:   7041BC1F-D541-4080-B078-6EF0EFDCAD8A
 :ID:       3E988E24-A172-4810-A658-2FA24C0442B8
 :END:
-*** WAITING There were a number of comments in James Parker about no materials on cardiac markers.  Make sure there is a note on the coverpage indicating to the students that there is text that they must read in addition to the videos.
+*** DONE There were a number of comments in James Parker about no materials on cardiac markers.  Make sure there is a note on the coverpage indicating to the students that there is text that they must read in addition to the videos.
 :LOGBOOK:
 - State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\
   This hasn't been sent out for review yet.
@@ -68,7 +68,7 @@ and here [[message://%3cc02a9737887549cea97d4df3736a1517@RUDW-EXCHMAIL01.rush.ed
 - State "DONE"       from "TODO"       [2019-08-29 Thu 10:51]
 :END:
 
-** TODO [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
+** DONE [#A] Update Mike's material [[message://%3cafd1b0017c3d4465afd2c0f38bdbb052@RUPW-EXCHMAIL02.rush.edu%3E][RE: Links to videos for MI session 2?]]
 :PROPERTIES:
 :SYNCID:   339DF046-A733-4B5D-A2C5-A043E670AE33
 :ID:       A2701681-6E26-46B4-B38F-A76ADA2FF3C4
@@ -78,6 +78,13 @@ https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
 https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
 https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
 * *Ticklers*
+** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
+SCHEDULED: <2020-03-02 Mon>
+:PROPERTIES:
+:SYNCID:   152E6B22-3D73-49C2-B0FE-72B8C2BCA96A
+:ID:       8B440E0B-F53B-4195-9D1F-CBD07CC7F540
+:END:
+
 * *Meetings*
 * *Notes*
 

@@ -47,8 +47,7 @@ SCHEDULED: <2019-07-29 Mon>
 - Note taken on [2019-07-24 Wed 08:10] \\
   [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
-** TODO FU:  Princess on slack
-SCHEDULED: <2019-08-30 Fri>
+** DONE FU:  Princess on slack
 :PROPERTIES:
 :SYNCID:   7B169153-D4B6-4A92-B39E-0293A8FF940F
 :ID:       4D6FAA3F-AF16-4ECC-85BA-86C5C90C1228

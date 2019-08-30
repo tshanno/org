@@ -52,13 +52,13 @@ SCHEDULED: <2019-07-08 Mon>
 - State "CANCELED"   from "TODO"       [2019-08-26 Mon 10:57] \\
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
-** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-30 Fri>
+** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       75DFB65D-7A7C-4FA0-B3A1-FA325EFDD35D
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-30 Fri 08:19]
 - Note taken on [2019-08-27 Tue 08:23] \\
   Talked to Bob this morning.  He will press them on the issue today.
 :END:
@@ -113,11 +113,15 @@ SCHEDULED: <2019-08-29 Thu>
 :LOGBOOK:
 - State "DONE"       from              [2019-08-29 Thu 11:14]
 :END:
-** FU S&R rescheduling for TP and FD cases [[message://%3cB675A642-0C56-490A-AD03-40DBD5BBB35B@rush.edu%3E][FW: GU exam dates]]
-SCHEDULED: <2019-08-30 Fri>
+** DONE FU S&R rescheduling for TP and FD cases [[message://%3cB675A642-0C56-490A-AD03-40DBD5BBB35B@rush.edu%3E][FW: GU exam dates]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-30 Fri 08:21]
+:END:
 
-** FU: Michelle Sweet about M4s when the case dates are worked out [[message://%3c1566584397765.77206@rush.edu%3E][Re: M2 Block]]
-SCHEDULED: <2019-08-30 Fri>
+** DONE FU: Michelle Sweet about M4s when the case dates are worked out [[message://%3c1566584397765.77206@rush.edu%3E][Re: M2 Block]]
+:LOGBOOK:
+- State "DONE"       from              [2019-08-30 Fri 08:22]
+:END:
 
 ** DONE Get table signs from Bob for afternoon session
 :PROPERTIES:
@@ -127,7 +131,7 @@ SCHEDULED: <2019-08-30 Fri>
 ** Send out invites to CEs for next week
 SCHEDULED: <2019-09-03 Tue>
 ** FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
-SCHEDULED: <2019-08-30 Fri>
+SCHEDULED: <2019-09-03 Tue>
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -1062,8 +1066,8 @@ Tom S.1
 - State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
   Emailed a draft to Bob
 :END:
-** [#A] Make sure there are markers for th ewhite boards for each of the eight groups.
-SCHEDULED: <2019-08-30 Fri>
+** Make sure there are markers for th ewhite boards for each of the eight groups.
+SCHEDULED: <2019-09-03 Tue>
 ** DONE [#A] 3 more physiology questions and 4 more pathology quesitons for S&R final exam
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 11:00]
@@ -1086,7 +1090,7 @@ Start by asking mark if we have a paying account.
 ** Email clinician educators about PowerPoint
 SCHEDULED: <2019-09-03 Tue>
 **  Markers for whiteboards? [[message://%3c49EE3D57-6301-49D6-9D0A-7472F789725E@rush.edu%3E][Re: Draft of an Email to the CEs (with DDs copied)]]
-SCHEDULED: <2019-08-30 Fri>
+SCHEDULED: <2019-09-03 Tue>
 
 ** DONE [#A] Correct the S&R summative exam [[message://%3cC91E7777-6F39-4E53-8176-F74B89ED5027@rush.edu%3E][Items 1081 and 1091]]
 :LOGBOOK:
@@ -1150,8 +1154,8 @@ SCHEDULED: <2019-09-03 Tue>
 - State "DONE"       from "TODO"       [2019-08-28 Wed 08:32]
 :END:
 
-** TODO FU: Melissa [[message://%3cB2C6F750-A494-4EC0-A2C2-F108B8616894@rush.edu%3E][Re: scheduling conflict 9/6]]
-SCHEDULED: <2019-08-30 Fri>
+** FU: Melissa [[message://%3cB2C6F750-A494-4EC0-A2C2-F108B8616894@rush.edu%3E][Re: scheduling conflict 9/6]]
+SCHEDULED: <2019-09-03 Tue>
 
 ** DONE [#A] Change reproductive question
 :LOGBOOK:

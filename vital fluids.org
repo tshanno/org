@@ -365,10 +365,12 @@ SCHEDULED: <2019-08-08 Thu>
 - State "DONE"       from              [2019-08-28 Wed 09:12]
 :END:
 ** DONE [#A] FU:  Syed on VF questions [[message://%3cCB5F62A0-33FD-45CD-AB67-36F306261734@rush.edu%3E][Help with EKG Vital Fluids ]]
-SCHEDULED: <2019-08-30 Fri>
 :PROPERTIES:
 :SYNCID:   D28FD19F-ED4A-4CF8-AF20-8FB1C376A894
 :ID:       52B2349B-03A4-4401-8F7D-2093DC4BE233
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-29 Thu 11:16]
 :END:
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -781,7 +783,11 @@ SCHEDULED: <2019-06-27 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:23]
 :END:
-*** TODO [#A] Student Self-Study for Myocardial Infarction Session 1
+*** WAITING [#A] Student Self-Study for Myocardial Infarction Session 1
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-30 Fri 08:27] \\
+  waiting on Syed.  As usual.
+:END:
 *** TODO Student Self-Study for Myocardial Infarction Session 2
 *** TODO Student Self-Study for CHF Session 1
 *** TODO Student self-study for CHF Session 2

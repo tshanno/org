@@ -56,13 +56,13 @@ SCHEDULED: <2019-06-20 Thu>
 - State "CANCELED"   from "TODO"       [2019-08-26 Mon 10:57] \\
   Turns out after this gets moved that spot will be appropriate.  There really isn't any other choice.
 :END:
-** TODO [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
-SCHEDULED: <2019-08-30 Fri>
+** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
 :SYNCID:   96E10B31-68E9-4F69-B967-2CBDCCD70167
 :ID:       005118BD-0F7E-4846-ADD4-791B6AA47AB5
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-30 Fri 08:19]
 - Note taken on [2019-08-27 Tue 08:23] \\
   Talked to Bob this morning.  He will press them on the issue today.
 :END:

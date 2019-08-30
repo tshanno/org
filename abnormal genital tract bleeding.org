@@ -6,8 +6,12 @@ SCHEDULED: <2020-02-03 Mon>
 - State "CANCELED"   from              [2019-08-09 Fri 09:26] \\
   I just removed these.
 :END:
-** TODO [#A] Make sure that packets re ready to go for AGB activity on 9/3
+** WAITING [#A] Make sure that packets re ready to go for AGB activity on 9/3
 SCHEDULED: <2019-08-29 Thu>
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-08-30 Fri 10:30] \\
+  Waiting on Kristin to give me these.
+:END:
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-12 Fri 14:30-15:30>
 :PROPERTIES:
@@ -270,19 +274,34 @@ SCHEDULED: <2019-08-20 Tue>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-21 Wed 08:22]
 :END:
-** TODO [#A] Make slides for debrief on Tuesday
+** DONE [#A] Make slides for debrief on Tuesday
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-30 Fri 10:16]
+:END:
 
-** TODO [#A] FU Kristin on how to handle Histo activity [[message://%3c67e1d6bed34f4e3bb783700fa771047e@RUPW-EXCHMAIL02.rush.edu%3E][FW: Debrief on Tuesday]]
-** WAITING Email Syed about AGB debrief
+** DONE [#A] FU Kristin on how to handle Histo activity [[message://%3c67e1d6bed34f4e3bb783700fa771047e@RUPW-EXCHMAIL02.rush.edu%3E][FW: Debrief on Tuesday]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-08-30 Fri 10:16]
+:END:
+** DONE Email Syed about AGB debrief
 :PROPERTIES:
 :SYNCID:   D5E8382B-A743-4BF4-AC0A-EE6016A9BAAD
 :ID:       A2005C0B-4E6D-4F83-9291-C8D5A3F2CC98
 :END:
 :LOGBOOK:
-- State "WAITING"    from "DONE"       [2019-08-29 Thu 10:50] \\
-  Wating on Gary to confirm that he can make it before canceling this.
 - State "DONE"       from "TODO"       [2019-08-29 Thu 10:49]
 :END:
+** TODO [#A] Email DDs and give a general description of what you expect Tuesday
+** WAITING [#A] Email CEs about Tuesday
+:LOGBOOK:
+- State "WAITING"    from              [2019-08-30 Fri 08:32] \\
+  Waiting on Kristin to give me a clue about how to handle histo
+:END:
+*** Team Building Circles.
+*** Quiz at 11:15
+*** TODO [#A] Ask Maria about debrief.  Do students take the quiz together?  Shold CEs just go ahead and start the session evaluation immediately after finishing?
+*** Tables in a U-shpae or a triangle
+*** how to handle histo activity
 * *Notes*
 ** [[https://embryology.med.unsw.edu.au/embryology/index.php/Oocyte_Development#Meiosis][Oocyte Development - Embryology]]
 - Note taken on [2019-06-03 Mon 08:54] \\

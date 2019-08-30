@@ -187,6 +187,8 @@ SCHEDULED: <2019-07-12 Fri>
 :END:
 
 ** TODO [#A] clean up notes
+** TODO [#A] [[message://%3c1567095745752.97936@rush.edu%3E][Deri Morgan Goodbye Gift]]
+Contribute to Deri's goodbye gift.  Find out from Glenda if he know sabout it.  If so, explain to him why you won't be there.
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>
 
