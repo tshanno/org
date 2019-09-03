@@ -19,3 +19,18 @@ Paola
 
 ** TODO The Babbage Files: LaTeX table manipulation using Emacs/AUCTeX+align.el+rectangular selection
 https://babbagefiles.blogspot.com/2011/01/latex-table-manipulation-using.html
+** TODO Check out the end of RP11.  MIssing somethign?
+
+** TODO [[message://%3c1567262787724.19297@rush.edu%3E][Re: M2 Block]]
+
+
+Steven Suh is signed up for:
+9/10/19 Pelvic Inflammatory Disease
+9/13/19 Infertility
+
+and
+
+Blake Beehler is signed up for
+9/10/19 Pelvic Inflammatory Disease​
+
+** TODO Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
