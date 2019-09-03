@@ -16,3 +16,6 @@ Paola
 ** TODO  FU Jeffrey on review of [[message://%3cA1C53014-210F-4C69-B6F7-E45E65CF8610@rush.edu%3E][James Parker Session 1 (Case 2a) self-study ready for review]]
 
 ** TODO FU Syed on the hypertension material.  Where is it? [[message://%3c96EBCA5F-92C6-43FE-8932-C0FE7797C3D5@rush.edu%3E][Re: Late Pathophysiology material ]]
+
+** TODO The Babbage Files: LaTeX table manipulation using Emacs/AUCTeX+align.el+rectangular selection
+https://babbagefiles.blogspot.com/2011/01/latex-table-manipulation-using.html
