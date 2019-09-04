@@ -130,8 +130,14 @@ SCHEDULED: <2019-08-29 Thu>
 :END:
 ** Send out invites to CEs for next week
 SCHEDULED: <2019-09-03 Tue>
-** FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
-SCHEDULED: <2019-09-03 Tue>
+** WAITING [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
+:LOGBOOK:
+- State "WAITING"    from              [2019-09-04 Wed 07:52] \\
+  Asked her if Bob got back to her.
+:END:
+
+** TODO Check out the end of RP11.  MIssing somethign?
+SCHEDULED: <2020-03-02 Mon>
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -1066,8 +1072,10 @@ Tom S.1
 - State "WAITING"    from "TODO"       [2019-08-22 Thu 11:27] \\
   Emailed a draft to Bob
 :END:
-** Make sure there are markers for th ewhite boards for each of the eight groups.
-SCHEDULED: <2019-09-03 Tue>
+** DONE Make sure there are markers for th ewhite boards for each of the eight groups.
+:LOGBOOK:
+- State "DONE"       from              [2019-09-04 Wed 07:52]
+:END:
 ** DONE [#A] 3 more physiology questions and 4 more pathology quesitons for S&R final exam
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 11:00]
@@ -1087,17 +1095,18 @@ Start by asking mark if we have a paying account.
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:19] \\
   Sent in request.
 :END:
-** Email clinician educators about PowerPoint
-SCHEDULED: <2019-09-03 Tue>
-**  Markers for whiteboards? [[message://%3c49EE3D57-6301-49D6-9D0A-7472F789725E@rush.edu%3E][Re: Draft of an Email to the CEs (with DDs copied)]]
-SCHEDULED: <2019-09-03 Tue>
+** TODO [#A] Email clinician educators about PowerPoint
+** DONE Markers for whiteboards? [[message://%3c49EE3D57-6301-49D6-9D0A-7472F789725E@rush.edu%3E][Re: Draft of an Email to the CEs (with DDs copied)]]
+:LOGBOOK:
+- State "DONE"       from              [2019-09-04 Wed 07:53]
+:END:
 
 ** DONE [#A] Correct the S&R summative exam [[message://%3cC91E7777-6F39-4E53-8176-F74B89ED5027@rush.edu%3E][Items 1081 and 1091]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:36]
 :END:
 
-** Invite CEs to sessions
+** TODO [#A] Invite CEs to sessions
 SCHEDULED: <2019-09-03 Tue>
 
 ** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
@@ -1154,8 +1163,10 @@ SCHEDULED: <2019-09-03 Tue>
 - State "DONE"       from "TODO"       [2019-08-28 Wed 08:32]
 :END:
 
-** FU: Melissa [[message://%3cB2C6F750-A494-4EC0-A2C2-F108B8616894@rush.edu%3E][Re: scheduling conflict 9/6]]
-SCHEDULED: <2019-09-03 Tue>
+** DONE FU: Melissa [[message://%3cB2C6F750-A494-4EC0-A2C2-F108B8616894@rush.edu%3E][Re: scheduling conflict 9/6]]
+:LOGBOOK:
+- State "DONE"       from              [2019-09-04 Wed 07:53]
+:END:
 
 ** DONE [#A] Change reproductive question
 :LOGBOOK:
@@ -1169,6 +1180,53 @@ SCHEDULED: <2019-09-03 Tue>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:25]
 :END:
+
+** DONE Adam's slides [[message://%3cb828d3e5b8734427a8258dc878201892@RUPW-EXCHMAIL02.rush.edu%3E][Tuesday debrief slides]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-04 Wed 07:27]
+:END:
+
+** TODO [#A] FU Danesha on Allocaton of Resources [[message://%3c75E8C42A-5C7F-49A5-9895-B17188101029@rush.edu%3E][Re: Allocation of resources session]]
+
+** TODO [#A] FU Danesha on Allocation of Resources [[message://%3cF2B6F40F-682C-46AE-BF11-8BCE6A3DE82C@rush.edu%3E][IMMEDIATE: Allocation of resources session]]
+** TODO [[message://%3c1567262787724.19297@rush.edu%3E][M4s for Re: M2 Block]]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+
+
+Steven Suh is signed up for:
+9/10/19 Pelvic Inflammatory Disease
+9/13/19 Infertility
+
+and
+
+Blake Beehler is signed up for
+9/10/19 Pelvic Inflammatory Disease​
+
+*** DONE [#A] Select a clinician educator for Steven Suh for PID
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-09-04 Wed 10:15]
+- State "WAITING"    from "TODO"       [2019-09-04 Wed 10:06] \\
+  Emailed Carl
+:END:
+
+*** DONE Email the clinician educator for Steven Suh for PID
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-04 Wed 10:16]
+:END:
+
+*** DONE Email Steven Suh for pelvic inflammatory disease
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-04 Wed 10:21]
+:END:
+
+*** TODO [#A] Select a clinician educator for Steven Suh and Blake Beehler for Infertility
+SCHEDULED: <2019-09-05 Thu>
+
+*** TODO Email the clinician educator for Steven Suh and Blake Beehler for Infertility
+
+*** TODO Email Steven Suh and Blake Beehler for Infertility
 
 * Archive
 ** DONE PROJECT Finalize schedule

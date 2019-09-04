@@ -1,36 +1,17 @@
 * Tasks
 
 
-** TODO Adam's slides [[message://%3cb828d3e5b8734427a8258dc878201892@RUPW-EXCHMAIL02.rush.edu%3E][Tuesday debrief slides]]
 
-** TODO FU Danesha on Allocaton of Resources [[message://%3c75E8C42A-5C7F-49A5-9895-B17188101029@rush.edu%3E][Re: Allocation of resources session]]
+** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
 
-** TODO [[message://%3c90B545F8-7D98-4ED5-8E14-ED251E92F60A@rush.edu%3E][Re: Update: Core Disciplines Meeting 8/28/19]]
-
+*** TODO [[message://%3c90B545F8-7D98-4ED5-8E14-ED251E92F60A@rush.edu%3E][Re: Update: Core Disciplines Meeting 8/28/19]]
 
 Hi Tom,
 
 Mark and I had the chance to sit and talk and we came out with an idea for an activity. will have 3 clinical scenarios for dilated, hypertrophic and restricted cardiomyopathy will have them matching it to pathology slides and if we can an echocardiogram. Let me know what do you think.
 Paola 
 
-** TODO  FU Jeffrey on review of [[message://%3cA1C53014-210F-4C69-B6F7-E45E65CF8610@rush.edu%3E][James Parker Session 1 (Case 2a) self-study ready for review]]
-
-** TODO FU Syed on the hypertension material.  Where is it? [[message://%3c96EBCA5F-92C6-43FE-8932-C0FE7797C3D5@rush.edu%3E][Re: Late Pathophysiology material ]]
-
-** TODO The Babbage Files: LaTeX table manipulation using Emacs/AUCTeX+align.el+rectangular selection
-https://babbagefiles.blogspot.com/2011/01/latex-table-manipulation-using.html
-** TODO Check out the end of RP11.  MIssing somethign?
-
-** TODO [[message://%3c1567262787724.19297@rush.edu%3E][Re: M2 Block]]
-
-
-Steven Suh is signed up for:
-9/10/19 Pelvic Inflammatory Disease
-9/13/19 Infertility
-
-and
-
-Blake Beehler is signed up for
-9/10/19 Pelvic Inflammatory Disease​
-
-** TODO Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
+*** TODO  Check with MArk on midterm content at meeting [[message://%3ce1a3792ffeff4228b4233852f45d6676@RUPW-EXCHMAIL02.rush.edu%3E][RMD 574 Midterm]]
+** TODO Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
+** TODO Announcement about reading case
+** TODO Decuded to cover BNP in complex cases

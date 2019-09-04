@@ -409,6 +409,8 @@ https://www.reddit.com/r/LaTeX/comments/cwp62o/converting_xelatex_to_docx_consis
 I use the online Adobe PDF converter to convert my thesis from PDF to DOCX. I tried different solutions and this
 works the best for me.
 
+** The Babbage Files: LaTeX table manipulation using Emacs/AUCTeX+align.el+rectangular selection
+https://babbagefiles.blogspot.com/2011/01/latex-table-manipulation-using.html
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 
@@ -674,6 +676,8 @@ https://orangebsd.wordpress.com/
 
 ** TODO Things You Didn't Know About GNU Readline
 https://twobithistory.org/2019/08/22/readline.html
+
+** Command to upgrade (or install) GUI emacs via homebrew is "brew cask upgrade emacs"
 
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs

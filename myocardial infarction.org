@@ -77,6 +77,13 @@ Video Links:
 https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
 https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
 https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
+** TODO [#A]  FU Jeffrey on review of [[message://%3cA1C53014-210F-4C69-B6F7-E45E65CF8610@rush.edu%3E][James Parker Session 1 (Case 2a) self-study ready for review]]
+
+** DONE FU Syed on the hypertension material.  Where is it? [[message://%3c96EBCA5F-92C6-43FE-8932-C0FE7797C3D5@rush.edu%3E][Re: Late Pathophysiology material ]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-04 Wed 07:29]
+:END:
+
 * *Ticklers*
 ** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
 SCHEDULED: <2020-03-02 Mon>

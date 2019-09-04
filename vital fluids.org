@@ -372,6 +372,9 @@ SCHEDULED: <2019-08-08 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:16]
 :END:
+** FU Nina [[message://%3c84E14332-B644-476D-B2CD-3E3425A9C2E6@rush.edu%3E][IMMEDIATE:  Leader Materials ]]
+SCHEDULED: <2019-09-05 Thu>
+
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
