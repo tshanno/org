@@ -58,7 +58,10 @@
 :SYNCID:   26702ACD-37A3-41E4-A164-321109BD003A
 :ID:       81B451FE-93C7-4A98-BE48-A17CB05E39B7
 :END:
-** TODO [#A] PowerPoint for PID
+** DONE [#A] PowerPoint for PID
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:31]
+:END:
 ** DONE [#A] Respond to these comments [[message://%3cee58f771aaf64311a92c0a848e844a60@RUPW-EXCHMAIL02.rush.edu%3E][RMD 566 Self-Study Guide: 02 Joanna Williams (Review Complete)]]
 :LOGBOOK:
 - State "DONE"       from "WAITING"    [2019-07-31 Wed 15:09]
@@ -189,9 +192,9 @@ SCHEDULED: <2019-08-01 Thu>
 :LOGBOOK:
 - State "DONE"       from              [2019-08-05 Mon 06:48]
 :END:
-** Email the clinican educators for the session on 9/10.
-SCHEDULED: <2019-09-03 Tue>
+** DONE Email the clinican educators for the session on 9/10.
 :LOGBOOK:
+- State "DONE"       from              [2019-09-05 Thu 08:55]
 - State "DONE"       from              [2019-08-26 Mon 07:49]
 :END:
 *** Point to powerpoint.

@@ -66,10 +66,6 @@ Janice
 :SYNCID:   7041BC1F-D541-4080-B078-6EF0EFDCAD8A
 :ID:       A6097033-563B-4088-A1E2-0C34DF13B644
 :END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2019-08-30 Fri 09:37]
-- State "DONE"       from "WAITING"    [2019-08-30 Fri 08:29]
-:END:
 *** DONE There were a number of comments in James Parker about no materials on cardiac markers.  Make sure there is a note on the coverpage indicating to the students that there is text that they must read in addition to the videos.
 :LOGBOOK:
 - State "WAITING"    from "TODO"       [2019-08-10 Sat 09:23] \\

@@ -9,10 +9,13 @@
 - State "DONE"       from "TODO"       [2019-07-24 Wed 14:19]
 :END:
    [2018-11-16 Fri]
-** TODO [#A] Send James Parker self-study edits to Janice
+** DONE [#A] Send James Parker self-study edits to Janice
 :PROPERTIES:
 :SYNCID:   7041BC1F-D541-4080-B078-6EF0EFDCAD8A
 :ID:       3E988E24-A172-4810-A658-2FA24C0442B8
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:28]
 :END:
 *** DONE There were a number of comments in James Parker about no materials on cardiac markers.  Make sure there is a note on the coverpage indicating to the students that there is text that they must read in addition to the videos.
 :LOGBOOK:
@@ -25,19 +28,25 @@
 :ID:       DBFD4FE6-69C6-4F95-8D52-526558B9D86A
 :END:
 :LOGBOOK:
+- Note taken on [2019-09-05 Thu 09:29] \\
+  Did this book myslef.  I put the note on the coverpage about th epath.
 - State "DONE"       from "TODO"       [2019-08-13 Tue 13:45]
 - Note taken on [2019-08-13 Tue 13:45] \\
   1.  Explain how the cardiac action depolarization and repolarization propagates through the heart.
   2.  Explain how the EKG is measured from the electrical potentials generated outside the cardiac cells.
   3.  Explain how the propagation of the cardiac action potential correlates with the wave-form of the EKG e.g. p-wave (atrial depolarization), PQ interval (AV nodal delay), QRS wave (ventricular depolarization) and T-wave (ventricular repolarization).
 :END:
-** TODO [#A] Plan of Study for Myocardial Infarction
+** DONE [#A] Plan of Study for Myocardial Infarction
 :PROPERTIES:
 :SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
 :ID:       CAD9D793-8F88-4983-B362-3F10E1667C78
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:30]
+:END:
 ** DONE [#A] Make corections to MI2 concenpt map
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2019-09-05 Thu 09:31]
 - State "DONE"       from "TODO"       [2019-08-27 Tue 09:53]
 :END:
 ** DONE [#A] Correct [[message://%3cZ8rSfAlfxNxDoy-pTha8JQ.0@notifications.google.com%3E][James Parker Facu... - +tshanno@me.com Assigned to you]]
@@ -77,13 +86,20 @@ Video Links:
 https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
 https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
 https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
-** TODO [#A]  FU Jeffrey on review of [[message://%3cA1C53014-210F-4C69-B6F7-E45E65CF8610@rush.edu%3E][James Parker Session 1 (Case 2a) self-study ready for review]]
+** DONE [#A]  FU Jeffrey on review of [[message://%3cA1C53014-210F-4C69-B6F7-E45E65CF8610@rush.edu%3E][James Parker Session 1 (Case 2a) self-study ready for review]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:31]
+:END:
 
 ** DONE FU Syed on the hypertension material.  Where is it? [[message://%3c96EBCA5F-92C6-43FE-8932-C0FE7797C3D5@rush.edu%3E][Re: Late Pathophysiology material ]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-04 Wed 07:29]
 :END:
 
+** DONE Send out links to MI 1 self-study
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:10]
+:END:
 * *Ticklers*
 ** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
 SCHEDULED: <2020-03-02 Mon>

@@ -130,6 +130,40 @@ For Fetal death are we talking about prenatal test? What about T21? Or we could 
 **** Ane and Tom will work on the Pathophys activity to convert it from a table to a series of MC questions that compare and contrast the types of HF
 *** [[message://%3c058B56B7-FCF9-49E2-B94A-F93004489F30@rush.edu%3E][Update: Core Disciplines Meeting 8/28/19]]
 
+** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   486F46BD-5785-4E57-9C4D-B4CC0EE8AF13
+:ID:       ECAD2F8D-71D7-4ED0-AD1A-D76AECAF7ECC
+:END:
+
+*** About the new path activity [[message://%3c90B545F8-7D98-4ED5-8E14-ED251E92F60A@rush.edu%3E][Re: Update: Core Disciplines Meeting 8/28/19]]
+
+Hi Tom,
+
+Mark and I had the chance to sit and talk and we came out with an idea for an activity. will have 3 clinical scenarios for dilated, hypertrophic and restricted cardiomyopathy will have them matching it to pathology slides and if we can an echocardiogram. Let me know what do you think.
+Paola 
+
+*** DONE Check with Mark on midterm content at meeting [[message://%3ce1a3792ffeff4228b4233852f45d6676@RUPW-EXCHMAIL02.rush.edu%3E][RMD 574 Midterm]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:14]
+:END:
+
+*** [[message://%3cEFE18A7A-1071-40FB-819E-EBCEC5E79E96@rush.edu%3E][Update: Core Disciplines Meeting Today at 11AM]]
+
+
+Hi, guys.
+
+A quick update on what happened at the meeting yesterday for those who didn’t need to be there.
+
+1.  Myocardial infarction 2 seems to be good to go.
+
+2.  We reviewed heart failure session 1 -  Anne and Tom re-worked on the Pathophys activity to convert it from a table to a series of multiple choice questions that compare and contrast the types of heart failure.  This activity has now been copied into the guide and replaced the table that used to be there.  Anne is still making minor adjustments but I think everyone was reasonably happy with it.
+
+3.  We started heart failure session 2
+
+a.  We eliminated the activity which was oriented around salt intake in HF
+b.  Anne is helping to re-work the nutrition self-study to bring it into compliance with current thinking on the matter.  She will communicate with Sarah.
+c.  We will pick things up net week with activity 2 in this case where we are replacing the Professional activity from last year with a pathology activity from Mark and Paola and possibly Carl.
 * *Notes*
 ** [[message://%3c9C86D54B-94C8-405D-AE61-E8CFA90A2BDA@rush.edu%3E][Assessment Challenge Link]]
   [2018-09-28 Fri]
@@ -260,6 +294,12 @@ tom_shannon@rush.edu
 :SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
 :ID:       B0025FAA-D231-4C0D-9ECB-44B780222F29
 :END:
+** Decided to cover BNP in complex cases
+SCHEDULED: <2019-10-31 Thu>
+:PROPERTIES:
+:SYNCID:   BB87C992-8505-4837-AD4E-7032BC07E596
+:ID:       CFC6D306-6150-439C-8ED5-7335B3ED9A3F
+:END:
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -372,8 +412,10 @@ SCHEDULED: <2019-08-08 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:16]
 :END:
-** FU Nina [[message://%3c84E14332-B644-476D-B2CD-3E3425A9C2E6@rush.edu%3E][IMMEDIATE:  Leader Materials ]]
-SCHEDULED: <2019-09-05 Thu>
+** DONE FU Nina [[message://%3c84E14332-B644-476D-B2CD-3E3425A9C2E6@rush.edu%3E][IMMEDIATE:  Leader Materials ]]
+:LOGBOOK:
+- State "DONE"       from              [2019-09-05 Thu 08:56]
+:END:
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -682,12 +724,12 @@ SCHEDULED: <2019-06-27 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 13:44]
 :END:
-*** TODO [#A] Plan of Study for Myocardial Infarction
+*** DONE [#A] Plan of Study for Myocardial Infarction
 :PROPERTIES:
 :SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
 :ID:       8703C9B5-2D84-4AA4-8D44-C28EC43C7E77
 :END:
-*** TODO Plan of Study for Heart Failure
+*** TODO [#A] Plan of Study for Heart Failure
 :PROPERTIES:
 :SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
 :ID:       1CCE6650-DF51-4699-A0C6-4ED5BDB22973
@@ -743,7 +785,8 @@ SCHEDULED: <2019-06-27 Thu>
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:21] \\
   Sent in request
 :END:
-** TODO [#A] Send out minutes from Core Disciplines
+** Send out minutes from Core Disciplines
+SCHEDULED: <2019-09-12 Thu>
 ** DONE FU: Joanna [[message://%3c730355A8-003B-4A71-BD46-5EECB61B682B@rush.edu%3E][Vital Fluids Wellness Skills and Informed Consent Sessions on 10/17]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 07:11]

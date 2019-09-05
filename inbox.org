@@ -1,17 +1,5 @@
 * Tasks
-
-
-
-** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-04 Wed 11:00-12:00>
-
-*** TODO [[message://%3c90B545F8-7D98-4ED5-8E14-ED251E92F60A@rush.edu%3E][Re: Update: Core Disciplines Meeting 8/28/19]]
-
-Hi Tom,
-
-Mark and I had the chance to sit and talk and we came out with an idea for an activity. will have 3 clinical scenarios for dilated, hypertrophic and restricted cardiomyopathy will have them matching it to pathology slides and if we can an echocardiogram. Let me know what do you think.
-Paola 
-
-*** TODO  Check with MArk on midterm content at meeting [[message://%3ce1a3792ffeff4228b4233852f45d6676@RUPW-EXCHMAIL02.rush.edu%3E][RMD 574 Midterm]]
-** TODO Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
-** TODO Announcement about reading case
-** TODO Decuded to cover BNP in complex cases
+** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-09-05 Thu 12:00-13:00>
+** TODO Tom Shannon - Dan Bare; Location: 1750 W Harrison St. <2019-09-05 Thu 09:45-10:15>
+** TODO Email DDs and ask them to send you slides for debrief
+** TODO Send out invite to formative review

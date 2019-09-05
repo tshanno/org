@@ -3,6 +3,11 @@
   [2018-10-05 Fri]
 ** DONE [#A] [[message://%3c34DD5C86-967B-4A3C-9506-1B0F7B113CF2@rush.edu%3E][Look at Deri's bladder notes]]
   [2018-10-13 Sat]
+** TODO [#A] Talk to Deri and get his stuff
+:PROPERTIES:
+:SYNCID:   E2174763-5FFE-4E53-96BA-E02F4E238CD9
+:ID:       26036E7A-2A35-443E-ABAB-8B42DB31D98C
+:END:
 * *Tickers*
 ** Consider talking about puberty in Life Cycle rather than S&R next year.  We talk about it a lot in the introductory lesson.  It fits there mechanistically, though.
 SCHEDULED: <2020-02-03 Mon>

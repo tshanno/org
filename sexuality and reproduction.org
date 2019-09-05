@@ -129,7 +129,7 @@ SCHEDULED: <2019-08-29 Thu>
 :ID:       54873C97-B74A-4C14-9E82-F47DF1AC97BE
 :END:
 ** Send out invites to CEs for next week
-SCHEDULED: <2019-09-03 Tue>
+SCHEDULED: <2019-09-09 Mon>
 ** WAITING [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
 :LOGBOOK:
 - State "WAITING"    from              [2019-09-04 Wed 07:52] \\
@@ -1095,7 +1095,10 @@ Start by asking mark if we have a paying account.
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:19] \\
   Sent in request.
 :END:
-** TODO [#A] Email clinician educators about PowerPoint
+** DONE [#A] Email clinician educators about PowerPoint
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:32]
+:END:
 ** DONE Markers for whiteboards? [[message://%3c49EE3D57-6301-49D6-9D0A-7472F789725E@rush.edu%3E][Re: Draft of an Email to the CEs (with DDs copied)]]
 :LOGBOOK:
 - State "DONE"       from              [2019-09-04 Wed 07:53]
@@ -1106,8 +1109,8 @@ Start by asking mark if we have a paying account.
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:36]
 :END:
 
-** TODO [#A] Invite CEs to sessions
-SCHEDULED: <2019-09-03 Tue>
+** Invite CEs to sessions
+SCHEDULED: <2019-09-09 Mon>
 
 ** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
@@ -1144,8 +1147,9 @@ SCHEDULED: <2019-09-03 Tue>
   Confusingly, Michael goes by "Ryan" and Edward goes by "Ted".
 :END:
 
-** WAITING [#A] FU: Bill on Melissa's conflict [[message://%3c1566827556309.61760@rush.edu%3E][Re: scheduling conflict 9/6]]
+** DONE [#A] FU: Bill on Melissa's conflict [[message://%3c1566827556309.61760@rush.edu%3E][Re: scheduling conflict 9/6]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-09-05 Thu 09:51]
 - State "WAITING"    from "TODO"       [2019-08-27 Tue 08:38] \\
   Emailed Bill.  Waiting on a response indicating that this got solved.
 :END:
@@ -1186,9 +1190,15 @@ SCHEDULED: <2019-09-03 Tue>
 - State "DONE"       from "TODO"       [2019-09-04 Wed 07:27]
 :END:
 
-** TODO [#A] FU Danesha on Allocaton of Resources [[message://%3c75E8C42A-5C7F-49A5-9895-B17188101029@rush.edu%3E][Re: Allocation of resources session]]
+** DONE [#A] FU Danesha on Allocaton of Resources [[message://%3c75E8C42A-5C7F-49A5-9895-B17188101029@rush.edu%3E][Re: Allocation of resources session]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:51]
+:END:
 
-** TODO [#A] FU Danesha on Allocation of Resources [[message://%3cF2B6F40F-682C-46AE-BF11-8BCE6A3DE82C@rush.edu%3E][IMMEDIATE: Allocation of resources session]]
+** DONE [#A] FU Danesha on Allocation of Resources [[message://%3cF2B6F40F-682C-46AE-BF11-8BCE6A3DE82C@rush.edu%3E][IMMEDIATE: Allocation of resources session]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:51]
+:END:
 ** TODO [[message://%3c1567262787724.19297@rush.edu%3E][M4s for Re: M2 Block]]
 :PROPERTIES:
 :ORDERED:  t
@@ -1222,12 +1232,14 @@ Blake Beehler is signed up for
 :END:
 
 *** TODO [#A] Select a clinician educator for Steven Suh and Blake Beehler for Infertility
-SCHEDULED: <2019-09-05 Thu>
 
 *** TODO Email the clinician educator for Steven Suh and Blake Beehler for Infertility
 
 *** TODO Email Steven Suh and Blake Beehler for Infertility
+**** [[message://%3c759021C3-DAC8-45D6-A2E3-EF86259267C9@rush.edu%3E][Pelvic Inflammatory Disease on 9/10 in AAC 550]]
+** TODO [#A] Redo the S&R plan of study to account for the move of the formative.
 
+** TODO [#A] Announcement about reading case
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

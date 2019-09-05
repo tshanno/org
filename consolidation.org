@@ -5,6 +5,12 @@
 ** DONE [[message://%3cd837c613018947f184f1085c9dd28971@RUPW-EXCHMAIL02.rush.edu%3E][Topics for consolidated]]
    SCHEDULED: <2018-12-19 Wed>
    [2018-12-12 Wed]
+** Decided to cover BNP in complex cases
+SCHEDULED: <2019-10-31 Thu>
+:PROPERTIES:
+:SYNCID:   BB87C992-8505-4837-AD4E-7032BC07E596
+:ID:       3B8A42D2-9695-4682-8BCC-909D77D2EB23
+:END:
 * *Tasks*
 ** ON RADAR [#B] Add a descripiton of the differences in right and left sided heart failure to your consolidation review for next year (right - lower extremity edema, left pulmonary hypertension)
 ** DONE [#A] [[message://%3cc69ab26edf834159ad60a4bed5fe3fad@RUPW-EXCHMAIL01.rush.edu%3E][Consolidated Self-Study]]

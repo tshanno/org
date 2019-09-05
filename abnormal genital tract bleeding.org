@@ -292,7 +292,10 @@ SCHEDULED: <2019-08-20 Tue>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 10:49]
 :END:
-** TODO [#A] Email DDs and give a general description of what you expect Tuesday
+** DONE [#A] Email DDs and give a general description of what you expect Tuesday
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:21]
+:END:
 ** WAITING [#A] Email CEs about Tuesday
 :LOGBOOK:
 - State "WAITING"    from              [2019-08-30 Fri 08:32] \\
@@ -300,7 +303,10 @@ SCHEDULED: <2019-08-20 Tue>
 :END:
 *** Team Building Circles.
 *** Quiz at 11:15
-*** TODO [#A] Ask Maria about debrief.  Do students take the quiz together?  Shold CEs just go ahead and start the session evaluation immediately after finishing?
+*** DONE [#A] Ask Maria about debrief.  Do students take the quiz together?  Shold CEs just go ahead and start the session evaluation immediately after finishing?
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:21]
+:END:
 *** Tables in a U-shpae or a triangle
 *** how to handle histo activity
 * *Notes*

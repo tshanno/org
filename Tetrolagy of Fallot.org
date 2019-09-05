@@ -60,7 +60,10 @@ SCHEDULED: <2019-10-01 Tue>
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:15]
 :END:
 
-** TODO [#A] Send link to ToF self-study to DDs [[message://%3c1C7510EA-02B0-4110-B5DA-BB910DFB92DF@rush.edu%3E][Re: Links to Osmosis Videos]]
+** DONE [#A] Send link to ToF self-study to DDs [[message://%3c1C7510EA-02B0-4110-B5DA-BB910DFB92DF@rush.edu%3E][Re: Links to Osmosis Videos]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-05 Thu 09:06]
+:END:
 
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.

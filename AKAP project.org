@@ -83,6 +83,37 @@ SCHEDULED: <2019-07-08 Mon>
 - State "DONE"       from              [2019-08-12 Mon 13:19]
 :END:
 
+** Get back to Ken [[message://%3cBYAPR08MB42945430F1457785AB63723FD6BB0@BYAPR08MB4294.namprd08.prod.outlook.com%3E][RE: Powerpoint with Data for tomorrow FOLLOWUP INQUIRY]]
+SCHEDULED: <2019-09-06 Fri>
+Tom, Dan
+We have made a little progress with BandDecline.m.  The number of lines we get seems more reasonable if we change the pixel size to a value like we used, which is around 0.25 to 0.3 microns.
+This brings up the question of why you defined your pixelSize to be 0.656, which seems large.  Did you use a 20x lens where we use 40?
+Also when delimiting the extent of the cell did you have a reason to add 40 to begin space and subtract 40 from endspace?  Were you trying to ensure you confined fluorescence from all bands to fluorescence from within a cell?
+ 
+Also we find that the pixel size varies with the zoom.  Did you find a way to keep the zoom constant?  On our system, when we do a LineSelect, the zoom automatically changes, increasing with shorter line lengths – I did not find a way to disable that.  We are using AIM software, not ZEN.
+ 
+And in the statement bandSize=50/pixelSize; why did you use 50?  If we use 50 we get only a few bands from a cell, whereas if we try for instance 5 we get a good number of bands (like 20 or so).
+ 
+One thing we are doing differently from you is putting bright pacing marks in the field, lasting about 1 scan line, 2 msec.  We have used this type of mark to provide a hopefully unambiguous reference for time to peak etc.  We will contrive to read these as reference times for analysis and also to keep them from interfering with analysis results.  We put the mark in by flashing a very attenuated LED light driven by the stimulator – it is seen by the photodetectors.
+ 
+Finally we are trying to verify how well delimited the pipette application of agonist solutions is or can be, similar as the control you did with high Ca.  For this we have treated some cells with thapsigargin, so they should give us a Ca signal which assays Ca influx more directly in what we hope is a local region, relatively unaffected by SR uptake, propagating release or Eisnerian feedbacks.  We then put 0 Ca Tyrode in the agonist pipette and look for holes or voids in the Ca transient in particular regions along the scan line.
+ 
+So far we do see localization with 0Ca but it is disappointingly fuzzy – see the illustration attached.   The infusion is timed to start 15 sec into a record and lasts 15 sec.  The reason we precede and end with a slow withdraw is that is how we’ve been trying with ISO.  If not so done, a bit of iso seems to dribble out and edge a cell toward responding prematurely.
+ 
+Thanks
+Ksg
+ 
+Ps we will be on leave from Sept 9 thru 23 inclusive.
+ 
+Kenneth Ginsburg
+Dept of Pharmacology
+Univ of California Davis
+Genome and Biological Sciences Facility
+GBSF 3502
+ksginsburg@ucdavis.edu
+office:  530-752-4330
+fax:  530-752-7710
+mobile:  708-674-1503
 * *Meetings*
 ** Phone call with Sabine Van Dijk
 <2018-01-15 Mon>

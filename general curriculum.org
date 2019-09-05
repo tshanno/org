@@ -10,7 +10,10 @@ SCHEDULED: <2019-04-08 Mon>
 :ORDERED:  t
 :END:
 *** WAITING [#A] Get the M1 student roster to invite to faculty-student lunch
+SCHEDULED: <2019-09-09 Mon>
 :LOGBOOK:
+- Note taken on [2019-09-05 Thu 09:22] \\
+  Bug Bob on Monday if you haven't gotten this.  Invites go out Friday.
 - State "WAITING"    from "TODO"       [2019-08-28 Wed 09:18] \\
   Emailed Bob.
 :END:
@@ -22,7 +25,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-09-05 Thu>
+SCHEDULED: <2019-09-06 Fri>
 ** Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-09-13 Fri>
    :LOGBOOK:
@@ -65,9 +68,11 @@ SCHEDULED: <2019-08-24 Sat>
 :ID:       A3F4C235-9D4C-4836-965C-2EDBFD54F178
 :END:
 
-** TODO Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
-SCHEDULED: <2019-09-05 Thu>
+** Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
+SCHEDULED: <2019-09-06 Fri>
 
+** Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
+SCHEDULED: <2019-09-13 Fri>
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
