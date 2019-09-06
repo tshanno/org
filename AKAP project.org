@@ -84,7 +84,7 @@ SCHEDULED: <2019-07-08 Mon>
 :END:
 
 ** Get back to Ken [[message://%3cBYAPR08MB42945430F1457785AB63723FD6BB0@BYAPR08MB4294.namprd08.prod.outlook.com%3E][RE: Powerpoint with Data for tomorrow FOLLOWUP INQUIRY]]
-SCHEDULED: <2019-09-06 Fri>
+SCHEDULED: <2019-09-09 Mon>
 Tom, Dan
 We have made a little progress with BandDecline.m.  The number of lines we get seems more reasonable if we change the pixel size to a value like we used, which is around 0.25 to 0.3 microns.
 This brings up the question of why you defined your pixelSize to be 0.656, which seems large.  Did you use a 20x lens where we use 40?
