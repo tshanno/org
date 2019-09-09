@@ -199,6 +199,14 @@ SCHEDULED: <2019-08-01 Thu>
 :END:
 *** Point to powerpoint.
 *** Suggest watching last year's review video for the physiology.
+** Complie sldies for PID debrief and give to Torrence
+SCHEDULED: <2019-09-09 Mon>
+** TODO Get feeback on Steven and Blake for Michelle
+SCHEDULED: <2019-09-11 Wed>
+
+** Put slide set together for PID and give to Torrence
+SCHEDULED: <2019-09-09 Mon>
+*** With Micro Edits [[message://%3c3174B102-8246-41CE-A151-B8D34A791EDB@rush.edu%3E][Re: RMD 566 Bsci Joanna Williams Session Assessment PowerPoint Presentation]]
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
 :PROPERTIES:

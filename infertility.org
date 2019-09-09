@@ -124,6 +124,12 @@ with XY karyotype."
 
 Comment:
 Or should the sentence be over virilized female and undervirilized male? Either way, it is confusing as is
+** Compile sldies for infertility debrief and give to Torrence
+SCHEDULED: <2019-09-12 Thu>
+** Get feedback on Steven for infertility
+SCHEDULED: <2019-09-14 Sat>
+** Put slides set together for Infertility and give to Torrence
+SCHEDULED: <2019-09-12 Thu>
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

@@ -411,6 +411,11 @@ works the best for me.
 
 ** The Babbage Files: LaTeX table manipulation using Emacs/AUCTeX+align.el+rectangular selection
 https://babbagefiles.blogspot.com/2011/01/latex-table-manipulation-using.html
+** ON RADAR Emacs for Writers
+  [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/emacs-for-writers.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/emacs-for-writers.pdf]]
+** ON RADAR Emacs for Writeres Cheat Sheet
+  [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/emacs-writers-cheatsheet.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/emacs-writers-cheatsheet.pdf]]
+
 * *Miscellaneous*
 ** How do I get to the menu in Emacs in console mode? - Stack Overflow
 

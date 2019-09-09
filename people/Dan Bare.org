@@ -10,4 +10,32 @@
 :END:
 * *Ticklers*
 * *Meetings*
+** Tom Shannon - Dan Bare; Location: 1750 W Harrison St. <2019-09-05 Thu 09:45-10:15>
+:PROPERTIES:
+:SYNCID:   8160D9D1-90D3-40AB-9C55-B0429CFB273A
+:ID:       BA20A134-44D0-47DB-A7E3-DD475C18C168
+:END:
+:LOGBOOK:
+- Note taken on [2019-09-07 Sat 10:18] \\
+  We agreed to let Xun have an extra month.  Dan will move to  me on Nov. 1 and finish on Jan 31.  Then we'll resume every two months after that.
+:END:
+*** [[message://%3c8E19A0FC-741C-4299-ABDD-BE722A04583E@rush.edu%3E][Bare Extension]]
+
+
+Hi, Xun.
+
+Dan talked to me this morning and he said you’d like a one month extension on his services.  He was supposed to go back to work with me in mid-September.  
+
+I would therefore propose that we go ahead and have him work for you to the end of October.  This adds 6 weeks - two weeks of vacation that Dan plans to take during that time plus an extra 4 weeks of work.
+
+That would leave us with this:
+
+Xun: present - October 31
+Tom:  November 1 - January 31
+Continuing to alternate every two months after that.
+
+Is that acceptable?
+
+Thanks,
+Tom S.
 * *Notes*

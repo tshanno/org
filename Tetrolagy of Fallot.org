@@ -65,6 +65,10 @@ SCHEDULED: <2019-10-01 Tue>
 - State "DONE"       from "TODO"       [2019-09-05 Thu 09:06]
 :END:
 
+** DONE Make physiology corrections to [[https://docs.google.com/file/d/1-R1mt0j0RGWYNC3yKKgXsJ9QVbkbTRMf/edit?ts=5d755ac3][RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf - Google Drive]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-09 Mon 10:47]
+:END:
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-01 Tue>

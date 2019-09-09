@@ -129,9 +129,10 @@ SCHEDULED: <2019-08-29 Thu>
 :ID:       54873C97-B74A-4C14-9E82-F47DF1AC97BE
 :END:
 ** Send out invites to CEs for next week
-SCHEDULED: <2019-09-09 Mon>
-** WAITING [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
+SCHEDULED: <2019-09-16 Mon>
+** DONE [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-09-07 Sat 10:40]
 - State "WAITING"    from              [2019-09-04 Wed 07:52] \\
   Asked her if Bob got back to her.
 :END:
@@ -446,6 +447,9 @@ Abnormal Genital Tract Bleeding?
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       7F9A785B-1928-46F6-8718-C7DA8F4D4376
 :END:
+:LOGBOOK:
+- State "DONE"       from              [2019-09-09 Mon 11:17]
+:END:
 *** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
 :LOGBOOK:
 - State "WAITING"    from              [2019-08-05 Mon 06:45]
@@ -483,8 +487,7 @@ Fetal Death is the last case in this block and we’ll talk about it next week. 
 Thanks to all for your help.
 
 Tom S.
-*** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
-SCHEDULED: <2019-09-09 Mon>
+*** DONE Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 *** DONE [#A] Change dates on faculty guides
 *** DONE [#A] Update contact info for immuno/micro
 
@@ -788,6 +791,7 @@ tom_shannon@rush.edu
 :SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
 :ID:       BBC08327-B1BA-48E0-9DD9-5F8A006E0C46
 :END:
+** S&R formative and summative [[message://%3c2B8A6FD3-1E74-4474-A4D5-A94EB7F389F8@rush.edu%3E][RMD 566 S&R Secure PDF Passwords]]
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -1110,7 +1114,7 @@ Start by asking mark if we have a paying account.
 :END:
 
 ** Invite CEs to sessions
-SCHEDULED: <2019-09-09 Mon>
+SCHEDULED: <2019-09-16 Mon>
 
 ** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
@@ -1141,8 +1145,9 @@ SCHEDULED: <2019-09-09 Mon>
   Not in Sim Ctr
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:09]
 :END:
-*** TODO [#A] Contact Michael R. Farrell and Edward M. Capoccia about the intro to the GU exam session  Copy John Butos.
+*** DONE [#A] Contact Michael R. Farrell and Edward M. Capoccia about the intro to the GU exam session  Copy John Butos.
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
 - Note taken on [2019-08-27 Tue 07:07] \\
   Confusingly, Michael goes by "Ryan" and Edward goes by "Ted".
 :END:
@@ -1231,15 +1236,64 @@ Blake Beehler is signed up for
 - State "DONE"       from "TODO"       [2019-09-04 Wed 10:21]
 :END:
 
-*** TODO [#A] Select a clinician educator for Steven Suh and Blake Beehler for Infertility
+*** DONE [#A] Select a clinician educator for Steven Suh and Blake Beehler for Infertility
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
+:END:
 
 *** TODO Email the clinician educator for Steven Suh and Blake Beehler for Infertility
 
 *** TODO Email Steven Suh and Blake Beehler for Infertility
 **** [[message://%3c759021C3-DAC8-45D6-A2E3-EF86259267C9@rush.edu%3E][Pelvic Inflammatory Disease on 9/10 in AAC 550]]
-** TODO [#A] Redo the S&R plan of study to account for the move of the formative.
+** DONE [#A] Redo the S&R plan of study to account for the move of the formative.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
+:END:
 
 ** TODO [#A] Announcement about reading case
+** TODO [#A] Prepare PowerPoints for Sessions
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO [#A] Prepare PowerPoint for Teen Pregnancy
+:PROPERTIES:
+:SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
+:ID:       2CE95D9F-10E6-479E-BE72-6346588DC4B9
+:END:
+*** Send Teen Pregnancy PowerPoint to CEs
+SCHEDULED: <2019-09-12 Thu>
+:PROPERTIES:
+:SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
+:ID:       9BAAF059-A6F3-43B2-9BBE-13DFB9AC2442
+:END:
+*** TODO [#A] Prepare PowerPoint for Fetal Death
+:PROPERTIES:
+:SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
+:ID:       138CF086-5DB6-4D5B-AF55-A868032B2E5A
+:END:
+*** Send Fetal Death PowerPoint to CEs
+SCHEDULED: <2019-09-20 Fri>
+:PROPERTIES:
+:SYNCID:   C9238A29-5060-4569-B1CD-E4BF49688601
+:ID:       F7F1A29E-25C5-45DE-B6EB-0933DFE51E34
+:END:
+** DONE Send out invite to formative review
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:30]
+:END:
+
+** WAITING [#A] Post slides for Intro to the GU Exam [[message://%3cf14c40a817dc4d78848095d8cdb0d149@RUDW-EXCHMAIL02.rush.edu%3E][final Intro to GU 9.11.19 slides]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-09-07 Sat 10:34] \\
+  Wating to hear from John so he can tell me when the students should have access
+:END:
+** DONE [#A] Post slides for Intro to GU exam [[message://%3c807d85fe-38cd-4402-92d0-bc60edcc6d70@email.android.com%3E][Re: final Intro to GU 9.11.19 slides]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-09 Mon 10:34]
+:END:
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes%20and%20photos.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes and photos.pptx]]
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes.pptx]]
+
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

@@ -397,6 +397,15 @@ Adam
 **** Spread the students out amongst all the the tables individually if a CE doesn't show.
 **** Triangle or U-shaped table arrangement with CEs in the center to better allow students to hear them.
 *** Need to discuss review form
+** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-09-05 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   051AA993-6CA2-4009-9066-F3019FE11507
+:ID:       98158227-5D57-4896-BC61-36CE616492D8
+:END:
+:LOGBOOK:
+- Note taken on [2019-09-07 Sat 10:17] \\
+  Bob wasn't there so it turned into a typical bitch session.
+:END:
 * *Notes*
 ** [[message://%3c1CDD440C-296F-4754-8B5D-2BE5D8FB626A@rush.edu%3E][Formative Review policy]]
 ** [[message://%3cE1B6B801-934D-4B87-8CB8-9E94D7868073@rush.edu%3E][Summative Review Policy]]
@@ -876,9 +885,8 @@ SCHEDULED: <2019-06-17 Mon>
 - State "CANCELED"   from "TODO"       [2019-08-22 Thu 10:52] \\
   Looks like he's working mostly with the M1s
 :END:
-** TODO [#A] Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
+** DONE [#A] Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
 :PROPERTIES:
 :SYNCID:   CFA5D306-0AF8-42BF-8BC4-49480B8C31B5
 :ID:       D3ADC151-1C8E-4C31-A421-71BD3C8870B8
 :END:
-

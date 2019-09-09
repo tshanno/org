@@ -46,10 +46,13 @@ SCHEDULED: <2019-06-20 Thu>
 - Note taken on [2019-08-27 Tue 08:25] \\
   This should have been in the lecture hall.  Bob will change Entrada.
 :END:
-** TODO [#A] Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
+** DONE [#A] Ask Bob about where this Open Feedback Forum is. [[message://%3c6C7A4B40-F0A9-4A99-823E-716BEF830068@rush.edu%3E][Re: New announcement added]]
 :PROPERTIES:
 :SYNCID:   CFA5D306-0AF8-42BF-8BC4-49480B8C31B5
 :ID:       55B40E57-778B-4D29-B2EC-ABC32F56B577
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:38]
 :END:
 
 * *Ticklers*

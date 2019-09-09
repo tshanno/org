@@ -3022,9 +3022,6 @@ There are several sessions that have no, or very few topics assigned to them. Iâ
 :SYNCID:   13244F61-2829-43C9-89A9-9A7CB20AC917
 :ID:       C65D4860-6253-44A5-85A5-4D4D376F8CCD
 :END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2019-08-09 Fri 10:51]
-:END:
 ***** DONE [#A] Gary is going to alter the PID exercise to make it clear what the students need to know.
 :LOGBOOK:
 - State "WAITING"    from              [2019-08-05 Mon 06:45]
@@ -3034,7 +3031,7 @@ There are several sessions that have no, or very few topics assigned to them. Iâ
 ***** Talk to Anne about CHF self-study at Core Disciplines meeting.
 :PROPERTIES:
 :SYNCID:   A5BEE53B-E694-4612-BE2C-FA36E6FF913E
-:ID:       22B45D14-0CF9-4A11-A70E-58C1E5339EBB
+:ID:       D13EE913-14E7-49A7-9A80-9A27235C23A0
 :END:
 ***** [[message://%3cAA2B8B1A-3DD3-4822-8DD3-4110EAC836B9@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 
@@ -3062,8 +3059,7 @@ Fetal Death is the last case in this block and weâ€™ll talk about it next week. 
 Thanks to all for your help.
 
 Tom S.
-***** Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
-SCHEDULED: <2019-09-09 Mon>
+***** DONE Talk to resident (under Chris Coogan?) about male reproductive material before the Intro to the Genito-urinary Exam.
 ***** DONE [#A] Change dates on faculty guides
 ***** DONE [#A] Update contact info for immuno/micro
 
@@ -3740,3 +3736,40 @@ a.  We eliminated the activity which was oriented around salt intake in HF
 b.  Anne is helping to re-work the nutrition self-study to bring it into compliance with current thinking on the matter.  She will communicate with Sarah.
 c.  We will pick things up net week with activity 2 in this case where we are replacing the Professional activity from last year with a pathology activity from Mark and Paola and possibly Carl.
 *** 2019-09-05 Thursday
+**** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-09-05 Thu 12:00-13:00>
+:PROPERTIES:
+:SYNCID:   051AA993-6CA2-4009-9066-F3019FE11507
+:ID:       AF999DDD-A7C7-4A53-A75F-FCC7868680BA
+:END:
+:LOGBOOK:
+- Note taken on [2019-09-07 Sat 10:17] \\
+  Bob wasn't there so it turned into a typical bitch session.
+:END:
+**** Tom Shannon - Dan Bare; Location: 1750 W Harrison St. <2019-09-05 Thu 09:45-10:15>
+:PROPERTIES:
+:SYNCID:   8160D9D1-90D3-40AB-9C55-B0429CFB273A
+:ID:       E4582556-DD35-43F8-A3A9-91D99DF59BA3
+:END:
+:LOGBOOK:
+- Note taken on [2019-09-07 Sat 10:18] \\
+  We agreed to let Xun have an extra month.  Dan will move to  me on Nov. 1 and finish on Jan 31.  Then we'll resume every two months after that.
+:END:
+***** [[message://%3c8E19A0FC-741C-4299-ABDD-BE722A04583E@rush.edu%3E][Bare Extension]]
+
+
+Hi, Xun.
+
+Dan talked to me this morning and he said youâ€™d like a one month extension on his services.  He was supposed to go back to work with me in mid-September.  
+
+I would therefore propose that we go ahead and have him work for you to the end of October.  This adds 6 weeks - two weeks of vacation that Dan plans to take during that time plus an extra 4 weeks of work.
+
+That would leave us with this:
+
+Xun: present - October 31
+Tom:  November 1 - January 31
+Continuing to alternate every two months after that.
+
+Is that acceptable?
+
+Thanks,
+Tom S.

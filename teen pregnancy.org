@@ -28,6 +28,11 @@
 - State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
 :END:
 
+** TODO [#A] Prepare PowerPoint for Teen Pregnancy
+:PROPERTIES:
+:SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
+:ID:       98805033-EEA3-42F4-91BF-76D41DAAA9E3
+:END:
 * *Ticklers*
 ** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
@@ -48,6 +53,16 @@
 :LOGBOOK:
 - State "DONE"       from              [2019-08-15 Thu 08:34]
 :END:
+** Send Teen Pregnancy PowerPoint to CEs
+SCHEDULED: <2019-09-12 Thu>
+:PROPERTIES:
+:SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
+:ID:       F50B221E-DFDA-4AA7-939E-C86236C81A6B
+:END:
+** Email DDs and ask them to send you slides for teen pregnancy debrief
+SCHEDULED: <2019-09-12 Thu>
+** Complie sldies for teen pregnancy debrief and give to Torrence
+SCHEDULED: <2019-09-19 Thu>
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

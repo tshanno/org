@@ -116,6 +116,13 @@ Janice
 :LOGBOOK:
 - State "DONE"       from              [2019-08-15 Thu 08:34]
 :END:
+** Be sure to tell Janice that you altered the plan of study for Tetralogy of Fallot and MI 1
+SCHEDULED: <2019-09-16 Mon>
+:PROPERTIES:
+:SYNCID:   33146FF8-AFFE-4288-A4AC-59F269911144
+:ID:       6FF9991D-058A-4903-85BD-491A17DA4604
+:END:
+
 * *Meetings*
 ** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
 :PROPERTIES:

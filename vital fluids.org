@@ -417,6 +417,13 @@ SCHEDULED: <2019-08-08 Thu>
 - State "DONE"       from              [2019-09-05 Thu 08:56]
 :END:
 
+** Be sure to tell Janice that you altered the plan of study for Tetralogy of Fallot and MI 1
+SCHEDULED: <2019-09-16 Mon>
+:PROPERTIES:
+:SYNCID:   33146FF8-AFFE-4288-A4AC-59F269911144
+:ID:       3B2ED8C4-5500-4A0E-879F-EE7469DDF008
+:END:
+
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
 * *Tasks*
@@ -829,8 +836,9 @@ SCHEDULED: <2019-09-12 Thu>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:23]
 :END:
-*** WAITING [#A] Student Self-Study for Myocardial Infarction Session 1
+*** DONE [#A] Student Self-Study for Myocardial Infarction Session 1
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-09-07 Sat 10:42]
 - State "WAITING"    from "TODO"       [2019-08-30 Fri 08:27] \\
   waiting on Syed.  As usual.
 :END:

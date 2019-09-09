@@ -61,6 +61,11 @@ Anne
 - State "DONE"       from "TODO"       [2019-08-15 Thu 09:24]
 :END:
 
+** TODO [#A] Prepare PowerPoint for Fetal Death
+:PROPERTIES:
+:SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
+:ID:       2F407C42-69C8-4818-8809-A1AE5B2AAC44
+:END:
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]
 :PROPERTIES:
@@ -98,6 +103,16 @@ SCHEDULED: <2020-02-15 Sat>
 :ID:       7F15767E-900F-4BA8-847C-39FFC7FE5587
 :END:
 
+** Send Fetal Death PowerPoint to CEs
+SCHEDULED: <2019-09-20 Fri>
+:PROPERTIES:
+:SYNCID:   C9238A29-5060-4569-B1CD-E4BF49688601
+:ID:       2563B96B-DB3E-4F44-AEFF-FC6F7660C0FD
+:END:
+** Email DDs and ask them to send you slides for Fetal Death Debrief
+SCHEDULED: <2019-09-20 Fri>
+** Complie sldies for fetal death debrief and give to Torrence
+SCHEDULED: <2019-09-26 Thu>
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

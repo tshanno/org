@@ -10,11 +10,17 @@
 - State "DONE"       from "TODO"       [2019-07-22 Mon 08:29]
 :END:
 
-** TODO [#A] Make a list for Deri
-** TODO [#A] Talk to Deri and get his stuff
+** DONE [#A] Make a list for Deri
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:38]
+:END:
+** DONE [#A] Talk to Deri and get his stuff
 :PROPERTIES:
 :SYNCID:   E2174763-5FFE-4E53-96BA-E02F4E238CD9
 :ID:       32A27058-937C-409B-A0DE-3DE539435AA4
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:39]
 :END:
 * *Ticklers*
 * *Meetings*

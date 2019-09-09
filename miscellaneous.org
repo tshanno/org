@@ -88,13 +88,14 @@ SCHEDULED: <2020-06-11 Thu>
 :END:
 
 ** [[https://www.amazon.com/Eve-Degree-Connected-temperature-resistance/dp/B07L8P6BQR/ref=as_li_ss_tl?keywords=eve+weather&qid=1566330413&s=gateway&sr=8-5&linkCode=sl1&tag=n003f1-20&linkId=ef06db8ac988b2f962a1d1d30c48c175&language=en_US][Amazon.com: Eve Degree - Connected Weather Station for tracking temperature, humidity & air pressure, IPX3 water resistance, LCD display, Bluetooth Low Energy, black (Apple HomeKit) (Renewed): Gateway]]
-SCHEDULED: <2019-09-09 Mon>
 :LOGBOOK:
 - Note taken on [2019-08-26 Mon 08:22] \\
   think about this when your finances are in better shape.
 - Note taken on [2019-08-24 Sat 04:57] \\
   I'd like to get thi snow but I can't.  Finances are too tight.  Check later in the year.
 :END:
+** Bring stuff you want to donate in on Sept 9!
+SCHEDULED: <2019-09-08 Sun>
 * *Task*
 
 
@@ -187,7 +188,10 @@ SCHEDULED: <2019-07-12 Fri>
 :END:
 
 ** TODO [#A] clean up notes
-** TODO [#A] [[message://%3c1567095745752.97936@rush.edu%3E][Deri Morgan Goodbye Gift]]
+** DONE [#A] [[message://%3c1567095745752.97936@rush.edu%3E][Deri Morgan Goodbye Gift]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
+:END:
 Contribute to Deri's goodbye gift.  Find out from Glenda if he know sabout it.  If so, explain to him why you won't be there.
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>

@@ -1,0 +1,42 @@
+* Quick Commetnts:  Ravens at  Dolphins 2019-09-08
+
+#+BEGIN_EXPORT latex
+
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item I was looking forward to seeing Lamar Jackson have to pass the ball this game.  Unfortunately there was little reason for him to have to do it early.  The Dolphins run defense was extrememly poor to start the game.  The defenisve linemen couldn't keep the blockers off of the linebackers and they were not free to move to the ball.  This is essential to the success of the Dolhons defense.
+\item I was, perhaps, most disppaointed with the defense up the middle which, coming out of the preseason, I had as a Dolphins stength.  Needless to say, they have some roster building to do here.
+\item Once the Dolphins started to concentrate on stoppoing the run, it opened up the passing game for Jackson.  And he did not disappoint his defenders.  He ahd a great game passing the football.  He dropped ;some beatiful deep passesfor touchdowns this game.  A mobile quarterback who fcan really throw an accurate bal could change the game.  Looking forward to watching him against a better defense.
+\item Dolphins pass coverage was really poor.  They gave up a deep ball in the first half rushing 3 men with the other 8 incoverage.  And yet, the Baltimore receiver still go behind the defense.  Everyone not named ``Howard'' was culpable.  Jamal Wiltz, Eric Rowe, Walt Aikens, Bobby McCain.  All had poor fundamentals in coverage at some point.  This has to be claened up.
+  \item I'll give this much to the Dolphins defense.  They didn't give up.  They were will fighting for pride in the 3rd and 4th quarters despite the blowout.  That's encouraging.
+\end{enumerate}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item Baltimore came out putting pressure on a suspect Dolphins offensive line.  It was obvious that the plan was to hit Ryan Fitzpatrick as often as possble.  No quarterback likes to be hit but the older quarterbacks really, really don't like it and they tend to get gun shy.  To a certain extent this strategy worked.  Fitzpatrick's interception in the first quarter came with no one reallyin the vicinity.
+\item Having said that, Fitzpatrick didn't really fall apart under pressure.  once the Ravens built a big lead and backed off just a bit late in the second quarter, he was given more room to work and he took advantage.  He was reasonably accurate under those conditions and theDolphins started to move the ball just a bit.
+\item I thought it was interesting that the Dolphins thought they could beat the Ravens defense by attacking the edges.  They came out with some passees to the outside to Kallen Ballage and to Albert WIlson on the wide reciever screen.  Baltimore quickly adjusted and shut it down.  But I think its an indication that the DOlphins, at least, think they might have a bit more speed to the outside than people think.
+\item  If you are going to have Albert WIlson in teh wold cat, could you at leat be more creative than a run right up the middle?
+\item Kudos to Devante Parker with a nice catch in the second quarter.  The DOlphins need him to make more of those - indeed, have needed him to make more of those for years now.
+  
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+
+\item  Special Teams were poor, Jakeem Grant had a flash back to the stone hands he had his rookie year as he fumbled away a punt return deep in Dolphin territory.  A Ravens fake punt gave them the ball on the Ravens 10 yard line.  They converted that into a touchdown.
+\item Preston Williams had an awful drop in the endzone that cost the Dolphins 4 pionts as they settled for a field goal.  Allen Hurns had a big drop in the second quarter.  That needs to be cleaned up.
+\item Other than Grants bobbled punt, we also had the Fitzpatrick interception.  Baltimore had no turnovers.  Porr start with Josh Rosen as he threw an interceptionon his first set of downs as a Dolphin.  Marlon Humphrey made a good play on the ball.
+\item What is the deal with the defensive holding calls on the Dolphins?  Time after time these penalties killed them this game.  Again, that needs to be cleaned up.
+\item I understand that the Dolphins are out manned on the field and I'm willing to cut them some slack because of that.  But there is not excuse, no matter waht the talent level, for poor fundamentals.  Poor tackling, penalties, turnovers, poor technique in coverage.  These things goe beyond talent.
+
+  \begin{minipage}{1.0\linewidth}
+    The one thing that Dolphins fans have to look forward to is seeing the improvement in the play of their young players.  And there's a lot here to improve on.
+  \end{minipage}
+\end{enumerate}
+#+END_EXPORT
+
