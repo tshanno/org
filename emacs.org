@@ -684,6 +684,11 @@ https://twobithistory.org/2019/08/22/readline.html
 
 ** Command to upgrade (or install) GUI emacs via homebrew is "brew cask upgrade emacs"
 
+** [[https://jobbflykt.wordpress.com/2019/09/09/quote-region-or-word-at-point/][Quote region or word at point – Jobbflykt]]
+
+** Display web content in Emacs as is (example screenshot inside) : emacs
+https://www.reddit.com/r/emacs/comments/d1d71t/display_web_content_in_emacs_as_is_example/
+
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

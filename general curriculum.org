@@ -68,11 +68,13 @@ SCHEDULED: <2019-08-24 Sat>
 :ID:       A3F4C235-9D4C-4836-965C-2EDBFD54F178
 :END:
 
-** Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
-SCHEDULED: <2019-09-06 Fri>
+** [#A] Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
 
 ** Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
 SCHEDULED: <2019-09-13 Fri>
+** FU Josefina on Phys Discipline Directorship
+SCHEDULED: <2019-09-17 Tue>
+
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407

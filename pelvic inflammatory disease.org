@@ -199,13 +199,19 @@ SCHEDULED: <2019-08-01 Thu>
 :END:
 *** Point to powerpoint.
 *** Suggest watching last year's review video for the physiology.
-** Complie sldies for PID debrief and give to Torrence
+** DONE Compile sldies for PID debrief and give to Torrence
 SCHEDULED: <2019-09-09 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-09-10 Tue 09:42]
+:END:
 ** TODO Get feeback on Steven and Blake for Michelle
 SCHEDULED: <2019-09-11 Wed>
 
-** Put slide set together for PID and give to Torrence
+** DONE Put slide set together for PID and give to Torrence
 SCHEDULED: <2019-09-09 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-09-10 Tue 09:43]
+:END:
 *** With Micro Edits [[message://%3c3174B102-8246-41CE-A151-B8D34A791EDB@rush.edu%3E][Re: RMD 566 Bsci Joanna Williams Session Assessment PowerPoint Presentation]]
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-07-19 Fri 14:30-15:30>
@@ -272,3 +278,10 @@ We made a slight alteration to Jerry’s new path activity.  Students will now b
 **** DONE Paola - Fetal Death is in remarkably good shape.  We didn’t think any of the exercises needed to be altered.  Anne is altering the clinical reasoning and for now the plan is to duplicate what we are planning for Teen Pregnancy.  Identify a test, ask for interpretation and identify next steps.  We didn’t settle on a test, however, and suggestions about what to do about this section are welcome.
 
 * *Notes*
+** [[message://%3c222133b056ea4ec9aad05cc9844cdc8a@RUDW-EXCHMAIL02.rush.edu%3E][FW: Syphilis Reverse Algorithm Effective May 28]]
+SCHEDULED: <2020-05-01 Fri>
+Hi Tom and Brett, I noticed that the self-study for the PID case today
+mentions the old Rush syphilis testing algorithm (which is what I was
+taught). I believe our micro lab swapped the order of the tests? This
+isn’t something I would mention in class I don’t think, but it
+contradicts the answer on p.213 for Q#7.

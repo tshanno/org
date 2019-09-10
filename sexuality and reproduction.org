@@ -1294,6 +1294,8 @@ SCHEDULED: <2019-09-20 Fri>
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes%20and%20photos.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes and photos.pptx]]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes.pptx]]
 
+** TODO [#A] Post formative breakdown
+** TODO [#A] Post review videos
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

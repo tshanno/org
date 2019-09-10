@@ -1,9 +1,34 @@
 * Tasks
-** TODO Email DDs and invest some urgency into the Core Meetings.  We have less than a month to get everything up.
 
-** TODO  Ultrasonic cleaner? [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+** TODO [[http://www.thewatchguy.com/pages/Repair1.html][HOW TO CLEAN AND OIL A VINTAGE MECHANICAL WRIST WATCH OR POCKET WATCH REPAIR]]
+*** Needed
+**** white cloth so you can see parts.
+**** screw driver set
+**** cleaning solution
+**** ultrasonic cleaner
+**** blower
+**** Moebius watch oil
+**** oiler
+**** loupe
+**** hands remover and hands pusher
+**** watch paper
+**** watch back removing wrench
+** TODO Vital Fluids Admin Team <2019-09-10 14:30-15:00>
+*** Roles issues for meeting [2019-09-10 Tue 14:30] 
+**** Medical Jurisprudence - Self-Study Only?
+***** No.  Post faculty/student guide
+**** Mature and Emancipated Minor
+***** No.  Post faculty/student guide
+**** Status Report
+***** Bug Nina about leader
+*** BSci issues for meeting :: Status report [2019-09-10 Tue 14:30]
+*** AKI
+**** Micro 6661
+*** Renal Vignette
+**** Mark - cystic disease of the kidney, inflammatory disorders of the bladder
+**** Syed - TO for kidney stones
 
-** TODO [[https://duckduckgo.com/?q=watch+do+it+yourself+clean+and+maintenance&t=osx&ia=web][watch do it yourself clean and maintenance at DuckDuckGo]]
+** TODO [[https://docs.google.com/document/d/1O4K3qi375f1Knx-VoYmAivmUySzINMPBbcvZBik-u0s/edit][S&R Pre-formative Blueprint - Student Version 2019 - Google Docs]]
 
-** TODO Display web content in Emacs as is (example screenshot inside) : emacs
-https://www.reddit.com/r/emacs/comments/d1d71t/display_web_content_in_emacs_as_is_example/
+** TODO [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
+** TODO Post formative blueprint for students

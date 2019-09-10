@@ -859,6 +859,8 @@ SCHEDULED: <2019-09-12 Thu>
 ***  [[message://%3c81AE999B-692A-4FDE-9CC5-8764B9E0483A@rush.edu%3E][Re: Vital Fluids Exam Breakdown]]
 *** [[message://%3c4FCA6D24-31F3-4933-8849-E1FE79E8C5E8@rush.edu%3E][Re: Vital Fluids Exam Breakdown]]
 
+** TODO [#A] Email DDs and invest some urgency into the Core Meetings.  We have less than a month to get everything up.
+
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

@@ -36,6 +36,10 @@ United States
 - State "DONE"       from "TODO"       [2019-09-05 Thu 09:52]
 :END:
 
+** TODO [#A] [[https://duckduckgo.com/?q=watch+do+it+yourself+clean+and+maintenance&t=osx&ia=web][watch do it yourself clean and maintenance at DuckDuckGo]]
+
+** TODO [#A]  Ultrasonic cleaner? [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+
 * *Ticklers*
 ** DONE Bulova 1955 Bulova 23
 SCHEDULED: <2019-08-23 Fri>
@@ -104,4 +108,23 @@ https://www.wikihow.com/Pry-off-a-Watch-Backing-Without-Proper-Tools
 In 1995 Swatch broke the 125-year collaboration between Longines and Wittnauer and took over the Longines distribution.[3] The Wittnauer Company retained its reputation for most of the 20th century. After some budget problems, it was eventually bought by Bulova for $11.6 million in September 2001.[3]
 Bulova launched a new 'Nightlife' range of fashion watches under the Wittnauer brand.
 ** About service on my 1928 Bulova Breton [[message://%3cf2c179b4-3ee3-4711-a601-7b244bacf5f5@starship%3E][Re: thomashanno36 sent a message about Vintage Bulova Art Deco Men's Wrist Watch, Recently Serviced! #202759637787]]
+
+** [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+** [[https://www.youtube.com/watch?v=1Rd9m2EXqSA][How to Use a Crystal Lift to Replace a Watch Crystal - YouTube]]
+
+** TODO [[https://www.youtube.com/watch?v=BesSK67Mzms][Service and repair of a rusty valjoux 7750 based Breitling watch - YouTube]]
+
+
+** [[https://www.youtube.com/watch?v=tNkqufKziu8][Watch Repair Tool's you will need to start working on Watches - YouTube]]
+
+** [[https://www.youtube.com/watch?v=39FI1lZ8ZuE][How to clean your watch with home products - YouTube]]
+
+** TODO [[https://www.youtube.com/watch?v=8j4cDntIoWk][How to clean a watch dial - YouTube]]
+Soap erase and magic sponges.  Warm water - about 160 degrees.
+
+** [[https://www.youtube.com/watch?time_continue=162&v=J0OCD84ol1w][How to Clean Antique Watches - YouTube]]
+
+
+
+** [[http://elginpocketwatch.net/how-to-clean-a-pocket-watch/][How To Clean A Pocket Watch Properly]]
 
