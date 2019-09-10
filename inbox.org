@@ -1,2 +1,9 @@
 * Tasks
 ** TODO Email DDs and invest some urgency into the Core Meetings.  We have less than a month to get everything up.
+
+** TODO  Ultrasonic cleaner? [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+
+** TODO [[https://duckduckgo.com/?q=watch+do+it+yourself+clean+and+maintenance&t=osx&ia=web][watch do it yourself clean and maintenance at DuckDuckGo]]
+
+** TODO Display web content in Emacs as is (example screenshot inside) : emacs
+https://www.reddit.com/r/emacs/comments/d1d71t/display_web_content_in_emacs_as_is_example/
