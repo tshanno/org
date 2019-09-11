@@ -32,3 +32,12 @@
 
 ** TODO [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
 ** TODO Post formative blueprint for students
+
+** TODO GitHub - istib/rainbow-blocks: block syntax highlighting in emacs
+https://github.com/istib/rainbow-blocks
+
+** TODO Emacs: DIRED and keyboard macros (quick demo) - YouTube
+https://www.youtube.com/watch?v=5NShmv_3rYk&feature=youtu.be
+
+** TODO Using R with Emacs and ESS - A Multifunctional Environment | The Lucid Manager
+https://lucidmanager.org/using-r-with-emacs/?utm_source=dlvr.it&utm_medium=twitter
