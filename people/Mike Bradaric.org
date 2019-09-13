@@ -61,5 +61,14 @@ SCHEDULED: <2020-03-02 Mon>
 :ID:       D970251C-6387-4F9C-9C06-A75A2B3D38E2
 :END:
 
+** DONE [#A]  FU: Mike on HPO negative feedback loop [[message://%3c1568219029973.71709@rush.edu%3E][HPO Axis question]]
+:PROPERTIES:
+:SYNCID:   4697D6C8-2676-4B16-9593-DA20ABB0FF49
+:ID:       7AE34F64-61CA-4BF8-B0EA-B1CABDBB70EF
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 12:31]
+:END:
+
 * *Meetings*
 * *Notes*

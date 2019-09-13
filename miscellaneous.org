@@ -99,6 +99,18 @@ SCHEDULED: <2019-09-08 Sun>
 :LOGBOOK:
 - State "DONE"       from              [2019-09-10 Tue 09:42]
 :END:
+** iPhone 11 event: Everything Apple announced today - 9to5Mac Apple TV+ starts Nov. 1
+SCHEDULED: <2020-10-31 Sat>
+https://9to5mac.com/2019/09/10/iphone-11-event-everything-apple-announced/
+
+Meanwhile, Apple TV+ is Apple’s upcoming video streaming subscription service. Apple confirmed today that Apple TV+ will launch on November 1 for $4.99 per month. That also
+includes Family Sharing access, though you only get a one-week free trial.
+
+** Order new iPhone
+SCHEDULED: <2019-09-13 Fri>
+** Log steps
+https://docs.google.com/spreadsheets/d/1wM9Ka2Ah41FHpeaUAQQkZWUMn2C7Ee94-0GighPi3Rs/edit?usp=sharing
+SCHEDULED: <2019-09-13 Fri>
 * *Task*
 
 
@@ -196,6 +208,9 @@ SCHEDULED: <2019-07-12 Fri>
 - State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
 :END:
 Contribute to Deri's goodbye gift.  Find out from Glenda if he know sabout it.  If so, explain to him why you won't be there.
+** Screen shot of steps
+SCHEDULED: <2019-09-16 Mon>
+
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>
 

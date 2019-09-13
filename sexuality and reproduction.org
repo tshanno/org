@@ -140,6 +140,19 @@ SCHEDULED: <2019-09-16 Mon>
 ** TODO Check out the end of RP11.  MIssing somethign?
 SCHEDULED: <2020-03-02 Mon>
 
+** Contact Alex Chow about teaching more male in S&R. [[message://%3c1568226127397.31603@rush.edu%3E][male GU medical student curriculum]]
+SCHEDULED: <2020-02-03 Mon>
+ [[bbdb:Alex%20Chow][Alex Chow]]
+
+Dr. Shannon, 
+
+Great to hear that the medical school is planning to incorporate additional practical GU components to the curriculum. Alex Chow (cc'd here) is a Rush Medical College graduate and did his urology residency at Rush as well. He is currently doing a 1 year robotic/laparoscopic and endourology fellowship at Washington University in St. Louis and is likely to join the Division of Urology at Rush next year as faculty. He would be a fantastic person for the job. 
+
+Please let me know if I can do anything more to help with the medical students. 
+
+Thanks, 
+Ryan 
+
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
 *** [[message://%3c15E22783-A5D4-4E0D-A0CE-C5534DDC2C17@rush.edu%3E][Review dehydration]]
@@ -1260,8 +1273,7 @@ Blake Beehler is signed up for
 :SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
 :ID:       2CE95D9F-10E6-479E-BE72-6346588DC4B9
 :END:
-*** Send Teen Pregnancy PowerPoint to CEs
-SCHEDULED: <2019-09-12 Thu>
+*** TODO [#A] Send Teen Pregnancy PowerPoint to CEs
 :PROPERTIES:
 :SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
 :ID:       9BAAF059-A6F3-43B2-9BBE-13DFB9AC2442
@@ -1282,8 +1294,9 @@ SCHEDULED: <2019-09-20 Fri>
 - State "DONE"       from "TODO"       [2019-09-07 Sat 10:30]
 :END:
 
-** WAITING [#A] Post slides for Intro to the GU Exam [[message://%3cf14c40a817dc4d78848095d8cdb0d149@RUDW-EXCHMAIL02.rush.edu%3E][final Intro to GU 9.11.19 slides]]
+** DONE [#A] Post slides for Intro to the GU Exam [[message://%3cf14c40a817dc4d78848095d8cdb0d149@RUDW-EXCHMAIL02.rush.edu%3E][final Intro to GU 9.11.19 slides]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-09-12 Thu 09:49]
 - State "WAITING"    from "TODO"       [2019-09-07 Sat 10:34] \\
   Wating to hear from John so he can tell me when the students should have access
 :END:
@@ -1296,6 +1309,17 @@ SCHEDULED: <2019-09-20 Fri>
 
 ** TODO [#A] Post formative breakdown
 ** TODO [#A] Post review videos
+** TODO [#A] Post [[https://docs.google.com/document/d/1O4K3qi375f1Knx-VoYmAivmUySzINMPBbcvZBik-u0s/edit][S&R Pre-formative Blueprint - Student Version 2019 - Google Docs]]
+
+** DONE [#A]  FU: Mike on HPO negative feedback loop [[message://%3c1568219029973.71709@rush.edu%3E][HPO Axis question]]
+:PROPERTIES:
+:SYNCID:   4697D6C8-2676-4B16-9593-DA20ABB0FF49
+:ID:       8437DA2F-AFAA-40D5-AD4A-43072C748D40
+:END:
+
+** TODO [#A] Check and make sure that Elif got moved to the PM of the [[message://%3cB114CBB5-1022-4D7C-9F71-BD5FD3FE0A6B@rush.edu%3E][9/20]] Confidentiality session
+** TODO [#A] Post formative blueprint for students
+
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

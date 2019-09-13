@@ -38,8 +38,24 @@ United States
 
 ** TODO [#A] [[https://duckduckgo.com/?q=watch+do+it+yourself+clean+and+maintenance&t=osx&ia=web][watch do it yourself clean and maintenance at DuckDuckGo]]
 
-** TODO [#A]  Ultrasonic cleaner? [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+** DONE [#A]  Ultrasonic cleaner? [[https://www.menshealth.com/style/a19526856/how-to-clean-watch/][How to Clean Your Watch​ | Men’s Health]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 14:38]
+:END:
 
+** TODO [[http://www.thewatchguy.com/pages/Repair1.html][HOW TO CLEAN AND OIL A VINTAGE MECHANICAL WRIST WATCH OR POCKET WATCH REPAIR]]
+*** Needed
+**** white cloth so you can see parts.
+**** screw driver set
+**** cleaning solution
+**** ultrasonic cleaner
+**** blower
+**** Moebius watch oil
+**** oiler
+**** loupe
+**** hands remover and hands pusher
+**** watch paper
+**** watch back removing wrench
 * *Ticklers*
 ** DONE Bulova 1955 Bulova 23
 SCHEDULED: <2019-08-23 Fri>

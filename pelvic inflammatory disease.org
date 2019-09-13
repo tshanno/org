@@ -169,6 +169,11 @@ HI.  Faculty guide is done; please just verify I removed all answer material—t
 ta
 Janice
 
+** DONE FU Adam [[message://%3c39a0e960a063f0c.46801c7c981b4830d5bcab62423d704b@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 6027_Submission_Joanna Williams BSci Session Assessment]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 09:19]
+:END:
+
 * *Ticklers*
 ** DONE [[message://%3c1538496141591.50105@rush.edu%3E][Change the BV and atrophic vaginitis vignettes for the PID case.  You aren't covering this.]]
 SCHEDULED: <2019-08-01 Thu>
@@ -204,8 +209,7 @@ SCHEDULED: <2019-09-09 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-09-10 Tue 09:42]
 :END:
-** TODO Get feeback on Steven and Blake for Michelle
-SCHEDULED: <2019-09-11 Wed>
+** TODO [#A] Get feeback on Steven and Blake for Michelle
 
 ** DONE Put slide set together for PID and give to Torrence
 SCHEDULED: <2019-09-09 Mon>

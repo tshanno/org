@@ -11,7 +11,7 @@
 ** DONE [[https://m.youtube.com/watch?feature=youtu.be&v=DuO31Ro2ypg][The 10 best augmented reality apps for iPhone - YouTube]]
 ** ON RADAR Gigsky and dual sim
 ** Back up videos and data
-SCHEDULED: <2019-08-30 Fri>
+SCHEDULED: <2019-09-13 Fri>
 ** DONE [#A] Check into this.  I never signed up for it :: [[message:%3C0.1.1F.929.1D53162B0484B4C.0@omptrans.cloud.carbonite.com%3E][Carbonite order confirmation (invoice #: ZIN04117097)]]
 :PROPERTIES:
 :SYNCID:   c45b8e11-ee8f-46ca-afd9-ee1b52419f86

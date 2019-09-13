@@ -164,6 +164,54 @@ A quick update on what happened at the meeting yesterday for those who didn’t 
 a.  We eliminated the activity which was oriented around salt intake in HF
 b.  Anne is helping to re-work the nutrition self-study to bring it into compliance with current thinking on the matter.  She will communicate with Sarah.
 c.  We will pick things up net week with activity 2 in this case where we are replacing the Professional activity from last year with a pathology activity from Mark and Paola and possibly Carl.
+** Vital Fluids Admin Team <2019-09-10 14:30-15:00>
+:PROPERTIES:
+:SYNCID:   C20956CF-5174-4CC9-BCF9-577B556C8203
+:ID:       8FD0094D-1003-4A86-A155-BBE7AD1865A8
+:END:
+*** Roles issues for meeting [2019-09-10 Tue 14:30] 
+**** Medical Jurisprudence - Self-Study Only?
+***** No.  Post faculty/student guide
+:LOGBOOK:
+- Note taken on [2019-09-12 Thu 09:04] \\
+  Done.
+:END:
+**** Mature and Emancipated Minor
+***** No.  Post faculty/student guide
+:LOGBOOK:
+- Note taken on [2019-09-12 Thu 09:04] \\
+  Done
+:END:
+**** Status Report
+***** Bug Nina about leader
+:LOGBOOK:
+- Note taken on [2019-09-12 Thu 09:04] \\
+  Done and in
+:END:
+*** BSci issues for meeting :: Status report [2019-09-10 Tue 14:30]
+*** AKI
+**** Micro regarding TO-6661?
+*** Renal Vignette
+**** Mark - cystic disease of the kidney, inflammatory disorders of the bladder?
+**** Syed - waiting on TO for kidney stones from Syed
+** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-11 Wed 11:00-12:00>
+:PROPERTIES:
+:SYNCID:   1A26E650-6EE9-4E49-9570-42FC34403FE7
+:ID:       23D54227-327D-4812-8174-4AA12AACDCBD
+:END:
+*** Ask Anne about nutrition for HF
+:LOGBOOK:
+- Note taken on [2019-09-12 Thu 09:23] \\
+  Decided to leave this the way it was.
+:END:
+*** [[message://%3c1C984B5B-F5AB-436A-90CA-DF7C763B7FF9@rush.edu%3E][Update: Core Disciplines Meeting 9/12/2019]]
+
+
+We got through valvular heart disease yesterday.  
+
+The plan for next week is to back track and review the pathology activity that is being added to Keith Simmons Session 2 and to push ahead to the arrhythmia case and (hopefully) pre-renal dehydration.
+
+We need to start moving briskly through these cases.  They all need to be up by Oct. 9.  That means we have just three of these meeting left to get through 5 cases, including the new renal vignettes case.  I may have to ask you guys to start reviewing content electronically if we don’t have to time to go over it person in our meetings.
 * *Notes*
 ** [[message://%3c9C86D54B-94C8-405D-AE61-E8CFA90A2BDA@rush.edu%3E][Assessment Challenge Link]]
   [2018-09-28 Fri]
@@ -380,8 +428,8 @@ SCHEDULED: <2019-07-02 Tue>
 [2019-07-11 Thu 12:44]
 ** Deadline to get Self-Study guides to review team for Vital Fluids <2019-08-21 Wed>
 ** Deadline to transfer faculty guides to case folders <2019-08-21 Wed>
-** Due date to have final faculty guides in place for Vital Fluids <2019-09-18 Wed>
-SCHEDULED: <2019-09-11 Wed>
+** Due date to have final faculty guides in place for Vital Fluids <2019-10-09 Wed>
+SCHEDULED: <2019-10-02 Wed>
 ** TODO Talk to Princess about VF topics and see if we're good.
 ** TODO Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
 ** DONE Elif will be late with BCS [[message://%3c07E6C007-9C20-41FB-9FE3-457D9E81CD42@rush.edu%3E][Re: RMC: Deadlines for materials in 19/20]]
@@ -423,6 +471,9 @@ SCHEDULED: <2019-09-16 Mon>
 :SYNCID:   33146FF8-AFFE-4288-A4AC-59F269911144
 :ID:       3B2ED8C4-5500-4A0E-879F-EE7469DDF008
 :END:
+
+** FU to see if Nina got instructions about what to do [[message://%3c9ce630a7cb7642f38e42eb5862b0d26a@RUDW-EXCHMAIL02.rush.edu%3E][RE: IMMEDIATE:  Leader Materials ]]
+SCHEDULED: <2019-09-13 Fri>
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -793,7 +844,7 @@ SCHEDULED: <2019-06-27 Thu>
   Sent in request
 :END:
 ** Send out minutes from Core Disciplines
-SCHEDULED: <2019-09-12 Thu>
+SCHEDULED: <2019-09-19 Thu>
 ** DONE FU: Joanna [[message://%3c730355A8-003B-4A71-BD46-5EECB61B682B@rush.edu%3E][Vital Fluids Wellness Skills and Informed Consent Sessions on 10/17]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 07:11]
@@ -859,8 +910,16 @@ SCHEDULED: <2019-09-12 Thu>
 ***  [[message://%3c81AE999B-692A-4FDE-9CC5-8764B9E0483A@rush.edu%3E][Re: Vital Fluids Exam Breakdown]]
 *** [[message://%3c4FCA6D24-31F3-4933-8849-E1FE79E8C5E8@rush.edu%3E][Re: Vital Fluids Exam Breakdown]]
 
-** TODO [#A] Email DDs and invest some urgency into the Core Meetings.  We have less than a month to get everything up.
+** DONE [#A] Email DDs and invest some urgency into the Core Meetings.  We have less than a month to get everything up.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 09:51]
+:END:
 
+** TODO  FU Michelle add professional, leave off anatomy. [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
+:PROPERTIES:
+:SYNCID:   C61ED85C-BC73-48CE-A2D9-4834773CDB41
+:ID:       787E1139-626C-4340-A141-A820A28975A0
+:END:
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

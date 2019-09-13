@@ -10,7 +10,7 @@ SCHEDULED: <2019-04-08 Mon>
 :ORDERED:  t
 :END:
 *** WAITING [#A] Get the M1 student roster to invite to faculty-student lunch
-SCHEDULED: <2019-09-09 Mon>
+SCHEDULED: <2019-09-13 Fri>
 :LOGBOOK:
 - Note taken on [2019-09-05 Thu 09:22] \\
   Bug Bob on Monday if you haven't gotten this.  Invites go out Friday.
@@ -25,7 +25,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-09-06 Fri>
+SCHEDULED: <2019-09-13 Fri>
 ** Check to make sure you have rooms on Saturdays and reserve more.
    SCHEDULED: <2019-09-13 Fri>
    :LOGBOOK:
@@ -707,6 +707,9 @@ Laura Owczarzak
 Hi Tom,
 The OMSP conference call feature works really well. If everyone calls this number, (877) 978-5853 , ID 11134# and then you do as well from the conference room phone, the audio is of much better quality. People can then use appear.in and mute as you suggest.
 Thanks, K
+
+** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
+** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
 
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD

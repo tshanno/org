@@ -53,8 +53,14 @@ SCHEDULED: <2019-10-01 Tue>
 - Note taken on [2019-08-22 Thu 09:06] \\
   Tell them we will encourage faculty and students to move more quickly through this.
 :END:
-** TODO [#A] Review and post Tetralogy of Fallot
-** TODO [#A] Post Tetralogy of Fallot
+** DONE [#A] Review and post Tetralogy of Fallot
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 09:48]
+:END:
+** DONE [#A] Post Tetralogy of Fallot
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-12 Thu 09:48]
+:END:
 ** DONE [#A] Put together Tralogy of Fallot self-study
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:15]
