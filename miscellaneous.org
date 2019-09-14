@@ -109,8 +109,9 @@ includes Family Sharing access, though you only get a one-week free trial.
 ** Order new iPhone
 SCHEDULED: <2019-09-13 Fri>
 ** Log steps
+SCHEDULED: <2019-09-15 Sun>
 https://docs.google.com/spreadsheets/d/1wM9Ka2Ah41FHpeaUAQQkZWUMn2C7Ee94-0GighPi3Rs/edit?usp=sharing
-SCHEDULED: <2019-09-13 Fri>
+
 * *Task*
 
 
