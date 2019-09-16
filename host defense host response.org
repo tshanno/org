@@ -16,6 +16,8 @@
 :ID:       F3C4A21A-BCDF-4996-B99D-7FF856B35EF4
 :END:
 
+** TODO [#A] Review Kamara Thompson Session Assessment [[message://%3c0EF26A0D-E9F5-425E-96BF-12FEB6D4AA98@rush.edu%3E][REVIEW NEEDED - Kamra Thompson 1 Session Assessment]]
+
 * *Ticklers*
 * *Meetings*
 ** HDHR Core Disciplines; Location: AAC 403; Large Conference room <2019-07-24 Wed 11:00-12:00>

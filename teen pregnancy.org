@@ -33,6 +33,19 @@
 :SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
 :ID:       98805033-EEA3-42F4-91BF-76D41DAAA9E3
 :END:
+** TODO [#A] Send out debrief slides to DDs for Jessie Arnold [[message://%3c59AB850D-6953-4840-A57F-EBDEC9D45B5F@rush.edu%3E][RMD 566 Jessie Arnold Session Assessment]]
+
+** TODO [#A] [[message://%3cd99baa8e61204b84b15bc3a8b4b00578@RUPW-EXCHMAIL01.rush.edu%3E][M4 student]]
+
+
+Jackie Hendrix is doing teen pregnancy 9/19- thanks!
+
+** DONE [#A]  Contact Jackie Hendrix [[message://%3c6BCC5850-AE9E-4EE5-953C-C38C1B20BF6D@rush.edu%3E][M4 student for Jessie Arnold?]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-16 Mon 10:51]
+:END:
+** Ask Suchita for feedback on Jackie Hendrix 
+SCHEDULED: <2019-09-20 Fri>
 * *Ticklers*
 ** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:

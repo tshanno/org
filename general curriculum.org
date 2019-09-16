@@ -711,6 +711,10 @@ Thanks, K
 ** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
 ** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
 
+** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
+** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/M1 2019 Emails.docx][M1 2019 Emails.docx]]
+** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/M1 2019 Lunch List.docx][M1 2019 Lunch List.docx]]
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

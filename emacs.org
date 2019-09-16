@@ -175,6 +175,9 @@ https://github.com/DanielDe/org-web/
 ** TODO Add comment option to safari/mail/reminder/calendar functions
 ** TODO [[https://bulletjournal.com/pages/learn][Learn - Bullet Journal]]
 
+** Marcin Borkowski: 2017-12-04 Embedding files in Org-mode
+http://mbork.pl/2017-12-04_Embedding_files_in_Org-mode
+
 * *Dired*
 ** Search for words in files
 *** Use find-grep-dired

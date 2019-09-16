@@ -69,6 +69,15 @@ Feel free to let me know if you have any questions about this.
 - State "WAITING"    from "TODO"       [2019-08-16 Fri 09:53] \\
   Contacted Carolyn.  We'll see if she can get this to us before she leaves.  She's not coming back until Wednesday so if not, up it goes.  We'll post a correction later.
 :END:
+** DONE Post an announcement [[message://%3c8893ef4b938b40daacc03bf594263dc9@RUPW-EXCHMAIL02.rush.edu%3E][Genetic self study]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-16 Mon 07:54]
+:END:
+
+
+I was just looking over the material and then received 2 emails from students.  The last question on the self-study is on microdeletions which we moved to another case.  Is there a way to put out a message to the students to ignore the last genetic self-study question?
+Carrie
+
 * *Ticklers*
 
 
@@ -130,6 +139,9 @@ SCHEDULED: <2019-09-13 Fri>
 SCHEDULED: <2019-09-14 Sat>
 ** Put slides set together for Infertility and give to Torrence
 SCHEDULED: <2019-09-13 Fri>
+** FU Elaine on Steven [[message://%3c3AF0DA64-4409-4E4A-9F57-5E44A23EAAC4@rush.edu%3E][Re: M4 Student for Friday?]]
+SCHEDULED: <2019-09-17 Tue>
+
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

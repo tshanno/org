@@ -11,3 +11,5 @@
 *** Asked about background with transprot and channels
 *** Ask about required textbooks.  In particular, the hemodynamics lesson may be tough to put together without resource mateial to work from..
 
+* TODO [#A] Get PowerPOints to Aleen for PA students
+

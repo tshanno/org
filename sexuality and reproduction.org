@@ -1320,6 +1320,7 @@ SCHEDULED: <2019-09-20 Fri>
 ** TODO [#A] Check and make sure that Elif got moved to the PM of the [[message://%3cB114CBB5-1022-4D7C-9F71-BD5FD3FE0A6B@rush.edu%3E][9/20]] Confidentiality session
 ** TODO [#A] Post formative blueprint for students
 
+** TODO [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL
@@ -1655,3 +1656,6 @@ SCHEDULED: <2018-06-19 Tue>
   [2018-11-21 Wed]
 ** DONE [[message://%3ca3d8ce0fffb544f1885ce7d9ff1c4de0@RUDW-EXCHMAIL01.rush.edu%3E][See if Maestro is up, then contact Jim,]]
    [2018-11-28 Wed]
+
+* &Ta
+** TODO [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
