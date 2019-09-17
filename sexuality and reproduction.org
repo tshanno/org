@@ -128,7 +128,7 @@ SCHEDULED: <2019-08-29 Thu>
 :SYNCID:   9368B297-CDD3-47C6-A711-3B4CA5673CE1
 :ID:       54873C97-B74A-4C14-9E82-F47DF1AC97BE
 :END:
-** Send out invites to CEs for next week
+** TODO [#A] Send out invites to CEs for next week
 SCHEDULED: <2019-09-16 Mon>
 ** DONE [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
 :LOGBOOK:

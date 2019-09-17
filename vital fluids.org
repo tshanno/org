@@ -465,7 +465,7 @@ SCHEDULED: <2019-08-08 Thu>
 - State "DONE"       from              [2019-09-05 Thu 08:56]
 :END:
 
-** Be sure to tell Janice that you altered the plan of study for Tetralogy of Fallot and MI 1
+** DONE Be sure to tell Janice that you altered the plan of study for Tetralogy of Fallot and MI 1
 SCHEDULED: <2019-09-16 Mon>
 :PROPERTIES:
 :SYNCID:   33146FF8-AFFE-4288-A4AC-59F269911144

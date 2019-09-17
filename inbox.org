@@ -1,6 +1,7 @@
 * Tasks
 
-** TODO [#A]  Install this.  It looks doable now. [[https://github.com/yuya373/emacs-slack#how-to-get-token][GitHub - yuya373/emacs-slack: slack client for emacs]]
+** TODO Get back to Kelly on which questions to delete from this [[message://%3cFD3CD4A2-0A62-4CAC-BBE7-75F79C07EDDB@rush.edu%3E][RMD 567 Revised Formative Breakdown- Items to Remove]]
 
-** TODO Keep your Slack distractions under control with Emacs · Endless Parentheses
-https://endlessparentheses.com/keep-your-slack-distractions-under-control-with-emacs.html
+
+
+** TODO [[https://docs.google.com/spreadsheets/d/1_sklhygAecYOoDHlG8NOREBOLg5TYnkCpGsCWY3lOnE/edit#gid=1543302896][RMD 567 Assessment Blueprint AY19/20 - Google Sheets]]

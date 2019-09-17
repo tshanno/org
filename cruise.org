@@ -16,6 +16,11 @@ Tom S.
 - Note taken on [2019-07-19 Fri 07:59] \\
   February 15-19
 :END:
+** DONE Pay Nick $319.00 down payment on cruise [[message://%3c2102820808.2109219.1568659632838@mail.yahoo.com%3E][Re: Your Cruise]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-17 Tue 08:39]
+:END:
+
 * *Notes*
 ** [[message://%3c1072621A-AC11-423B-A82F-0EB259237F3E@me.com%3E][Re: 2020 Cruise]]
 
