@@ -1,1 +1,6 @@
 * Tasks
+
+** TODO [#A]  Install this.  It looks doable now. [[https://github.com/yuya373/emacs-slack#how-to-get-token][GitHub - yuya373/emacs-slack: slack client for emacs]]
+
+** TODO Keep your Slack distractions under control with Emacs · Endless Parentheses
+https://endlessparentheses.com/keep-your-slack-distractions-under-control-with-emacs.html
