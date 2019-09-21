@@ -60,3 +60,6 @@ Syed
 *** TODO [#A] Find the video rom last year and put it up and time the release.
 
 ** TODO [[https://rush-my.sharepoint.com/personal/brandon_taylor_rush_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbrandon%5Ftaylor%5Frush%5Fedu%2FDocuments%2FHLC%2DAssessment%2DAcademy][HLC-Assessment-Academy - OneDrive]]
+
+** TODO FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
