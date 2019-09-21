@@ -82,8 +82,10 @@ SCHEDULED: <2020-07-31 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:02]
 :END:
-** Pay Chase card.  Due date Oct 1.
-SCHEDULED: <2019-09-14 Sat>
+** DONE Pay Chase card.  Due date Oct 1.
+:LOGBOOK:
+- State "DONE"       from              [2019-09-20 Fri 07:58]
+:END:
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala
 ** [[message://%3c0WVJAAAW74HNT578@fmr.com%3E][Fidelity Financial Planning]]; Location: 1 N LaSalle downtown in the Loop 

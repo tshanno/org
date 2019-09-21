@@ -128,8 +128,11 @@ SCHEDULED: <2019-08-29 Thu>
 :SYNCID:   9368B297-CDD3-47C6-A711-3B4CA5673CE1
 :ID:       54873C97-B74A-4C14-9E82-F47DF1AC97BE
 :END:
-** TODO [#A] Send out invites to CEs for next week
+** DONE [#A] Send out invites to CEs for next week
 SCHEDULED: <2019-09-16 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-20 Fri 07:40]
+:END:
 ** DONE [#A] FU Shelby Graham [[message://%3c1567024072681.51367@rush.edu%3E][summative conflict]]
 :LOGBOOK:
 - State "DONE"       from "WAITING"    [2019-09-07 Sat 10:40]
@@ -1127,7 +1130,7 @@ Start by asking mark if we have a paying account.
 :END:
 
 ** Invite CEs to sessions
-SCHEDULED: <2019-09-16 Mon>
+SCHEDULED: <2019-09-23>
 
 ** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
@@ -1283,7 +1286,7 @@ Blake Beehler is signed up for
 :SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
 :ID:       138CF086-5DB6-4D5B-AF55-A868032B2E5A
 :END:
-*** Send Fetal Death PowerPoint to CEs
+*** TODO [#A] Send Fetal Death PowerPoint to CEs
 SCHEDULED: <2019-09-20 Fri>
 :PROPERTIES:
 :SYNCID:   C9238A29-5060-4569-B1CD-E4BF49688601

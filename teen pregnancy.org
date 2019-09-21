@@ -43,9 +43,11 @@ Jackie Hendrix is doing teen pregnancy 9/19- thanks!
 ** DONE [#A]  Contact Jackie Hendrix [[message://%3c6BCC5850-AE9E-4EE5-953C-C38C1B20BF6D@rush.edu%3E][M4 student for Jessie Arnold?]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-16 Mon 10:51]
+** DONE Ask Suchita for feedback on Jackie Hendrix 
+:LOGBOOK:
+- State "DONE"       from              [2019-09-20 Fri 08:04]
 :END:
-** Ask Suchita for feedback on Jackie Hendrix 
-SCHEDULED: <2019-09-20 Fri>
+:END:
 * *Ticklers*
 ** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
@@ -71,10 +73,15 @@ SCHEDULED: <2019-09-20 Fri>
 :SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
 :ID:       F50B221E-DFDA-4AA7-939E-C86236C81A6B
 :END:
-** Email DDs and ask them to send you slides for teen pregnancy debrief
-SCHEDULED: <2019-09-13 Fri>
-** Complie sldies for teen pregnancy debrief and give to Torrence
+** DONE Email DDs and ask them to send you slides for teen pregnancy debrief
+:LOGBOOK:
+- State "DONE"       from              [2019-09-20 Fri 07:55]
+:END:
+** DONE Complie sldies for teen pregnancy debrief and give to Torrence
 SCHEDULED: <2019-09-19 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-09-20 Fri 07:59]
+:END:
 * *Meetings*
 ** [[message://%3c053BFC3A-1E05-437A-B112-97DD2677409C@rush.edu%3E][Update: Core Disciplines Meeting 7/26/19]]
 :PROPERTIES:

@@ -472,11 +472,13 @@ SCHEDULED: <2019-09-16 Mon>
 :ID:       3B2ED8C4-5500-4A0E-879F-EE7469DDF008
 :END:
 
-** FU to see if Nina got instructions about what to do [[message://%3c9ce630a7cb7642f38e42eb5862b0d26a@RUDW-EXCHMAIL02.rush.edu%3E][RE: IMMEDIATE:  Leader Materials ]]
-SCHEDULED: <2019-09-13 Fri>
+** Is Nina taken care of [[message://%3c9ce630a7cb7642f38e42eb5862b0d26a@RUDW-EXCHMAIL02.rush.edu%3E][RE: IMMEDIATE:  Leader Materials ]]
+SCHEDULED: <2019-09-23 Mon>
 
-** FU: Joanna [[message://%3cAC3D1728-C4AD-45E0-B1D4-55FD274D8470@rush.edu%3E][Question for Vital Fluids Formative]]
-SCHEDULED: <2019-09-17 Tue>
+** DONE FU: Joanna [[message://%3cAC3D1728-C4AD-45E0-B1D4-55FD274D8470@rush.edu%3E][Question for Vital Fluids Formative]]
+:LOGBOOK:
+- State "DONE"       from              [2019-09-20 Fri 07:59]
+:END:
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -846,7 +848,7 @@ SCHEDULED: <2019-06-27 Thu>
 - State "WAITING"    from "TODO"       [2019-08-26 Mon 08:21] \\
   Sent in request
 :END:
-** Send out minutes from Core Disciplines
+** TODO [#A] Send out minutes from Core Disciplines
 SCHEDULED: <2019-09-19 Thu>
 ** DONE FU: Joanna [[message://%3c730355A8-003B-4A71-BD46-5EECB61B682B@rush.edu%3E][Vital Fluids Wellness Skills and Informed Consent Sessions on 10/17]]
 :LOGBOOK:

@@ -40,6 +40,10 @@ SCHEDULED: <2019-06-12 Wed>
 - State "DONE"       from "TODO"       [2019-07-23 Tue 09:11]
 :END:
 [[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/manuscript reviews/Resources/JMCC12350_review.tex][JMCC12350_review.tex]]
-** TODO [[message://%3c0102016cb47f7970-fbec7b7b-505b-4e43-8e5d-327a6dc58be2-000000@eu-west-1.amazonses.com%3E][JMCC12503: Manuscript for your review]]
+** CANCELED [[message://%3c0102016cb47f7970-fbec7b7b-505b-4e43-8e5d-327a6dc58be2-000000@eu-west-1.amazonses.com%3E][JMCC12503: Manuscript for your review]]
 SCHEDULED: <2019-09-02 Mon> DEADLINE: <2019-09-04 Wed>
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-09-20 Fri 07:40] \\
+  COuldn't do this.  I emailed them and apologized.
+:END:
 

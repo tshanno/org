@@ -26,9 +26,10 @@ SCHEDULED: <2019-09-20 Fri>
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
 SCHEDULED: <2019-09-13 Fri>
-** Check to make sure you have rooms on Saturdays and reserve more.
-   SCHEDULED: <2019-09-13 Fri>
+** WAITING Check to make sure you have rooms on Saturdays and reserve more.
    :LOGBOOK:
+   - State "WAITING"    from              [2019-09-20 Fri 07:53] \\
+     Submitted request for AAC 450 up to  and including Jan. 4
    - Note taken on [2019-08-26 Mon 07:55] \\
      This is done through 9/28
    :END:
@@ -70,7 +71,7 @@ SCHEDULED: <2019-08-24 Sat>
 
 ** [#A] Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
 
-** Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
+** TODO [#A] Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
 SCHEDULED: <2019-09-13 Fri>
 ** FU Josefina on Phys Discipline Directorship
 SCHEDULED: <2019-09-17 Tue>

@@ -133,15 +133,11 @@ with XY karyotype."
 
 Comment:
 Or should the sentence be over virilized female and undervirilized male? Either way, it is confusing as is
-** Compile sldies for infertility debrief and give to Torrence
-SCHEDULED: <2019-09-13 Fri>
 ** DONE Get feedback on Steven for infertility
 SCHEDULED: <2019-09-14 Sat>
 :LOGBOOK:
 - State "DONE"       from              [2019-09-17 Tue 08:37]
 :END:
-** Put slides set together for Infertility and give to Torrence
-SCHEDULED: <2019-09-13 Fri>
 ** DONE FU Elaine on Steven [[message://%3c3AF0DA64-4409-4E4A-9F57-5E44A23EAAC4@rush.edu%3E][Re: M4 Student for Friday?]]
 SCHEDULED: <2019-09-17 Tue>
 :LOGBOOK:
