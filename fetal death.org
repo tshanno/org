@@ -105,11 +105,13 @@ SCHEDULED: <2020-02-15 Sat>
 :ID:       7F15767E-900F-4BA8-847C-39FFC7FE5587
 :END:
 
-** TODO [#A] Send Fetal Death PowerPoint to CEs
-SCHEDULED: <2019-09-20 Fri>
+** DONE [#A] Send Fetal Death PowerPoint to CEs
 :PROPERTIES:
 :SYNCID:   C9238A29-5060-4569-B1CD-E4BF49688601
 :ID:       2563B96B-DB3E-4F44-AEFF-FC6F7660C0FD
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-09-23 Mon 13:14]
 :END:
 ** Email DDs and ask them to send you slides for Fetal Death Debrief
 SCHEDULED: <2019-09-20 Fri>

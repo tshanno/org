@@ -8,8 +8,11 @@
 ** TODO [#A]  Take care of edits from Brett [[message://%3c4wp8CtEL8ZjitXspbANRuw.0@notifications.google.com%3E][George Papadakis Faculty Guide 2019-11-11]]
 
 * *Ticklers*
-** Brett suggested adding path to aortic stenosis.  Contact Mark. [[message://%3c1C984B5B-F5AB-436A-90CA-DF7C763B7FF9@rush.edu%3E][Update: Core Disciplines Meeting 9/12/2019]]
-SCHEDULED: <2019-09-18 Wed>
+** CANCELED Brett suggested adding path to aortic stenosis.  Contact Mark. [[message://%3c1C984B5B-F5AB-436A-90CA-DF7C763B7FF9@rush.edu%3E][Update: Core Disciplines Meeting 9/12/2019]]
+:LOGBOOK:
+- State "CANCELED"   from              [2019-09-23 Mon 13:44] \\
+  No time for this now.
+:END:
 
 * *Meetings*
 * *Notes*

@@ -111,7 +111,7 @@ includes Family Sharing access, though you only get a one-week free trial.
 - State "DONE"       from              [2019-09-17 Tue 08:30]
 :END:
 ** Log steps
-SCHEDULED: <2019-09-23 Mon>
+SCHEDULED: <2019-09-30 Mon>
 https://docs.google.com/spreadsheets/d/1wM9Ka2Ah41FHpeaUAQQkZWUMn2C7Ee94-0GighPi3Rs/edit?usp=sharing
 
 * *Task*
@@ -212,7 +212,7 @@ SCHEDULED: <2019-07-12 Fri>
 :END:
 Contribute to Deri's goodbye gift.  Find out from Glenda if he know sabout it.  If so, explain to him why you won't be there.
 ** Screen shot of steps
-SCHEDULED: <2019-09-23 Mon>
+SCHEDULED: <2019-09-30 Mon>
 
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>

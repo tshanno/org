@@ -63,3 +63,4 @@ Syed
 
 ** TODO FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
 SCHEDULED: <2019-09-23 Mon>
+** TODO [[http://inside2.rush.edu/committees/UnivCurricComm/Pages/default.aspx][UCC Sharepoint site]]
