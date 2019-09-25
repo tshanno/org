@@ -71,3 +71,5 @@ SCHEDULED: <2019-09-23 Mon>
 ** TODO Evidently you need to update the Male Reproductive content.  This should be a priority in the offseason (what little of it there is) [[message://%3c973af7c53936279.68ebe2fcfeeee652924f808382ba97f4@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 6066_Submission_RMD 566 (SR) Formative  1 ]]
 
 ** TODO  Review the S&R summative [[message://%3c79FE74D9-F1EE-4264-A23E-0DFAAE7DA0C6@rush.edu%3E][RMD 566 Summative and Histology Practical]]
+** TODO Compile ppt for fetal death debrief
+** TODO ASk Mike to add factor 10A inhibitors to anti-coagulants in arrythmia for 2020
