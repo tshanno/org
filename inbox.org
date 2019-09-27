@@ -72,4 +72,3 @@ SCHEDULED: <2019-09-23 Mon>
 
 ** TODO  Review the S&R summative [[message://%3c79FE74D9-F1EE-4264-A23E-0DFAAE7DA0C6@rush.edu%3E][RMD 566 Summative and Histology Practical]]
 ** TODO Compile ppt for fetal death debrief
-** TODO ASk Mike to add factor 10A inhibitors to anti-coagulants in arrythmia for 2020
