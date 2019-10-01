@@ -1,4 +1,4 @@
-* Tasks
+rbOr* Tasks
 
 ** TODO Get back to Kelly on which questions to delete from this [[message://%3cFD3CD4A2-0A62-4CAC-BBE7-75F79C07EDDB@rush.edu%3E][RMD 567 Revised Formative Breakdown- Items to Remove]]
 
@@ -82,3 +82,47 @@ SCHEDULED: <2019-09-23 Mon>
 ** TODO Some Word conversion thoughts [[message://%3c87ef02s1lu.fsf@gmail.com%3E][Re: org-mode vs pandoc export]]
 
 ** TODO FU Princess [[message://%3c7D6955D3-54C0-4150-9832-1CDBABB8FE3B@rush.edu%3E][Re: BBC review ]]
+
+** TODO Make sure this got done [[message://%3c328106AD-D738-45AB-8A4C-AE7BCF9EABA9@rush.edu%3E][Re: Keith Simmons 2 notes]]
+
+** TODO [[message://%3c82F52318-8DDB-44CC-BA1C-58ACC1582184@rush.edu%3E][Knowledge Owl]]
+
+
+Hello Everyone,
+ 
+We’ve been placing all of our assessment related documents/procedures on Knowledge Owl. Here is how you can access the Knowledge Owl page:
+ 
+Go to the Knowledge Owl reader login page: https://rmc-integrated-curriculum.knowledgeowl.com/help/readerlogin
+Click “Reset Password”
+Enter your Rush email
+Follow the instructions to choose your password
+ 
+Once you log in, you can click on “Assessment” and search for various documents/policies/procedures (e.g., related to assessment development, administration, Examsoft, etc.).
+ 
+ 
+ 
+Thank you,
+Maria
+
+** TODO [[message://%3c5360FFE9-2E62-4445-AB0B-966C2E58F5F0@rush.edu%3E][Goals]]
+
+
+1.  Remake some food to fuel videos
+2.  Remake some of the concept map activities that are lacking.  This might take the form of simply remaking the concept maps in Food to Fuel and/or finding a way to design these so that they are drag and drop.
+
+Tom S.
+
+** TODO [[message://%3c08f5e3542af74de4a6ba6ae3391e7dff@RUPW-EXCHMAIL02.rush.edu%3E][Mid-course exam in Vital Fluids]]
+
+
+M1 Students:
+The Vital Fluids course has a mid-course exam, similar in length to the final exam.  This exam will be on Tuesday, November 26.  We are still finalizing the testing schedule for the day but I am writing now to let you know that half of the class is likely to be scheduled to take the exam from 3-7pm.  We are sorry for this but there is heavy use of the testing center and in order to make sure that you do not have to be here on Wednesday the 27th we felt that finishing the exam later on Tuesday was a better option.  We will follow up to let you know once the exam schedule for the day has been finalized.
+ 
+Yours,
+Bob
+
+
+** TODO Dan's comments [[message://%3c1569711381345.96701@rush.edu%3E][Re: Biophysics Abstract]]
+
+** TODO Ken's comments [[message://%3cBYAPR08MB42947C623B63B9F5AF2A4CFCD6800@BYAPR08MB4294.namprd08.prod.outlook.com%3E][Re: Biophysics Abstract]]
+** TODO You were editing KS1.  Resume from there.

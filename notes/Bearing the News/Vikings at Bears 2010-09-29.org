@@ -1,0 +1,48 @@
+#+BEGIN_EXPORT latex
+\textbf{Offense}
+\begin{enumerate}
+\item The Bears came out mixing it up throwing and passing.  Matt Nagy still occasionally forgets about the run, though.  He went a pretty longs stretch of the second quarter without calling one.  The balance at half was 24 passing attempts and 13 rushes.  The final for the game was 32 rushes and 33 pass attempts, aided by the offense trying to run out the clock for much of the second half.
+\item The Bears stuck mostly to the short passing game, which was evidently what Minnesota decided to give them.  As a result, they had to sustain some pretty long drives in order to score.  Which was, of course, the idea.
+\item The Vikings came out switching their defense at the lat minute in order to negate the Bears no huddle offense where Trubisky has Nagy in is ear to advise him on how to handle the defensive formation.  It was hard to evaluate the effectiveness of this since Trubisky hurt his shoulder in the first quarter and was ruled out for the game.
+\item The Vikings were really going for the ball every chance they got.  For the most part the Bears did a decent job of holding on to it anyway.
+\item Chase Daniel looked fine coming in in relief of Trubisky.  I'd say there was no drop off in the quarterback play with him in there.  He had some trouble with some of the shallow out routes to the running backs.
+\item The Bears have to find a wide receiver other than Allen Robinson at some point.  Some balls went to Jevon Wims (including a nice 37 yard catch in the third quarter) but with Taylor Gabriel out, Anthony Miller was basically invisible again.  He looked frustrated.
+\item Tough situation at left guard with both Kyle Long and Ted Larsen being injured.  The Vikings tried to take advantage of Rashaad Coward a bit in the second half.
+\end{enumerate}
+
+
+\textbf{Defense}
+\begin{enumerate}
+\item The Bears very evidently were concentrating on stopping the run this game.  They played a lot of base 3-4 defense instead of nickle.
+\item They also seemed determined to limit the deep play action passes.  This left the short passing game open and the Vikings tried to take advantage of the poor coverage skills of Nick Kwiatkoski (who actually didn't play too bad).  The Vikings, like the Bears, were forced to execute and sustain long drives.  There were Only 5 total possessions by both teams combined in the first half.
+\item You wondered if the absence of many starters on defense, including Roquan Smith, Akiem Hicks, and Bilal Nichols would result in the defense wearing down.  To my eye it didn't happen.
+\item Pretty used to seeing Roy Robertson-Harris come through and play well in games like this dating back to last year.  But Nick Williams kind of came out of nowhere.
+\item You want to credit the Bears defense but with the constant pressure that Vikings quarterback Kurt Cousins saw you have to wonder if the Vikings still don't have major issues along the offensive line.
+\end{enumerate}
+
+
+
+\textbf{Miscellaneous}
+\begin{enumerate}
+\item Jim Nantz and Tony Romo were your announcers.  Romo did provide some insight into the Bear offensive scheme but I did think he may have been a little off after trying to make the cut in a PGA tournament last week.  Still, you can't help but like both him and Nantz and I'd rather have them than most even on an off day.
+\item Special teams
+  \begin{enumerate}
+  \item Both teams seemed like they were starting deep in their own territory an awful lot this game.  I guess that's a credit to the special teams on both sides.  Tarik Cohen took a lot of fair catches.
+  \end{enumerate}
+\item Penalties
+  \begin{enumerate}
+  \item What was Eddie Jackson doing anywhere near that pile near the end zone in the second quarter?  The shoving match he apparently became involved in  gave the Vikings a first down after the defense had them off the field on third down.
+  \item Both teams had a load of penalties that hurt them in important spots, especially the Vikings.
+  \end{enumerate}
+\item Drops weren't a major factor in this game.
+\item Turnovers
+  \begin{enumerate}
+  \item A huge catch and fumble by Sefon Diggs in the second quarter with the Vikings driving after Eddie Jackson's brain fart penalty near the Viking goal line.
+  \item Khalil Mack forced a big fumble at the beginning of the second half, giving the ball to the Bears on the Viking 16 yard line.  The Bears got a field goal.
+  \end{enumerate}
+\item The Bears were slipping around an awful lot out there.  When you are at home you should know your own field.  It looked like some guys needed some different shoes.
+  
+\item Big win for the Bears today.  Losing would have meant two divisional losses, both at home and an uphill fight in the division with the resurgent Lions also to be dealt with.  It was also nice to see a team challenged by numerous injuries step up and come through.  Those are the kinds of efforts that allow you to find out what you are made of.
+\end{enumerate}
+
+#+END_EXPORT
