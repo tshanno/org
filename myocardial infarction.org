@@ -100,6 +100,11 @@ https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-05 Thu 09:10]
 :END:
+** TODO [#A] Prepare PowerPoint for James Parker 1
+:PROPERTIES:
+:SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
+:ID:       2F407C42-69C8-4818-8809-A1AE5B2AAC44
+:END:
 * *Ticklers*
 ** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
 SCHEDULED: <2020-03-02 Mon>

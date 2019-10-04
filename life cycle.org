@@ -8,6 +8,20 @@
 :SYNCID:   E2174763-5FFE-4E53-96BA-E02F4E238CD9
 :ID:       26036E7A-2A35-443E-ABAB-8B42DB31D98C
 :END:
+** DONE Take care of Life Cycle Concept Map [[message://%3cVtcLIdQiDcAnuqpXwpGchA.0@notifications.google.com%3E][RMD 567 Faculty G... - +tshanno@gmail.com Tom, can you pleas...]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:49]
+:END:
+
+** DONE Get back to Kelly on which questions to delete from this [[message://%3cFD3CD4A2-0A62-4CAC-BBE7-75F79C07EDDB@rush.edu%3E][RMD 567 Revised Formative Breakdown- Items to Remove]]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-10-04 Fri 14:30]
+- State "WAITING"    from "DONE"       [2019-10-04 Fri 13:50] \\
+  Asked Kelly if I ever did this
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:49]
+:END:
+
+
 * *Tickers*
 ** Consider talking about puberty in Life Cycle rather than S&R next year.  We talk about it a lot in the introductory lesson.  It fits there mechanistically, though.
 SCHEDULED: <2020-02-03 Mon>
@@ -23,3 +37,5 @@ SCHEDULED: <2020-02-03 Mon>
 
 * *Meetings*
 * *Notes*
+** [[https://docs.google.com/spreadsheets/d/1_sklhygAecYOoDHlG8NOREBOLg5TYnkCpGsCWY3lOnE/edit#gid=1543302896][RMD 567 Assessment Blueprint AY19/20 - Google Sheets]]
+

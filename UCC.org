@@ -24,3 +24,5 @@
 :END:
 [[~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/data/64/1B6B7E-B476-4342-8206-A2ACD67E66DD/UCC Agenda July 22 2019.png]]
 * *Notes*
+** [[http://inside2.rush.edu/committees/UnivCurricComm/Pages/default.aspx][UCC Sharepoint site]]
+

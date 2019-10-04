@@ -28,14 +28,23 @@
 - State "DONE"       from "TODO"       [2019-08-14 Wed 08:25]
 :END:
 
-** TODO [#A] Prepare PowerPoint for Teen Pregnancy
+** DONE [#A] Prepare PowerPoint for Teen Pregnancy
 :PROPERTIES:
 :SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
 :ID:       98805033-EEA3-42F4-91BF-76D41DAAA9E3
 :END:
-** TODO [#A] Send out debrief slides to DDs for Jessie Arnold [[message://%3c59AB850D-6953-4840-A57F-EBDEC9D45B5F@rush.edu%3E][RMD 566 Jessie Arnold Session Assessment]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
+** DONE [#A] Send out debrief slides to DDs for Jessie Arnold [[message://%3c59AB850D-6953-4840-A57F-EBDEC9D45B5F@rush.edu%3E][RMD 566 Jessie Arnold Session Assessment]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
 
-** TODO [#A] [[message://%3cd99baa8e61204b84b15bc3a8b4b00578@RUPW-EXCHMAIL01.rush.edu%3E][M4 student]]
+** DONE [#A] [[message://%3cd99baa8e61204b84b15bc3a8b4b00578@RUPW-EXCHMAIL01.rush.edu%3E][M4 student]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
 
 
 Jackie Hendrix is doing teen pregnancy 9/19- thanks!
@@ -48,6 +57,11 @@ Jackie Hendrix is doing teen pregnancy 9/19- thanks!
 - State "DONE"       from              [2019-09-20 Fri 08:04]
 :END:
 :END:
+** DONE Do the powerpoint for this [[message://%3c06487EE4-4CBB-4C49-A5E7-A32B7A6033BC@rush.edu%3E][Fwd: RMD 566 Jessie Arnold Session Assessment]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:44]
+:END:
+
 * *Ticklers*
 ** DONE [#A] FU: Bob on moving the Teen Pregnancy and Fetal Death [[message://%3c6780C509-A37A-45EA-B170-D790E988DF11@rush.edu%3E][Re: S&R Schedule]]
 :PROPERTIES:
@@ -68,10 +82,13 @@ Jackie Hendrix is doing teen pregnancy 9/19- thanks!
 :LOGBOOK:
 - State "DONE"       from              [2019-08-15 Thu 08:34]
 :END:
-** TODO [#A] Send Teen Pregnancy PowerPoint to CEs
+** DONE [#A] Send Teen Pregnancy PowerPoint to CEs
 :PROPERTIES:
 :SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
 :ID:       F50B221E-DFDA-4AA7-939E-C86236C81A6B
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
 :END:
 ** DONE Email DDs and ask them to send you slides for teen pregnancy debrief
 :LOGBOOK:

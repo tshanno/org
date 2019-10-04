@@ -212,6 +212,28 @@ We got through valvular heart disease yesterday.
 The plan for next week is to back track and review the pathology activity that is being added to Keith Simmons Session 2 and to push ahead to the arrhythmia case and (hopefully) pre-renal dehydration.
 
 We need to start moving briskly through these cases.  They all need to be up by Oct. 9.  That means we have just three of these meeting left to get through 5 cases, including the new renal vignettes case.  I may have to ask you guys to start reviewing content electronically if we donâ€™t have to time to go over it person in our meetings.
+** Vital Fluids Core Displines Meeting; Location: AAC 403, Large Conference Room <2019-09-18 Wed 11:00-12:00>
+*** Hemostasis issue
+
+*** DONE [[message://%3c1568814153144.89162@rush.edu%3E][Re: Reminder: Core Disciplines Meeting Today at 11AM in AAC 403 large conference room]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
+
+
+It would be helpful to spend 10 minutes brainstorming about the new renal vignettes session.  Questions that I have for the group are:
+
+1.  Essential hypertension: do any disciplines outside of pathophysiology have an activity they want to contribute/material they want to emphasize?  If not, pathophysiology can take over this vignette.
+
+2.  Nephrolithiasis: what disciplines are contributing to this, and what should our activities be?
+
+3.  Pharmacokinetics in CKD: this is primarily pharm - Mike please get started on your activities.  
+
+Link to the faculty guide 
+
+https://docs.google.com/document/d/1N7NaDn_9X3oiLDfI5xp-tMVHNa8F4_wgluhyoBQeGJk/edit#
+
+Anne
 * *Notes*
 ** [[message://%3c9C86D54B-94C8-405D-AE61-E8CFA90A2BDA@rush.edu%3E][Assessment Challenge Link]]
   [2018-09-28 Fri]
@@ -273,11 +295,14 @@ There are several sessions that have no, or very few topics assigned to them. Iâ
 :ID:       A64BB1B9-8EB0-4878-A579-152183C706FE
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
 - Note taken on [2019-07-26 Fri 08:13] \\
   Deadlines for Vital Fluids added to calendar.
 :END:
-*** Add deadlines for Vital Gases to your calendar (they are in November).
-SCHEDULED: <2019-10-01 Tue>
+*** DONE Add deadlines for Vital Gases to your calendar (they are in November).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
+:END:
 ** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
 :PROPERTIES:
 :SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
@@ -348,6 +373,35 @@ SCHEDULED: <2019-10-31 Thu>
 :SYNCID:   BB87C992-8505-4837-AD4E-7032BC07E596
 :ID:       CFC6D306-6150-439C-8ED5-7335B3ED9A3F
 :END:
+** Schedule for [[message://%3c08f5e3542af74de4a6ba6ae3391e7dff@RUPW-EXCHMAIL02.rush.edu%3E][Mid-course exam in Vital Fluids]]
+:PROPERTIES:
+:SYNCID:   E4D828A6-3B8E-4963-BFC5-6D7A4DD89FE3
+:ID:       62D9F82A-3AB7-4E04-ACCB-657A4E08E2E5
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 11:34] \\
+  Talked to Bob about this.  First half of the class takes the exam from 11AM-3PM.  Second half takes it from 3PM to 7PM.
+:END:
+
+
+M1 Students:
+The Vital Fluids course has a mid-course exam, similar in length to the final exam.  This exam will be on Tuesday, November 26.  We are still finalizing the testing schedule for the day but I am writing now to let you know that half of the class is likely to be scheduled to take the exam from 3-7pm.  We are sorry for this but there is heavy use of the testing center and in order to make sure that you do not have to be here on Wednesday the 27th we felt that finishing the exam later on Tuesday was a better option.  We will follow up to let you know once the exam schedule for the day has been finalized.
+ 
+Yours,
+Bob
+
+
+** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
+:PROPERTIES:
+:SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
+:ID:       4F3F1A72-205E-411F-9BCA-FEF0DF105835
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 13:41] \\
+  Helped out with the computer programs.  Contact him if you have more trouble.
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
+:END:
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -383,8 +437,11 @@ SCHEDULED: <2018-12-12 Wed>
 ** DONE [#A] [[message://%3c7AF42919-09F0-4DDF-8EE1-34F46A1E756D@rush.edu%3E][FU Maria on scores]]
    SCHEDULED: <2018-12-31 Mon>
    [2018-12-28 Fri]
-** Emphasize in your introductory videos that the physiology is front loaded and that you may not get that much as part of the case but that it will be a little part of all of the cases from there on.
+** DONE Emphasize in your introductory videos that the physiology is front loaded and that you may not get that much as part of the case but that it will be a little part of all of the cases from there on.
 SCHEDULED: <2019-10-01 Tue>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 08:53]
+:END:
 ** DONE FU Anne and Syed and joanna on peds VF topics
 :LOGBOOK:
 - Note taken on [2019-07-15 Mon 07:28] \\
@@ -429,9 +486,15 @@ SCHEDULED: <2019-07-02 Tue>
 ** Deadline to get Self-Study guides to review team for Vital Fluids <2019-08-21 Wed>
 ** Deadline to transfer faculty guides to case folders <2019-08-21 Wed>
 ** Due date to have final faculty guides in place for Vital Fluids <2019-10-09 Wed>
-SCHEDULED: <2019-10-02 Wed>
-** TODO Talk to Princess about VF topics and see if we're good.
-** TODO Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
+SCHEDULED: <2019-10-09 Wed>
+** DONE Talk to Princess about VF topics and see if we're good.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
+** DONE Talk to Princess about Adding a topic for "Introduction to the ECG" to MI part 1
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
 ** DONE Elif will be late with BCS [[message://%3c07E6C007-9C20-41FB-9FE3-457D9E81CD42@rush.edu%3E][Re: RMC: Deadlines for materials in 19/20]]
 SCHEDULED: <2019-08-08 Thu>
 :LOGBOOK:
@@ -472,13 +535,22 @@ SCHEDULED: <2019-09-16 Mon>
 :ID:       3B2ED8C4-5500-4A0E-879F-EE7469DDF008
 :END:
 
-** Is Nina taken care of [[message://%3c9ce630a7cb7642f38e42eb5862b0d26a@RUDW-EXCHMAIL02.rush.edu%3E][RE: IMMEDIATE:  Leader Materials ]]
+** DONE Is Nina taken care of [[message://%3c9ce630a7cb7642f38e42eb5862b0d26a@RUDW-EXCHMAIL02.rush.edu%3E][RE: IMMEDIATE:  Leader Materials ]]
 SCHEDULED: <2019-09-23 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 08:46]
+:END:
 
 ** DONE FU: Joanna [[message://%3cAC3D1728-C4AD-45E0-B1D4-55FD274D8470@rush.edu%3E][Question for Vital Fluids Formative]]
 :LOGBOOK:
 - State "DONE"       from              [2019-09-20 Fri 07:59]
 :END:
+
+** Invite CEs to sessions
+SCHEDULED: <2019-10-07 Mon>
+
+** Add Pharm of neophrolithiasis next year
+SCHEDULED: <2020-02-03 Mon>
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -738,12 +810,18 @@ SCHEDULED: <2019-06-27 Thu>
 
 ** DONE [#A] Look over 574 exam [[message://%3c25EE3046-017B-42D4-AF3E-B177524EC381@rush.edu%3E][Re: 574 reassessment - final review]]
 
-** TODO [#A] Convert VF faculty guides to new format
+** DONE [#A] Convert VF faculty guides to new format
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
 
-** TODO FU: Syed [[message://%3cAB72CDE7-8224-4E99-999B-110DC96D40E7@rush.edu%3E][Two things]]
+** DONE FU: Syed [[message://%3cAB72CDE7-8224-4E99-999B-110DC96D40E7@rush.edu%3E][Two things]]
 :PROPERTIES:
 :SYNCID:   F178C2AA-B643-4AF1-85A2-38B5697FF7EE
 :ID:       4CD3B0E6-C90B-4F01-853C-4535C27F96FE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
 :END:
 
 ** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
@@ -792,40 +870,61 @@ SCHEDULED: <2019-06-27 Thu>
 :SYNCID:   40A5DFFE-0C2F-4014-B938-C56F4A582A32
 :ID:       8703C9B5-2D84-4AA4-8D44-C28EC43C7E77
 :END:
-*** TODO [#A] Plan of Study for Heart Failure
+*** DONE [#A] Plan of Study for Heart Failure
 :PROPERTIES:
 :SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
 :ID:       1CCE6650-DF51-4699-A0C6-4ED5BDB22973
 :END:
-*** TODO Plan of Study for Valvular Heart Disease
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
+*** DONE Plan of Study for Valvular Heart Disease
 :PROPERTIES:
 :SYNCID:   E940B77A-F184-43D6-8022-5FBB72338E7B
 :ID:       B6738B3D-249F-413B-814D-49FFAE6F2887
 :END:
-*** TODO Plan of Study for Arrhythmia
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
+*** DONE Plan of Study for Arrhythmia
 :PROPERTIES:
 :SYNCID:   FB502B30-4B85-417F-90F8-E99D7014FCB3
 :ID:       E8BE723F-FB1E-4782-9042-FE9751F1226C
 :END:
-*** TODO Plan of Study for Pre-renal Dehydration
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
+*** DONE Plan of Study for Pre-renal Dehydration
 :PROPERTIES:
 :SYNCID:   1949C877-02E9-41B1-BB02-9353235E51E8
 :ID:       6F73F4CB-7AE0-44A2-9213-93DA093A1FDA
 :END:
-*** TODO Plan of Study for AKI
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:33]
+:END:
+*** DONE Plan of Study for AKI
 :PROPERTIES:
 :SYNCID:   70FC1082-CB53-4353-8D82-40486BD2CF04
 :ID:       F5B0EEC7-5801-443A-9720-D08142D2B9B0
 :END:
-*** TODO Plan of Study for CKD
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:34]
+:END:
+*** DONE Plan of Study for CKD
 :PROPERTIES:
 :SYNCID:   A3E9B0CC-243C-4D2C-93ED-72FC2B22B240
 :ID:       AAEE1C97-43CE-4E06-9E32-14C8CE9B174B
 :END:
-*** TODO Plan of Study for Renal Vignetes
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:34]
+:END:
+*** DONE Plan of Study for Renal Vignetes
 :PROPERTIES:
 :SYNCID:   1DFA3EE8-058F-4F03-AF5A-FC1D8E0DAA71
 :ID:       BC392D9A-6176-4D08-835F-B662AE9FD1D8
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:34]
 :END:
 
 ** DONE [#A] Complete the VF blueprint for physiology
@@ -849,7 +948,7 @@ SCHEDULED: <2019-06-27 Thu>
   Sent in request
 :END:
 ** Send out minutes from Core Disciplines
-SCHEDULED: <2019-09-26 Thu>
+SCHEDULED: <2019-10-09 Wed>
 ** DONE FU: Joanna [[message://%3c730355A8-003B-4A71-BD46-5EECB61B682B@rush.edu%3E][Vital Fluids Wellness Skills and Informed Consent Sessions on 10/17]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-26 Mon 07:11]
@@ -884,9 +983,12 @@ SCHEDULED: <2019-09-26 Thu>
 - State "WAITING"    from              [2019-08-26 Mon 13:08] \\
   ASked Mark Pool to do it
 :END:
-** TODO Student Self-Studies for Vital Fluids
+** DONE Student Self-Studies for Vital Fluids
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:36]
 :END:
 *** DONE [#A] Student Self-Study for Tetralogy of Fallot
 :LOGBOOK:
@@ -898,15 +1000,42 @@ SCHEDULED: <2019-09-26 Thu>
 - State "WAITING"    from "TODO"       [2019-08-30 Fri 08:27] \\
   waiting on Syed.  As usual.
 :END:
-*** TODO Student Self-Study for Myocardial Infarction Session 2
-*** TODO Student Self-Study for CHF Session 1
-*** TODO Student self-study for CHF Session 2
-*** TODO Student self-study for valvular heart disease
-*** TODO Student self-study for arrhythmia
-*** TODO Student self-study for dehydration
-*** TODO Student self-study for AKI
-*** TODO Student self-study for CKD
-*** TODO Student self-study for renal vignettes
+*** DONE Student Self-Study for Myocardial Infarction Session 2
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:33]
+:END:
+*** DONE Student Self-Study for CHF Session 1
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:33]
+:END:
+*** DONE Student self-study for CHF Session 2
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for valvular heart disease
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for arrhythmia
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for dehydration
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for AKI
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for CKD
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
+*** DONE Student self-study for renal vignettes
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:35]
+:END:
 ** DONE [#A] Take care of blueprint
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:43]
@@ -920,11 +1049,42 @@ SCHEDULED: <2019-09-26 Thu>
 - State "DONE"       from "TODO"       [2019-09-12 Thu 09:51]
 :END:
 
-** TODO  FU Michelle add professional, leave off anatomy. [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
+** DONE FU Michelle add professional, leave off anatomy. [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
 :PROPERTIES:
 :SYNCID:   C61ED85C-BC73-48CE-A2D9-4834773CDB41
 :ID:       787E1139-626C-4340-A141-A820A28975A0
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:36]
+:END:
+** TODO Take care of materials for pathophysiology workshop [[message://%3cdd93d46f3b404ba98bb66e5975b34722@RUDW-EXCHMAIL01.rush.edu%3E][RE: fluids and electrolytes session]]
+:PROPERTIES:
+:SYNCID:   5D0ABB61-37AB-458E-A57B-CA2D5A040564
+:ID:       C068FDA6-6604-423A-ADEB-9DD04F721EEC
+:ORDERED:  t
+:END:
+Anne,
+They should get all the materials except the document with the answers.
+ 
+Tom can post the video, PowerPoint and the cases. I do not mind them having the cases ( it is unlikely they will have gone through them) but I do want them to be told that they have to review the video and handout ( course notes) on Fluids and Electrolytes.
+ 
+Best,
+Syed
+
+*** TODO [#A] Upload all of the materials.  Set a time to release the answers.
+
+*** TODO [#A] Make sure the workhop is in the self-study
+
+*** TODO [#A] Find the video rom last year and put it up and time the release.
+
+** DONE Send out minutes from core disciplines meeting [[message://%3cE0983C1E-835E-4BBC-862C-9EE30B9207C5@rush.edu%3E][Re: Reminder: Core Disciplines Meeting Today at 11AM in AAC 403 large conference room]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:45]
+:END:
+
+** TODO [#A] Correct Advocate Plan of Study [[message://%3c1568750787757.11676@rush.edu%3E][We got it all sorted out]]
+SCHEDULED: <2019-10-07 Mon>
+
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

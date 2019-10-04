@@ -9,20 +9,29 @@
 :END:
 - [X] Prepare blueprint
 - [X] Send to DDs
-** TODO  FU Michelle add professional, leave off anatomy. [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
+** DONE FU Michelle add professional, leave off anatomy. [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
 :PROPERTIES:
 :SYNCID:   C61ED85C-BC73-48CE-A2D9-4834773CDB41
 :ID:       56B9AE22-E8CA-4310-939F-55E31CE0B091
 :END:
-** TODO  FU Michelle [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:36]
+:END:
+** DONE FU Michelle [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
 :PROPERTIES:
 :SYNCID:   3749BC0B-FC46-4DE9-9BEB-8EE0DEDC69BD
 :ID:       691066A0-6BC4-4594-B16A-55BD3C998D3D
 :END:
-** TODO  FU Michelle [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:22]
+:END:
+** DONE FU Michelle [[message://%3c1EE3AA17-9B77-4A9F-8DCC-A9255779C76D@rush.edu%3E][Slight change to VF formative blueprint.]]
 :PROPERTIES:
 :SYNCID:   3749BC0B-FC46-4DE9-9BEB-8EE0DEDC69BD
 :ID:       FAB540E8-AF04-42CE-ACBD-C85A24EAA13E
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:22]
 :END:
 * *Ticklers*
 * *Meetings*

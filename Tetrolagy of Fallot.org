@@ -16,7 +16,10 @@
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-24 Wed 08:03]
 :END:
-** TODO FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
+** DONE FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:22]
+:END:
 
 ** DONE Invite Kiya to next Core Disciplines meeting
 :LOGBOOK:
@@ -38,8 +41,8 @@
 :SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
 :ID:       F120E038-19E3-450A-939D-C3FAB64C6017
 :END:
-** These are the Peds clinicians for ToF
-SCHEDULED: <2019-10-01 Tue>
+** These are the Peds clinicians for ToF - invite to sessions
+SCHEDULED: <2019-10-07 Mon>
 [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 -Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
@@ -75,10 +78,18 @@ SCHEDULED: <2019-10-01 Tue>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-09 Mon 10:47]
 :END:
-** TODO [#A] Talk to Cristina Chen about Eli Whitney Review
+** CANCELED [#A] Talk to Cristina Chen about Eli Whitney Review
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-10-04 Fri 11:06] \\
+  Not enough time.
+:END:
+** Complile slides for Eli debrief and give to Torrence
+SCHEDULED: <2019-10-17 Thu>
+** Email DDs and ask them to send you slides for Eli debrief
+SCHEDULED: <2019-10-14 Mon>
 * *Ticklers*
 ** We need to make sure that we get our story striaght for TGA next year.
-SCHEDULED: <2019-10-01 Tue>
+SCHEDULED: <2019-10-10 Thu>
 ** DONE [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9

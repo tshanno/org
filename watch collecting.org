@@ -25,7 +25,10 @@ SCHEDULED: <2019-08-21 Wed>
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:13]
 :END:
 ** TODO [[http://www.thewatchguy.com/pages/DATING.html][The Watch Guy: DATING OR DETERMINING THE AGE OF VINTAGE WATCHES]]
-** TODO Salvation Army
+** DONE Salvation Army
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:36]
+:END:
 https://maps.apple.com/?address=1%20N%20Ogden%20Ave,%20Chicago,%20IL%20%2060607,%20United%20States&auid=10653552741926904546&ll=41.881722,-87.665252&lsp=9902&q=Salvation%20Army&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhAWCgQIChAAEiYpX6nTF0nwREAxrGC7U/bqVcA53X75c2/xREBByOzWpDDqVcBQBA%3D%3D&t=m
 
 1 N Ogden Ave
@@ -99,6 +102,9 @@ http://www.watchophilia.com/general-information/determining-the-date-of-a-watch/
 *** [[http://www.thewatchguy.com/pages/BulovaSerial.html][The Watch Guy: Bulova Serial Number Table & Manufacture Dates]] :: This site says tht there are watches out ther ewith A8 and A9 for 1948 and 1949.  I actually found one with an A0 that is supposedly a 1950 Excellency
 https://www.ebay.com/itm/VINTAGE-BULOVA-EXCELLENCY-MEN-S-WRIST-WATCH-7AA-MOVEMENT-21-JEWELS-RUNS/283577689663?hash=item42068c263f%3Ag%3A-skAAOSwiu1dG460&LH_ItemCondition=2000%7C3000
 *** PICTURES [[https://www.watchophilia.com/photogallery/bulovas-1940-1949/][Bulova - Vintage Watches 1940s | Watchophilia.com]]
+*** [[https://www.mybulova.com/bulova-case-numbers][Bulova Case Serial Numbers | myBulova.com]]
+*** [[https://dealsngadgets.com/bulova-watch-serial-numbers/][Bulova Watch Serial Numbers Lookup – Don’t Get Faked Out Again Complete Guide]]  A good history site
+*** [[https://www.watchophilia.com/photogallery/bulovas-1940-1949/][Bulova - Vintage Watches 1940s | Watchophilia.com]]
 ** *Elgin*
 *** [[http://waterstonewatches.com/elgin-watch-identification-guide/][Elgin Watch Identification Guide - Waterstone Watches]]  :: The ones you want were made before 1968
 *** [[https://www.elgin.watch/enwco/elgin-movement-grades/][Elgin Movement Grades – Elgin.Watch]]
@@ -135,7 +141,10 @@ Bulova launched a new 'Nightlife' range of fashion watches under the Wittnauer b
 
 ** [[https://www.youtube.com/watch?v=39FI1lZ8ZuE][How to clean your watch with home products - YouTube]]
 
-** TODO [[https://www.youtube.com/watch?v=8j4cDntIoWk][How to clean a watch dial - YouTube]]
+** DONE [[https://www.youtube.com/watch?v=8j4cDntIoWk][How to clean a watch dial - YouTube]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:37]
+:END:
 Soap erase and magic sponges.  Warm water - about 160 degrees.
 
 ** [[https://www.youtube.com/watch?time_continue=162&v=J0OCD84ol1w][How to Clean Antique Watches - YouTube]]

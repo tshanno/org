@@ -29,14 +29,39 @@
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:29]
 :END:
 
-** TODO [#A] Fill out reimbursements for Biophysical Society Meeting.
+** WAITING [#A] Fill out reimbursements for Biophysical Society Meeting.
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-10-04 Fri 11:10] \\
+  Sent pdfs of receipts for everything except hotel to Glenda - registration, abstract fee, membership fee and airline tickets.
+:END:
+
+** DONE Don edits [[message://%3cCY4PR0801MB37793113793AFF7197973F6ED09F0@CY4PR0801MB3779.namprd08.prod.outlook.com%3E][RE: Revised Abstract]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:32]
+:END:
+
+
+** DONE Ken's comments [[message://%3cBYAPR08MB42947C623B63B9F5AF2A4CFCD6800@BYAPR08MB4294.namprd08.prod.outlook.com%3E][Re: Biophysics Abstract]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:33]
+:END:
+
+** DONE Dan's comments [[message://%3c1569711381345.96701@rush.edu%3E][Re: Biophysics Abstract]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:33]
+:END:
 
 * *Ticklers*
-** Biophysical Society Meeting Abstract Deadline Oct. 1
-SCHEDULED: <2019-09-09> DEADLINE: <2019-10-01 Tue>
+** DONE Biophysical Society Meeting Abstract Deadline Oct. 1
+DEADLINE: <2019-10-01 Tue>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 08:16]
+:END:
  to submit see this email: [[message://%3cLYRIS-21216823-43792-2019.07.29-13.48.40--tom_shannon#rush.edu@lists.biophysics.org%3E][Scientific Program - BPS 2020 Annual Meeting]]
-** Register for Biophysical Society Meeting
-SCHEDULED: <2019-09-09 Mon>
+** DONE Register for Biophysical Society Meeting
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 08:43]
+:END:
 * *Meetings*
 ** Biophysical Society Meeting; Location:  San Diego <2020-02-15 Sat>--<2020-02-19 Wed>
 
@@ -58,4 +83,11 @@ SCHEDULED: <2019-09-09 Mon>
 
 
 ** [[message://%3cd8497378-b377-46ab-ab86-c84ab6726d0b@BPS02.biophysics.local%3E][Your Online Order from the Biophysical Society]]
+
+** Biophysics Membership [[message://%3ce80ceb14-c7c3-49a4-a075-13c5223db636@BPS02.biophysics.local%3E][Your Online Order from the Biophysical Society]]
+** Biophysics Registration [[message://%3cd8497378-b377-46ab-ab86-c84ab6726d0b@BPS02.biophysics.local%3E][Your Online Order from the Biophysical Society]]
+
+** [[message://%3c318408962.459767.1564579685118@lxpasprdsmt01a.lanyonprod.com%3E][Hotel Reservation Acknowledgement]]
+
+** Abstract Fee [[message://%3cgKSgSEQkS9mmiLut3j5ztQ@ismtpd0070p1mdw1.sendgrid.net%3E][Your Online Order from the Biophysical Society]]
 

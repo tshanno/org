@@ -206,5 +206,17 @@ Annual Performance Review Link
 Should you require additional assistance, please contact the Office of Faculty Affairs at Faculty_Affairs@rush.edu. Do not reply to this email.
 ** OMSP Phone List 2019-09-05
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Excel/OMSP%20Phone%20list%202019-09-05.xlsx][file:~/Library/Mobile Documents/com~apple~CloudDocs/Excel/OMSP Phone list 2019-09-05.xlsx]]
+** [[message://%3c5360FFE9-2E62-4445-AB0B-966C2E58F5F0@rush.edu%3E][Goals]]
+:PROPERTIES:
+:SYNCID:   E5A19964-0EB3-4A8D-AFC3-0DF8426564B8
+:ID:       5584914C-385C-4808-BBFF-F4015723F6D1
+:END:
+
+
+1.  Remake some food to fuel videos
+2.  Remake some of the concept map activities that are lacking.  This might take the form of simply remaking the concept maps in Food to Fuel and/or finding a way to design these so that they are drag and drop.
+
+Tom S.
+
 * DONE [#A] Review Grad School Material
 	[[message://%3c6C327739-1022-4D25-867B-7BAA4FFD660A@rush.edu%3E][FW: Tom_Shannon@rush.edu]]

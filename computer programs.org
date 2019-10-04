@@ -15,7 +15,8 @@
 [2018-09-07 Fri]
 ** ON RADAR Take a look at this.  It might help javascript edevelopment [[http://eschulte.github.io/emacs-web-server/Introduction.html#Introduction][Emacs Web Server (web-server) User Manual: Introduction]] 
 ** ON RADAR [[https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/][A Gentle Introduction to Javascript Test Driven Development: Part 1]]
-** TODO Work on a javascript page for concept map exercises
+** Work on a javascript page for concept map exercises
+SCHEDULED: <2020-02-03 Mon>
 :PROPERTIES:
 :SYNCID:   4250BFE1-8D73-4D4A-8454-4021216DB9AD
 :ID:       2953301B-3458-42CC-BC65-AF1BE75BC731
@@ -112,6 +113,17 @@ A Generator function works differently; it may be paused in the middle, one or m
 Inside the generator function body, we can use the new yield keyword to pause the function from inside itself. Nothing can pause a generator from the outside and once a
 generator has yield-paused itself, it cannot resume on its own. An external control is required to restart the generator.
 ** [[https://dzone.com/articles/a-brief-introduction-to-closures-and-lexical-scopi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][A Brief Introduction to Closures and Lexical Scoping in JavaScript - DZone Web Dev]]
+** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
+:PROPERTIES:
+:SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
+:ID:       6291302D-8A0F-4EE2-8C1E-028076AC0EEE
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 13:41] \\
+  Helped out with the computer programs.  Contact him if you have more trouble.
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
+:END:
 * DONE [[message://%3cE4E925AF-0DA3-45E0-B157-D9B86F540C7C@rush.edu%3E][Call help desk to ask about getting programs installed on students desktops]]
 * DONE Answers to GASP are not appearing correctly.
 * DONE [#C] [[message://%3cb1dcf58b51bf49dd899a616166d9c095@646005169%3E][Upgrade Matlab]]

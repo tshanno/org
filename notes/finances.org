@@ -8,7 +8,7 @@
 * *Ticklers*
 ** DONE [#A] [[message://%3c22619210ddc645f7ab13d8e864d3f50e@RUDW-EXCHMAIL01.rush.edu%3E][Consider enrolling to get W2 online]] due 1/12
 ** $100 to fidelity
-SCHEDULED: <2019-09-27 Fri>
+SCHEDULED: <2019-10-11 Fri>
   [2018-10-12 Fri]
 ** Think about checking back in with Dylan at Fidelity.
 SCHEDULED: <2020-07-31 Fri>
@@ -85,6 +85,10 @@ SCHEDULED: <2020-07-31 Fri>
 ** DONE Pay Chase card.  Due date Oct 1.
 :LOGBOOK:
 - State "DONE"       from              [2019-09-20 Fri 07:58]
+:END:
+** DONE You owe Fidelity $1,481.37 by 10/15/19
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:47]
 :END:
 * *Meetings*
 ** <2020-03-13 9:00-10:00> H&R Block with Pat Scala

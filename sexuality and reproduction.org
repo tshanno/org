@@ -140,8 +140,11 @@ SCHEDULED: <2019-09-16 Mon>
   Asked her if Bob got back to her.
 :END:
 
-** TODO Check out the end of RP11.  MIssing somethign?
+** DONE Check out the end of RP11.  MIssing somethign?
 SCHEDULED: <2020-03-02 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
+:END:
 
 ** Contact Alex Chow about teaching more male in S&R. [[message://%3c1568226127397.31603@rush.edu%3E][male GU medical student curriculum]]
 SCHEDULED: <2020-02-03 Mon>
@@ -155,6 +158,9 @@ Please let me know if I can do anything more to help with the medical students.
 
 Thanks, 
 Ryan 
+
+** Evidently you need to update the Male Reproductive content.  This should be a priority in the offseason (what little of it there is) [[message://%3c973af7c53936279.68ebe2fcfeeee652924f808382ba97f4@mailer.surveygizmo.com%3E][Assessment Challenge_ID# 6066_Submission_RMD 566 (SR) Formative  1 ]]
+SCHEDULED: <2020-02-03 Mon>
 
 * *Meeting Notes*
 ** Core Discplines <2018-07-27 Fri>
@@ -746,11 +752,14 @@ If you need any help with this or have any questions, please let me know and I w
 :ID:       03F7A469-390C-42D1-BA72-327FE654B52C
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
 - Note taken on [2019-07-26 Fri 08:13] \\
   Deadlines for Vital Fluids added to calendar.
 :END:
-*** Add deadlines for Vital Gases to your calendar (they are in November).
-SCHEDULED: <2019-10-01 Tue>
+*** DONE Add deadlines for Vital Gases to your calendar (they are in November).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
+:END:
 ** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
 :PROPERTIES:
 :SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
@@ -808,6 +817,11 @@ tom_shannon@rush.edu
 :ID:       BBC08327-B1BA-48E0-9DD9-5F8A006E0C46
 :END:
 ** S&R formative and summative [[message://%3c2B8A6FD3-1E74-4474-A4D5-A94EB7F389F8@rush.edu%3E][RMD 566 S&R Secure PDF Passwords]]
+** DONE Talk to Michelle and then FU with Paul [[message://%3c7BAA11D1-120D-46BC-8AFF-0872E1EAF25D@rush.edu%3E][Re: Item Submission Deadline - Thursday, September 12th]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:46]
+:END:
+
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -973,10 +987,16 @@ SCHEDULED: <2019-07-01 Mon>
 - State "DONE"       from "TODO"       [2019-07-25 Thu 08:15]
 :END:
 
-** TODO Work on a javascript page for concept map exercises
+** Work on a javascript page for concept map exercises
+SCHEDULED: <2020-02-03 Mon>
 :PROPERTIES:
 :SYNCID:   4250BFE1-8D73-4D4A-8454-4021216DB9AD
 :ID:       AEC42176-DE99-4B3B-A499-1D06C1A2DCB0
+:END:
+*** [[https://www.youtube.com/watch?v=SxmTvpU260Y][Drag and Drop Application Development DnD Tutorial - YouTube]] :: http://www.developphp.com
+:PROPERTIES:
+:SYNCID:   4E343178-CF55-4294-B369-78069173E4F9
+:ID:       C756A8CC-1B55-4975-A880-FBD2AD4D7DBA
 :END:
 ** DONE [#A] Did the head-to-toe core physical exam self-study get put on GD?
 :LOGBOOK:
@@ -1000,7 +1020,10 @@ SCHEDULED: <2019-07-01 Mon>
 :SYNCID:   73BE83A0-0D3E-45CE-9427-715555D74B53
 :ID:       E704C21F-BCD4-4265-8145-7A5D3C1FD2AD
 :END:
-** TODO [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+** DONE [[message://%3cF6B85EC6-7244-4D40-8143-F7718948590C@rush.edu%3E][Scholar Session]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
 
 There is a session on 9/3 called "Intro to EBM”.  It appears to be online.  Its in black so I can't tell which class it applies to.  Is it M1 or M2?
 
@@ -1129,18 +1152,18 @@ Start by asking mark if we have a paying account.
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:36]
 :END:
 
-** Invite CEs to sessions
-SCHEDULED: <2019-09-23>
-
 ** DONE [#A] FU Princess on posting objectives and get back to Mira and the other student [[message://%3c9256c7b6814f47c4a07b9612a47bbf6e@RUPW-EXCHMAIL02.rush.edu%3E][Course Objectives for RMD 566]]
 :PROPERTIES:
 :SYNCID:   FC24C8F8-7E51-4FF1-8D93-909573C779BA
 :ID:       A8D23D2B-F283-43E2-AF3D-776F3FCC25D7
 :END:
 
-** TODO [#A] Check in with the urologists for the Intro to the GU exam
+** DONE [#A] Check in with the urologists for the Intro to the GU exam
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
 :END:
 *** DONE [#A] Find out where the Sim Center is for the Intro to the GU exam and find out who I should conact for rooms from Bob
 :PROPERTIES:
@@ -1257,7 +1280,10 @@ Blake Beehler is signed up for
 - State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
 :END:
 
-*** TODO Email the clinician educator for Steven Suh and Blake Beehler for Infertility
+*** DONE Email the clinician educator for Steven Suh and Blake Beehler for Infertility
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:32]
+:END:
 
 *** TODO Email Steven Suh and Blake Beehler for Infertility
 **** [[message://%3c759021C3-DAC8-45D6-A2E3-EF86259267C9@rush.edu%3E][Pelvic Inflammatory Disease on 9/10 in AAC 550]]
@@ -1266,22 +1292,28 @@ Blake Beehler is signed up for
 - State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
 :END:
 
-** TODO [#A] Announcement about reading case
+** DONE [#A] Announcement about reading case
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
+:END:
 ** TODO [#A] Prepare PowerPoints for Sessions
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO [#A] Prepare PowerPoint for Teen Pregnancy
+*** DONE [#A] Prepare PowerPoint for Teen Pregnancy
 :PROPERTIES:
 :SYNCID:   F81721C0-19E9-411B-85C2-7E94E529DABA
 :ID:       2CE95D9F-10E6-479E-BE72-6346588DC4B9
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
 :END:
 *** TODO [#A] Send Teen Pregnancy PowerPoint to CEs
 :PROPERTIES:
 :SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
 :ID:       9BAAF059-A6F3-43B2-9BBE-13DFB9AC2442
 :END:
-*** TODO [#A] Prepare PowerPoint for Fetal Death
+*** TODO [#A] Prepare PowerPoint for James Parker 1
 :PROPERTIES:
 :SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
 :ID:       138CF086-5DB6-4D5B-AF55-A868032B2E5A
@@ -1310,9 +1342,18 @@ SCHEDULED: <2019-09-20 Fri>
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes%20and%20photos.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes and photos.pptx]]
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/Med%20student%20male%20GU%20exam%20with%20notes.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/Med student male GU exam with notes.pptx]]
 
-** TODO [#A] Post formative breakdown
-** TODO [#A] Post review videos
-** TODO [#A] Post [[https://docs.google.com/document/d/1O4K3qi375f1Knx-VoYmAivmUySzINMPBbcvZBik-u0s/edit][S&R Pre-formative Blueprint - Student Version 2019 - Google Docs]]
+** DONE [#A] Post formative breakdown
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
+:END:
+** DONE [#A] Post review videos
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:18]
+:END:
+** DONE Post [[https://docs.google.com/document/d/1O4K3qi375f1Knx-VoYmAivmUySzINMPBbcvZBik-u0s/edit][S&R Pre-formative Blueprint - Student Version 2019 - Google Docs]]
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 14:18]
+:END:
 
 ** DONE [#A]  FU: Mike on HPO negative feedback loop [[message://%3c1568219029973.71709@rush.edu%3E][HPO Axis question]]
 :PROPERTIES:
@@ -1320,12 +1361,37 @@ SCHEDULED: <2019-09-20 Fri>
 :ID:       8437DA2F-AFAA-40D5-AD4A-43072C748D40
 :END:
 
-** TODO [#A] Check and make sure that Elif got moved to the PM of the [[message://%3cB114CBB5-1022-4D7C-9F71-BD5FD3FE0A6B@rush.edu%3E][9/20]] Confidentiality session
-** TODO [#A] Post formative blueprint for students
+** DONE [#A] Check and make sure that Elif got moved to the PM of the [[message://%3cB114CBB5-1022-4D7C-9F71-BD5FD3FE0A6B@rush.edu%3E][9/20]] Confidentiality session
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:18]
+:END:
+** DONE [#A] Post formative blueprint for students
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:18]
+:END:
 
-** TODO [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
-** TODO [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
+** DONE [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
+** DONE [#A] Talk to Danesha about Paul's stuff [[message://%3c1568563425773.87869@rush.edu%3E][Re: Soc. Determinants of Health Self-Study (session 2 of 4)]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:19]
+:END:
 
+** DONE Review the S&R summative [[message://%3c79FE74D9-F1EE-4264-A23E-0DFAAE7DA0C6@rush.edu%3E][RMD 566 Summative and Histology Practical]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 12:28]
+:END:
+** DONE Post an announcement telling students there will be lunch for the session on MOnday. [[message://%3c56D39C2A-A193-4614-BE64-F2A25B2D766E@rush.edu%3E][IMMEDIATE:  Lunch for Monday?]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:46]
+:END:
+
+** DONE FU: Carolyn [[message://%3c7F13AC2F-748A-4C65-BA0A-B6C5FEDAB3F1@rush.edu%3E][Imprinting Disorders]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:48]
+:END:
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

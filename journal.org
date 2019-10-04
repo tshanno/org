@@ -1448,7 +1448,10 @@ Personally I never felt that John Clayton added much in the way of reporting whe
 Scheduled: May 21, 2019 at 10:00 AM to 11:00 AM
 Location: TBD
 
-***** WAITING Revise the instrucitons for the course directors for the workload review to account for the fact that there will be no 2019-2020 numbers.
+***** DONE Revise the instrucitons for the course directors for the workload review to account for the fact that there will be no 2019-2020 numbers.
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-10-04 Fri 14:29]
+:END:
 *** 2019-05-22 Wednesday
 **** Called Weinberg Plumbing 773-821-4414.  Set up something for 8AM Monday.  She will call me back if that won't work. 
 Entered on <2019-05-22 Wed>
@@ -2797,7 +2800,7 @@ Another is to give up the ghost on Jones and trade him, something they really sh
 
 In any case, the Dolphins are still paying the price of the poor team building of the previous (and in some ways the current) regime.  Here's hoping they finally solve this issue in a way that maximizes their assets.
 #+END_EXPORT
-**** TODO Surprise TE cut
+**** Surprise TE cut
 :PROPERTIES:
 :SYNCID:   9E8DBC7A-9845-47F2-8C02-31C5F8D853A7
 :ID:       ED9C1A74-A5BA-4199-B650-2E092D104071
@@ -2840,7 +2843,10 @@ https://castro.fm/episode/LrItb0
 :SYNCID:   B2AFCC73-F0FD-4A15-9232-22729604816E
 :ID:       43DF52E9-4BEF-48A2-89F1-D12AEE17BED0
 :END:
-***** TODO Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+***** DONE Narrative feedback for M2s in Anatomy and Communicator?  Ask Adam.
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 14:30]
+:END:
 ***** Thinking about requiring students to pass each discipline at the end of the year                                                                    
 ****** Assessment needs to give us the breakdowns for next year so that we can evaluate the effect on students grades
 ****** We need to move fast if we want to get this started for 2019-2020.  Bob didn't seem to interested in pushing it ahead that quickly so I doubt it will happen.  Probably 2020-2021.
@@ -3292,10 +3298,13 @@ We made a slight alteration to Jerry’s new path activity.  Students will now b
 ***** DONE [#A] Send Danesha the appear.in link for the meeting Friday
 ***** DONE [#A] Schedule the next Administrative team meeting
 *** 2019-08-07 Wednesday
-**** TODO Collaboration Tool Discussion (Updated location); Location: Office of Integrated Medical Education in AAC 403 <2019-08-07 Wed 15:30-16:00>
+**** DONE Collaboration Tool Discussion (Updated location); Location: Office of Integrated Medical Education in AAC 403 <2019-08-07 Wed 15:30-16:00>
 :PROPERTIES:
 :SYNCID:   874CC32E-57AB-410D-932E-7BA2EF0F459A
 :ID:       0BC5722F-5416-4407-8D26-A2A99997A42F
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:30]
 :END:
 ***** Pre-meeting notes
 ****** Where did the impetus for this came from? . Why me?
@@ -3320,12 +3329,13 @@ in mind, though.
 :END:
 
 *** 2019-08-08 Thursday
-**** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
+**** DONE M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   0DFFD531-0E24-484D-82BD-287CF09BE9B0
 :ID:       30DF06EB-8E95-4431-9BD2-3FFAFDECE16A
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:30]
 - Note taken on [2019-08-08 Thu 13:15] \\
   Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
   
@@ -3527,21 +3537,23 @@ The guy I'm wondering about is Braunecker.  He's a four phase special teamer but
 Bunting had big highs and big lows over the course of the game and he needs to show more consistency.  That might make him a practice squad candidate.  But I wouldn't rule out the possibility that Braunecker will be a surprise cut if the Bears think Bunting has improved enough and/or they don't think they can get him through waivers to the practice squad.
 #+END_EXPORT
 
-**** TODO Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
+**** DONE Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
 :PROPERTIES:
 :SYNCID:   876EA022-B477-4590-9800-DA2E43DD9AEB
 :ID:       B0F75A72-AE94-465E-BC34-9539F0F094FB
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:30]
 - Note taken on [2019-08-16 Fri 09:30] \\
   Don was not present.  We went over the details of our collection methods for the most part.
 :END:
-**** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
+**** DONE Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   0178B251-1095-4B57-83A0-40AA1E5261B0
 :ID:       1BDC1463-BEBC-4D16-8F59-B6E6D650CE2F
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:30]
 - Note taken on [2019-08-16 Fri 09:31] \\
   I wasn't happy with how this went.  It turned into a bitch session basically about how we are being cut out of the process when decisions are being made.  I need to take the bull by the horns and talk to Rahul directly about some of this.
 :END:

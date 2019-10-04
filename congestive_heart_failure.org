@@ -28,11 +28,24 @@
   He's on top of it.  Looks like he's going to cut it down to one self-study on substance use including alcohol for Keith Simmons.
 :END:
 
-** TODO [#A] Plan of Study for Heart Failure
+** DONE [#A] Plan of Study for Heart Failure
 :PROPERTIES:
 :SYNCID:   AC4ACECA-A7DD-4791-882A-F44A738BC933
 :ID:       DF2DF2C7-F5CE-480B-9ADD-73F9AB4D5D97
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:11]
+:END:
+** DONE Review [[message://%3ce4d5e22a82d046c3b19fce0f0e8141ef@RUPW-EXCHMAIL02.rush.edu%3E][Case 3A]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:33]
+:END:
+
+** DONE Make sure this got done [[message://%3c328106AD-D738-45AB-8A4C-AE7BCF9EABA9@rush.edu%3E][Re: Keith Simmons 2 notes]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:39]
+:END:
+
 * *Ticklers*
 * *Miscellaneous Notes*
 

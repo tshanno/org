@@ -16,7 +16,10 @@
 :ID:       F3C4A21A-BCDF-4996-B99D-7FF856B35EF4
 :END:
 
-** TODO [#A] Review Kamara Thompson Session Assessment [[message://%3c0EF26A0D-E9F5-425E-96BF-12FEB6D4AA98@rush.edu%3E][REVIEW NEEDED - Kamra Thompson 1 Session Assessment]]
+** DONE [#A] Review Kamara Thompson Session Assessment [[message://%3c0EF26A0D-E9F5-425E-96BF-12FEB6D4AA98@rush.edu%3E][REVIEW NEEDED - Kamra Thompson 1 Session Assessment]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 11:13]
+:END:
 
 * *Ticklers*
 * *Meetings*
@@ -31,6 +34,17 @@
 *** DONE [#A] Change influenza take home point
 * *Notes*
 **  [[message://%3cA6140AC7-BCEC-42CD-8950-2F07C2D780E6@rush.edu%3E][Re: BLUEPRINTS DUE - RMD 561 HDHR]]
+** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
+:PROPERTIES:
+:SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
+:ID:       D2A74897-04B0-4593-B77A-8589DA4E1E01
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 13:41] \\
+  Helped out with the computer programs.  Contact him if you have more trouble.
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
+:END:
 * Flu Chapter 2 <2017-10-23 Mon 08:00-12:00> :Flu:Host_Defense_Host_Response:
 * DONE Email out old exam quesitons to the class 
   - Note taken on [2017-10-25 Wed 04:28] \\

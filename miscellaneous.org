@@ -2,7 +2,6 @@
 ** [[message://%3cc64515f4a1bc446298ff54e79d5a3403@RUDW-EXCHMAIL02.rush.edu%3E][Food options with closed caffeteria]]
    [2018-11-17 Sat]
 ** [[https://en.wikipedia.org/wiki/2019_Rugby_World_Cup][Rugby World Cup Home Page]]  Games start September 20
-   SCHEDULED: <2019-09-09 Mon>
 ** [[https://m.youtube.com/watch?feature=youtu.be&v=Uo0KjdDJr1c][A Millennial Job Interview - YouTube]] 
 ** Jerry Curran and Demetrio Santiago Contact information
 	[[message://%3c9FDB667C-2944-48D2-BD7A-E8BD4892A2C4@rush.edu%3E][Re: Allumni]]
@@ -205,14 +204,16 @@ SCHEDULED: <2019-07-12 Fri>
 - State "DONE"       from "TODO"       [2019-08-13 Tue 13:51]
 :END:
 
-** TODO [#A] clean up notes
+** DONE [#A] clean up notes
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:16]
+:END:
 ** DONE [#A] [[message://%3c1567095745752.97936@rush.edu%3E][Deri Morgan Goodbye Gift]]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-07 Sat 10:40]
 :END:
 Contribute to Deri's goodbye gift.  Find out from Glenda if he know sabout it.  If so, explain to him why you won't be there.
 ** Screen shot of steps
-SCHEDULED: <2019-09-30 Mon>
 
 * *Meetings*
 ** Chris Weber:  SERCA activity; by phone <2019-04-05 Fri 13:00-13:30>

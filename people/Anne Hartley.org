@@ -47,6 +47,26 @@ Anne
   Kiya said to move it to AKI.
 - State "DONE"       from "TODO"       [2019-08-22 Thu 10:36]
 :END:
+** TODO Take care of materials for pathophysiology workshop [[message://%3cdd93d46f3b404ba98bb66e5975b34722@RUDW-EXCHMAIL01.rush.edu%3E][RE: fluids and electrolytes session]]
+:PROPERTIES:
+:SYNCID:   5D0ABB61-37AB-458E-A57B-CA2D5A040564
+:ID:       9E2CD874-CDDD-459C-96C4-45E141D66657
+:ORDERED:  t
+:END:
+Anne,
+They should get all the materials except the document with the answers.
+ 
+Tom can post the video, PowerPoint and the cases. I do not mind them having the cases ( it is unlikely they will have gone through them) but I do want them to be told that they have to review the video and handout ( course notes) on Fluids and Electrolytes.
+ 
+Best,
+Syed
+
+*** TODO [#A] Upload all of the materials.  Set a time to release the answers.
+
+*** TODO [#A] Make sure the workhop is in the self-study
+
+*** TODO [#A] Find the video rom last year and put it up and time the release.
+
 * *Ticklers*
 * *Meetings*
 ** Sexuality and Reproduction Core Disciplines Meeting; Location: AAC 403- Large Room <2019-08-02 Fri 14:30-15:30>

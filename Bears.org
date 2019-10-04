@@ -986,7 +986,10 @@ https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde5-dolphins-bottom-5-2019
 
 Time for your rant moderation in all things.
 
-*** TODO /Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Scripts/Applications/Safari/Copy Safari URL for Emacs.scpt:550:581: execution error: Error on line 19: Error: Can't get object. (-1728)
+*** DONE /Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Scripts/Applications/Safari/Copy Safari URL for Emacs.scpt:550:581: execution error: Error on line 19: Error: Can't get object. (-1728)
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:21]
+:END:
 
 ** DONE An Assessment of the Competition for the Third and Fourth Tight End Spots
 :PROPERTIES:

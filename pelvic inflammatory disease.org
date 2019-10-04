@@ -209,7 +209,10 @@ SCHEDULED: <2019-09-09 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-09-10 Tue 09:42]
 :END:
-** TODO [#A] Get feeback on Steven and Blake for Michelle
+** DONE [#A] Get feeback on Steven and Blake for Michelle
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
+:END:
 
 ** DONE Put slide set together for PID and give to Torrence
 SCHEDULED: <2019-09-09 Mon>

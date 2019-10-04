@@ -220,6 +220,9 @@ SCHEDULED: <2019-07-29 Mon>
 - Note taken on [2019-07-24 Wed 08:10] \\
   [2019-07-24 Wed] Princess said she was going to get back to me yesterday but she's out of town at a meeting.  I guess I'll bug her Monday.
 :END:
+** FU Princess [[message://%3c7D6955D3-54C0-4150-9832-1CDBABB8FE3B@rush.edu%3E][Re: BBC review ]]
+SCHEDULED: <2019-10-07 Mon>
+
 * *Meetings*
 ** CCE <2017-10-25 Wed 12:00-13:00>
 *** Moving renal to sexuality and reproduction approved
@@ -449,7 +452,8 @@ Maybe both the Heart Lesson (Levis style) and the Structure and function notes w
 **** PED 710 Course Review
 **** EMD 703 Course Review
 **** Internal Medicine?
-** WAITING  Revise the instrucitons for the course directors for the workload review to account for the fact that there will be no 2019-2020 numbers.
+** Workload Assessment
+SCHEDULED: <2019-10-07 Mon>
 ** Committee on Curriculum and Evaluation (CCE) Executive Meeting; Location: ROOM CHANGE - AAC 1046  **https://zoom.us/j/638903670** <2019-05-22 Wed 12:00-13:30>
 :PROPERTIES:
 :SYNCID:   449383DF-0717-48E1-B035-6D852C4376F5

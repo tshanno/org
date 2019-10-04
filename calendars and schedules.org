@@ -20,11 +20,14 @@
 :ID:       7E9D6119-1EB3-4F9D-8E77-1C0D0928473B
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
 - Note taken on [2019-07-26 Fri 08:13] \\
   Deadlines for Vital Fluids added to calendar.
 :END:
-*** Add deadlines for Vital Gases to your calendar (they are in November).
-SCHEDULED: <2019-10-01 Tue>
+*** DONE Add deadlines for Vital Gases to your calendar (they are in November).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
+:END:
 ** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
 :PROPERTIES:
 :SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
@@ -70,15 +73,39 @@ If a journal club article is being presented, it should be shared with the group
 :SYNCID:   AEA660E3-3A1F-449D-8303-EEF953EAE300
 :ID:       C6322610-09FF-405B-8194-793B5B2871C0
 :END:
-** TODO [[message://%3ce0c6c7a22aa0498b8da479d9b33f01e4@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00004: Student Tutorial Sessons (U) - Requested event has been approved]] :ATTACH:
+** DONE [[message://%3ce0c6c7a22aa0498b8da479d9b33f01e4@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00004: Student Tutorial Sessons (U) - Requested event has been approved]] :ATTACH:
 :PROPERTIES:
 :Attachments: Tutorial%20Session%20Notification%20of%20Event%20Request%20Approved%20with%20Summary_2019-08-26-08_31_00%202019-08-26.pdf
 :ID:       075BA82C-30D4-4675-8F1F-96EF7D071D2A
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:21]
+:END:
 
-** TODO [[message://%3ce337472f244043a483864af2ac480a05@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00005: M1M2 Faculty Student Lunch (U) - Requested event has been approved]] :ATTACH:
+** DONE [[message://%3ce337472f244043a483864af2ac480a05@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Reservation #20190824-00005: M1M2 Faculty Student Lunch (U) - Requested event has been approved]] :ATTACH:
 :PROPERTIES:
 :Attachments: Student%20Lunch%20Notification%20of%20Event%20Request%20Approved%20with%20Summary_2019-08-26-08_29_30%202019-08-26.pdf
 :ID:       E4962EC2-4B6F-478C-9503-90271F96500A
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:21]
+:END:
+
+** Schedule for [[message://%3c08f5e3542af74de4a6ba6ae3391e7dff@RUPW-EXCHMAIL02.rush.edu%3E][Mid-course exam in Vital Fluids]]
+:PROPERTIES:
+:SYNCID:   E4D828A6-3B8E-4963-BFC5-6D7A4DD89FE3
+:ID:       BA360DE2-1A90-476E-AE06-38776A2C7006
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 11:34] \\
+  Talked to Bob about this.  First half of the class takes the exam from 11AM-3PM.  Second half takes it from 3PM to 7PM.
+:END:
+
+
+M1 Students:
+The Vital Fluids course has a mid-course exam, similar in length to the final exam.  This exam will be on Tuesday, November 26.  We are still finalizing the testing schedule for the day but I am writing now to let you know that half of the class is likely to be scheduled to take the exam from 3-7pm.  We are sorry for this but there is heavy use of the testing center and in order to make sure that you do not have to be here on Wednesday the 27th we felt that finishing the exam later on Tuesday was a better option.  We will follow up to let you know once the exam schedule for the day has been finalized.
+ 
+Yours,
+Bob
+
 

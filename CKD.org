@@ -10,17 +10,24 @@
    [2018-12-11 Tue]
 ** DONE [#A] [[message://%3cAA6A991F-1942-4000-A3E7-DA6D00A19AFC@rush.edu%3E][Post explanation of lasix Ca excretion]]
    [2018-12-14 Fri]
-** TODO Plan of Study for CKD
+** DONE Plan of Study for CKD
 :PROPERTIES:
 :SYNCID:   A3E9B0CC-243C-4D2C-93ED-72FC2B22B240
 :ID:       5095FD88-5BC3-4F6B-9D68-0946C1658729
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:34]
 :END:
 * *Ticklers*
 ** DONE [#A] Faculty Guide Posted <2018-12-06 Thu>
 ** DONE [#A] Send invites to session to CEs <2018-12-06 Thu>
 ** DONE Send invites to Syed and Anne <2018-12-07 Fri>
 ** Add an explanaiton to the concept map in CKD.  It implies joint pain is due to Ca loss from bone [[https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder][which it can be]].  But uric acid accumulation may contribute. [[http://www.kidney-cares.org/ckd-symptoms-complications/1797.html][Read this article.]]
-SCHEDULED: <2019-10-01 Tue>
+SCHEDULED: <2019-10-11 Fri>
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 08:49] \\
+  Let's wait ntil content is up so you don't upset Janice when re-posting.
+:END:
    [2018-12-14 Fri]
    [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Emacs/Org/inbox.org::*Urate%20causing%20joint%20pain%20in%20CKD?][Urate causing joint pain in CKD?]]
 * *Meetings*

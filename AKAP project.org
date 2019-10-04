@@ -29,10 +29,13 @@ SCHEDULED: <2019-06-10 Mon>
 **** 2019-06-19-19 very good for everything
 **** 2019-06-19-21 very good for everything.  Probably either this or 19.
 
-** TODO Try to save window configuration to register the next time you are copying data around
+** DONE Try to save window configuration to register the next time you are copying data around
 :PROPERTIES:
 :SYNCID:   78cecc02-0517-42b9-b798-397e184cc474
 :ID:       f6f6269b-c3ca-4512-ba58-88d96adf313c
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:20]
 :END:
 [2019-07-05 Fri 05:34]
 https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=share&utm_medium=ios_app
@@ -47,12 +50,15 @@ https://www.reddit.com/r/emacs/comments/c9dewr/persistent_registers/?utm_source=
   There is.  Download it and analyze it
 :END:
 ** Download and analyze the last data from Dan.
-SCHEDULED: <2019-09-02 Mon>
+SCHEDULED: <2019-11-03 Sun>
 ** DONE [#A] Download Dan's data and get it off your hard drive
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-07-22 Mon 08:25]
 :END:
-** TODO [#A] [[message://%3c1566228636257.20914@rush.edu%3E][Paper of Interest?]]
+** DONE [#A] [[message://%3c1566228636257.20914@rush.edu%3E][Paper of Interest?]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:54]
+:END:
 Hi Tom,
 
 I was perusing the literature in an effort to find some general review on the Ca+ dynamics in the cardiomyocyte so that I might gain a better understanding of what we are seeing in our data. Unfortunately, I didn't find much that really helped with my general ignorance on this topic but I came across this fairly recent paper relating to the ISO effect and the dose difference relating to Action potential vs Calcium transients changes (see attached).  I know that you are an expert on this topic and keep up on things so, no insult intended but just in case you missed it.  I think it is relevant given that we are in this "unknown" realm of ISO concentration hitting the cell and surely there is a gradient moving down the cell.  I hope it is of some relevance. 
@@ -84,7 +90,6 @@ SCHEDULED: <2019-07-08 Mon>
 :END:
 
 ** Get back to Ken [[message://%3cBYAPR08MB42945430F1457785AB63723FD6BB0@BYAPR08MB4294.namprd08.prod.outlook.com%3E][RE: Powerpoint with Data for tomorrow FOLLOWUP INQUIRY]]
-SCHEDULED: <2019-09-09 Mon>
 Tom, Dan
 We have made a little progress with BandDecline.m.  The number of lines we get seems more reasonable if we change the pixel size to a value like we used, which is around 0.25 to 0.3 microns.
 This brings up the question of why you defined your pixelSize to be 0.656, which seems large.  Did you use a 20x lens where we use 40?
@@ -192,12 +197,13 @@ What?:            February 22 registration, scientific program, storytelling, di
 
 February 23: informal get together, golf outing
 
-** TODO Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
+** DONE Conference call with Don and Ken and Dan; Location: http://appear.in/shannon-physioogy/ <2019-08-15 Thu 11:00-12:00>
 :PROPERTIES:
 :SYNCID:   876EA022-B477-4590-9800-DA2E43DD9AEB
 :ID:       9DCC2D4B-08E5-4D3B-AEA1-A014CAF5005A
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:20]
 - Note taken on [2019-08-16 Fri 09:30] \\
   Don was not present.  We went over the details of our collection methods for the most part.
 :END:

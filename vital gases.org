@@ -43,11 +43,14 @@
 :ID:       755FF65D-6A1C-4DF8-824C-EDFA4BA10AA9
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
 - Note taken on [2019-07-26 Fri 08:13] \\
   Deadlines for Vital Fluids added to calendar.
 :END:
-*** Add deadlines for Vital Gases to your calendar (they are in November).
-SCHEDULED: <2019-10-01 Tue>
+*** DONE Add deadlines for Vital Gases to your calendar (they are in November).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
+:END:
 ** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
 :PROPERTIES:
 :SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
@@ -65,6 +68,17 @@ SCHEDULED: <2019-10-01 Tue>
 :ID:       00655701-36FC-476A-B4D0-6BD60604E797
 :END:
 
+** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
+:PROPERTIES:
+:SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
+:ID:       D9437133-E463-499D-B7F1-F71FBC51F26F
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 13:41] \\
+  Helped out with the computer programs.  Contact him if you have more trouble.
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
+:END:
 * *Links*
 ** [[http://www.differencebetween.net/science/health/difference-between-forced-vital-capacity-and-vital-capacity/][Difference Between Forced Vital Capacity and Vital Capacity | Difference Between | Forced Vital Capacity vs Vital Capacity]]
 

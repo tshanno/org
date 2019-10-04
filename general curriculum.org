@@ -1,5 +1,9 @@
 * *Ticklers*
-** TODO [#A] Put comment about emailing CD immediately after the session with comments into faculty guides.
+** CANCELED [#A] Put comment about emailing CD immediately after the session with comments into faculty guides.
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-10-04 Fri 11:13] \\
+  Jus forget about this.
+:END:
 ** Consider giving multiple choice self-study questions
 *** Bring this up at the course directors meeting on <2019-01-24 Thu>
 ** DONE [#A] Invite students to lunch
@@ -22,15 +26,21 @@ SCHEDULED: <2019-09-20 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-23 Mon 13:44]
 :END:
-*** TODO Order pizza for faculty-student lunch
-** TODO [#A] Be sure to document things that are generally required and optional at the beginning of the block.
+*** DONE Order pizza for faculty-student lunch
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:25]
+:END:
+** Be sure to document things that are generally required and optional at the beginning of the block.
+SCHEDULED: <2019-10-07 Mon>
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
 ** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-09-13 Fri>
-** WAITING Check to make sure you have rooms on Saturdays and reserve more.
+SCHEDULED: <2019-10-12 Sat>
+** Check to make sure you have rooms on Saturdays and reserve more.
+SCHEDULED: <2020-01-02 Thu>
    :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2019-10-04 Fri 14:25]
    - State "WAITING"    from              [2019-09-20 Fri 07:53] \\
      Submitted request for AAC 450 up to  and including Jan. 4
    - Note taken on [2019-08-26 Mon 07:55] \\
@@ -41,8 +51,8 @@ SCHEDULED: <2019-09-13 Fri>
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]
 SCHEDULED: <2019-06-19 Wed>
 
-** Schedule student lunch for October
-SCHEDULED: <2019-09-27 Fri>
+** Schedule student lunch for November
+SCHEDULED: <2019-10-25 Fri>
 ** CANCELED [#A] Talk to Maria about how to get on tag questions
 :LOGBOOK:
 - Note taken on [2019-07-18 Thu 06:45] \\
@@ -78,8 +88,18 @@ SCHEDULED: <2019-08-24 Sat>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-23 Mon 13:13]
 :END:
-** FU Josefina on Phys Discipline Directorship
+** DONE FU Josefina on Phys Discipline Directorship
 SCHEDULED: <2019-09-30 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-04 Fri 08:48]
+:END:
+
+** FU with Janice on Faculty-Student Lunch Oct. 16
+SCHEDULED: <2019-10-14 Mon>
+:PROPERTIES:
+:SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
+:ID:       032415F7-D251-4DE6-A1C6-4F783007257D
+:END:
 
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
@@ -325,12 +345,13 @@ SCHEDULED: <2020-02-14 Fri>
   
   Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
 :END:
-** TODO M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
+** DONE M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   0DFFD531-0E24-484D-82BD-287CF09BE9B0
 :ID:       39366560-ECD7-4C28-9669-49288930E607
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
 - Note taken on [2019-08-08 Thu 13:15] \\
   Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
   
@@ -355,12 +376,13 @@ DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
 **** Will probalby need at least 1 mic.  This also comes from the METC
 **** There is a keyboard and mouse with each cart.
 **** You can connect to each cart with you iPad but you can't use airplay (which Only connects to the whole room).  You have to use an alternative (name eacapres me).  You need to install software to do it.
-** TODO Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
+** DONE Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-08-15 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   0178B251-1095-4B57-83A0-40AA1E5261B0
 :ID:       28FBA82F-E906-463E-9EE2-FB4C56D22391
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:30]
 - Note taken on [2019-08-16 Fri 09:31] \\
   I wasn't happy with how this went.  It turned into a bitch session basically about how we are being cut out of the process when decisions are being made.  I need to take the bull by the horns and talk to Rahul directly about some of this.
 :END:
@@ -639,11 +661,14 @@ If you need any help with this or have any questions, please let me know and I w
 :ID:       A06305B0-BC50-4B2B-9A48-98CDFACE9997
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:31]
 - Note taken on [2019-07-26 Fri 08:13] \\
   Deadlines for Vital Fluids added to calendar.
 :END:
-*** Add deadlines for Vital Gases to your calendar (they are in November).
-SCHEDULED: <2019-10-01 Tue>
+*** DONE Add deadlines for Vital Gases to your calendar (they are in November).
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
+:END:
 ** Phone number for conference room 942-8544
 ** [[https://docs.google.com/spreadsheets/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/edit#gid=161600452][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Sheets]]
 :PROPERTIES:
@@ -722,6 +747,48 @@ Thanks, K
 ** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/M1 2019 Lunch List.docx][M1 2019 Lunch List.docx]]
 
 ** [[https://docs.google.com/forms/d/e/1FAIpQLScT9fQ5NauG-BjBHHJM4zWxIwX3UXkPJkO537bdq92E5VkQvQ/viewform][Teaching Skills Feedback Form]] for M4 helpers
+** [[message://%3c5360FFE9-2E62-4445-AB0B-966C2E58F5F0@rush.edu%3E][Goals]]
+:PROPERTIES:
+:SYNCID:   E5A19964-0EB3-4A8D-AFC3-0DF8426564B8
+:ID:       A34982D1-BBC6-44EE-A601-76F0007B2FCB
+:END:
+
+
+1.  Remake some food to fuel videos
+2.  Remake some of the concept map activities that are lacking.  This might take the form of simply remaking the concept maps in Food to Fuel and/or finding a way to design these so that they are drag and drop.
+
+Tom S.
+
+** [[message://%3c82F52318-8DDB-44CC-BA1C-58ACC1582184@rush.edu%3E][Knowledge Owl]]
+
+
+Hello Everyone,
+ 
+We’ve been placing all of our assessment related documents/procedures on Knowledge Owl. Here is how you can access the Knowledge Owl page:
+ 
+Go to the Knowledge Owl reader login page: https://rmc-integrated-curriculum.knowledgeowl.com/help/readerlogin
+Click “Reset Password”
+Enter your Rush email
+Follow the instructions to choose your password
+ 
+Once you log in, you can click on “Assessment” and search for various documents/policies/procedures (e.g., related to assessment development, administration, Examsoft, etc.).
+ 
+ 
+ 
+Thank you,
+Maria
+
+** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
+SCHEDULED: <2019-09-23 Mon>
+:PROPERTIES:
+:SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
+:ID:       C0089F7D-24C7-4067-8973-E54D38051EF1
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-04 Fri 13:41] \\
+  Helped out with the computer programs.  Contact him if you have more trouble.
+- State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
+:END:
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -846,7 +913,10 @@ Decided to call these review sessions
 ** DONE Invite students to lunch on June 19 [[message://%3cc63d430148fa4d2299f84e18deb760b9@RUDWV-EXCHEG001.dmz.rush.edu%3E][Event Summary: M1 Student Faculty Lunch (U) (Res # 20190531-00008)]]
 ** DONE Bring up the possibility of starting a journal club at the CD meeting :: I did this.  They're up for it.  Now I just have to organize it.
 SCHEDULED: <2019-06-13 Thu>
-** TODO Organize new journal club
+** DONE Organize new journal club
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 14:27]
+:END:
 - Note taken on [2019-06-14 Fri 07:59] \\
   Bob suggested using one Thrusday a month at noon instead of the CD meeting.  I'll do that fow now but we may want to do articles more frequently.
 ** DONE [#A] Introduce yourself.  You are first up in the M2 year. [[message://%3c00D6574D-A05F-44F6-A81B-92681C8DAB95@rush.edu%3E][Kelly Stapleton - Assessment and Evaluation Coordinator]]

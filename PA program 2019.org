@@ -4,6 +4,11 @@
 - State "DONE"       from "WAITING"    [2019-08-02 Fri 09:44]
 :END:
 
+** DONE 20-25 questions for PA students [[message://%3ce2e939c261a04bcf90ce6f21d8b4fc24@RUDW-EXCHMAIL01.rush.edu%3E][RE: Powerpoints for tomorrow]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-04 Fri 13:45]
+:END:
+
 * *Ticklers*
 * *Meetings*
 * *Notes*
@@ -11,5 +16,6 @@
 *** Asked about background with transprot and channels
 *** Ask about required textbooks.  In particular, the hemodynamics lesson may be tough to put together without resource mateial to work from..
 
-* TODO [#A] Get PowerPOints to Aleen for PA students
+* Get PowerPOints to Aleen for PA students
+SCHEDULED: <2019-10-07 Mon>
 
