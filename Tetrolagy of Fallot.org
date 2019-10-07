@@ -42,7 +42,7 @@
 :ID:       F120E038-19E3-450A-939D-C3FAB64C6017
 :END:
 ** These are the Peds clinicians for ToF - invite to sessions
-SCHEDULED: <2019-10-07 Mon>
+SCHEDULED: <2019-10-14 Mon>
 [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 -Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
@@ -106,6 +106,9 @@ SCHEDULED: <2019-10-10 Thu>
 :END:
 *** [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
+
+** Do the powerpoint for Eil Whitney
+SCHEDULED: <2019-10-14 Mon>
 
 * *Meetings*
 * *Sesson Notes*

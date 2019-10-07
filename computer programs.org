@@ -114,7 +114,6 @@ Inside the generator function body, we can use the new yield keyword to pause th
 generator has yield-paused itself, it cannot resume on its own. An external control is required to restart the generator.
 ** [[https://dzone.com/articles/a-brief-introduction-to-closures-and-lexical-scopi?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone][A Brief Introduction to Closures and Lexical Scoping in JavaScript - DZone Web Dev]]
 ** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
-SCHEDULED: <2019-09-23 Mon>
 :PROPERTIES:
 :SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
 :ID:       6291302D-8A0F-4EE2-8C1E-028076AC0EEE

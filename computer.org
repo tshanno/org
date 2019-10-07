@@ -72,7 +72,6 @@ This is amazing.  Describes how to set pretty much any key binding you want.  It
 :ORDERED:  t
 :END:
 *** Bring the phone in to work
-SCHEDULED: <2019-10-07 Mon>
 *** TODO Chat with rep [[message://%3c186194851.131224809.1569507054326@email.apple.com%3E][Your trade-in is in the works.]]
 **** Give serial number
 **** Ask when you will ge tthe box to send back the phone.

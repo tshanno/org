@@ -107,9 +107,9 @@ Janice
 - State "DONE"       from "TODO"       [2019-08-28 Wed 09:14]
 :END:
 
-** WAITING Send Janice notice that renal vignettes is ready
-SCHEDULED: <2019-10-05 Sat>
+** DONE Send Janice notice that renal vignettes is ready
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-10-07 Mon 08:33]
 - State "WAITING"    from "TODO"       [2019-10-04 Fri 11:14] \\
   Waiting on feedback from Scott.  Saturday if you haven't heard from him.
 :END:

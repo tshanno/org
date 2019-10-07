@@ -31,7 +31,6 @@ SCHEDULED: <2019-09-20 Fri>
 - State "DONE"       from "TODO"       [2019-10-04 Fri 14:25]
 :END:
 ** Be sure to document things that are generally required and optional at the beginning of the block.
-SCHEDULED: <2019-10-07 Mon>
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
@@ -779,7 +778,6 @@ Thank you,
 Maria
 
 ** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
-SCHEDULED: <2019-09-23 Mon>
 :PROPERTIES:
 :SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
 :ID:       C0089F7D-24C7-4067-8973-E54D38051EF1

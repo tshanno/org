@@ -392,7 +392,6 @@ Bob
 
 
 ** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
-SCHEDULED: <2019-09-23 Mon>
 :PROPERTIES:
 :SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
 :ID:       4F3F1A72-205E-411F-9BCA-FEF0DF105835
@@ -547,7 +546,7 @@ SCHEDULED: <2019-09-23 Mon>
 :END:
 
 ** Invite CEs to sessions
-SCHEDULED: <2019-10-07 Mon>
+SCHEDULED: <2019-10-14 Mon>
 
 ** Add Pharm of neophrolithiasis next year
 SCHEDULED: <2020-02-03 Mon>
