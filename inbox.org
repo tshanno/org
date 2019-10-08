@@ -1,2 +1,6 @@
 * Tasks
 ** TODO [[~/Library/Mobile Documents/com~apple~CloudDocs/Excel/Videos moved from Angela Solic account to RMC Integrated account 2018-01-03.xlsx][Videos moved from Angela Solic account to RMC Integrated account 2018-01-03.xlsx]]
+
+** TODO [[message://%3c90E26D71-F8DA-46AA-B80A-0D86E985F42E@me.com%3E][ Emacs Keybindings for Mac OS X | Irreal]]
+
+** TODO [[message://%3c05455C2B-F5A4-4DF6-B690-C89CDEC6124A@me.com%3E][CBFF QR Codes on the Command-Line | Jonathan Palardy's Blog]]
