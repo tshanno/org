@@ -25,6 +25,15 @@ When: Saturday, 7:30 p.m.
 How to watch: ABC (Chs. 10, 25)
 
 Latest Miami Dolphins
+** TODO Card for Ryan
+** TODO Birthday cards for Ahren and Ryan
+** TODO Readme for physiology pdfs.
+
+The files contain physiology readings that completely duplicate what is in your self-study guides.  The only difference is that they have not undergone some of the processing that the self-studies do.
+
+If you are simply watching the videos and using the ntoes for reference, you probalby do not need these files.  To repeat, the content in these files is an exact duplicate of what is in your self-study guide.
+
+If you are reading the notes instead of the videos, you may want to download these and see if they are more readable.  You may or may not prefer the formating in these files.  I'm simply giving you the option. 
 
 * Dolphins welcome back veteran to injury-ravaged receiver unit ahead of Redskins game 
 Dolphins welcome back veteran to injury-ravaged receiver unit ahead of Redskins game
@@ -55,7 +64,7 @@ http://www.surveygizmo.com/s3/3856816/Integrated-Curriculum-Petition-for-Exempti
 
 
 
-* Test
+** Test
 Hello all.
 
 1.  Good luck on your HDHR summative exam today.
@@ -86,3 +95,5 @@ Tom Shannon (tom_shannon@rush.edu)
 ** TODO Bring treats to Halloween Party [[message://%3cae14c8dc42d2444fa3db3a3675dd0d5a@RUPW-EXCHMAIL01.rush.edu%3E][OIME Engagement Activities - Halloween Party October 31st!]]
 
 ** TODO [[message://%3cFD6059FA-A066-4CCD-B628-42360CB3DA1A@rush.edu%3E][RMD 561 HDHR Summative - Annotated Item Analysis]]
+
+** TODO Invite [[message://%3c1570797626082.71158@rush.edu%3E][Re: M4 students]] to sessions
