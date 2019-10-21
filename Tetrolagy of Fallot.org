@@ -96,10 +96,17 @@ SCHEDULED: <2019-10-14 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-10-18 Fri 09:17]
 :END:
-** TODO [#A] Clarify issues with left to right and right to left shunting in tetralogy of fallot
+** DONE [#A] Clarify issues with left to right and right to left shunting in tetralogy of fallot
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-21 Mon 07:28]
+:END:
 * *Ticklers*
-** TODO We need to make sure that we get our story striaght for TGA next year.
+** CANCELED We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-10 Thu>
+:LOGBOOK:
+- State "CANCELED"   from "TODO"       [2019-10-21 Mon 06:48] \\
+  Can't remember what exactly this was about
+:END:
 ** DONE [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
 :SYNCID:   8DE76C4D-3F50-410C-AF4A-6F49776A02F9

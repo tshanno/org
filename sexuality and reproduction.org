@@ -1299,9 +1299,12 @@ Blake Beehler is signed up for
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
 :END:
-** TODO [#A] Prepare PowerPoints for Sessions
+** DONE [#A] Prepare PowerPoints for Sessions
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-21 Mon 10:34]
 :END:
 *** DONE [#A] Prepare PowerPoint for Teen Pregnancy
 :PROPERTIES:
@@ -1311,12 +1314,15 @@ Blake Beehler is signed up for
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 14:17]
 :END:
-*** TODO [#A] Send Teen Pregnancy PowerPoint to CEs
+*** DONE [#A] Send Teen Pregnancy PowerPoint to CEs
 :PROPERTIES:
 :SYNCID:   AF619ECB-1C27-4E2F-83BF-65A094046319
 :ID:       9BAAF059-A6F3-43B2-9BBE-13DFB9AC2442
 :END:
-*** TODO [#A] Prepare PowerPoint for James Parker 1
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-21 Mon 07:40]
+:END:
+*** DONE [#A] Prepare PowerPoint for James Parker 1
 :PROPERTIES:
 :SYNCID:   8E868B89-D4C0-43B4-A567-A18FF50A9DE7
 :ID:       138CF086-5DB6-4D5B-AF55-A868032B2E5A

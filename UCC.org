@@ -8,6 +8,11 @@
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:26]
 :END:
 
+** TODO [#A] FU Mike [[message://%3c7978B14F-CACD-4BD0-BC38-5685FF72B0C5@rush.edu%3E][Re: UCC invitation ]]
+:PROPERTIES:
+:SYNCID:   F2973D94-3920-4F40-9B45-EFC6024431CB
+:ID:       CB64EF67-881D-445E-BFD3-6D16C1BE1467
+:END:
 * *Ticklers*
 * *Meetings*
 ** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>

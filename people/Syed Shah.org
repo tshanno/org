@@ -50,6 +50,12 @@
 :ID:       9F306DE3-241B-448D-A143-7B0DDC621EF4
 :ORDERED:  t
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-10-21 Mon 07:16] \\
+  With the request that went to Janice
+- State "WAITING"    from "TODO"       [2019-10-21 Mon 07:15] \\
+  Janice will upload
+:END:
 Anne,
 They should get all the materials except the document with the answers.
  
@@ -58,11 +64,12 @@ Tom can post the video, PowerPoint and the cases. I do not mind them having the 
 Best,
 Syed
 
-*** TODO [#A] Upload all of the materials.  Set a time to release the answers.
+*** WAITING [#A] Upload all of the materials.  Set a time to release the answers.
 
-*** TODO [#A] Make sure the workhop is in the self-study
+*** WAITING [#A] Find the video from last year and put it up and time the release.
 
-*** TODO [#A] Find the video rom last year and put it up and time the release.
+*** TODO [#A] Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
+SCHEDULED: <2019-10-21 Mon>
 
 * *Ticklers*
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]

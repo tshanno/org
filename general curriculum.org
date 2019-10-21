@@ -9,9 +9,12 @@
 ** DONE [#A] Invite students to lunch
 SCHEDULED: <2019-04-08 Mon>
 ** DONE [#A] Check to make sure Adam will order pizza
-** TODO [#A] Organize pizza lunch for 9/27
+** DONE [#A] Organize pizza lunch for 9/27
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-21 Mon 07:29]
 :END:
 *** DONE [#A] Get the M1 student roster to invite to faculty-student lunch
 :LOGBOOK:

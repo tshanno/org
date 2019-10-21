@@ -18,6 +18,38 @@
 :END:
 ** TODO [#A] Get a blood draw for Usama [[message://%3c77C6EA4EDAD33936.591c95d6-027a-4750-9e06-5bb9d81f1e84@mail.outlook.com%3E][Re: MyChart message]]
 
+** TODO [#A] Get flu shot [[message://%3c8cffe193552f4ca6a699459bc73e8563@RUDWV-EXCHEG001.dmz.rush.edu%3E][2019-2020 Seasonal Influenza Consent Form Submitted Successfully]]
+
+
+Hi.
+ 
+I’m still working on putting Scholar in the new template. I’ll be done soon.
+ 
+I met with Nina yesterday and she doesn’t want student guide for the sessions. So both sessions are just faculty guides.
+ 
+I have the faculty guides for Advocate. He and Scholar were my last two role areas to work on.
+ 
+I’m not sure about that practitioner session. I would need to check.
+ 
+ 
+Danesha
+ 
+From: Tom Shannon 
+Sent: Friday, October 18, 2019 3:11 AM
+To: Danesha Lewis <Danesha_Lewis@rush.edu>
+Subject: Questions about upcoming sessions
+ 
+Hi, Danesha.
+ 
+So I’m looking ahead to see where we’re at:
+ 
+10/28 Scholar - I see the self-study (thanks) but no faculty or student guide.  Is there nothing of that nature for this session?
+10/29 Leader - I see the faculty guide and the self-study.  Shouldn’t there be a student guide?
+10/29 Advocate - I see the self-study (again, thanks) but no faculty or student guide.  Is Paul behind getting these materials to you?  Do you need me to prompt him?
+11/1 Practitioner:  Intro to the Stethoscope - I don’t see a section on Entrada for this.  Shouldn’t there be one?
+ 
+Thanks,
+Tom S.
 * *Notes*
 ** Prescriptions - These numbers are updateed as of <2018-07-03 Tue> :health_and_medical:
 [2017-11-02 Thu 09:10]
@@ -34,8 +66,7 @@ Pharmacy:  312-563-2245
 *** Enrollment fee is $50
 *** $39 per month
 * *Ticklers*
-** Vaccinations [[message://%3c4f0dec8341574b04b390066ab04e51f9@RUDW-EXCHMAIL02.rush.edu%3E][From the President: Inauguration Celebration Thank You; Symposium Recap; Get Your Flu Shot]]
-SCHEDULED: <2019-10-21 Mon>
+** [#A] Vaccinations [[message://%3c4f0dec8341574b04b390066ab04e51f9@RUDW-EXCHMAIL02.rush.edu%3E][From the President: Inauguration Celebration Thank You; Symposium Recap; Get Your Flu Shot]]
 
 * *Meetings*
 ** [[message://%3c1750927192.15033.1563029415221@smtp.interactivehs.com%3E][Interactive Health - Appointment Confirmation]]; Atrium Loby <2019-07-24 Wed 6:40>

@@ -581,14 +581,18 @@ SCHEDULED: <2019-09-23 Mon>
 - State "DONE"       from              [2019-09-20 Fri 07:59]
 :END:
 
-** Invite CEs to sessions
+** [#A] Invite CEs to sessions
 SCHEDULED: <2019-10-21 Mon>
 
 ** Add Pharm of neophrolithiasis next year
 SCHEDULED: <2020-02-03 Mon>
 
-** Invite [[message://%3c1570797626082.71158@rush.edu%3E][Re: M4 students]] to sessions
-SCHEDULED: <2019-10-21 Mon>
+** WAITING [#A] Invite [[message://%3c1570797626082.71158@rush.edu%3E][Re: M4 students]] to sessions
+SCHEDULED: <2019-10-22 Tue>
+:LOGBOOK:
+- State "WAITING"    from              [2019-10-21 Mon 08:37] \\
+  Emailed [2019-10-21 Mon]
+:END:
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -891,9 +895,12 @@ SCHEDULED: <2019-06-27 Thu>
 :SYNCID:   F4882AB9-ABDA-4213-8851-D6DE637EAB09
 :ID:       40C833B3-B9D6-4540-B97E-C55CD00CE4A4
 :END:
-** TODO [#A] Plans of Study for Vital Fluids
+** DONE [#A] Plans of Study for Vital Fluids
 :PROPERTIES:
 :ORDERED:  t
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-21 Mon 07:40]
 :END:
 *** DONE [#A] Plan of Study for Tetralogy of Fallot
 :PROPERTIES:
@@ -1104,6 +1111,12 @@ SCHEDULED: <2019-10-09 Wed>
 :ID:       C068FDA6-6604-423A-ADEB-9DD04F721EEC
 :ORDERED:  t
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-10-21 Mon 07:16] \\
+  With the request that went to Janice
+- State "WAITING"    from "TODO"       [2019-10-21 Mon 07:15] \\
+  Janice will upload
+:END:
 Anne,
 They should get all the materials except the document with the answers.
  
@@ -1112,11 +1125,12 @@ Tom can post the video, PowerPoint and the cases. I do not mind them having the 
 Best,
 Syed
 
-*** TODO [#A] Upload all of the materials.  Set a time to release the answers.
+*** WAITING [#A] Upload all of the materials.  Set a time to release the answers.
 
-*** TODO [#A] Make sure the workhop is in the self-study
+*** WAITING [#A] Find the video from last year and put it up and time the release.
 
-*** TODO [#A] Find the video rom last year and put it up and time the release.
+*** TODO [#A] Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
+SCHEDULED: <2019-10-21 Mon>
 
 ** DONE Send out minutes from core disciplines meeting [[message://%3cE0983C1E-835E-4BBC-862C-9EE30B9207C5@rush.edu%3E][Re: Reminder: Core Disciplines Meeting Today at 11AM in AAC 403 large conference room]]
 :LOGBOOK:
@@ -1125,6 +1139,40 @@ Syed
 
 ** TODO [#A] Correct Advocate Plan of Study [[message://%3c1568750787757.11676@rush.edu%3E][We got it all sorted out]]
 SCHEDULED: <2019-10-07 Mon>
+
+** TODO [#A] Check up on Roles sessions next week and the week after
+** Send out invites to CEs
+SCHEDULED: <2019-10-28 Mon>
+** WAITING [#A] FU: Bob [[message://%3c3AF8658A-96B8-4B88-8F1A-5C80350FA37B@rush.edu%3E][Re: 10/22 - Intro to Patient Safety Time Change ]]
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-10-21 Mon 07:42] \\
+  <2019-10-21 Mon> Emailed Bob (again)
+:END:
+
+** TODO [#A] FU:  Danesha [[message://%3ccd2a39cfd08747369178fea4c7d4c2ac@RUDW-EXCHMAIL02.rush.edu%3E][RE: Questions about upcoming sessions]]
+Hi.
+ 
+I’m still working on putting Scholar in the new template. I’ll be done soon.
+ 
+I met with Nina yesterday and she doesn’t want student guide for the sessions. So both sessions are just faculty guides.
+ 
+I have the faculty guides for Advocate. He and Scholar were my last two role areas to work on.
+ 
+I’m not sure about that practitioner session. I would need to check.
+ 
+ 
+Danesha
+---- 
+So I’m looking ahead to see where we’re at:
+ 
+10/28 Scholar - I see the self-study (thanks) but no faculty or student guide.  Is there nothing of that nature for this session?
+10/29 Leader - I see the faculty guide and the self-study.  Shouldn’t there be a student guide?
+10/29 Advocate - I see the self-study (again, thanks) but no faculty or student guide.  Is Paul behind getting these materials to you?  Do you need me to prompt him?
+11/1 Practitioner:  Intro to the Stethoscope - I don’t see a section on Entrada for this.  Shouldn’t there be one?
+ 
+Thanks,
+Tom S.
+ 
 
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>

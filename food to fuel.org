@@ -3,8 +3,7 @@
    SCHEDULED: <2020-01-03 Fri>
 ** Why are we using Lothar's lectures for gastric secretions?
    SCHEDULED: <2020-01-03 Fri>
-** Take care of [[message://%3c1571142530963.66573@rush.edu%3E][Food to Fuel due date- confirm event and topic objectives]]
-SCHEDULED: <2019-10-21 Mon>
+** [#A] Take care of [[message://%3c1571142530963.66573@rush.edu%3E][Food to Fuel due date- confirm event and topic objectives]]
 
 * *Notes*
 ** [[message://%3c212188A4-EEA6-4CD4-AC4A-E6ABF7DD5179@rush.edu%3E][Blue print link for FtF]]

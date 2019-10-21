@@ -67,7 +67,6 @@ Dan
 
 
 ** DONE FU: Don and Ken [[message://%3c960814CF-9D29-4805-931E-EB5F1E4DBFAD@rush.edu%3E][Re: Virus and Peptide?]]
-SCHEDULED: <2019-10-21 Mon>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-18 Fri 09:19]
 :END:
@@ -124,6 +123,9 @@ ksginsburg@ucdavis.edu
 office:  530-752-4330
 fax:  530-752-7710
 mobile:  708-674-1503
+** FU: Sabine [[message://%3c026BED5E-DDB3-4BAA-B79A-B480902A086F@rush.edu%3E][Re: Virus and peptide]]
+SCHEDULED: <2019-10-23 Wed>
+
 * *Meetings*
 ** Phone call with Sabine Van Dijk
 <2018-01-15 Mon>
