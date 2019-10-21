@@ -44,6 +44,8 @@
   Helped out with the computer programs.  Contact him if you have more trouble.
 - State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
 :END:
+** [[message://%3cFD6059FA-A066-4CCD-B628-42360CB3DA1A@rush.edu%3E][RMD 561 HDHR Summative - Annotated Item Analysis]]
+
 * Flu Chapter 2 <2017-10-23 Mon 08:00-12:00> :Flu:Host_Defense_Host_Response:
 * DONE Email out old exam quesitons to the class 
   - Note taken on [2017-10-25 Wed 04:28] \\

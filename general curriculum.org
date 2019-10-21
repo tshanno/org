@@ -34,8 +34,8 @@ SCHEDULED: <2019-09-20 Fri>
 ** CANCELED FU Bill about getting discussion board added by default to Entrada
 ** [[https://journals.lww.com/academicmedicine/pages/default.aspx][Academic Medicine]]
 SCHEDULED: <%%(diary-cyclic 7 07 20 2019)>
-** [[https://entrada.rush.edu/community/rmd56619farmc:discussion_board?section=view-forum&id=51][Check Discussion Board]]
-SCHEDULED: <2019-10-12 Sat>
+** [[https://entrada.rush.edu/community/rmd57419farmc:discussion_board?section=view-forum&id=56][Check Discussion Board]]
+SCHEDULED: <2019-10-19 Sat>
 ** Check to make sure you have rooms on Saturdays and reserve more.
 SCHEDULED: <2020-01-02 Thu>
    :LOGBOOK:
@@ -93,8 +93,8 @@ SCHEDULED: <2019-09-30 Mon>
 - State "DONE"       from              [2019-10-04 Fri 08:48]
 :END:
 
-** FU with Janice on Faculty-Student Lunch Oct. 16
-SCHEDULED: <2019-10-14 Mon>
+** Schedule Faculty-Student Lunch
+SCHEDULED: <2019-11-01 Fri>
 :PROPERTIES:
 :SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
 :ID:       032415F7-D251-4DE6-A1C6-4F783007257D
@@ -787,6 +787,15 @@ Maria
   Helped out with the computer programs.  Contact him if you have more trouble.
 - State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
 :END:
+** What to tell students who wish to miss a required session. Petition for Exemption from Mandatory Attendance Event   [[message://%3cd2ea67a783f244099e899d78ee318fa7@RUPW-EXCHMAIL02.rush.edu%3E][RE: Absence for vital fluids session]]
+
+
+If you wish to be absent from a required class you must submit a request using a form at the link below.
+
+http://www.surveygizmo.com/s3/3856816/Integrated-Curriculum-Petition-for-Exemption-from-Mandatory-Attendance-Event
+
+
+
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]

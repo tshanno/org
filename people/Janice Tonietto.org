@@ -132,8 +132,8 @@ SCHEDULED: <2019-09-16 Mon>
 - State "DONE"       from              [2019-09-17 Tue 08:37]
 :END:
 
-** FU with Janice on Faculty-Student Lunch Oct. 16
-SCHEDULED: <2019-10-14 Mon>
+** Schedule Faculty-Student Lunch
+SCHEDULED: <2019-11-01 Fri>
 :PROPERTIES:
 :SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
 :ID:       1DE9D07A-A4B3-4C07-8954-C1351E21B633

@@ -822,6 +822,9 @@ tom_shannon@rush.edu
 - State "DONE"       from "TODO"       [2019-10-04 Fri 13:46]
 :END:
 
+** S&R Summative Debrief List [[message://%3c2EA2962B-940F-43B4-9FFE-488B5FA77883@rush.edu%3E][RMD 566 Summative Debrief List]]
+
+
 * *Tasks*
 ** DONE [#A] Re-categoized S&R objectives to Princess
 ** DONE [#A] Gary lessons videos
@@ -1392,6 +1395,10 @@ SCHEDULED: <2019-09-20 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 13:48]
 :END:
+** TODO [#A] Do this [[message://%3cD91C86CC-8ADB-4A9F-8F78-5DAF799786F4@rush.edu%3E][Re: RMD 566 Blueprint for Reassessment]]
+
+** TODO [#A] Send out re-assessment blueprint [[message://%3c507969FE-0F10-49C5-B55E-C9595A40AC64@rush.edu%3E][RMD 566 Blueprint for Reassessment]]
+
 * Archive
 ** DONE PROJECT Finalize schedule
 ***** BSci instead of CBCL

@@ -66,6 +66,11 @@ I was perusing the literature in an effort to find some general review on the Ca
 Dan
 
 
+** DONE FU: Don and Ken [[message://%3c960814CF-9D29-4805-931E-EB5F1E4DBFAD@rush.edu%3E][Re: Virus and Peptide?]]
+SCHEDULED: <2019-10-21 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-18 Fri 09:19]
+:END:
 * *Ticklers*
 ** DONE [#A] Consider re-uping mantenance agreement for IDL [[message://%3c0625ed0fbf874548891800b852e2a7f5@MLBXCH15.cs.myharris.net%3E][Quote No. QTO-042209]]
 SCHEDULED: <2019-07-08 Mon>

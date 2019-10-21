@@ -34,6 +34,9 @@ Pharmacy:  312-563-2245
 *** Enrollment fee is $50
 *** $39 per month
 * *Ticklers*
+** Vaccinations [[message://%3c4f0dec8341574b04b390066ab04e51f9@RUDW-EXCHMAIL02.rush.edu%3E][From the President: Inauguration Celebration Thank You; Symposium Recap; Get Your Flu Shot]]
+SCHEDULED: <2019-10-21 Mon>
+
 * *Meetings*
 ** [[message://%3c1750927192.15033.1563029415221@smtp.interactivehs.com%3E][Interactive Health - Appointment Confirmation]]; Atrium Loby <2019-07-24 Wed 6:40>
 

@@ -41,8 +41,11 @@
 :SYNCID:   354FDC8C-297C-422C-A79A-D70E1C97043E
 :ID:       F120E038-19E3-450A-939D-C3FAB64C6017
 :END:
-** These are the Peds clinicians for ToF - invite to sessions
+** DONE These are the Peds clinicians for ToF - invite to sessions
 SCHEDULED: <2019-10-14 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 09:17]
+:END:
 [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 -Joanna Kuppy and I will be joining you 10/17 8-noon. :: at BSci
@@ -83,12 +86,19 @@ SCHEDULED: <2019-10-14 Mon>
 - State "CANCELED"   from "TODO"       [2019-10-04 Fri 11:06] \\
   Not enough time.
 :END:
-** Complile slides for Eli debrief and give to Torrence
+** DONE Complile slides for Eli debrief and give to Torrence
 SCHEDULED: <2019-10-17 Thu>
-** Email DDs and ask them to send you slides for Eli debrief
+:LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 09:18]
+:END:
+** DONE Email DDs and ask them to send you slides for Eli debrief
 SCHEDULED: <2019-10-14 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 09:17]
+:END:
+** TODO [#A] Clarify issues with left to right and right to left shunting in tetralogy of fallot
 * *Ticklers*
-** We need to make sure that we get our story striaght for TGA next year.
+** TODO We need to make sure that we get our story striaght for TGA next year.
 SCHEDULED: <2019-10-10 Thu>
 ** DONE [#A] FU Mike on [[message://%3cFD7A0786-0964-479B-9349-01268D53D085@rush.edu%3E][Introduction to Autonomic Rx (TO-0707)]]
 :PROPERTIES:
@@ -107,8 +117,11 @@ SCHEDULED: <2019-10-10 Thu>
 *** [[message://%3c1566226606433.67728@rush.edu%3E][Re: ToF Faculty Guide]]
 
 
-** Do the powerpoint for Eil Whitney
+** DONE Do the powerpoint for Eil Whitney
 SCHEDULED: <2019-10-14 Mon>
+:LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 09:17]
+:END:
 
 * *Meetings*
 * *Sesson Notes*

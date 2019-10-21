@@ -1,0 +1,38 @@
+#+BEGIN_EXPORT latex
+
+\subsection{Offense}
+\begin{enumerate}
+\item The Bears came out with the short passing game and the run as they have done in recent games.  They had no success on the goround and limited success through the air, largely because the short passes were all they could complete.  Without stretching the field it was evident that they were going nowhere.
+\item Trubisky's accuracy was off, just as it was before the bye.  The offense will always be limited as long as this is the case.  He seemed to be mighty low with a lot of those short throws.  Whether they are caught or not there's little chance of yards after the catch with throws like that.  Ball placement seems to be an issue.
+\item Allen Robinson is doing a great job but he can't be the whole offense.  Trubisky needs to start finding someone else.  It looked like they were starting to find Trey Burton and Anthony Miller in the second half of the Oakland game.  They needed to pick up where they left off with that.
+\item Matt Nagy forgot about the run in the first half.  Again.
+\end{enumerate}
+
+\subsection{Defense}
+\begin{enumerate}
+\item I haven't seen the statistics but one of the things I'm noticing about the defense under Chuck Pagano is that they are playing a lot more base 3-4 defense.  It got a lot to recommend it in terms of versatility as long as Eddie Goldman can get some pass rush. 
+\item The Bears had a tough time getting to Teddy Bridgewater on the pass rush as the Saints offensive line did a good job on the Bears front.
+\item On the other hand, I thought the Bears were solid against the run coming off of a terrible performance in London against the Raiders.  Presumably they weren't jet lagged playing at home.
+\item HaHa Clinton-Dix came to Chicago with a reputation for making big mistakes and we saw an example of it today as he was cheating up on the run and let Ted Ginn Jr. get behind him for a huge catch to set up a touchdown coming out of halftime.
+\item The Bears offense is wearing the defense down to a nub.  They are being hung out to dry and are worn down in the second half.  These are grim days.  But very familiar to anyone who has watch this happen over and over over the last 20 years.
+\end{enumerate}
+
+
+\subsection{Miscellaneous}
+
+\begin{enumerate}
+\item Thom Brennaman and Troy Aikman did a nice job as usual.  I kind of like Brennaman better than Joe Buck, who usually has some strong opinions that I don't always agree with and who was presumably doing the baseball playoffs.
+\item Good play by the Saints to block the punt on the first Bears posession.  The Saints schemed up a huge gap up the middle with to linement going in opposite directions to allow J.T. Gray to go right up the middle.  The ball was alertly batted through the end zone by punter Pat O'Donnel to take the safety rather tha let the Saints recover for a touchdown.  The Bears gave up another blocked punt in the second quarter.  
+\item Heck of a kick return by Cordarrelle Patterson in the first quarter.  He's a big guy and he's not particularly easy to bring down.
+\item Trey Burton had a bad drop before half time that should have been a first down.   There were a few big catches that I thought the Saints receivers should have had for Bridgewater.
+\item The Saints went 52 yards in 12 plays aided by a terrible spot and worse review that failed to reverse the call in the second quarter.
+\item Anthony Miller is frustrated but when he finally get a chance to do something, he fumbles the ball deep in Bears territory.  Maybe if he pulled his head out and played good fundamental football, good things would happen.  Tight end Josh Hill cashed the turnover in for a touchdown.  David Montgomery fumbled the ball deep in Bears territory early in the third quarter.
+\item Kudos to the crowd at Soldier Field  It was pretty loud out there.  Including the boos.
+\item The Bears opened as 6 point favorites over the Chargers and I'm wondering.  How in the hell are they going to score 6 points?
+\item It seems evident that the Bears are set up to waste yet another championship caliber defense with putrid offensive play.  The offense looks about as bad as it has since the early 2000s under Dick Jauron and John Shoop.  As happened then, teams stacked the line of scrimmage to play the run and defended the short pass knowing that the Bears had little chance of stretching the field with big plays.
+  \begin{minipage}{1.0\linewidth}
+    Despite the Bears efforts to spread the blame around, its hard not to lay most of this at Mitch Trubisky's feet.  His inability to get on the same page with his receivers and throw an accurate pass more than 10 yards is a large part of the problem here.  Matt Nagy abandoning the run early didn't do him or the offensive line any favors as the Saints simply pinned their ears back and rush the passer.
+  \end{minipage}
+
+\end{enumerate}
+#+END_EXPORT

@@ -9,9 +9,10 @@
 - State "DONE"       from "TODO"       [2019-10-04 Fri 13:45]
 :END:
 
-* Get PowerPOints to Aleen for PA students
+* DONE Get PowerPOints to Aleen for PA students
 SCHEDULED: <2019-10-10 Thu>
 :LOGBOOK:
+- State "DONE"       from              [2019-10-18 Fri 09:11]
 - State "DONE"       from              [2019-10-07 Mon 08:36]
 :END:
 ** DONE Get PowerPOints to Aleen for PA students

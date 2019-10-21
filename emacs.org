@@ -704,6 +704,10 @@ https://lucidmanager.org/using-r-with-emacs/?utm_source=dlvr.it&utm_medium=twitt
 *** Keep your Slack distractions under control with Emacs · Endless Parentheses
 https://endlessparentheses.com/keep-your-slack-distractions-under-control-with-emacs.html
 
+** TODO [[message://%3c05455C2B-F5A4-4DF6-B690-C89CDEC6124A@me.com%3E][QR Codes on the Command-Line | Jonathan Palardy's Blog]]
+
+** [[message://%3c90E26D71-F8DA-46AA-B80A-0D86E985F42E@me.com%3E][ Emacs Keybindings for Mac OS X | Irreal]]
+
 * DONE [[message://%3C84A7432C-59E1-4DBA-A73B-8A9398B2C3F8@rush.edu%3E][Fix dired so that you can copy to other window by default]]
 * DONE How to use outline mode with latex in emacs
 [2018-01-17 Wed 04:23]

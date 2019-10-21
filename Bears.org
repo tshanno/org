@@ -690,10 +690,6 @@ So much of properly developing a quarterback has to do with pairing him with the
 
 In any case Seattle is \textbf{Pete Carroll} is far more likely to adjust to Lynch's skill set.  Not that he's likely to get a chance to show it because quarterback \textbf{Russell Wilson} is a bit of an iron man but it will be interesting to see if Lynch does better there if he gets a chance to show it.
 #+END_EXPORT
-** ON RADAR [[https://theathletic.com/1038908/2019/06/21/how-to-go-from-a-good-nfl-team-to-a-great-nfl-team/][How to go from a good NFL team to a great NFL team – The Athletic]] There are probably a couple posts here. The brown reflect their qb for factor 1. The bears are counting on existing players to get better for number 3. 
-*** [[http://www.nfl.com/news/story/0ap3000001033747/article/vets-addressed-duke-johnson-remarks-with-mayfield][Vets addressed Duke Johnson remarks with Mayfield - NFL.com]] Use this when addressing Cleveland comments by Lombardi 
-
-** ON RADAR [[https://theathletic.com/1038908/2019/06/21/how-to-go-from-a-good-nfl-team-to-a-great-nfl-team/][How to go from a good NFL team to a great NFL team – The Athletic]] There are probably a couple posts here. The brown reflect their qb for factor 1. The bears are counting on exiting players to get better for number 3. 
 ** DONE Watch this later with wireless
 SCHEDULED: <2019-07-08 Mon>
 [2019-07-06 Sat 07:38]
@@ -705,13 +701,6 @@ https://theathletic.com/1063331/2019/07/05/inside-the-film-room-how-the-bears-ut
 
 Read this later.  s probably lots of video ll want to stream with the wireless.
 youThere*
-** ON RADAR Surprise TE cut
-:PROPERTIES:
-:SYNCID:   9E8DBC7A-9845-47F2-8C02-31C5F8D853A7
-:ID:       9DDC90FD-4750-4051-9DC7-20622CDD90D5
-:END:
-https://castro.fm/episode/LrItb0
-
 ** DONE [[https://theathletic.com/1088301/2019/07/21/living-in-the-past-is-a-bears-tradition-but-the-2019-team-is-more-important-than-any-anniversary/?source=rss][Living in the past is a Bears tradition, but the 2019 team is more important than any anniversary – The Athletic]]
 :PROPERTIES:
 :SYNCID:   15E2C9CE-6458-42E7-875F-22AA4F0E5D26
@@ -739,13 +728,6 @@ You to have had the opportunity to watch Trubisky make that steady progress last
 Until Trubisky actually shows that he's a very good quarterback,  he's just another guy.  If the Bears are going to remain competitive, he's going to have to become more than that.  Its far from a certainty that will happen.  But either way its going to be what we will all be watching for all over the league this year.
 
 #+END_EXPORT
-** ON RADAR So how do you avoid complacency?  Research it. [[https://www.chicagotribune.com/sports/bears/ct-bears-training-camp-real-talk-20190723-qq3m7w7zbngu5cmzook5mr7i4e-story.html][How can the Bears meet Super Bowl expectations and avoid taking a step back? - Chicago Tribune]]
-
-** ON RADAR [[https://theathletic.com/1089798/2019/07/23/balanced-talented-and-motivated-a-look-at-the-bears-depth-chart-before-camp/?source=rss][Balanced, talented and motivated: A look at the Bears’ depth chart before camp – The Athletic]] :: Shelly is a bit small and he's the kind f guy that stands out in non-contact drills.  We shall see.
-
-
-Semi-bold prediction: Shelley will take over as the starting nickelback this season. Skrine’s three-year contract essentially secures his place for two years because of his structure. But the Bears seem pretty enthralled by Shelley. He was one of their best players during the offseason program.
-
 ** DONE [[https://theathletic.com/1106407/2019/07/30/letters-from-bears-camp-ha-ha-clinton-dix-returns-eddy-pineiro-gets-his-second-shot-khalil-mack-and-his-popularity/?source=rss][Letters from Bears camp: Ha Ha Clinton-Dix returns, Eddy Pineiro gets his second shot, Khalil Mack and his popularity – The Athletic]]
 :PROPERTIES:
 :SYNCID:   07964652-7237-4FA8-832E-4F746DF92BF7
@@ -771,16 +753,6 @@ There's been a lot of talk in the offseason about Long's age and various fans, i
 
 Particularly given his large personality, Long's silence since camp has started has been deafening.  It could be because he doesn't like the doubts being expressed about him.  That might not be such a bad thing.  A healthy Kyle Long with something to prove could prove formidable once the season starts.
 #+END_EXPORT
-** ON RADAR Biggs OL
-
-Who do you project to be the reserve O-linemen? — @pistolpete54
-
-Rashaad Coward has an excellent chance to nail down a spot on the 53-man roster, and it’s pretty clear Ted Larsen, who is having a nice
-start to camp, will emerge as a reserve interior option. The Bears will likely keep eight offensive linemen, and that creates an interesting
-battle for the eighth spot. I would say that is pretty open right now with a lot of preseason action ahead that will shape decisions.
-
-I wonder if the younger guys will have a better chance than Larsen
-  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-28NOmojUcE6RJvl58uKNLO5450Y@gwene.org][Email from Brad Biggs: Bears Q&A: Is the Week 1 kicke]]
 ** DONE Biggs questions on kickers
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-08-02 Fri 10:20]
@@ -811,75 +783,6 @@ There is, however, one subtle advantage that Pineiro has.  Pineiro apparently wo
 That's not a major factor - these guys definitely have their own minds.  But if its close, it could be the thing that tips the scales.
 
 #+END_EXPORT
-** ON RADAR Eddie Goldman is Under-rated
-Compare loss of Goldman to Tommy Harris.
-
-#+BEGIN_EXPORT latex
-How does Eddie Goldman look? I know his weight has fluctuated during camps over the years. It was great
-to see him be healthy and effective all of last year. — @tomwade18
-
-Goldman looks really good in the middle of the defense, and weight has not been an issue for him for more than two
-years. With so many other “name” players on the defense, it can be easy to overlook Goldman when talking about
-this defense, but he’s one of the best players on the team and an absolute force against the run. There’s no doubt in
-my mind Goldman is one of the top five nose tackles in the league. Maybe top three. He’s very talented and only 25
-years old.
-
-https://www.chicagotribune.com/sports/bears/ct-bears-mailbag-biggs-mitch-trubisky-david-montgomery-20190807-wsrpi7faore3tgxfk7rqjfcr4q-story.html
-#+END_EXPORT
-** ON RADAR Comment on this.  I don't see them cutting him after making the position switch and I think they want to use Sowell in situaiton wher they used three OTs last season.  Having a real TE who can block like a tackle in those situaitons makes them more versatile and unpredictable.
-
-Bradley Sowell as a tight end? What are your thoughts on how he’s doing filling that position? Should the
-Bears still be shopping for a tight end? Trey Burton can’t do this all by himself. Is Ben Braunecker playing
-the position well? Is that position the weakest link? — @jeggieloveskit1
-
-Sowell has looked smoother running routes than I would have anticipated, and that’s not a knock on him. It’s not often
-you see a veteran offensive lineman shed weight and line up at tight end. He’s going to be fine when it comes to the
-blocking assignments they want him to handle. Does he make the final roster? That’s the question the Bears will have
-to answer in the next few weeks. Burton can’t do it all by himself, and reality is Burton and Sowell are completely
-different players. Burton is a smaller pass-catching tight end, and Sowell is a Y or blocking tight end. I think
-Braunecker can handle a bigger role and he moves pretty well, but we have to see him do it. This isn’t the strongest
-position on offense, and if you want to call it the weakest link, I guess you can. But I don’t think the tight end position
-is going to drag down the offense.
-
-----
-
-Bradley Sowell was a serviceable backup tackle who could have gone elsewhere but stayed in Chicago to
-be a tight end. Now he has little chance to get signed somewhere else if he’s cut. How likely do you think
-he was promised a roster spot? — @bonedawg1978
-
-I highly doubt the Bears promised anything to Sowell when they asked him to change positions, which officially
-happened in May. Sowell did not have a chance to go elsewhere. He signed a two-year contract with the Bears on
-March 12, 2018. He has a base salary of $1.45 million this season and already earned a $50,000 workout bonus.
-Sowell really earned that by dropping from more than 300 pounds to 270 for the start of training camp. Let’s see how
-he handles preseason action. I know Sowell is optimistic.
-  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-aiRX6rUYt0LMK/iXioIuJ4h1izo@gwene.org][Email from Brad Biggs: Bears Q&A: Is the defense maki]]
-** ON RADAR Loser's Lament.  We will find out what the Bears are made of this year.
-
-“It’s not like we were out of games,” Rivera said. “It’s not like we didn’t have a chance to win. It just didn’t come to
-fruition. Probably the hardest pill to swallow is we had a chance to win all of those games. You can go right down the
-list. If we win any of those two games, we’re in the playoffs. That’s how crazy it was. My emphasis, and hopefully the
-guys understand what I am trying to get at, is ‘We were pretty good and we had our issues.’ ”
-
------
-
-Last season the Panthers started 6-2 but won one of their final eight games to finish 7-9.
-
------
-
-Those issues started with a catastrophe last summer when left tackle Matt Kalil went out with a knee injury in
-preseason. The Panthers played musical chairs on the offensive line and that lasted only so long. Quarterback Cam
-Newton suffered a right shoulder injury on a hit by the Steelers’ T.J. Watt and required offseason surgery.
-
-  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-jlveXvrLoipKY+zNxXNp17kqEx8@gwene.org][Email from Brad Biggs: Under pressure to win, Ron Riv]]
-** ON RADAR Related to the above.
-
-“You see those things,” Jackson says, “and it’s about the comeback. You think about falling short. You think about
-the critics and the negative vibes. And then you see how they bounced back and prepared in a way where they were
-ready when those pressure situations came back again. … It’s a little thing. But for me, it’s cool. It’s remembering
-that mindset of never getting too high or too low. And it’s a reminder that players make plays.”
-
-  [[gnus:gwene.com.chicagotribune.arcio.rss.category.sports.bears.qu#x1-+HsgVvnxRNz/kwm8HQ26uNo4Rlc@gwene.org][Email from Dan Wiederer: ‘We’ve got to win now.’ That’s]]
-
 ** DONE Bears David Montgomery Strength?  He's All Football Player.
 :PROPERTIES:
 :SYNCID:   6655FEF0-3708-430D-8E20-449E02A3E625
@@ -965,32 +868,6 @@ Rogers is playing LaFleur and their fans like a fiddle.  And he's using the medi
 
 Fortunately, the media knows when its being used though they didn't bother to try to point it out while former head coach \textbf{Mike McCarthy} was the victim, at least some are apparently trying to give LaFleur a little bit more of a chance.  For now.
 #+END_EXPORT
-** ON RADAR ‘It’s kind of like just hanging out in the woods’: Bears are back at Halas Hall – The Athletic
-[2019-08-14 Wed 02:13]
-https://theathletic.com/1136108/2019/08/13/its-kind-of-like-just-hanging-out-in-the-woods-bears-are-back-at-halas-hall/
-
-No kicker in America has a better grasp of how tense it’ll be at Soldier Field on Sept. 5 for the first field-goal attempt than Fry and Piñeiro. Those two have been inundated by questions from the media, every field goal charted and tweeted, while knowing all about the reason the Bears need a kicker.
-
-But is it a benefit or a detriment?
-
-I’m wondering if it’s the latter. Wouldn’t it be better, from a psychological perspective, to claim someone off waivers four days before the game, a kicker who would barely have any time to learn about the pressure that will come with the first field goals at Soldier Field?
-
-Just a thought.
-
-No. Need time to work with holder and snapper. Need time to kick in Soldier Field conditions.
-** ON RADAR Hyde5: Here’s why Dolphins’ shot at No. 1 pick has taken some hits - South Florida Sun-Sentinel
-[2019-08-14 Wed 02:32]
-https://www.sun-sentinel.com/sports/dave-hyde/fl-sp-hyde5-dolphins-bottom-5-20190813-s3ozb6744fejlljzmcmofnbsry-story.html
-
-5. Arizona. A rookie NFL coach. A rookie NFL quarterback. A division with the Los Angeles Rams, Seattle and San Francisco. A league-worst 3-13 record last year. There’s only so much you can do there. No. 1 pick odds: 12 percent.
-
-Time for your rant moderation in all things.
-
-*** DONE /Users/tshanno/Library/Mobile Documents/com~apple~CloudDocs/zFiled By Folder/Scripts/Applications/Safari/Copy Safari URL for Emacs.scpt:550:581: execution error: Error on line 19: Error: Can't get object. (-1728)
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2019-10-04 Fri 14:21]
-:END:
-
 ** DONE An Assessment of the Competition for the Third and Fourth Tight End Spots
 :PROPERTIES:
 :SYNCID:   1AC639DB-6140-473F-860C-37B1B1645D0B
@@ -1021,13 +898,7 @@ The guy I'm wondering about is Braunecker.  He's a four phase special teamer but
 Bunting had big highs and big lows over the course of the game and he needs to show more consistency.  That might make him a practice squad candidate.  But I wouldn't rule out the possibility that Braunecker will be a surprise cut if the Bears think Bunting has improved enough and/or they don't think they can get him through waivers to the practice squad.
 #+END_EXPORT
 
-** ON RADAR Brad Biggs’ 10 thoughts on the Bears’ 32-13 preseason loss to the Giants - Chicago Tribune
-https://www.chicagotribune.com/sports/bears/ct-cb-bears-giants-brad-biggs-10-thoughts-20190817-tzbqru64obbnlipypkyqq2eagm-story.html
 
-10a. Inside linebacker Nick Kwiatkowski sure looked like he was just about everywhere in the first half. Press box
-statistics credited him with eight tackles. Josh Woods, also an inside linebacker, made a bunch of plays again this
-week as well. I’m not sure the team can keep five inside linebackers, though, and I am pretty confident Joel
-Iyiegbuniwe will have a role.
 * *Notes*
 ** [[https://www.chicagotribune.com/sports/bears/ct-spt-bears-mitch-trubisky-david-montgomery-20190509-story.html]['We've got a 3-headed monster': Mitch Trubisky is excited about the Bears' retooled backfield and Year 2 in Matt Nagy's offense - Chicago Tribune]]
 
