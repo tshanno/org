@@ -111,6 +111,8 @@ https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
 ** WAITING [#A] FU:  Jay [[message://%3c1571395242605.21960@rush.edu%3E][Re: TBC tomorrow]]
 SCHEDULED: <2019-10-22 Tue>
 :LOGBOOK:
+- Note taken on [2019-10-22 Tue 11:12] \\
+  [2019-10-22 Tue] Emailed Jay.
 - State "WAITING"    from "TODO"       [2019-10-21 Mon 07:31]
 - Note taken on [2019-10-21 Mon 07:30] \\
   <2019-10-21 Mon> Emailed Jay

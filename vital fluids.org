@@ -587,8 +587,8 @@ SCHEDULED: <2019-10-21 Mon>
 ** Add Pharm of neophrolithiasis next year
 SCHEDULED: <2020-02-03 Mon>
 
-** WAITING [#A] Invite [[message://%3c1570797626082.71158@rush.edu%3E][Re: M4 students]] to sessions
-SCHEDULED: <2019-10-22 Tue>
+** Invite [[message://%3c1570797626082.71158@rush.edu%3E][Re: M4 students]] to sessions
+SCHEDULED: <2019-10-28 Mon>
 :LOGBOOK:
 - State "WAITING"    from              [2019-10-21 Mon 08:37] \\
   Emailed [2019-10-21 Mon]
@@ -1140,11 +1140,13 @@ SCHEDULED: <2019-10-21 Mon>
 ** TODO [#A] Correct Advocate Plan of Study [[message://%3c1568750787757.11676@rush.edu%3E][We got it all sorted out]]
 SCHEDULED: <2019-10-07 Mon>
 
-** TODO [#A] Check up on Roles sessions next week and the week after
+** Check up on Roles sessions next week and the week after
+SCHEDULED: <2019-10-28 Mon>
 ** Send out invites to CEs
 SCHEDULED: <2019-10-28 Mon>
-** WAITING [#A] FU: Bob [[message://%3c3AF8658A-96B8-4B88-8F1A-5C80350FA37B@rush.edu%3E][Re: 10/22 - Intro to Patient Safety Time Change ]]
+** DONE [#A] FU: Bob [[message://%3c3AF8658A-96B8-4B88-8F1A-5C80350FA37B@rush.edu%3E][Re: 10/22 - Intro to Patient Safety Time Change ]]
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-10-22 Tue 11:14]
 - State "WAITING"    from "TODO"       [2019-10-21 Mon 07:42] \\
   <2019-10-21 Mon> Emailed Bob (again)
 :END:

@@ -18,7 +18,10 @@
 :END:
 ** TODO [#A] Get a blood draw for Usama [[message://%3c77C6EA4EDAD33936.591c95d6-027a-4750-9e06-5bb9d81f1e84@mail.outlook.com%3E][Re: MyChart message]]
 
-** TODO [#A] Get flu shot [[message://%3c8cffe193552f4ca6a699459bc73e8563@RUDWV-EXCHEG001.dmz.rush.edu%3E][2019-2020 Seasonal Influenza Consent Form Submitted Successfully]]
+** DONE [#A] Get flu shot [[message://%3c8cffe193552f4ca6a699459bc73e8563@RUDWV-EXCHEG001.dmz.rush.edu%3E][2019-2020 Seasonal Influenza Consent Form Submitted Successfully]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-10-22 Tue 11:11]
+:END:
 
 
 Hi.
