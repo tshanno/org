@@ -67,9 +67,8 @@ Syed
 *** WAITING [#A] Upload all of the materials.  Set a time to release the answers.
 
 *** WAITING [#A] Find the video from last year and put it up and time the release.
-
 *** TODO [#A] Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
-SCHEDULED: <2019-10-21 Mon>
+SCHEDULED: <2019-10-31 Thu>
 
 * *Ticklers*
 ** CANCELED FU: Syed [[message://%3cADDDDE4B-8BFC-43EA-98EA-926A8F89BCA0@rush.edu%3E][Re: VF Exam Question ]]

@@ -434,6 +434,8 @@ The files contain physiology readings that completely duplicate what is in your 
 If you are simply watching the videos and using the ntoes for reference, you probalby do not need these files.  To repeat, the content in these files is an exact duplicate of what is in your self-study guide.
 
 If you are reading the notes instead of the videos, you may want to download these and see if they are more readable.  You may or may not prefer the formating in these files.  I'm simply giving you the option. 
+** Scholar Teaching Assignments [[message://%3c0bb9c9f56fe74d20bff3e2c9b841aaa2@RUPW-EXCHMAIL02.rush.edu%3E][RE: Faculty for EBM on 11/28?]]
+
 * *Ticklers*
 ** DONE [#A] Contact facilitators for M4s in AKI vignettes
 SCHEDULED: <2018-12-03 Mon>
@@ -581,8 +583,8 @@ SCHEDULED: <2019-09-23 Mon>
 - State "DONE"       from              [2019-09-20 Fri 07:59]
 :END:
 
-** [#A] Invite CEs to sessions
-SCHEDULED: <2019-10-21 Mon>
+** Invite CEs to sessions
+SCHEDULED: <2019-10-28 Mon>
 
 ** Add Pharm of neophrolithiasis next year
 SCHEDULED: <2020-02-03 Mon>
@@ -593,6 +595,20 @@ SCHEDULED: <2019-10-28 Mon>
 - State "WAITING"    from              [2019-10-21 Mon 08:37] \\
   Emailed [2019-10-21 Mon]
 :END:
+
+** FU Janice on File uploads [[message://%3cF6083E5A-1869-4372-A2D8-AC34068B02A5@rush.edu%3E][(Patho)physiology Workshop Materials ]]
+SCHEDULED: <2019-10-25 Fri>
+:PROPERTIES:
+:SYNCID:   4E7EE281-BC0A-4172-B2E9-7DBBAA2FDAFD
+:ID:       236FF52D-6C4E-4215-AD86-84F970576077
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-22 Tue 11:08] \\
+  Meeting with Janice at 2PM about this.  Ask about where workshop mateirals should go.
+:END:
+
+** FU Danesha on EBM faculty guide [[message://%3c9edc59c4b38f4851b11490417e5c6824@RUDW-EXCHMAIL02.rush.edu%3E][RE: Questions about upcoming sessions]]
+SCHEDULED: <2019-10-24 Thu>
 
 * *Files*
 ** ** [[/Users/tshanno/Library/Mobile Documents/com~apple~Preview/Documents/Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf][Course_Evaluation_Base_Report_V2 RMD 574 2019-01-15.pdf]]
@@ -1128,9 +1144,8 @@ Syed
 *** WAITING [#A] Upload all of the materials.  Set a time to release the answers.
 
 *** WAITING [#A] Find the video from last year and put it up and time the release.
-
 *** TODO [#A] Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
-SCHEDULED: <2019-10-21 Mon>
+SCHEDULED: <2019-10-31 Thu>
 
 ** DONE Send out minutes from core disciplines meeting [[message://%3cE0983C1E-835E-4BBC-862C-9EE30B9207C5@rush.edu%3E][Re: Reminder: Core Disciplines Meeting Today at 11AM in AAC 403 large conference room]]
 :LOGBOOK:

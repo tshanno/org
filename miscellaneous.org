@@ -112,7 +112,7 @@ includes Family Sharing access, though you only get a one-week free trial.
 ** Log steps
 https://docs.google.com/spreadsheets/d/1wM9Ka2Ah41FHpeaUAQQkZWUMn2C7Ee94-0GighPi3Rs/edit?usp=sharing
 
-** [[message://%3c142269aa1c274a05b879099c05ef7789@RUPW-EXCHMAIL02.rush.edu%3E][Article for next Ed-PRIME meeting]]
+** TODO [#A] [[message://%3c142269aa1c274a05b879099c05ef7789@RUPW-EXCHMAIL02.rush.edu%3E][Article for next Ed-PRIME meeting]]
 SCHEDULED: <2019-10-23 Wed>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-18 Fri 09:19]

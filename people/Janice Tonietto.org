@@ -139,6 +139,17 @@ SCHEDULED: <2019-11-01 Fri>
 :ID:       1DE9D07A-A4B3-4C07-8954-C1351E21B633
 :END:
 
+** FU Janice on File uploads [[message://%3cF6083E5A-1869-4372-A2D8-AC34068B02A5@rush.edu%3E][(Patho)physiology Workshop Materials ]]
+SCHEDULED: <2019-10-25 Fri>
+:PROPERTIES:
+:SYNCID:   4E7EE281-BC0A-4172-B2E9-7DBBAA2FDAFD
+:ID:       C64E0286-DD10-494C-9378-BDDE61CFBC50
+:END:
+:LOGBOOK:
+- Note taken on [2019-10-22 Tue 11:08] \\
+  Meeting with Janice at 2PM about this.  Ask about where workshop mateirals should go.
+:END:
+
 * *Meetings*
 ** Sexuality and Reproduction Administration Team; Location: 403 AAC, Small Conference Room <2019-08-06 Tue 14:00-14:30>
 :PROPERTIES:
