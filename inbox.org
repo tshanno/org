@@ -1,3 +1,27 @@
 * Tasks
 ** TODO Check to make sure your assessment is still on autopay [[message://%3cBYAPR05MB42006781CA1AB7A5BF466055EA680@BYAPR05MB4200.namprd05.prod.outlook.com%3E][899 S PLYMOUTH COURT STATEMENT OF ACCOUNT]]
 ** TODO Write up a procedure for longitudinal course review
+** TODO James Parker 1
+  Set up for TBC students
+sa522772
+42177C
+  
+  | CE | Group | Eval Code |
+| Micele | 1 | 0666 |
+| Suchita | 2 | 4617|
+| Carl | 3 | 5119 | 
+| Cristina | 4 |6214|
+| Bruce | 5 | 6385|
+  | Stelios | 6 |4877  |
+  | Christine | 7 | ev6759 |
+  | Meeta      | 8 | ev4510 |
+__________
+|Michele|1|4545| 
+|Ryan|2|8414|
+|Kasia|3|9019|
+|Paola|4|7728|
+|Bruce|5|6573|
+|Kuma |6|5949|
+|Ewa|7|3445|
+|Paul|8|6453|
+** TODO FU Angela Solic [[message://%3cd71b336a1cdb46d980b8d4f161f0ccd3@RUPW-EXCHMAIL02.rush.edu%3E][FW: Video recording]]
