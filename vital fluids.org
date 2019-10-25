@@ -426,7 +426,6 @@ If there is anything you need or that I can do, let me know.
 
 Tom Shannon (tom_shannon@rush.edu)
 
-
 ** Readme for physiology pdfs.
 
 The files contain physiology readings that completely duplicate what is in your self-study guides.  The only difference is that they have not undergone some of the processing that the self-studies do.
