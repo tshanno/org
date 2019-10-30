@@ -5,18 +5,18 @@
   Set up for TBC students
 sa522772
 42177C
-  
+
   | CE | Group | Eval Code |
 | Micele | 1 | 0666 |
 | Suchita | 2 | 4617|
-| Carl | 3 | 5119 | 
+| Carl | 3 | 5119 |
 | Cristina | 4 |6214|
 | Bruce | 5 | 6385|
   | Stelios | 6 |4877  |
   | Christine | 7 | ev6759 |
   | Meeta      | 8 | ev4510 |
 __________
-|Michele|1|4545| 
+|Michele|1|4545|
 |Ryan|2|8414|
 |Kasia|3|9019|
 |Paola|4|7728|
@@ -25,40 +25,26 @@ __________
 |Ewa|7|3445|
 |Paul|8|6453|
 ** TODO FU Angela Solic [[message://%3cd71b336a1cdb46d980b8d4f161f0ccd3@RUPW-EXCHMAIL02.rush.edu%3E][FW: Video recording]]
-
 ** TODO Go over GP quiz and formative and make sure you are covering all of the content and that the questions are OK. [[message://%3cCA09C2FB-F59A-49B9-B1AB-DE3925190ACF@rush.edu%3E][RMD 574 Vital Fluids Reassessment]]
-
 ** TODO Go over VF reassessment blueprint [[message://%3cCA09C2FB-F59A-49B9-B1AB-DE3925190ACF@rush.edu%3E][RMD 574 Vital Fluids Reassessment]]
-
 ** TODO Make slides for LC fromative debrief.   [[message://%3cB6D91066-4F1E-4684-84EC-9D63424DCAA7@rush.edu%3E][RMD 567 Formative Assessment and Debrief]]
-
 ** TODO Change the JP 1 quiz question to another receptor [[message://%3c261a45c419dd4cefb921ab2c503abfd4@RUDW-EXCHMAIL02.rush.edu%3E][clarify an assessment question for me]]
-
 ** TODO Go over VG blueprint [[message://%3c995A35B9-4E5E-4672-BF75-B6FF97C85F99@rush.edu%3E][RMD 575 Vital Gases Assessment Blueprint - Deadlines]]
-
 ** TODO FU Princess on UCC packet due Nov. 11 [[message://%3c0b3f930446094f6cb943d8d1cfff2fd4@RUDW-EXCHMAIL01.rush.edu%3E][Rush Medical College's Presentation of a New Course]]
-
 ** TODO UCC packet due Nov. 11 [[message://%3c0b3f930446094f6cb943d8d1cfff2fd4@RUDW-EXCHMAIL01.rush.edu%3E][Rush Medical College's Presentation of a New Course]]
-
 ** TODO Points for Bob about this [[message://%3c1571958689760.26358@rush.edu%3E][Today's Basic Science Session]]
-
 *** This student is very high strung.  She emails me 2-3 times a day with questions.  She reminds me a lot of Melissa Prusky.
-
 *** Putting the basic science session in the afternoon makes this a long day with the heaviest material on the back end.  Perhaps we should reconsider how we are scheduling this.
-
 *** I dind't want to acknowledge it to the student but she has a point in that Syed's video on this content isn't great.  I've asked both him adn Mike Braderic to re-record videos that were done in the old lecture hall and they haven't done it.  I'm calling in Bob and Rahul next year.
 ** TODO Post an announcement to make sure everyone knows to finish the physiology before CIRCSIM on 10/31
-
 ** TODO Email Keith when the pneumothorax Field Goal is in shape for editing. [[message://%3cDM5PR0101MB3180455F1D1733BA1C5B990BBC650@DM5PR0101MB3180.prod.exchangelabs.com%3E][RE: next cases for design work]]
-
 ** TODO LC FOrmative performance review.  Keep q. 5   [[message://%3c35613D76-13C3-42A2-BCFF-B8B64145C372@rush.edu%3E][RMD 567 Lifecycle Formative Assessment Item Analysis For Review]]
-
 ** TODO Add these students to the list of M4 volunteers. [[message://%3c1572037471163.56399@rush.edu%3E][Re: M4 students]]
 
 
-Hi- I added sessions for Benito and Christopher to the list who has recently signed up for a few session.  Thanks.  I changed the dates for Asantewaa (my error)​
+Hi- I added sessions for Benito and Christopher to the list who has recently signed up for a few session.  Thanks.  I changed the dates for Asantewaa (my error)
 
-Benito Navarro 12/5 
+Benito Navarro 12/5
 
 Christopher Barnes 12/5
 
@@ -81,3 +67,5 @@ Steven Suh 11/4, 11/7, 11/11, 12/2, 12/5, 12/9 (Worked with Dr Lambert, Dr Willi
 Junwei Li 10/24, 10/28
 
 Jared Miya 10/24, 10/28
+* TODO FU: ANne on questions for formative
+[2019-10-28 Mon 05:44]

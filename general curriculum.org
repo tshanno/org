@@ -1,5 +1,5 @@
 * *Ticklers*
-** CANCELED [#A] Put comment about emailing CD immediately after the session with comments into faculty guides.
+** [#A] CANCELED  Put comment about emailing CD immediately after the session with comments into faculty guides.
 :LOGBOOK:
 - State "CANCELED"   from "TODO"       [2019-10-04 Fri 11:13] \\
   Jus forget about this.
@@ -52,15 +52,14 @@ SCHEDULED: <2020-01-02 Thu>
      You have rooms through the end of August
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]
 SCHEDULED: <2019-06-19 Wed>
-
 ** Schedule student lunch for November
 SCHEDULED: <2019-10-25 Fri>
-** CANCELED [#A] Talk to Maria about how to get on tag questions
+** [#A] CANCELED  Talk to Maria about how to get on tag questions
 :LOGBOOK:
 - Note taken on [2019-07-18 Thu 06:45] \\
   Recent email says we are 100% done.  I'll take their word for it.
 :END:
-** CANCELED [#A] Go through quesitons mone more time and make sure everything got tagged.
+** [#A] CANCELED  Go through quesitons mone more time and make sure everything got tagged.
 :LOGBOOK:
 - Note taken on [2019-07-18 Thu 06:46] \\
   Recent email says we are 100% done.  I'll take their word for it.
@@ -70,7 +69,6 @@ SCHEDULED: <2019-10-25 Fri>
 
 I will not be in Chicago next week on Thursday or Friday.  Feel free to meet without me.
 Bob
-
 ** DONE Email the clinican educators and fill them in on how the big room will work.
 SCHEDULED: <2019-08-24 Sat>
 :LOGBOOK:
@@ -83,9 +81,7 @@ SCHEDULED: <2019-08-24 Sat>
 :SYNCID:   7B169153-D4B6-4A92-B39E-0293A8FF940F
 :ID:       A3F4C235-9D4C-4836-965C-2EDBFD54F178
 :END:
-
 ** [#A] Get back to Christine [[message://%3c0A95AC6B-9F25-49A6-9B10-22649EFC7E2E@rush.edu%3E][Re: RMD 574 Self-Study Guide 01 Eli Whitney 10-17-2019.pdf]]
-
 ** DONE [#A] Invite students to faculty student lunch on 9/20 (lunch is on 9/27)
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-09-23 Mon 13:13]
@@ -95,14 +91,12 @@ SCHEDULED: <2019-09-30 Mon>
 :LOGBOOK:
 - State "DONE"       from              [2019-10-04 Fri 08:48]
 :END:
-
 ** Schedule Faculty-Student Lunch
 SCHEDULED: <2019-11-01 Fri>
 :PROPERTIES:
 :SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
 :ID:       032415F7-D251-4DE6-A1C6-4F783007257D
 :END:
-
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -236,7 +230,6 @@ Entered on [2019-04-23 Tue 14:41]
 :SYNCID:   F931B1E5-7A85-42C6-9287-773E69083C69
 :ID:       89164235-C686-4ECD-926D-03BA4AED19C0
 :END:
-
 *** Go thorugh the case a little first.
 *** When susan first asked if there were any quesitons I hheard some yes's but they were soft and students were too inhibited to ask.
 *** PowerPoints?
@@ -267,34 +260,29 @@ Entered on [2019-04-23 Tue 14:41]
 :SYNCID:   EA5F1FEE-621B-43C4-85CB-B5645C017B2F
 :ID:       3E1EAC04-1B6B-4E6E-9CCF-8F3E7A9B61AA
 :END:
-
-** Meeting about tech in new space; Location AAC 971 <2019-06-19 Wed 11:00-12:00>                                                            
-*** Can we record the session? - Yes                                                                                                        
-*** Mention apple TVs - Yes.                                                                                                                
-    [2019-06-14 Fri 06:16]                                                                                                                  
-                                                                                                                                            
-*** Screens                                                                                                                                 
-***** Four large screens on the wall                                                                                                        
-***** 14 mobile monitors                                                                                                                    
-***** They do have airplay                                                                                                                  
-*** Mics                                                                                                                                    
-***** 6 wireless lavaleres                                                                                                                  
-***** Asked for 8 and asked to boundary mics at each table                                                                                  
-*** You need software to do a bunch of fancy sharing with the whole room but an iPad out of the box will connect to one station at a time.  
-*** You can have them message the instructor from the cart.                                                                                 
-*** Web site for documentation: http://www.netsupportschool.com                                                                             
-                                                                                                                                            
-*** DONE [#A] Ask Bob what kind of technical support we'll have in the room :: Yes.  For the first semester.                                
-                                                                            
-** Student-Faculty Lunch Location: AAC 950 <2019-06-19 Wed 12:00-13:00>                                                                      
-**** There will be histopath reviews before the exam in every block                                                                          
-**** Students liked what Scott Heinrich did wwith the group get together in a circle.    
-
-** FW: M1/M2 meeting;Location: Medium Conference Room   <2019-06-19 Wed 9:00-10:00>                                                          
-**** 942-8546 for medium conference room                                                                                                     
-**** Lot's of Y2Q talk but they aren't buying into moving blocks around                                                                      
-**** Beth will be addressing the students abt med school tutors.  She will also be sitting in the sessions.  Hopoing to de-emphasize the     
-**** importance of Step 1                                                                           
+** Meeting about tech in new space; Location AAC 971 <2019-06-19 Wed 11:00-12:00>
+*** Can we record the session? - Yes
+*** Mention apple TVs - Yes.
+    [2019-06-14 Fri 06:16]
+*** Screens
+***** Four large screens on the wall
+***** 14 mobile monitors
+***** They do have airplay
+*** Mics
+***** 6 wireless lavaleres
+***** Asked for 8 and asked to boundary mics at each table
+*** You need software to do a bunch of fancy sharing with the whole room but an iPad out of the box will connect to one station at a time.
+*** You can have them message the instructor from the cart.
+*** Web site for documentation: http://www.netsupportschool.com
+*** DONE [#A] Ask Bob what kind of technical support we'll have in the room :: Yes.  For the first semester.
+** Student-Faculty Lunch Location: AAC 950 <2019-06-19 Wed 12:00-13:00>
+**** There will be histopath reviews before the exam in every block
+**** Students liked what Scott Heinrich did wwith the group get together in a circle.
+** FW: M1/M2 meeting;Location: Medium Conference Room   <2019-06-19 Wed 9:00-10:00>
+**** 942-8546 for medium conference room
+**** Lot's of Y2Q talk but they aren't buying into moving blocks around
+**** Beth will be addressing the students abt med school tutors.  She will also be sitting in the sessions.  Hopoing to de-emphasize the
+**** importance of Step 1
 ** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-06-20 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   6C8538F1-298F-4E11-B21D-B24A3B541E64
@@ -305,7 +293,7 @@ Faculty guides due before course starts
 Formatives and summatives due 3 weeks before assessment
 Objectives now posted by week
 *** DONE [#A] Check AY19/20 physiology content list for deadlines
-*** DONE Ask Princess about syllabus.  I didn't understand it.   :Princess:
+*** DONE Ask Princess about syllabus.  I didn't understand it.     :Princess:
 *** DONE [#A] They are thinking about using kotobee to collect all documents and convert to epub :: Probably need to convert to Word but it might take LaTeX.  Check this.
 ** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-06-27 Thu 12:00-13:00>
 :PROPERTIES:
@@ -316,7 +304,6 @@ Objectives now posted by week
 **** Taught as a TA
 **** She's a talker.  :)
 *** CD salaries will now be allocated based upon length of block and other not well-defined effort-based factors.  Probably DD by student workload time, too.
-
 ** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-18 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   B2AFCC73-F0FD-4A15-9232-22729604816E
@@ -330,12 +317,11 @@ Objectives now posted by week
 :LOGBOOK:
 - State "WAITING"    from "TODO"       [2019-08-07 Wed 10:19]
 :END:
-*** Thinking about requiring students to pass each discipline at the end of the year                                                                    
+*** Thinking about requiring students to pass each discipline at the end of the year
 **** Assessment needs to give us the breakdowns for next year so that we can evaluate the effect on students grades
 **** We need to move fast if we want to get this started for 2019-2020.  Bob didn't seem to interested in pushing it ahead that quickly so I doubt it will happen.  Probably 2020-2021.
 **** Check in and see how this policy requiring students to pass all of the disciplines over the course of the year.  If its going to happen in 2021, Bob has to move now.
 SCHEDULED: <2020-02-14 Fri>
-
 ** Course Director's Meeting; Location: OMSP 403B~ Large Conference room 407 <2019-07-25 Thu 12:00-13:00>
 :PROPERTIES:
 :SYNCID:   52007325-6876-493A-8371-D5BCB2354E9F
@@ -344,7 +330,7 @@ SCHEDULED: <2020-02-14 Fri>
 :LOGBOOK:
 - Note taken on [2019-07-26 Fri 07:52] \\
   We looked at Lecturio.  There was a request for more time to evaluate.
-  
+
   Denise Lyles is leaving.  She's the coordinator for both S&R and VG so very bad news for me.  No plan for replacement yet.
 :END:
 ** DONE M1 Block Admin Meeting <2019-08-08 Thu 12:00-13:00>
@@ -355,15 +341,14 @@ SCHEDULED: <2020-02-14 Fri>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 14:26]
 - Note taken on [2019-08-08 Thu 13:15] \\
-  Narrative feedback will be done for communicator and anatomy (M2's communicator only).  
-  
+  Narrative feedback will be done for communicator and anatomy (M2's communicator only).
+
   Students will not be told they are being evaluated.
-  
+
   This won't affect the grade but can affect a Deans letter
-  
+
   Students will see evaluations and they will have at least on conference with a communicator faculty at east once some time during the year to go over it.
 :END:
-                                 
 ** My turn at the Journal Club <2020-03-26 Thu>
 *** Send out journal club article
 DEADLINE: <2020-03-19 Thu> SCHEDULED: <2020-03-12 Thu>
@@ -614,9 +599,7 @@ One of the approaches being considered for class sessions next year is to use th
 ** [[~/Library/Mobile Documents/com~apple~Preview/Documents/M1 MarioGomez BSCI-RMD 565.pdf][Session Reviews for the session in the big room]] :: There is a seperate special review that isnt' available yet.
 ** [[https://docs.google.com/spreadsheets/d/1Yf1fgAhLfUL_AmuRrDMH75ea_QtBVJkfkIrAdfBG3vQ/edit#gid=0][AY19/20 Physiology Content List - Google Sheets]] :: This sheet has the due dates for all of the material.  Vital FLuids due 8/8!
 ** [[http://support.kotobee.com/en/support/solutions/articles/8000070293-import-a-pdf-with-editable-content][Import a PDF with Editable Content : Kotobee]]
-
 ** [[http://support.kotobee.com/en/support/solutions/articles/8000024599-import-a-pdf-file-in-mac-os][Importing PDF for Mac users : Kotobee]]
-
 ** [[https://docs.google.com/spreadsheets/d/1eOZgZ-3IojbfWlrGpHaWtO0aMLZ3IA2mTANLIuSeOvg/edit#gid=0][00 - RMC AY19/20 Google Content Outlines - Google Sheets]] :: Links to all disciplines
 ** [[https://airtable.com/shrqOrzFJW5IUMyz4/tbljDpPhbpJ40IDlK?blocks=hide][Airtable - RMC CI- Faculty View]] :: This is not the current version
 ** [[https://drive.google.com/file/d/1i4Lh-fv9YPo1WG_s8ub6T6nOecHm1kXf/view?ts=5d040e84][M1M2 2019-2020 6-7-19 Bob Version.xlsx - Google Drive]]
@@ -624,7 +607,6 @@ One of the approaches being considered for class sessions next year is to use th
 :SYNCID:   4D39AFCF-7BEB-4299-87BB-E53CEF086F2F
 :ID:       C8F41BDC-24F8-4AB4-8E5C-9F7A13824020
 :END:
-
 ** Workload Assessment stuff [[https://drive.google.com/drive/folders/1rUMvRMLissK-_5XMw3_uDe-ElNwr7h2i][18/19 Workload Assessment - Google Drive]]
 :PROPERTIES:
 :SYNCID:   6D313489-E8DB-4821-8BDA-2A6D25FD7CDC
@@ -637,14 +619,14 @@ One of the approaches being considered for class sessions next year is to use th
 :END:
 
 We do not have a license for Canvas. I am using the Free for Teacher version. You can sign up for it if you would like to test it out… https://www.instructure.com/canvas/try-canvas. You can add students to your course in Canvas and it won’t disappear.
- 
+
 I do want to note that the content for the summer self study guides is in a learning management system tool called CourseArc. This is where we placed all the self study material and created some interactive learning elements for the content.  CTEI has a license for CourseArc, however, it’s limited to the users in our department. We do have a general CTEI account that you are welcome to log in with…
 https://rush.coursearc.com
 CTEI@rush.edu – CTEI1234!
- 
+
 Students are not able to be added to CourseArc. If you would like for them to do the activities you create in CourseArc, you would need to add a link to the CourseArc course that you created within your Blackboard course OR create a free Canvas course for students to access the material in CourseArc. My suggestion is to use Blackboard since this is the learning management system Rush currently uses and the registrar’s office creates the course and enrolls students. You can easily embed a link to your CourseArc course in Blackboard.  You wouldn’t need to enroll any students as you will for Canvas. Also, if you link CourseArc to Blackboard, any graded activities you create in CourseArc will integrate into the Blackboard Grade Center.
- 
-If you need any help with this or have any questions, please let me know and I would be more than happy to help. 
+
+If you need any help with this or have any questions, please let me know and I would be more than happy to help.
 ** [[https://docs.google.com/spreadsheets/d/1QJsELxU6JDczacguMrNoYrOYd7qAnA5mICM1_WJRCcM/edit?usp=sharing][Activity Design Team Assignments to M2 Cases 2018-2019]]
 :PROPERTIES:
 :SYNCID:   1CE30209-09D0-4D4C-BC1E-978C048F8753
@@ -656,7 +638,6 @@ If you need any help with this or have any questions, please let me know and I w
 :ID:       D97A5C8B-52B1-45F1-967B-1CDB9918D5B7
 :END:
 ** [[message://%3c1564076124514.47516@rush.edu%3E][Fw: Lecturio Follow Up]]
-
 ** [[message://%3c0763E799-6332-4728-AE7D-A16F8B0A124E@rush.edu%3E][RMC: Deadlines for materials in 19/20]]
 :PROPERTIES:
 :SYNCID:   B17E8A89-ABBD-43F1-946B-81DC2B57334B
@@ -677,7 +658,6 @@ If you need any help with this or have any questions, please let me know and I w
 :SYNCID:   90CB7324-4B1A-453F-98A5-F5476D2BE2C1
 :ID:       641DB528-19D8-48FE-97CF-005B0E075C70
 :END:
-
 ** How to use Keynote to add text overlays in your iMovie projects
 https://www.macworld.com/article/3411925/how-to-use-keynote-to-add-text-overlays-in-your-imovie-projects.html#tk.rss_all
 ** [[message://%3c9f033099c79d40c081f69590f6efdcd3@RUPW-EXCHMAIL02.rush.edu%3E][Med Ed Research Group]]
@@ -701,24 +681,22 @@ April 23, 2019	Jamie Cvengros	Journal Article or ongoing research – TBA
 May 28, 2019	Kristin Al-Ghoul	Journal Article – TBA
 June 25, 2019	Beth Baker	Journal Article – TBA
 July 23, 2019	Anne Carroll	Dissertation research or other
- 
+
 If a journal club article is being presented, it should be shared with the group 1 week in advance.
 ** Laura Owczarzak is the student doing Osmosis for the class of 2022 [[message://%3c1565362895853.28583@rush.edu%3E][Reproductive]]
 
 
-Hi Dr. Shannon, 
+Hi Dr. Shannon,
 
-I just wanted to let you know that I'll be in charge of uploading course documents to Osmosis again for the upcoming Reproductive block. If students have any issues with Osmosis, you can send them my way. 
+I just wanted to let you know that I'll be in charge of uploading course documents to Osmosis again for the upcoming Reproductive block. If students have any issues with Osmosis, you can send them my way.
 
 Hope you're enjoying your summer!
 
 See you in a few weeks,
 
 Laura Owczarzak
-
 ** [[https://docs.google.com/spreadsheets/d/1fvANoEDAdWRJYfdzHZ1bCIzIQqK8Ag1vIRdWQL7_uPU/edit#gid=1754225448][19/20 Curriculum Maps (Schedule of Topics by Block) - Google Sheets]] [2019-08-12 Mon]
 ** Link to BCS on Entrada [[message://%3cC10E50CD-8200-4C81-AC4C-28891240ABFA@rush.edu%3E][Re: BCS shell created in Entrada]]
-
 ** [[https://docs.google.com/spreadsheets/d/1fvANoEDAdWRJYfdzHZ1bCIzIQqK8Ag1vIRdWQL7_uPU/edit#gid=1754225448][19/20 Curriculum Maps (Schedule of Topics by Block) - Google Sheets]]
 ** [[https://rushedu-auvic.formstack.com/forms/active_learning_training_registration][Active Learning Training Registration - Formstack]]
 ** IT guy's name is Terrance J Lewis.  He encourages email for questions
@@ -732,7 +710,6 @@ Laura Owczarzak
 :SYNCID:   CEBD5275-301F-4A13-9412-08E2F6341260
 :ID:       3B9F2659-1E21-4EED-92DD-2AD46CF4C15E
 :END:
-
 ** Looks like I have the room for the core disciplines meetings on Wednesday now indefinitely.
 ** How to use conference call feature on phones [[message://%3cD3299161-139E-465C-A54C-B5618FA4FFF1@rush.edu%3E][Re: Conference call today]]
 
@@ -740,14 +717,11 @@ Laura Owczarzak
 Hi Tom,
 The OMSP conference call feature works really well. If everyone calls this number, (877) 978-5853 , ID 11134# and then you do as well from the conference room phone, the audio is of much better quality. People can then use appear.in and mute as you suggest.
 Thanks, K
-
 ** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
 ** [[https://docs.google.com/document/d/1cVDrWUZwKGn9KrsxQDL1t2PK1KWzKnBYwHsxSRAtXo4/edit][Blueprints - Student Version - Google Docs]]
-
 ** [[https://docs.google.com/spreadsheets/d/1x7n8pP0Nc2_b5jYsSqV92Zj1n83jLTjClBpqNhj5zPo/edit#gid=2127619499][2019-2020 M1 & M2 Clinician Educator Sign-Up Sheet - Google Sheets]]
 ** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/M1 2019 Emails.docx][M1 2019 Emails.docx]]
 ** [[~/Library/Mobile Documents/com~apple~CloudDocs/Word/M1 2019 Lunch List.docx][M1 2019 Lunch List.docx]]
-
 ** [[https://docs.google.com/forms/d/e/1FAIpQLScT9fQ5NauG-BjBHHJM4zWxIwX3UXkPJkO537bdq92E5VkQvQ/viewform][Teaching Skills Feedback Form]] for M4 helpers
 ** [[message://%3c5360FFE9-2E62-4445-AB0B-966C2E58F5F0@rush.edu%3E][Goals]]
 :PROPERTIES:
@@ -760,26 +734,24 @@ Thanks, K
 2.  Remake some of the concept map activities that are lacking.  This might take the form of simply remaking the concept maps in Food to Fuel and/or finding a way to design these so that they are drag and drop.
 
 Tom S.
-
 ** [[message://%3c82F52318-8DDB-44CC-BA1C-58ACC1582184@rush.edu%3E][Knowledge Owl]]
 
 
 Hello Everyone,
- 
+
 We’ve been placing all of our assessment related documents/procedures on Knowledge Owl. Here is how you can access the Knowledge Owl page:
- 
+
 Go to the Knowledge Owl reader login page: https://rmc-integrated-curriculum.knowledgeowl.com/help/readerlogin
 Click “Reset Password”
 Enter your Rush email
 Follow the instructions to choose your password
- 
+
 Once you log in, you can click on “Assessment” and search for various documents/policies/procedures (e.g., related to assessment development, administration, Examsoft, etc.).
- 
- 
- 
+
+
+
 Thank you,
 Maria
-
 ** FU Raul_A_Arias-Garcia@rush.edu [[message://%3c53389e88a6e1402ba699579269c81c3e@RUDW-EXCHMAIL02.rush.edu%3E][M1 Student Roster]]
 :PROPERTIES:
 :SYNCID:   E816CB81-1948-4351-87E2-9DE684251C98
@@ -796,9 +768,6 @@ Maria
 If you wish to be absent from a required class you must submit a request using a form at the link below.
 
 http://www.surveygizmo.com/s3/3856816/Integrated-Curriculum-Petition-for-Exemption-from-Mandatory-Attendance-Event
-
-
-
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -931,15 +900,13 @@ SCHEDULED: <2019-06-13 Thu>
   Bob suggested using one Thrusday a month at noon instead of the CD meeting.  I'll do that fow now but we may want to do articles more frequently.
 ** DONE [#A] Introduce yourself.  You are first up in the M2 year. [[message://%3c00D6574D-A05F-44F6-A81B-92681C8DAB95@rush.edu%3E][Kelly Stapleton - Assessment and Evaluation Coordinator]]
 SCHEDULED: <2019-06-17 Mon>
-
 ** DONE [#A] Review [[message://%3c00000000000085b6b1058b4f26cd@google.com%3E][M1M2 2019-2020 6-7-19 Bob Version.xlsx]]
 :PROPERTIES:
 :SYNCID:   68650FAF-9DE8-413F-B02C-0CA06645799D
 :ID:       2B414935-0A2C-4BB9-81AB-3DEB96AF9EE9
 :END:
-
 ** DONE Add Nell to the HDHR core disciplines calendar invite
-** DONE [#A] Talk to Bob about this [[message://%3c9c25c27aedf24096906a708d4e10b5a7@RUPW-EXCHMAIL02.rush.edu%3E][Feedback on Paria]]            :Bob_Leven:
+** DONE [#A] Talk to Bob about this [[message://%3c9c25c27aedf24096906a708d4e10b5a7@RUPW-EXCHMAIL02.rush.edu%3E][Feedback on Paria]] :Bob_Leven:
 *** Is she going to be a course director?  If so, she lacks teaching experience.  Part of our job is to "teach the teachers".  Further more with all of the administrative dutites, experience in the curriculum is going to be a major asset.  She has none (neither does Katie).
 *** She's personable, intelligent and obviously active.  Very good personal traits.
 ** DONE [#A] Find out from Bob about this supposed studio on the 9th floor for making videos
@@ -956,7 +923,6 @@ SCHEDULED: <2019-06-17 Mon>
 - Note taken on [2019-07-19 Fri 08:38] \\
   Talk to Angela about this.  She said the end of August.
 :END:
-
 ** DONE [#A] Workload Assessment due August 14 [[message://%3cc48a531bea904b23a470c322f2d85a46@RUDW-EXCHMAIL02.rush.edu%3E][Course Workload Assessment and Course Director Response/Action Plan]]
 :PROPERTIES:
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
@@ -976,7 +942,7 @@ SCHEDULED: <2019-06-17 Mon>
 - Make deadlines earlier
 **** Add two weeks this year
 **** Make them earlier next year if you wnat reasonably big changes.
-** CANCELED [#A] Tell Carl how to use air media
+** [#A] CANCELED  Tell Carl how to use air media
 :LOGBOOK:
 - State "CANCELED"   from "TODO"       [2019-08-22 Thu 10:52] \\
   Looks like he's working mostly with the M1s
