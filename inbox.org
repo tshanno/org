@@ -72,3 +72,5 @@ Jared Miya 10/24, 10/28
 ** TODO Make an appointment to see Usama on January 28. - tetnus booster.
 * TODO FU: ANne on questions for formative
 [2019-10-28 Mon 05:44]
+
+** TODO [[https://docs.google.com/spreadsheets/d/1xN_1jyPjD3mn4ysZAj8PSqx072I0nS7apjhQ-9l8B2E/edit#gid=2024036726][RMD 575 Assessment Blueprint AY19/20 - Google Sheets]]
