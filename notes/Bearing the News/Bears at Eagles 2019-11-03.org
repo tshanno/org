@@ -1,0 +1,37 @@
+#+BEGIN_EXPORT latex
+\section*{Quick Game Comments:  Bears at Eagles 11/3/19}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item The Bears came out running the ball but that was about it.  They had just 3 rushing attempts in the first half.  Not that there were many plays overall.  The play calling was more even in the second half as the final count was 18 runs compared to 22 passes.
+\item Instead they chose to rely once again on their struggling quarterback.  Trubisky was inconsistent to be kind.  Some times his confidence just looks completely shot.  The Bears eventually calls swing passes and even a wide receiver screen just to get him some easy completions.
+\item The Eagles started coming with heavy blitzes on third down because they knew that Trubisky would never find the open receiver under pressure.
+\item It was nice to see Trubisky finally hit a deep pass to Taylor Gabriel in the third quarter.  It set up a David Montgomery touchdown.  I'd say Trubisky needed that in the worst way.  It seemed to be part of a half time adjustment where the Bears decided to throw more long passes.  It was reasonably successful as the Bears eventually mounted a comeback.
+\end{enumerate}
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item The Eagles had a smart game plan against the Bears defense.  They used heavy misdirection against an aggressive Bears front seven.
+\item On a related note Eagles quarterback Carson Wentz was very effective with the hard count today, getting the Bears to jump offsides a number of times.
+\item The Bears once again lost at the line of scrimmage too often this game.  The linebackers were getting caught up in the wash and couldn't run to the play.
+\item Jordan Howard certainly ran well today and looked like the Bears version two years ago.  No one should be surprised.  He's now fully recovered from his knee injury.
+\item The Bears didn't always do a good job of stopping it but they were very aware of the screen pass today.  That was obviously a big part of the plan.
+\item It was nice to see Leonard Floyd show some life today by bringing some pressure.
+\item Carson Wentz didn't look as effective in the second half as he did in the first.  His accuracy wasn' quite on point.  It looked like the Bears adjusted at half and started to take Zack Ertz away in the middle of the field.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Dick Stockton and Mark Schlereth were on the call.  I eventually just turned the sound off.  It wasn't that it was terrible.  There was just nothing added.
+\item Special teams
+\item Tarik Cohen had a couple bad drops that did not help Trubisky much today.  Cohen hasn't been himself this year.  He's not running with vision and his head doesn't seem to always be in the game.
+\item Penalties were horrendous for the Bears, especially presnap penalties. Nine penalties for 70 yards is too many. Many of them like Nick Williams roughing the passer penalty in the first half after the Bears had stopped the Eagles on 4th down were just plain dumb.
+\item The Eagles won the time of possession battle and wore the Bears defense down, holding the ball for 39:53 (including most of the final 9 minutes of the game) compared to the Bears 20:07.  It was Eagles 20:45 Bears 9:15 after a miserable first half.
+\item Zack Ertz went wild today.  Anyone heard from Trey Burton?  Anyone?
+\item Turnovers weren't a factor today as neither team had any.
+\item This turned out to be a winnable game for the Bears after some half time adjustments that enabled them to get back into the game.  But once again, dumb mistakes and missed opportunities were too much to over come and the Eagles offense wore the Bear defense down in the end (again).
+\end{enumerate}
+#+END_EXPORT
