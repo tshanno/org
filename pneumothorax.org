@@ -27,6 +27,8 @@ SCHEDULED: <2018-12-24 Mon>
 SCHEDULED: <2018-12-31 Mon>
 ** You changed the self-study quesitons for pneumothorax.  You will have to re-record the review video for next year.
    SCHEDULED: <2019-12-01 Sun>
+** Send out concept map before pneumothorax case.
+SCHEDULED: <2020-01-01 Wed>
 * *Meetings
 ** Core Disciplines <2018-12-05 Wed>
 *** Will there be a student case?

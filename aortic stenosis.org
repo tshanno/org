@@ -21,6 +21,7 @@
 - State "DONE"       from "TODO"       [2019-10-04 Fri 13:40]
 :END:
 
+** TODO [#A] Go over GP quiz and formative and make sure you are covering all of the content and that the questions are OK. [[message://%3cCA09C2FB-F59A-49B9-B1AB-DE3925190ACF@rush.edu%3E][RMD 574 Vital Fluids Reassessment]]
 * *Ticklers*
 ** CANCELED Brett suggested adding path to aortic stenosis.  Contact Mark. [[message://%3c1C984B5B-F5AB-436A-90CA-DF7C763B7FF9@rush.edu%3E][Update: Core Disciplines Meeting 9/12/2019]]
 :LOGBOOK:

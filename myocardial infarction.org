@@ -124,6 +124,33 @@ SCHEDULED: <2019-10-22 Tue>
 - State "DONE"       from "TODO"       [2019-10-21 Mon 07:40]
 :END:
 
+** TODO [#A] Change the JP 1 quiz question to another receptor [[message://%3c261a45c419dd4cefb921ab2c503abfd4@RUDW-EXCHMAIL02.rush.edu%3E][clarify an assessment question for me]]
+** DONE James Parker 1
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-05 Tue 15:25]
+:END:
+  Set up for TBC students
+sa522772
+42177C
+
+  | CE | Group | Eval Code |
+| Micele | 1 | 0666 |
+| Suchita | 2 | 4617|
+| Carl | 3 | 5119 |
+| Cristina | 4 |6214|
+| Bruce | 5 | 6385|
+  | Stelios | 6 |4877  |
+  | Christine | 7 | ev6759 |
+  | Meeta      | 8 | ev4510 |
+__________
+|Michele|1|4545|
+|Ryan|2|8414|
+|Kasia|3|9019|
+|Paola|4|7728|
+|Bruce|5|6573|
+|Kuma |6|5949|
+|Ewa|7|3445|
+|Paul|8|6453|
 * *Ticklers*
 ** Mike MUST re-record these. [[message://%3c278D74C1-49E7-4FEE-B66D-30769C84609A@rush.edu%3E][Links to videos for MI session 2?]]
 SCHEDULED: <2020-03-02 Mon>
