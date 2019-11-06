@@ -12,6 +12,12 @@
 :SYNCID:   848A774A-7B64-40C4-8DDC-B3820630AD30
 :ID:       A1A7D993-7981-43FF-9E90-3693AF4AF16F
 :END:
+** Check in with Danesha on the roles material (SS and faculty guides) on the 15th after Heme starts.
+SCHEDULED: <2019-11-15 Fri>
+** DONE Go over VG blueprint [[message://%3c995A35B9-4E5E-4672-BF75-B6FF97C85F99@rush.edu%3E][RMD 575 Vital Gases Assessment Blueprint - Deadlines]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-05 Tue 15:22]
+:END:
 * *Ticklers*
 ** [[message://%3cC8D7F866-4249-4B5E-B554-7795D9788B78@rush.edu%3E][FU Abigayle on Osmosis]]
 ** [[message://%3c90F6ABC5-10DC-4A26-88D6-83837C067100@rush.edu%3E][FU Najia]] - She got back to me
@@ -78,6 +84,8 @@
   Helped out with the computer programs.  Contact him if you have more trouble.
 - State "DONE"       from "TODO"       [2019-10-04 Fri 08:45]
 :END:
+** [[https://docs.google.com/spreadsheets/d/1xN_1jyPjD3mn4ysZAj8PSqx072I0nS7apjhQ-9l8B2E/edit#gid=2024036726][RMD 575 Assessment Blueprint AY19/20 - Google Sheets]]
+
 * *Links*
 ** [[http://www.differencebetween.net/science/health/difference-between-forced-vital-capacity-and-vital-capacity/][Difference Between Forced Vital Capacity and Vital Capacity | Difference Between | Forced Vital Capacity vs Vital Capacity]]
 

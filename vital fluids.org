@@ -1190,6 +1190,47 @@ Thanks,
 Tom S.
  
 
+** TODO [#A] Look at the peds questons on the summative and make sure they aren't over heart defects.  If they are, they need to be on the midterm. [[message://%3c2182FF6C-E20B-481E-BDFB-D522325CA89D@rush.edu%3E][RMD 574 Summative Assessment]]
+
+** TODO [#A] Review Make Ryfield and Ruth Barzcic assessments [[message://%3cF3DC3AD4-EAFF-4541-976B-F52B84BDBC02@rush.edu%3E][RMD 574 Ruth Barzcic & Marc Ryfield SA]]
+
+** DONE FU: Anne on questions for formative
+:LOGBOOK:
+- State "DONE"       from "CANCELED"   [2019-11-05 Tue 15:17]
+:END:
+[2019-10-28 Mon 05:44]
+** TODO [#A] Add back CKD and ABASE to your calendar
+** DONE Add these students to the list of M4 volunteers. [[message://%3c1572037471163.56399@rush.edu%3E][Re: M4 students]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-05 Tue 15:21]
+:END:
+
+
+Hi- I added sessions for Benito and Christopher to the list who has recently signed up for a few session.  Thanks.  I changed the dates for Asantewaa (my error)
+
+Benito Navarro 12/5
+
+Christopher Barnes 12/5
+
+Kelly Blair 11/11, 12/2, 12/9​ (worked with Paola Susan)
+
+Asantewaa Tura 11/4, 12/2
+
+Eric Moyer 10/17, 10/24, 10/28 (worked with Dr Williams and Dr Tsai)
+
+Nathan Parisi 11/18
+
+David Sutherland 11/4, 11/11
+
+Blake Beehler 10/17, 11/11 (Worked with Dr Heinrich)
+
+Sarah Keshwani 10/17, 11/4, 12/5 (She worked extensively with Dr Huck, and once with Dr Rice and extensively with group 5- not sure if that changes this block)
+
+Steven Suh 11/4, 11/7, 11/11, 12/2, 12/5, 12/9 (Worked with Dr Lambert, Dr Williams)
+
+Junwei Li 10/24, 10/28
+
+Jared Miya 10/24, 10/28
 * *Session Notes*
 ** EKG Workshop <2018-11-27 Tue>
 ** M1 CS ADVOCATE Soc. Determinants of Health 4 <2018-12-11 Tue>

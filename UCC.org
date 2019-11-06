@@ -14,6 +14,8 @@
 :ID:       CB64EF67-881D-445E-BFD3-6D16C1BE1467
 :END:
 * *Ticklers*
+** UCC packet due Nov. 11 [[message://%3c0b3f930446094f6cb943d8d1cfff2fd4@RUDW-EXCHMAIL01.rush.edu%3E][Rush Medical College's Presentation of a New Course]]
+SCHEDULED: <2019-11-07 Thu>
 * *Meetings*
 ** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>
 :PROPERTIES:

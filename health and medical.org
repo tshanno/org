@@ -53,6 +53,10 @@ So I’m looking ahead to see where we’re at:
  
 Thanks,
 Tom S.
+** DONE Make an appointment to see Usama on January 28. - tetnus booster.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-05 Tue 15:19]
+:END:
 * *Notes*
 ** Prescriptions - These numbers are updateed as of <2018-07-03 Tue> :health_and_medical:
 [2017-11-02 Thu 09:10]
