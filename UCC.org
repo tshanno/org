@@ -8,14 +8,14 @@
 - State "DONE"       from "TODO"       [2019-08-26 Mon 08:26]
 :END:
 
-** TODO [#A] FU Mike [[message://%3c7978B14F-CACD-4BD0-BC38-5685FF72B0C5@rush.edu%3E][Re: UCC invitation ]]
+** DONE [#A] FU Mike [[message://%3c7978B14F-CACD-4BD0-BC38-5685FF72B0C5@rush.edu%3E][Re: UCC invitation ]]
 :PROPERTIES:
 :SYNCID:   F2973D94-3920-4F40-9B45-EFC6024431CB
 :ID:       CB64EF67-881D-445E-BFD3-6D16C1BE1467
 :END:
+** TODO [#A] review UCC mateirals [[message://%3c7e5053ddb9614d4a8d9386c7863816b1@RUDW-EXCHMAIL02.rush.edu%3E][Materials 11/18/19: University Curriculum Committee Meeting]]
 * *Ticklers*
 ** UCC packet due Nov. 11 [[message://%3c0b3f930446094f6cb943d8d1cfff2fd4@RUDW-EXCHMAIL01.rush.edu%3E][Rush Medical College's Presentation of a New Course]]
-SCHEDULED: <2019-11-07 Thu>
 * *Meetings*
 ** University Curriculum Committee Meeting - 2019 Meeting Schedule; Location: 1096 AAC <2019-07-22 Mon 09:00-10:00>
 :PROPERTIES:

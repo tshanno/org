@@ -72,7 +72,6 @@ SCHEDULED: <2019-08-23 Fri>
 - State "DONE"       from              [2019-08-26 Mon 07:45]
 :END:
 ** Bulova 1928 Breton
-SCHEDULED: <2019-11-01 Fri>
 ** DONE Bulova 1934 Senator
 :LOGBOOK:
 - State "DONE"       from              [2019-08-26 Mon 07:46]

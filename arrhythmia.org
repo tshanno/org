@@ -49,6 +49,24 @@ SCHEDULED: <2020-02-15 Sat>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 11:10]
 :END:
+** DONE [#A] Prepare ppt for Ruth Barzcic [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/PowerPoint/ppt_for_case_5_Ruth_Barzcic_2019-11-11.pptx][file:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/ppt_for_case_5_Ruth_Barzcic_2019-11-11.pptx]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-13 Wed 09:30]
+:END:
+
+** invite students to AKI
+SCHEDULED: <2019-11-25 Mon>
+** DONE [#A] Assign M4s
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-12 Tue 09:26]
+- State "WAITING"    from "TODO"       [2019-11-12 Tue 08:14] \\
+  Emailed Melissa.  Waiting on response.
+:END:
+*** DONE Nathan Parisi - Melissa Rice
+:LOGBOOK:
+- State "DONE"       from              [2019-11-12 Tue 09:26]
+:END:
+
 * *Ticklers*
 * *Meetings*
 * *Miscellaneous Notes*

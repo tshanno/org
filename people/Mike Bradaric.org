@@ -27,10 +27,13 @@ Video Links:
 https://www.youtube.com/watch?v=kL0WxudGv_Y Treatment of Angina
 https://www.youtube.com/watch?v=J_BJoArB2s0 Hyperlipidemia & Statins
 https://www.youtube.com/watch?v=6aP6CK5CMxA ACS and MI
-** TODO [#A] FU Mike [[message://%3c7978B14F-CACD-4BD0-BC38-5685FF72B0C5@rush.edu%3E][Re: UCC invitation ]]
+** DONE [#A] FU Mike [[message://%3c7978B14F-CACD-4BD0-BC38-5685FF72B0C5@rush.edu%3E][Re: UCC invitation ]]
 :PROPERTIES:
 :SYNCID:   F2973D94-3920-4F40-9B45-EFC6024431CB
 :ID:       D358DC1A-363E-483B-B708-00A237342609
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-06 Wed 10:35]
 :END:
 * *Ticklers*
 ** DONE FU:Mike on antivirals [[message://%3c2dbc4dc573ae4a54980738d61e8a054a@RUPW-EXCHMAIL02.rush.edu%3E][RE: Anti-virals?]]

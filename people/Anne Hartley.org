@@ -54,6 +54,8 @@ Anne
 :ORDERED:  t
 :END:
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-06 Wed 09:58]
+- State "DONE"       from "WAITING"    [2019-11-06 Wed 09:58]
 - State "WAITING"    from "TODO"       [2019-10-21 Mon 07:16] \\
   With the request that went to Janice
 - State "WAITING"    from "TODO"       [2019-10-21 Mon 07:15] \\
@@ -67,11 +69,11 @@ Tom can post the video, PowerPoint and the cases. I do not mind them having the 
 Best,
 Syed
 
-*** WAITING [#A] Upload all of the materials.  Set a time to release the answers.
+*** DONE [#A] Upload all of the materials.  Set a time to release the answers.
 
-*** WAITING [#A] Find the video from last year and put it up and time the release.
-*** TODO [#A] Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
-SCHEDULED: <2019-10-31 Thu>
+*** DONE [#A] Find the video from last year and put it up and time the release.
+*** Notify the students about the self-study for the pathophysiology workshop is on Entrada and that this is where the answers will be posted.
+SCHEDULED: <2019-11-21 Thu>
 
 * *Ticklers*
 * *Meetings*

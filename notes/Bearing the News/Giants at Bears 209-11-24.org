@@ -1,0 +1,47 @@
+#+BEGIN_EXPORT latex
+\section*{Quick Game Comments:  Giants at Bears 11/24/19}
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item The Giants were apparently intent on running the ball against the Bears defense.  The plan was likely to force the Bears offense into three and outs and wear the defense down.
+\item The Bears got decent pressure on Giants quarterback Daniel Jones.  They did blitz on occasion to do it as is Chuck Pagano's want.
+\item Given the weak Giant offensive line and the blitzing, I'm surprised Khalil Mack didn't have a better game.  Jones usually did a decent job of getting it out quick.  Mack did knock the ball out of Jones's hand for a crucial fumble in the third quarter.
+\item The Bear generally did a good job of stopping Saquon Barkley.  Given the item above about running the ball, that was a key to the game.
+\end{enumerate}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item The Giants weren't getting a body on Tarik Cohen, allowing him to get off of the line.  They corrected that in the second quarter.
+\item The Giants were playing a lot of zone defense early which, if you've been watching the bears, you know is a mistake.  They adjusted early in the second quarter and started playing more man-to-man.
+\item Trubisky looked better in the pocket this week.  He also was moving better outside and had some good runs.  He was reasonably accurate (for him).
+\item Unfortunately many of the other players on offense didn't have a good game.  The Bears flat out can't get 11 guys to all do thier jobs at the same time on offense.  If its not a edropped pass, its a penalty.  If its not a penalty, it a missed block or a bad pass route.
+\item As the broadcast team pointed out and as we have seen on a number of occasions over the course of the year, two or more Bears receivers somehow ended up i the same area of the field an awful lot today.
+\item Trubisky did a good job with the hard count today.  He got the Giants to jump a number of times.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Thom Brennaman is a professional.  Chris Spielman did a good job today.  I thought he pointed out a number of little things, particularly  in terms of the X's and O's that the average viewer would have missed and which the average viewer would find interesting.
+\item The Giants basically played the entire first half on the Bears half of the field.
+  \begin{itemize}
+  \item Eddie Pineiro started the game by kicking the ball out of
+    bounds.  
+  \item A poor line drive punt by Pat O'Donnell set up the Giants touchdown in the second quarter.  
+  \item The Bears allowed a big punt
+    return for Jabrill Peppers later in the second quarter.
+    fortunately the Giants missed the field goal.  O'Donnell then
+    promptly shanked the next punt after the Bears went three and out.
+    The Giants promptly missed the field goal again.  Fun stuff.
+  \item Twelve men on the field for an extra point in the third quarter made it a 38 yard field goal.
+  \item Cordarrelle Patterson made some good plays on punts to pin the Giants inside their ten yard line to partially make up for this clown show.
+\end{itemize}
+
+\item Drops were a problem all day for both teams.  Saquon Barkley dropped what would have been a big gain early.  Ben Brauneker dropped a potential touchdown midway through the first quarter.  Trubisky threw an interception in the end zone later in the drive.
+\item Time after time when the Bears produced a decent play, it was called back due to a penalty.  It was one of those days and it didn't help that the Bears had the worst officiating crew in the league to call every little ticky tack infraction.  The penalties were atrocious.  An illegal hands to the face call on an unidentified player brought back a 60 yard pass play.
+\item Trubisky threw an interception in the end zone in the first quarter on what appeared to be a good play by Alec Ogletree.  Daniel Jones fumbled inside the Giants 5 yard line in the third quarter.  Mack knocked it out.
+\item This was a bad, bad game between two bad teams trending in the wrong direction.  At times it hurt too much to laugh.  By far the most troubling thing about this game and this season is that the for long streaks the Bears offense doesn't appear to be getting better.  I think Trubisky is - and that is very good.  But the team as a whole is finding new ways to mess up every good thing that happens on the field.  The lack of discipline and the lack of coordination is very evident.  And it has to be said that it comes back to the coaches.  From that, you are forced to conclude that the future of this franchise over the next couple years may not be too rosy.  It not that there isn't hope.  But the signs aren't good.
+\end{enumerate}
+#+END_EXPORT

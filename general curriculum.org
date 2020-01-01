@@ -52,8 +52,8 @@ SCHEDULED: <2020-01-02 Thu>
      You have rooms through the end of August
 ** DONE Pick up food and get it to the room for student lunch [[message://%3cd5dadda6bb95448aa7b36b67a525c850@RUPW-EXCHMAIL02.rush.edu%3E][RE: lunch on June 19]]
 SCHEDULED: <2019-06-19 Wed>
-** Schedule student lunch for November
-SCHEDULED: <2019-10-25 Fri>
+** Schedule student lunch for December
+SCHEDULED: <2019-11-27 Wed>
 ** [#A] CANCELED  Talk to Maria about how to get on tag questions
 :LOGBOOK:
 - Note taken on [2019-07-18 Thu 06:45] \\
@@ -92,11 +92,16 @@ SCHEDULED: <2019-09-30 Mon>
 - State "DONE"       from              [2019-10-04 Fri 08:48]
 :END:
 ** Schedule Faculty-Student Lunch
-SCHEDULED: <2019-11-01 Fri>
+SCHEDULED: <2019-11-27 Wed>
 :PROPERTIES:
 :SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
 :ID:       032415F7-D251-4DE6-A1C6-4F783007257D
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-11-06 Wed 10:34] \\
+  Requested room.  Sent invites.  Waiting to hear from registrar about request, then edit the invite and add the room.
+:END:
+
 * *Meetings*
 ** Course Director's Meeting <2018-12-20 Thu 12:00-13:00>
 Location: OMSP 403B~ Large Conference room 407
@@ -768,6 +773,15 @@ Maria
 If you wish to be absent from a required class you must submit a request using a form at the link below.
 
 http://www.surveygizmo.com/s3/3856816/Integrated-Curriculum-Petition-for-Exemption-from-Mandatory-Attendance-Event
+** Conference call number [[message://%3cDM5PR0101MB318046EA47FB5FD061245871BC790@DM5PR0101MB3180.prod.exchangelabs.com%3E][conference call feature]]
+:PROPERTIES:
+:SYNCID:   C74C3869-5FA6-4857-B73A-8AEB45246B6F
+:ID:       64CFD536-0996-4974-8A05-A8F684F26483
+:END:
+
+
+877-978-5853
+11134#
 * *Tasks*
 ** DONE [#A] Finish the list of things to do as a CD
    [2018-12-17 Mon]
@@ -952,5 +966,10 @@ SCHEDULED: <2019-06-17 Mon>
 :SYNCID:   CFA5D306-0AF8-42BF-8BC4-49480B8C31B5
 :ID:       D3ADC151-1C8E-4C31-A421-71BD3C8870B8
 :END:
-** TODO [#A] Take care of reassessments [[message://%3cC9D2CD61-B4F7-48EC-8378-FBEBCA0A5254@rush.edu%3E][M1 & M2 Reassessments]]
+** DONE [#A] Take care of reassessments [[message://%3cC9D2CD61-B4F7-48EC-8378-FBEBCA0A5254@rush.edu%3E][M1 & M2 Reassessments]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 08:17]
+:END:
 
+** Arrange student lunch
+SCHEDULED: <2019-11-29 Fri>

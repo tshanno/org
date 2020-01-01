@@ -20,6 +20,14 @@
 ** DONE [#A] Repost pneumothorax and notify CEs
 ** DONE Change the ventilation perfusion ratio question in the self-study questons (#15).  I don't like this use of the lung disease.  The graph really depicts chages in normal lung.
 ** ON RADAR The end of RS53 is flat out wrong when it comes to V/Q.  Remake this.
+** DONE [#A] fix the pneumotorax FG  and send to Janice
+:PROPERTIES:
+:SYNCID:   E02A65A2-5042-4E66-BF7B-C0CB7F473DFB
+:ID:       612EC90B-1AD4-4637-B543-AD900029AA90
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 11:25]
+:END:
 * *Ticklers*
 ** DONE pneumothorx self-study posted
 SCHEDULED: <2018-12-24 Mon>

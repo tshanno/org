@@ -29,8 +29,9 @@
 - State "DONE"       from "TODO"       [2019-07-31 Wed 08:29]
 :END:
 
-** WAITING [#A] Fill out reimbursements for Biophysical Society Meeting.
+** DONE [#A] Fill out reimbursements for Biophysical Society Meeting.
 :LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-07 Thu 13:22]
 - State "WAITING"    from "TODO"       [2019-10-04 Fri 11:10] \\
   Sent pdfs of receipts for everything except hotel to Glenda - registration, abstract fee, membership fee and airline tickets.
 :END:

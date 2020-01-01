@@ -49,6 +49,8 @@ Tom S.
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-10-04 Fri 14:33]
 :END:
+** TODO [#A] Prepare ppt for Mark Ryfield [[file+emacs:~/Library/Mobile Documents/com~apple~CloudDocs/PowerPoint/ppt_for_case_6_Mark_Ryfield_2019-11-13.pptx][ppt_for_case_6_Mark_Ryfield_2019-11-13.pptx]]
+
 * *Ticklers*
 ** DONE Contact CEs for dehydration session 
    SCHEDULED: <2018-11-29 Thu>

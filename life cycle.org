@@ -22,6 +22,14 @@
 :END:
 
 
+** DONE [#A] approve the Life Cycle re-assessment bank [[message://%3cAE2D6EA1-111D-4670-B787-819E969770BC@rush.edu%3E][Re: M1 & M2 Reassessments]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 08:17]
+:END:
+
+** TODO [#A] Prepare for LC debrief on Wednesday [[message://%3cB256760E-BE57-4EC3-A7C2-C7C961A1DAAF@rush.edu%3E][RMD 567 Summative Debrief List and Schedule]]
+SCHEDULED: <2019-11-20 Wed>
+
 * *Tickers*
 ** Consider talking about puberty in Life Cycle rather than S&R next year.  We talk about it a lot in the introductory lesson.  It fits there mechanistically, though.
 SCHEDULED: <2020-02-03 Mon>

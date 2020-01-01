@@ -1,0 +1,34 @@
+* Quick Game Comments:  Bears at Vikings 12-29-2019
+#+BEGIN_EXPORT latex
+\subsection{Defense}
+
+\begin{enumerate}
+\item The Vikings came out concentrating on the run with Sean Mannion starting at QB for Kirk Cousins.  They had a lot of success as the Bears made too many mistakes filling gaps and/or failing to set the edge and gave up some big runs.
+\item The Vikings had good success attacking the Bears inside linebackers in both the run and the pass game, specifically Kevin Pierre-Louis.  Both he and Nick Kwitkowski are back ups who were playing in place of the injured Roquan Smith and Danny Trevathan.
+\item The Vikings flat out shoved the Bears front seven around in the second half.  Very disappointing as the Vikings offensive line really isn't that good even when its just starters in there.  Between that and the poor run defense in general, Mike Boone ran wild.
+\end{enumerate}
+
+\subsection{Offense}
+
+\begin{enumerate}
+\item The Bears came out with their usual game plan consisting of runs and short passes as they tried to work their way down the field.  To their credit they did eventually start to attack deeper over the middle in a way that they didn't do against the Chiefs.
+\item The Bears came out in the second half and renewed their commitment to the run with a great deal of success.
+\item Notable was the running back rotation, as David Montgomery, Tarik Cohen and Cordarrelle Patterson took turns, sometimes two of them at once.  It looked effective as each has his own style.
+\item Trubisky spent most of the first half feeding Allen Robinson.  He needs to find success with more of his other receivers.  With the exception of some screen passes the tight ends were non-existant.
+\item As usual the Bears foundered in the red zone coming away with only two field goals on two early turnovers.
+\item As usual the Bears offensive line play left a lot to be desired as they failed to execute far too often against the Vikings back ups.  Charles Leno had an awful day as he was occasionally a turn stile in pass protection.
+\item The Vikings blitzed with a lot of success against the Bears, putting pressure on the line and the running backs to block it up.
+\item I can't understand why the Bears kept calling wide receiver screens when it was so obvious that the Vikings were reading them like a book.
+\item Mitch Trubisky's performance was unremarkable in that it was inconsistent as usual.
+\end{enumerate}
+
+\subsection{Miscellaneous}
+
+\begin{enumerate}
+\item Dick Stockton, Mark Schlereth and Jen Hale were on the call.  I knew that this one wasn't going to be about subtle X's and O's as soon as I saw Schlereth was on the menu.  He loves to concentrate upon the individual players and their performance.  I was at a bit of a loss when Schlereth practically described this game as a must win for the Bears since they would be playing back ups.  I doubt this game was of critical importance to anyone.
+\item Special teams played reasonably well for the Bears.  They pinned the ball back on the one yard line in the second quarter.  That led to a safety.
+\item Neither penalties nor drops were a major factor.
+\item Mike Boone had a miserable start to this game.  Bilal Nichols had a Boone fumble recovery the second play of the game.  The Bears were fortunate in that they had given up a huge 59 yard run on the first play.  Boone also juggled a pass on the second possession that led to a Kevin Pierre-Louis interception. The Bears turned each into a field goal.  Mitch Trubisky had the ball stripped in the fourth quarter.  The resulting field goal gave the Vikings the late lead.
+\item Other than the Bears leaky run defense, this game was business as usual only worse.   There's just no getting around the fact that the Bears have an awful, broken offense.  That starts with the offensive line that couldn't block the Vikings back ups and with Bears receivers who, other than Allen Robinson, flat out can't get open.  The Bears first mistake of the off-season was not addressing the tight end position and it burned them right to the end.  Perhaps most disturbing of all was the inability of all 11 men on the field to run plays without one of them making a mistake.
+\end{enumerate}
+#+END_EXPORT

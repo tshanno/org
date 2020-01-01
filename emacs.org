@@ -666,8 +666,7 @@ So this looks promising.  But you have to use pip.  And I'm so unfamiliar with p
 EDIT: Thank you to u/xtifr for showing me toggle-rot13-mode, exactly what I needed!
 
  https://www.reddit.com/r/emacs/comments/ciz8bz/obfuscate_text_as_im_typing_it/
-** TODO EmacsConf (online conference)
-SCHEDULED: <2019-11-02 Sat>
+** EmacsConf (online conference)
 https://emacsconf.org/2019/cfp
 
  Schedule Published   October 1, 2019  

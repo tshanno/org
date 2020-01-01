@@ -123,8 +123,11 @@ ksginsburg@ucdavis.edu
 office:  530-752-4330
 fax:  530-752-7710
 mobile:  708-674-1503
-** FU: Sabine [[message://%3c026BED5E-DDB3-4BAA-B79A-B480902A086F@rush.edu%3E][Re: Virus and peptide]]
-SCHEDULED: <2019-10-24 Thu>
+** DONE [#B] FU: Sabine [[message://%3c026BED5E-DDB3-4BAA-B79A-B480902A086F@rush.edu%3E][Re: Virus and peptide]]
+SCHEDULED: <2019-11-13 Wed>
+:LOGBOOK:
+- State "DONE"       from              [2019-11-13 Wed 08:59]
+:END:
 
 * *Meetings*
 ** Phone call with Sabine Van Dijk

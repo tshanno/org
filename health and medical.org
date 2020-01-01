@@ -16,7 +16,10 @@
   6895191
   6895212
 :END:
-** TODO [#A] Get a blood draw for Usama [[message://%3c77C6EA4EDAD33936.591c95d6-027a-4750-9e06-5bb9d81f1e84@mail.outlook.com%3E][Re: MyChart message]]
+** DONE [#A] Get a blood draw for Usama [[message://%3c77C6EA4EDAD33936.591c95d6-027a-4750-9e06-5bb9d81f1e84@mail.outlook.com%3E][Re: MyChart message]]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 08:18]
+:END:
 
 ** DONE [#A] Get flu shot [[message://%3c8cffe193552f4ca6a699459bc73e8563@RUDWV-EXCHEG001.dmz.rush.edu%3E][2019-2020 Seasonal Influenza Consent Form Submitted Successfully]]
 :LOGBOOK:
@@ -57,6 +60,10 @@ Tom S.
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2019-11-05 Tue 15:19]
 :END:
+** TODO [#A] Check into dental entrollment [[message://%3c2107149847.4026531572984019791.JavaMail.SYSTEM@w1emprdapp01%3E][Dental Enrollment Reminder]]
+
+** TODO [#A]  [[message://%3c1823980814.1188421573257536010.JavaMail.SYSTEM@w1emprdapp02%3E][Dental Enrollment Reminder]]
+
 * *Notes*
 ** Prescriptions - These numbers are updateed as of <2018-07-03 Tue> :health_and_medical:
 [2017-11-02 Thu 09:10]

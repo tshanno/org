@@ -4,10 +4,16 @@
 - State "DONE"       from "TODO"       [2019-07-22 Mon 07:57]
 :END:
 * *Ticklers*
-** Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
+** DONE Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
 SCHEDULED: <2019-10-31 Thu>
-** Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
+:LOGBOOK:
+- State "DONE"       from              [2019-11-06 Wed 10:12]
+:END:
+** DONE Consider using packing cubes for Thanksgiving travel ::  [[https://lifehacker.com/pack-a-backpack-in-a-pinch-by-rolling-your-clothes-1836500648][Pack a Backpack in a Pinch by Rolling Your Clothes]]
 SCHEDULED: <2019-10-31 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-11-06 Wed 10:12]
+:END:
 * *Meetings*
 * *Notes*
 ** Thanksgiving airline reservations :: [[file:~/Library/Mobile%20Documents/com~apple~Preview/Documents/Thanksgiving%20Southwest%20Airlines%20-%20Purchase%20Confirmation.pdf][file:~/Library/Mobile Documents/com~apple~Preview/Documents/Thanksgiving Southwest Airlines - Purchase Confirmation.pdf]]

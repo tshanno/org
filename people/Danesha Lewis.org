@@ -42,8 +42,11 @@ Bill
 - State "DONE"       from              [2019-08-21 Wed 09:01]
 :END:
 * *Ticklers*
-** FU Danesha on EBM faculty guide [[message://%3c9edc59c4b38f4851b11490417e5c6824@RUDW-EXCHMAIL02.rush.edu%3E][RE: Questions about upcoming sessions]]
+** DONE FU Danesha on EBM faculty guide [[message://%3c9edc59c4b38f4851b11490417e5c6824@RUDW-EXCHMAIL02.rush.edu%3E][RE: Questions about upcoming sessions]]
 SCHEDULED: <2019-10-24 Thu>
+:LOGBOOK:
+- State "DONE"       from              [2019-11-06 Wed 10:05]
+:END:
 
 * *Meetings*
 ** Sexuality and Reproduction Administrative Team; Location: 403 AAC, Large Conference Room <2019-07-29 Mon 14:00-14:30>

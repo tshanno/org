@@ -113,6 +113,14 @@ Janice
 - State "WAITING"    from "TODO"       [2019-10-04 Fri 11:14] \\
   Waiting on feedback from Scott.  Saturday if you haven't heard from him.
 :END:
+** DONE [#A] fix the pneumotorax FG  and send to Janice
+:PROPERTIES:
+:SYNCID:   E02A65A2-5042-4E66-BF7B-C0CB7F473DFB
+:ID:       49C24156-A2B3-4EA5-99EB-70F621DAF732
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 11:25]
+:END:
 * *Ticklers*
 ** DONE FU:  Janice [[message://%3c5EAC3AD0-0310-4D9A-84A3-404A170DDB60@rush.edu%3E][Teen Pregnancy Self-Study ready]]
 :PROPERTIES:
@@ -133,19 +141,24 @@ SCHEDULED: <2019-09-16 Mon>
 :END:
 
 ** Schedule Faculty-Student Lunch
-SCHEDULED: <2019-11-01 Fri>
+SCHEDULED: <2019-11-27 Wed>
 :PROPERTIES:
 :SYNCID:   4BCB1161-B166-49CA-8F29-F63C7EDCBEAF
 :ID:       1DE9D07A-A4B3-4C07-8954-C1351E21B633
 :END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2019-11-06 Wed 10:34] \\
+  Requested room.  Sent invites.  Waiting to hear from registrar about request, then edit the invite and add the room.
+:END:
 
-** FU Janice on File uploads [[message://%3cF6083E5A-1869-4372-A2D8-AC34068B02A5@rush.edu%3E][(Patho)physiology Workshop Materials ]]
+** DONE FU Janice on File uploads [[message://%3cF6083E5A-1869-4372-A2D8-AC34068B02A5@rush.edu%3E][(Patho)physiology Workshop Materials ]]
 SCHEDULED: <2019-10-25 Fri>
 :PROPERTIES:
 :SYNCID:   4E7EE281-BC0A-4172-B2E9-7DBBAA2FDAFD
 :ID:       C64E0286-DD10-494C-9378-BDDE61CFBC50
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2019-11-06 Wed 10:06]
 - Note taken on [2019-10-22 Tue 11:08] \\
   Meeting with Janice at 2PM about this.  Ask about where workshop mateirals should go.
 :END:

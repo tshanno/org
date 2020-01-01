@@ -1,0 +1,35 @@
+#+BEGIN_EXPORT latex
+\section*{Quick Game Comments:  Bears at Packers 2019-12-15}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item Bears doing triple receivers to get a free release.
+\item The Packers dominated the line of scrimmage against the run and got a lot of pressure on Trubisky.  Kenny Clark, in particular, dominated the Bears guards and made some really good plays early.  
+\item The Bears went ``up tempo'' but it was kind of an illusion.  The idea was that they could get to the line of scrimmage as quickly as possible so that head coach Matt Nagy could get into Mitch Trubisky's ear and let him know what he saw.  Nagy then made the call.  It kept the Packers from confusing Trubisky, at least before the snap.  It also kept the Packers from substituting.  This may have been offensive coordinator Mark Helfrich's influence with his college background coming to the fore.  They stayed at the line of scrimmage for a good part of the play clock, which prevented them from wearing out the defense too much more than usual.  The Packers started shifting their coverages right before the snap in response, especially in the second half.
+\item Mitch Trubisky made some really good throws today, frequently in the face of pressure.  He needed to be more consistent with his accuracy.
+\item It was nice to see Trubisky finding Anthony Miller so often today.  But the tight ends were non-existent in the passing game.  Maybe some day they'll put it all together.  But not today.
+\end{enumerate}
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item The Bears came out very aware of Aaron Jones and his ability to run.  The Packers were using play action very effectively because of that.
+\item The Bears struggled to get pressure on quarterback Aaron Rogers.  They eventually started to blitz.
+\item The Packers receivers won some one-on-one match ups early, forcing the Bears to back off the line of scrimmage a bit.  That occasionally gave the Packers receivers a free release and some easy catches.
+\item One thing that became apparent early was the Packers thought they could pick on nickel cornerback Buster Skrine.  They threw at him early and often in man coverage match ups such as the in the first quarter when he was burned for a touchdown.
+\item The defense gave up way too many big plays today.  Admittedly its tough to cover receivers forever when you aren't generating a pass rush but that wasn't the whole problem.  There was too much room for Packers receivers to run and the tackling was occasionally poor.
+\item One thing the Packers didn't have a lot of success with was double moves.  Kyle Fuller, in particular, has been susceptible to these but he played with discipline.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Charles Davis and Kevin Burkhardt were on the call.  I had no problem with it.  Side line reporter Pam Oliver sounded like she hadn't slept in about three days.
+\item Eddie Piniero hit a couple short field goals.  Not much else to say about special teams.
+\item Marquez Valdes-Scantling dropped a touchdown on the Packers first possession.  It was one of a number of drops for the Packers.  This has been a tendency of theirs over the years.  It doesn't seem to bother them much.
+\item The referees handed the Packers the ball on the Bears 35 yard line in the first quarter on a terrible call where Patterson was accused of arriving early on a punt return (it wasn't close).  The Packers scored a touchdown.
+\item Trubisky had a back breaking fluke interception to defensive lineman Dean Lowery with the Bears trying to come back in the fourth quarter.
+\item The Bears defense picked a bad time to have a bad game.  Not enough pass rush on a mobile Aaron Rogers and too many big plays added up to a poor performance.  Mitch Trubisky didn't have a bad game, the Bears offense certainly did.  The offensive line got dominated by the Packers both in the run game and the pass game and it made for difficult going for much of the game. 
+\end{enumerate}
+#+END_EXPORT

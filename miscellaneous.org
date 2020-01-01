@@ -27,7 +27,7 @@ I don’t know the title but he’s a senior postdoc with Silvia Priori.
 ** [[https://www.gocomics.com/dilbert-classics/2019/06/25][Dilbert Classics by Scott Adams for June 25, 2019 - GoComics]] 
 * *Ticklers*
 ** DONE [#A] Pick up cat food
-** Renew Driver's license
+** TODO [#A] Renew Driver's license
    SCHEDULED: <2019-11-01 Fri>
 ** TODO Renew Passport
    SCHEDULED: <2019-06-03 Mon>
@@ -112,14 +112,18 @@ includes Family Sharing access, though you only get a one-week free trial.
 ** Log steps
 https://docs.google.com/spreadsheets/d/1wM9Ka2Ah41FHpeaUAQQkZWUMn2C7Ee94-0GighPi3Rs/edit?usp=sharing
 
-** TODO [#A] [[message://%3c142269aa1c274a05b879099c05ef7789@RUPW-EXCHMAIL02.rush.edu%3E][Article for next Ed-PRIME meeting]]
+** DONE [#A] [[message://%3c142269aa1c274a05b879099c05ef7789@RUPW-EXCHMAIL02.rush.edu%3E][Article for next Ed-PRIME meeting]]
 SCHEDULED: <2019-10-23 Wed>
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-07 Thu 13:18]
 - State "DONE"       from "TODO"       [2019-10-18 Fri 09:19]
 :END:
 
-** Bring treats to Halloween Party [[message://%3cae14c8dc42d2444fa3db3a3675dd0d5a@RUPW-EXCHMAIL01.rush.edu%3E][OIME Engagement Activities - Halloween Party October 31st!]]
+** DONE Bring treats to Halloween Party [[message://%3cae14c8dc42d2444fa3db3a3675dd0d5a@RUPW-EXCHMAIL01.rush.edu%3E][OIME Engagement Activities - Halloween Party October 31st!]]
 SCHEDULED: <2019-10-25 Fri>
+:LOGBOOK:
+- State "DONE"       from              [2019-11-06 Wed 10:06]
+:END:
 
 * *Task*
 

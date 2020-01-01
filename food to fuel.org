@@ -146,6 +146,10 @@
 	[[message://%3c05BE2DE8-4942-4175-969F-728C18937B80@rush.edu%3E][Re: Food to fuel question ]]
 ** DONE [#A] Talk to Deri about his evaluation.
 [[~/Library/Mobile Documents/com~apple~Preview/Documents/Morgan, Deri - Faculty Evaluation -Energy, Metabolism, and Nutrition.pdf][Morgan, Deri - Faculty Evaluation -Energy, Metabolism, and Nutrition.pdf]]
+** TODO [#A] Try to accomodate Food to Fuel changes [[message://%3c1573319982248.17562@rush.edu%3E][Re: Food to Fuel Objective requests]]
+
+** TODO FtF Yes or No assessment [[message://%3c647F6E3C-9A3A-40E7-BC61-0201B63B5732@rush.edu%3E][Re: Deadline 11/26: Food to Fuel assessment blueprint yes or no]]
+
 * *Meetings*
 ** Core Discipline Director Case Meeting; Location; AAC 403 Large Conference Room <2019-02-20 Wed 11:00-12:00>
 ** Gallstone case <2019-03-04 Mon 8:00-12:00> <2019-03-04 Mon 13:00-17:00>

@@ -1,0 +1,37 @@
+#+BEGIN_EXPORT latex
+\section*{Quick Game Comments:  Lions at Bears 11/10/19}
+
+\subsection*{Defense}
+
+\begin{enumerate}
+\item The Bears came out in base 3-4, presumably expecting the run.  That's exactly what they got and it was the smart play on the Lions part.  By running the ball, the Lions protected Jeff Driskel, who was in for Matt Stafford with a broken back.  It also set the Bears defense up to be worn down to a nub by the 4th quarter, as has happened many time this year.
+\item I thought maybe the Bears generated just a tad more pressure today than has been their habit.  It still wasn't a great game for it and Khalil Mack is still slumping.  But it seemed like Driskel saw more than usual.  The games at the line of scrimmage that they started running in the second half helped.
+\item The Bears did a good job of holding the line of scrimmage and stopping the run early.
+\item The Bears are playing more and more zone defense as they try to keep the defensive backs facing the quarterback to see if they can get more turnovers.  Its not generating many, though and its making it a bit easier on the other team to scheme completions.
+\item Nick Kwiatkoski had yet another outstanding game in relief of Danny Trevathan.  He was all over the place in the second half.
+\end{enumerate}
+
+\subsection*{Offense}
+
+\begin{enumerate}
+\item Cody Whitehair was back at center and having the same problems snapping the ball that he had in his first year at the position.  He was obviously rusty.
+\item The Bears offensive line had a rough game through three quarters as they couldn't run the ball.  To head coach Matt Nagy's credit, the run pass balance at half wasn't bad.  At half the it was 10 passes to 9 rushes on just 19 plays.  The time of possession wasn't terrible at 16:59 Lions to 13:02 Bears.  But other than the last drive of the half by the Bears it was total ineptitude.  The final count was 24 rushes to just 16 passes and the time of possession was about even at 31:47 - 28:06 Lions.
+\item Once again, the Bears could not get Trey Burton or Anthony Miller going in the passing game, relying almost totally on Allen Robinson or Tarik Cohen when they needed a catch.
+\item It was nice to see Cohen, however, have a nice game as he occasionally looked like his old self after a rough month where he definitely didn't.
+\item David Montgomery was breaking some tackles today and made some tough runs.  This is the guy they drafted.
+\item They needed to be tough because the offensive line generally struggled.  They struggled to block the run with 3.2 yards per rush and Trubisky was sacked 5 times.
+\item The Bears were a miserable 2 for 12 on third down.  That just has to change and is in drastic contrast to last year when Trubisky had a habit of pulling big plays out to get first downs.
+\end{enumerate}
+
+\subsection*{Miscellaneous}
+
+\begin{enumerate}
+\item Ian Eagle and Dan Fouts were fine.  Fouts tried to provide unique insight and, like the rest of us, explain the ineptitude of the Bears offense in the first half.  Also like the rest of us, he failed but I can't blame him for that and at least he gets an ``A'' for effort.
+\item Eddie Pineiro missed an extra point.  He actually almost missed two as he suck the fist one inside the left upright.  That point was critical as the Lions had the ball with 3 minutes left down 7 points instead of 8.
+\item Taylor Gabriel had a bad drop that was preceded by a bobble.  Both were on third down and both would have been badly needed first downs.  The Lions had a couple of critical drops down the stretch with only a few minutes left.
+\item Both teams had too many penalties and the Bears should have had a couple more with a couple missed face masks that they were lucky to get away with.
+\item Nick Kwiatkoski got an important interception early in the second half that the Bears turned into a Taylor Gabriel touchdown catch.
+\item I loved it at the end of the first half when running out of time but with the clock stopped, the Bears wast4ed a time out.  Trubisky threw a touchdown to Ben Braunecker anyway so no harm.  But it was typical.
+\item This was a tough game for the Lions.  You wonder if they would have won with Matt Stafford at quarterback.  The Bears showed some life in the second half and all credit to them for winning this game.  But once again they wasted almost an entire first half with inept play on offense.  I think its time to wonder about this team's failure to improve over the first half of the season and I think we have to start pointing to the coaching, especially on the offensive line.  Right now this team is stuck in the mud in more ways than just the failure to win.
+\end{enumerate}
+#+END_EXPORT

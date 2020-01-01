@@ -1,1 +1,75 @@
 * Tasks
+
+** TODO You owe fidelity 2297.65 [[https://login.fidelityrewards.com/onlineCard/managePayment.do?phase=enter][Credit Card Account Access: Make A Payment - Step 1 of 3]]
+
+** TODO FU Jeffrey on where to put renal info [[message://%3c38877F48-BFBE-4C5E-9385-0E3518ABD3E0@rush.edu%3E][Re: Intro to Lab Testing Reference Guide]]
+
+** TODO Correct Mark Ryfield self study [[https://entrada.rush.edu/community/rmd57419farmc:course_document_corrections?id=1023][RMD 574 (19FARMC)]]
+
+** TODO  [[message://%3c638AB462-FE9A-4C59-AA93-01CDE4A8BFBF@rush.edu%3E][Embedding youtube in org-mode]]
+
+** TODO Ask Bob about this deferral [[message://%3ca1af5d021bdf4eafb14284c3d0267db3@RUPW-EXCHMAIL02.rush.edu%3E][Deferral of MidBlock Exam]]
+
+** TODO Zoom link and information  [[message://%3c85434F39-21D5-4413-86DC-11C58ABC2C23@rush.edu%3E][Re: remote access for meetings in OIME conference rooms]]
+
+
+Hello all,
+I have created a Zoom meeting for all the Course Director’s Faculty Meeting which can used anytime:
+ 
+Topic: Course Director’s Faculty Planning Meeting
+Time: This is a recurring meeting Meet anytime
+ 
+Join Zoom Meeting
+https://zoom.us/j/617369347
+ 
+Meeting ID: 617 369 347
+ 
+One tap mobile
++16468769923,,617369347# US (New York)
++16699006833,,617369347# US (San Jose)
+ 
+Dial by your location
+        +1 646 876 9923 US (New York)
+        +1 669 900 6833 US (San Jose)
+Meeting ID: 617 369 347
+Find your local number: https://zoom.us/u/adl4BtR9xE
+ 
+
+** TODO Send out link to eval forms to all of the clinician educators [[message://%3c1575408795762.31511@rush.edu%3E][Education Elective Feedback]]
+
+** TODO Get back to Kelly on VG assessment dates [[message://%3cBA4EFC33-0655-4593-B191-8772FAFE65A6@rush.edu%3E][RMD 575 VG Assessment Meetings/Events]]
+** Renin is released from granular cells in reponse to three stimulae:
+
+1.  Increased sympathetic tone leads to increased renin release.  This is direct neural stimulation.
+
+2.  Decreased blood pressure leads to increased renin release.  This is via detection by barroreceptors in the afferent arteriole
+
+3.  Decreased renal tubular flow leads to increased renin release.  The decreased tubular flow is detected by the macula densa.  The macula densa cells release prostaglandins, which triggers granular cells to release renin into the bloodstream.
+** TODO 
+  [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Excel/Videos%20moved%20from%20Angela%20Solic%20account%20to%20RMC%20Integrated%20account%202018-01-03.xlsx][file:~/Library/Mobile Documents/com~apple~CloudDocs/Excel/Videos moved from Angela Solic account to RMC Integrated account 2018-01-03.xlsx]]
+
+** TODO YOu need to swap out the glucose question on this.   [[message://%3c1576165084742.44994@rush.edu%3E][Fw: RMD 561 HDHR Reassessment (2019-2020)]]
+** TODO Send out invites to case sessions
+
+** TODO COrrect Renal Calculations program [[message://%3c40B83E48-F80E-4474-AC26-E71150DE33B4@rush.edu%3E][Re: Error in problem #7 of Renal Calculations]]
+
+** TODO Get soemone on the phone tto confirm that this $75 has been removed for newspapers.com [[message://%3c1034725298.300813.1575264202455.JavaMail.WASFarmCCCEPprd@VMAMN14GLBSBLB%3E][Fidelity Investments Credit Card Not Present]]
+
+** TODO 569 Assessment blurprint [[message://%3c6FD93A8C-9B50-4C79-9C5A-00DDE683835E@rush.edu%3E][RMD 569 CC Assessment Blueprint]]
+
+** TODO Concept map in miver faculty guide [[message://%3cdd8b4194001b4e268dd88bf87c0a98de@RUDW-EXCHMAIL02.rush.edu%3E][Food to Fuel: Liver Faculty Guide]]
+
+** TODO diabetes type 2 assessment question [[message://%3cbe9ea207d19b4773b0fa0358167ae14a@RUDW-EXCHMAIL02.rush.edu%3E][Deadline 12/31: Food to Fuel FINAL assessment blueprint]]
+
+** TODO Food to Fuel assessment blueprint [[message://%3c79f293e00af14dda8ea97d5f3851ae4e@RUDW-EXCHMAIL02.rush.edu%3E][Due 12/31: Food to Fuel Formative 1 vs. 2]]
+
+** TODO Reassign A-B question [[message://%3cD1EDE9D7-58C3-41C5-A941-E04068C05AC9@rush.edu%3E][RMD 575 Acid Bases BSci Session Assessment]]
+
+
+I am looking at the RMD 575 Vital Gases Assessment Blueprint, and noticed that an item that was previously assigned to pharmacology has a note about needing to be reassigned. Can you please let me know who should provide the item?
+
+** TODO Work on Anorexia Faculty Guide [[message://%3c1c266203c59343849530f9bf4f3948ac@RUDW-EXCHMAIL02.rush.edu%3E][Food to Fuel Anorexia Nervosa Faculty Guide recap]]
+
+** TODO Revise liver case [[message://%3cnPom9yjvaZ0xqwSS_3Ji5w.0@notifications.google.com%3E][RMD 563 Faculty G... - +tshanno@gmail.com Revise this a litt...]]
+
+** TODO Pay Fidelity [[message://%3c1778666101.397672.1576665462235.JavaMail.WASFARMCCCPRD@VMAKSA69901ASW%3E][Fidelity Investments Credit Card Statement Available]]

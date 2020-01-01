@@ -15,6 +15,8 @@ SCHEDULED: <2018-12-28 Fri>
 ** DONE [#A] [[message://%3cPDhRz8xRD6wsuqTZOL--dQ.0@notifications.google.com%3E][Take a look at Deri's CIRCSIM problem.]]
 ** DONE CIRCSIM problem for lung cancer?
 ** DONE [#A] [[message://%3c9173db4c7b484bd190a634ecfb4a04fe@RUPW-EXCHMAIL02.rush.edu%3E][Take care of Heme/Onc assessment challenge]]
+** Help out with pituitary tumor case [[message://%3c9137fcb543324a79ad287a9cb36e5f30@RUPW-EXCHMAIL02.rush.edu%3E][FW: Brain cancer case]]
+SCHEDULED: <2019-11-26 Tue>
 * *Meetings*
 ** Meeting for Heme Onc 2020 ; Location: Med College TBA  <2019-07-12 Fri 10:30-11:30>
 ** Meeting for Heme Onc 2020; Location: Med College TBA  <2019-07-12 Fri 10:30-11:30>

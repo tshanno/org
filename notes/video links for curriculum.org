@@ -402,7 +402,7 @@ Here's a short link to it:Â https://urldefense.proofpoint.com/v2/url?u=https-3A
 ** Review Videos
 | https://youtu.be/S4p4_UAKeI8 | Matthew Jones and Nicole McNeal Physiology Review Part 1 | 2019-01-11 | 23:08 |
 | https://youtu.be/y9M5MwKXHgk | Matthew Jones and Nicole McNeal Physiology Review Part 2 | 2019-01-11 | 21:00 |
-| https://youtu.be/RtiV9Kle71w | Matthew Jones and Nicole McNeal Physiology Review Part 3 | 2019-01-11 | 13:03 |
+| https://youtu.be/RtiV9Kle71w | Matthew Jones and Nicole McNeal Physiology Review Part 3 | 2019-01-11 | 13:03 | https://youtu.be/uXHnSkqKivo | Matthew Jones and Nicole McNeal (MJ only for faculty guide) Physiology Review Part 3 | 2019-11-12 | 6:12 |
 *** https://youtu.be/h5ZVqSt4zdw Acid-Base Review Video
 *** https://youtu.be/vfARFdwMv8c Cystic Fibrosis Physiology Review Video
 *** https://youtu.be/YYdIpXTuNzQ Emphysema Physiology Review
@@ -515,10 +515,12 @@ https://youtu.be/8Vfx-xX8EXE CV15 Introduction to Arrhythmias and Anti-Arrhythmi
 ** https://youtu.be/_pcCxmNt3ak Keith Simmons Physiology Review Part 2 
 ** https://youtu.be/zOixARuh7Yg Keith Simmons Physiology Review Part 3 
 ** Ruth Barzcic Physiology Review Part 1: https://youtu.be/HWkxJT6WRoY
-** Ruth Barzcic Physiology Review Part 2: https://youtu.be/CXT6zuznW_0
+** Ruth Barzcic Physiology Review Part 2: https://youtu.be/WLjmNcI5Cj8
 ** Fluids and Electrolytes Workshop (Syed Shah): https://youtu.be/ctiECs_usoY
 ** https://youtu.be/2_wKzKHWafA Dehydration Review Part 1 (19:22)
+** https://youtu.be/ci0VDLeZ5UY Dehydration Review Part 1 (19:22)
 ** https://youtu.be/Isb96SqVi_Y Dehydration Review Part 2 (19:13)
+** https://youtu.be/E-DYh3RXbf0 Dehydration Review Part 2 (19:13)
 ** https://youtu.be/aSU8gPZqRMI AKI and CKD Review Video 
 ** Links to Biochemistry Videos for Vital Fluids 2019
   [[file:~/Library/Mobile%20Documents/com~apple~CloudDocs/Word/2019%20RMD%20574%20VF%20video%20links%202019-08-13.docx][file:~/Library/Mobile Documents/com~apple~CloudDocs/Word/2019 RMD 574 VF video links 2019-08-13.docx]]
@@ -528,5 +530,19 @@ https://youtu.be/8Vfx-xX8EXE CV15 Introduction to Arrhythmias and Anti-Arrhythmi
 ** https://youtu.be/uEZwe8TmlMI C12 Congestive Heart Failure, the Vascular Function Curve and the Operating Point (14:15)
 ** https://youtu.be/7C59QiCYsDk C13 Responses of the Cardiovascular System to Congestive Heart Failure (25:19)
 ** https://youtu.be/y68lvjqAbfQ C14 Congestive Heart Disease, Ventilation and Gas Exchange (15:40)
+* Food to Fuel
+** GI1 Overview of Gastrointestinal Physiology https://youtu.be/3faDaT2sl0Q
+** GI2 Gastrointestinal Motility https://youtu.be/nJjOkzhItZ8
+** GI3 Physiology of Gastrointestinal Secretions https://youtu.be/ECRdREZPsjU
+** GI4 Physiology of Gastrointestinal Absorption https://youtu.be/IMWWNZ0o4hs
+** GI5 Physiology of the Liver https://youtu.be/A2fJmCHMtfw
+** EM1 Effects of Cortisol Upon Metabolism https://youtu.be/1x7JsZyMOFk
+** EM2 Effects of Catecholamines Upon Metabolism https://youtu.be/5lhIO5mQJLw
+** EM3 Effects of Growth Hormone Upon Metabolism https://youtu.be/ulZ0yX42gX4
+** EM4 Effects ot Thyroid Hormone Upon Metabolism https://youtu.be/AJKuXuUOMV0
+** EM5 Effects of Insulin Upon Metabolism https://youtu.be/TGYyllYDp38
+** EM6 Effects of Glucagon Upon Metabolism, Summary of Hormones, Appetite https://youtu.be/O55TEsVT6rY
+** EM7 Regulation of Metabolism During Exercise https://youtu.be/230M5QQQNkc
+** EM8 Diabetes https://youtu.be/rRHuiELKhvc
 * [[~/Library/Mobile Documents/com~apple~CloudDocs/Excel/Videos moved from Angela Solic account to RMC Integrated account 2018-01-03.xlsx][Videos moved from Angela Solic account to RMC Integrated account 2018-01-03.xlsx]]
 

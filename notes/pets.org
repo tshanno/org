@@ -6,5 +6,9 @@
   They sent me an email.  This is correct.
 - State "DONE"       from              [2019-07-26 Fri 08:52]
 :END:
+** Check to see if cat food arrived
+SCHEDULED: <2019-11-26 Tue>
+** Pick up cat food?
+SCHEDULED: <2019-11-26 Tue>
 * *Meetings*
 * *Notes*

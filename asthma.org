@@ -1,4 +1,9 @@
 * *Notes*
+** DONE [#A] Correct the spelling of "breathing" in asthma concept map
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 11:25]
+:END:
+
 * *Session Notes*
 ** Asthma BSci Session <2019-01-10 8:00-12:00> <2019-01-10 13:00-17:00>
 * *Ticklers*
@@ -22,7 +27,16 @@ Waiting on Anne
    [2018-12-21 Fri]
 ** DONE [#A] faculty guide posted
 ** DONE [#A] Post asthma
-** TODO [#A] Move team building circles to asthma
+** DONE [#A] Move team building circles to asthma
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-06 Wed 10:36]
+:END:
+** TODO [#A] Add these to FG [[message://%3c1573139903030.41062@rush.edu%3E][slides for asthma case]]
+
+** DONE get back to anne and jeffery on PFT objective.
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-13 Wed 09:22]
+:END:
 * DONE Post 01 Case Description
 ** DONE Post Full Case Description
 * DONE Post 02 Student Self-Study

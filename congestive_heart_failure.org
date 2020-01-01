@@ -46,12 +46,20 @@
 - State "DONE"       from "TODO"       [2019-10-04 Fri 11:39]
 :END:
 
-** TODO [#A] Prepare PowerPoint for Keith Simmons 1
-
-** TODO [#A] Plan to work around Bruce's absence for Thursday [[message://%3c1572879609689.42709@rush.edu%3E][Re: Plan to Work Through Bruce Huck's Absence]]
-SCHEDULED: <2019-11-06 Wed>
-** WAITING [#A] Waiting on Melissa about Kelsey Danley [[message://%3c2DD5FAB8-DDD6-4D91-8775-02E5E538833F@rush.edu%3E][M4 student for Thursday]]
+** DONE [#A] Prepare PowerPoint for Keith Simmons 1
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-06 Wed 10:37]
+:END:
+
+** DONE [#A] FU:  Bob - Plan to work around Bruce's absence for Thursday [[message://%3c1572879609689.42709@rush.edu%3E][Re: Plan to Work Through Bruce Huck's Absence]]
+SCHEDULED: <2019-11-08 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2019-11-12 Tue 07:57]
+:END:
+** DONE [#A] Waiting on Michele about Kelsey Danley [[message://%3c2DD5FAB8-DDD6-4D91-8775-02E5E538833F@rush.edu%3E][M4 student for Thursday]]
+SCHEDULED: <2019-11-07 Thu>
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-07 Thu 13:21]
 - State "WAITING"    from "TODO"       [2019-11-05 Tue 15:10]
 :END:
 

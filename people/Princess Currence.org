@@ -35,18 +35,27 @@
 - State "DONE"       from "TODO"       [2019-08-29 Thu 11:15]
 :END:
 
-** FU Princess [[message://%3c7D6955D3-54C0-4150-9832-1CDBABB8FE3B@rush.edu%3E][Re: BBC review ]]
+** DONE FU Princess [[message://%3c7D6955D3-54C0-4150-9832-1CDBABB8FE3B@rush.edu%3E][Re: BBC review ]]
 SCHEDULED: <2019-11-08 Fri>
 :PROPERTIES:
 :SYNCID:   58F08C76-5934-421A-8C39-71DF0962E77D
 :ID:       3C9D25C8-FCFC-42FB-9E98-1D3326999874
 :END:
+:LOGBOOK:
+- State "DONE"       from              [2019-11-12 Tue 08:02]
+:END:
 
-** Workload Assessment
-SCHEDULED: <2019-11-06 Wed>
+** DONE [#A] Review Workload Assessment
 :PROPERTIES:
 :SYNCID:   9E397A01-D95A-48AB-BF06-CF1E6EA043D0
 :ID:       C98CABBB-C9BB-4C8C-A643-7FBBDDA1D225
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2019-11-12 Tue 09:27]
+- State "WAITING"    from "TODO"       [2019-11-12 Tue 08:09] \\
+  Sent comments.  Waiting on reply.
+- State "WAITING"    from              [2019-11-07 Thu 13:18] \\
+  Sent her a reminder
 :END:
 * *Ticklers*
 ** DONE FU Princess on workload assessment

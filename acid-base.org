@@ -27,6 +27,9 @@ SCHEDULED: <2018-12-28 Fri>
 ** DONE [#A] Check assessment challenge
 	[[message://%3c1547822494807.94567@rush.edu%3E][Re: Assessment Challenge_ID# 5514_Submission_Acid Base Vignette BSci Session Assessment]]
 ** ON RADAR Program for Fluids and Electrolytes tables?
+** TODO [#A] Replace pharm acid-base session quiz question
+** TODO [#A] Acid-Base Plan of Study  [[message://%3c3c391b8752774d30a8e635ef098b1c2e@RUPW-EXCHMAIL02.rush.edu%3E][Self-Study Guide for Acid Base]]
+
 * *Ticklers*
 ** DONE [#A] faculty guide posted
 SCHEDULED: <2019-01-10 Thu>
