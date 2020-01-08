@@ -1,4 +1,4 @@
-** Aaron Rogers Undermines HIs Head Coach Every Time He Opens His Mouth.
+** TODO Aaron Rogers Undermines HIs Head Coach Every Time He Opens His Mouth.
 
 #+BEGIN_EXPORT latex
 \textbf{Mike Florio} at \textit{profootballtalk.com} on Green Bay quarterback \textbf{Aaron Rogers} \href{https://profootballtalk.nbcsports.com/2019/08/13/aaron-rodgers-attributes-outside-noise-to-fake-news-and-clickbait/}{characterizing} critical comments that he's creating ``outside noise'' as ``click bait'':

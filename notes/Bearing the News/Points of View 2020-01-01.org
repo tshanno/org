@@ -1,0 +1,97 @@
+** Trubisky, Trubisky, Trubisky.  And Other Points of View.
+
+#+BEGIN_EXPORT latex
+\begin{itemize}
+\item \textbf{Colleen Kane} at the \textit{Chicago Tribune} \href{https://www.chicagotribune.com/sports/bears/ct-chicago-bears-ryan-pace-matt-nagy-20191231-w4xmu3ggynaotkh2w4r4seifie-story.html}{on what Bears leadership had to say about quarterback \textbf{Mitch Trubisky}}:
+  \begin{quote}
+    [General Manager \textbf{Ryan}] \textbf{Pace} saw the inconsistencies this season as Trubisky completed 63.2\% of his passes for 3,138 yards, 17 touchdowns and 10 interceptions. But said he believes the potential for Trubisky’s development is still “wide open,” noting there were times when the quarterback responded well to adverse game situations.
+
+“You see moments this year (where you say), 'Aha, there it is,’” Pace said. “And then we see the inconsistencies and the dips. We need to figure out why that's happening and work hard to solve that. And that's part of what this offseason is about.”
+\end{quote}
+
+A year ago someone who knows more about such things than I do told me that Trubisky didn't have it.  The major reason was that his foot work was atrocious.  I agreed.  Nearly every time Trubisky make an inaccurate throw, it can be traced to obvious problems with this footwork.  Its the primary source of his inconsistent play.   But told my friend that, unlike him, I thought this poor footwork could be coached out of him.  Now, at the end of Trubisky's third year in the league, I'm starting to understand his point of view.
+
+This seems like the kind of thing that can and should be coached.  But apparently its not that easy.  Trubisky continues to have poor footwork, most obvious is his tendency to throw off of his back foot when there's no pressure around him.  Head coach \textbf{Matt Nagy} obviously recognizes the problem:
+
+\begin{quote}
+  Physically, Nagy is stressing Trubisky’s footwork in the pocket, an issue he said they discussed Monday night.
+
+“(He needs) a little bit more trust where he’s not drifting out (of the pocket),” Nagy said. “There were times throughout this year where (it’s) focusing on trusting the center of that pocket, pushing forward, and now he’s a running threat.
+\end{quote}
+
+There was a point at the very beginning of his career when Trubisky was better about all of this.  Anyone remember his very first preseason game?  It seems a long time ago when, for one week, he took the league by storm and everyone was wondering if great things were ahead.
+
+In any case, Nagy needs to get back to the fundamentals with Trubisky.  Much talk has been generated about Trubisky's lack of ability to see the field but next year, instead of pushing Trubisky ahead in the offense, he needs to step back and concentrate on the fundamentals.  If Trubisky isn't solid there, nothing else will matter.
+
+\item Kane \href{https://www.chicagotribune.com/sports/bears/ct-chicago-bears-ryan-pace-matt-nagy-20191231-w4xmu3ggynaotkh2w4r4seifie-story.html}{continues with another quote from Nagy}:
+  \begin{quote}
+    “The other thing with this offense is it’s all about timing. So routes are matched with the footwork of the quarterback, and so mastering the footwork mechanics of knowing, ‘Is a guy pressed? Is it off? Etc.’ That’s huge.”
+  \end{quote}
+
+  Yes, this is another thing I've wondered about.  Coaches constantly talk about how plays work in practice but when it comes to doing it in the game, it all falls apart.  I'm sure at least part of this has to do with the timing of the play.  Its one thing to do it in practice when you can run the play under ideal conditions with little contact.  Its another altogether to do it when someone is trying to disrupt the receiver's route.  The Bears have generally done a poor job of this.  It will be interesting to see if they can improve in the area.
+
+  
+\item Again, \href{https://www.chicagotribune.com/sports/bears/ct-chicago-bears-ryan-pace-matt-nagy-20191231-w4xmu3ggynaotkh2w4r4seifie-story.html}{from the Kane article}:
+  \begin{quote}
+    Beyond the decision-making, Nagy wants Trubisky to be “a master at understanding coverages.” He said Trubisky is not far off but needs to focus on studying defenses in the offseason.
+
+“These defensive coordinators, they have different ways of showing different coverages, and they’re good at it,” Nagy said. “(Let’s) understand how defenses are going to try to trick you, and let’s not get tricked. If we do that, we slow the game down and we get other parts of this offense fixed, which I know we can and that’s our job.”
+\end{quote}
+
+This is a tip of the hat to Packers defensive coordinator \textbf{Mike Pettine} among others.  Pettine turned Trubisky inside out with confusing coverages that change at the snap of the ball the very first game of the year.  Many knew there was big trouble ahead after that game.  Arguably Trubisky never recovered mentally.
+
+\item Kane \href{https://www.chicagotribune.com/sports/bears/ct-chicago-bears-ryan-pace-matt-nagy-20191231-w4xmu3ggynaotkh2w4r4seifie-story.html
+}{also reports that the Bears are open to drafting a quarterback to develop along side Trubisky}:
+\begin{quote}
+  “I do think that drafting a quarterback, developing quarterbacks, that’s important for the franchise,” Pace said. “You’ve seen teams do that to their advantage, to flip them for draft picks. It’s something we talk about it. It just hasn’t been something that’s lined up in recent drafts. It doesn’t mean that it’s something we still don’t believe in and something that can’t happen.”
+\end{quote}
+
+Yeah, yeah.  How often have we heard that, not just from Pace, but from every general manager for the last 20 years?  I'll believe it when I see it.
+
+\item The Bears also fired 3 assistants Tuesday.  \href{https://www.chicagotribune.com/sports/bears/ct-chicago-bears-mark-helfrich-harry-hiestand-fired-coaches-20191231-k4tryhwtf5btdb2jcxefu5q3me-story.html}{Via \textbf{Rich Campbell} at the \textit{Chicago Tribune}}:
+
+  \begin{quote}
+    The team informed offensive coordinator \textbf{Mark Helfrich}, offensive line coach \textbf{Harry Hiestand}, tight ends coach \textbf{Kevin Gilbride} and special teams assistant \textbf{Brock Olivo} they will not return next season.
+  \end{quote}
+  \begin{quote}
+    News of the changes surfaced two hours after a news conference in which Nagy provided no specifics in response to a question about potential staff changes.
+
+“It’s our job and it’s my job to make sure the reflection process is done the right way,” Nagy said as he sat next to general manager Ryan Pace. “Regardless of the timeline, we want to make sure that they are the right decisions.”
+\end{quote}
+
+I had a problem with Helfrich's hire from the beginning.  Its not that Helfrich really did anything wrong.  Nagy runs the offense.  Its just that Nagy is a very young coach who still has limited experience in the league.  It was and still is imperative that he have someone around that he can lean on to give him advice when adversity hits, as it did all too frequently this year.  In theory Senior Offensive Assistant Brad Childress, who is a former head coach and a long time NFL offensive assistant, fills that role.  But if Childress is around the team much, I've seen little evidence of it.
+
+Helfrich was also focused on improving the running game which was a miserable failure this year.  Having mostly a college background, Helfrich's natural tendency would be to run from the shot gun.  Personally, I think it would be better if they got Trubisky under center more often.  Running backs get a better, running start towards the line of scrimmage and running plays develop more quickly when you do this.  It may not be a coincidence that we saw more of that the last game with the Vikings.
+
+The firing of Hiestand is also significant.  Like Gilbride, he coached a position that under-performed this year.  He was the Bears offensive line coach from 2005-09 but coached college ball after that.  Former players raved about Hiestand’s ability to teach blocking techniques but I wondered why, if he was such a good coach, he didn't have a job in the NFL after leaving the Bears.
+
+We will find out soon how much the under-performance along the offensive line was lack of talent.  Unlike tight end, there won't be a lot of change on the line with right guard probably being the only likely position where a significant upgrade wight take place.  Both tackles and the center are under contract and being paid and left guard \textbf{James Daniels} was a second round draft pick who will be given every opportunity to succeed.  Indeed, Daniels lack of development may have been a major reason for Hiestand's firing.
+
+\item \textbf{Rick Morrissey} at the \textit{Chicago Sun-Times} \href{https://chicago.suntimes.com/bears/2019/12/31/21044732/bears-start-drinking-early-on-new-years-eve-name-mitch-trubisky-starting-qb-for-2020-ryan-pace}{had an interesting take on all of this}:
+  \begin{quote}
+    The bottom line, though — this being the Bears — is that we’re stuck with everybody. That was the message Tuesday.
+
+Outside linebacker \textbf{Leonard Floyd}, he of the three sacks in 2019?
+
+‘‘We’re happy with Leonard,’’ Pace said.
+
+Unproductive tight end \textbf{Adam Shaheen}, whom Pace took in the second round in 2017?
+
+‘‘When he’s played, we’ve liked what we’ve seen,’’ he said.
+
+Running back \textbf{Tarik Cohen}, who went from 10.2 yards per reception last season to 5.8 yards this season?
+
+‘‘He is a dynamic player in so many areas — in the run game, in the pass game, in the return game,’’ Pace said.
+
+And Trubisky, whom Pace chose over [Chiefs quarterback \textbf{Patrick}] \textbf{Mahomes}? Have I already mentioned that he chose Trubisky over Mahomes?
+
+‘‘Mitch is our starter,’’ Pace said.
+
+Team president \textbf{Ted Phillips} said Mahomes is an ‘‘anomaly.’’ That, in a nutshell, is the Bears. Good teams hire good talent evaluators who find the anomalies. The Bears found Trubisky.
+\end{quote}
+
+All good points.  But here's the deal.  With limited cap space and few draft picks, who are the Bears supposed to replace these guys with?
+
+Pace is committed to roll with these guys and the path to improvement isn't going to be replacing them.  Next year, the Bears are simply going to have to get better performances from their ``so called good players''.
+\end{itemize}
+#+END_EXPORT
